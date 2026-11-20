@@ -14,8 +14,6 @@ content:
     path: content/homepage.json
     format: json
     fields:
-      - { name: title, label: Page title, type: string }
-      - { name: description, label: Page description, type: text }
       - name: hero
         label: Homepage hero
         type: object
@@ -266,10 +264,8 @@ content:
     path: content/settings.json
     format: json
     fields:
-      - { name: siteUrl, label: Website URL, type: string }
       - { name: siteName, label: Website name, type: string }
       - { name: originalSiteName, type: string, hidden: true }
-      - { name: previewNoindex, label: Hide preview from Google, type: boolean }
       - name: siteChrome
         label: Header and footer
         type: object
