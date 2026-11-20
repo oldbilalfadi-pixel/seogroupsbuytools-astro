@@ -20,6 +20,14 @@ export async function getStaticPaths() {
 }
 const { page } = Astro.props;
 let renderedHtml = page.html;
+for (const section of page.sections || []) {
+  if (typeof section.content !== 'string' || section.content === section.original || !section.source) continue;
+  const open = section.source.match(/^<[^>]+>/)?.[0];
+  const close = section.source.match(/<\/[^>]+>$/)?.[0];
+  if (!open || !close) continue;
+  renderedHtml = renderedHtml.replace(section.source, open + section.content + close);
+}
+
 if (page.route === '/' && page.hero) {
   const escapeHtml = (value) => String(value ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   const heading = escapeHtml(page.hero.headingBefore) + '<span class="hero-highlight">' + escapeHtml(page.hero.headingHighlight) + '</span>' + escapeHtml(page.hero.headingAfter);
