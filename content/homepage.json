@@ -4888,5 +4888,97 @@
         }
       ]
     }
+  ],
+  "labelTexts": [
+    {
+      "text": "best SEO tools",
+      "originalText": "best SEO tools",
+      "source": "<span class=\"hero-highlight\">best SEO tools</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "Why Choose Us",
+      "originalText": "Why Choose Us",
+      "source": "<span class=\"section-label\">Why Choose Us</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "Categories",
+      "originalText": "Categories",
+      "source": "<span class=\"section-label\">Categories</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "12 tools →",
+      "originalText": "12 tools →",
+      "source": "<span class=\"cat-count\">12 tools →</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "5 tools →",
+      "originalText": "5 tools →",
+      "source": "<span class=\"cat-count\">5 tools →</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "5 tools →",
+      "originalText": "5 tools →",
+      "source": "<span class=\"cat-count\">5 tools →</span>",
+      "ordinal": 1
+    },
+    {
+      "text": "4 tools →",
+      "originalText": "4 tools →",
+      "source": "<span class=\"cat-count\">4 tools →</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "4 tools →",
+      "originalText": "4 tools →",
+      "source": "<span class=\"cat-count\">4 tools →</span>",
+      "ordinal": 1
+    },
+    {
+      "text": "All Tools",
+      "originalText": "All Tools",
+      "source": "<span class=\"section-label\">All Tools</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "Pricing",
+      "originalText": "Pricing",
+      "source": "<span class=\"section-label\">Pricing</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "/month",
+      "originalText": "/month",
+      "source": "<span class=\"period\">/month</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "⭐ Most Popular",
+      "originalText": "⭐ Most Popular",
+      "source": "<div class=\"popular-badge\">⭐ Most Popular</div>",
+      "ordinal": 0
+    },
+    {
+      "text": "/month",
+      "originalText": "/month",
+      "source": "<span class=\"period\">/month</span>",
+      "ordinal": 1
+    },
+    {
+      "text": "/month",
+      "originalText": "/month",
+      "source": "<span class=\"period\">/month</span>",
+      "ordinal": 2
+    },
+    {
+      "text": "Complete Guide",
+      "originalText": "Complete Guide",
+      "source": "<span class=\"section-label\">Complete Guide</span>",
+      "ordinal": 0
+    }
   ]
 }

@@ -2642,5 +2642,31 @@
         "source": "<li>Secure Payment</li>"
       }
     ]
-  }
+  },
+  "labelTexts": [
+    {
+      "text": "ZonGuru Group Buy",
+      "originalText": "ZonGuru Group Buy",
+      "source": "<span>ZonGuru Group Buy</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "Premium Group Buy",
+      "originalText": "Premium Group Buy",
+      "source": "<span class=\"product-hero-badge\">Premium Group Buy</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "/mo",
+      "originalText": "/mo",
+      "source": "<span>/mo</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "Save 80%+ vs official price",
+      "originalText": "Save 80%+ vs official price",
+      "source": "<span class=\"product-hero-save\">Save 80%+ vs official price</span>",
+      "ordinal": 0
+    }
+  ]
 }

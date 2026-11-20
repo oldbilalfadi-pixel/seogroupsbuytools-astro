@@ -2623,5 +2623,31 @@
         }
       ]
     }
+  ],
+  "labelTexts": [
+    {
+      "text": "/month",
+      "originalText": "/month",
+      "source": "<span class=\"period\">/month</span>",
+      "ordinal": 0
+    },
+    {
+      "text": "⭐ Most Popular",
+      "originalText": "⭐ Most Popular",
+      "source": "<div class=\"popular-badge\">⭐ Most Popular</div>",
+      "ordinal": 0
+    },
+    {
+      "text": "/month",
+      "originalText": "/month",
+      "source": "<span class=\"period\">/month</span>",
+      "ordinal": 1
+    },
+    {
+      "text": "/month",
+      "originalText": "/month",
+      "source": "<span class=\"period\">/month</span>",
+      "ordinal": 2
+    }
   ]
 }
