@@ -3576,10 +3576,335 @@
       "url": "guides/keyword-research/",
       "originalUrl": "guides/keyword-research/",
       "source": "<a href=\"guides/keyword-research/\">detailed guides</a>"
+    },
+    {
+      "text": "Register",
+      "originalText": "Register",
+      "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
+      "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-lg\" target=\"_blank\" rel=\"noopener\">Register</a>"
+    },
+    {
+      "text": "All Tools",
+      "originalText": "All Tools",
+      "url": "seo-tools/",
+      "originalUrl": "seo-tools/",
+      "source": "<a href=\"seo-tools/\" class=\"btn btn-outline btn-lg hero-btn-outline\">All Tools</a>"
+    },
+    {
+      "text": "Writing",
+      "originalText": "Writing",
+      "url": "ai-writing-tools/",
+      "originalUrl": "ai-writing-tools/",
+      "source": "<a style=\"--color-accent:inherit\" href=\"ai-writing-tools/\" data-tag=\"writing\">Writing</a>"
+    },
+    {
+      "text": "Seo",
+      "originalText": "Seo",
+      "url": "seo-tools/",
+      "originalUrl": "seo-tools/",
+      "source": "<a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "text": "Get Started",
+      "originalText": "Get Started",
+      "url": "https://seogroupsbuy.com/users/cart/index/product/id/207/c/",
+      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/207/c/",
+      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/207/c/\" class=\"btn btn-outline btn-block\" target=\"_blank\" rel=\"noopener\">Get Started</a>"
+    },
+    {
+      "text": "Choose Pro",
+      "originalText": "Choose Pro",
+      "url": "https://seogroupsbuy.com/users/cart/index/product/id/4/c/",
+      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/4/c/",
+      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/4/c/\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">Choose Pro</a>"
+    },
+    {
+      "text": "Get Agency",
+      "originalText": "Get Agency",
+      "url": "https://seogroupsbuy.com/users/cart/index/product/id/97/c/",
+      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/97/c/",
+      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/97/c/\" class=\"btn btn-success btn-block\" target=\"_blank\" rel=\"noopener\">Get Agency</a>"
+    },
+    {
+      "text": "💬 WhatsApp Us Now",
+      "originalText": "💬 WhatsApp Us Now",
+      "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
+      "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+    },
+    {
+      "text": "View Pricing",
+      "originalText": "View Pricing",
+      "url": "pricing/",
+      "originalUrl": "pricing/",
+      "source": "<a href=\"pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>"
     }
   ],
-  "mediaImages": [],
-  "priceValues": [],
+  "mediaImages": [
+    {
+      "src": "assets/images/hero-banner.png",
+      "originalSrc": "assets/images/hero-banner.png",
+      "alt": "SEO Group Buy Tools — premium SEO tools at shared pricing",
+      "originalAlt": "SEO Group Buy Tools — premium SEO tools at shared pricing",
+      "source": "<img src=\"assets/images/hero-banner.png\" alt=\"SEO Group Buy Tools — premium SEO tools at shared pricing\" class=\"hero-live-img\" width=\"1200\" height=\"400\" loading=\"eager\" fetchpriority=\"high\">"
+    },
+    {
+      "src": "assets/images/categories/seo.svg",
+      "originalSrc": "assets/images/categories/seo.svg",
+      "alt": "SEO tools category",
+      "originalAlt": "SEO tools category",
+      "source": "<img src=\"assets/images/categories/seo.svg\" alt=\"SEO tools category\" width=\"24\" height=\"24\">"
+    },
+    {
+      "src": "assets/images/categories/keyword.svg",
+      "originalSrc": "assets/images/categories/keyword.svg",
+      "alt": "Keyword research category",
+      "originalAlt": "Keyword research category",
+      "source": "<img src=\"assets/images/categories/keyword.svg\" alt=\"Keyword research category\" width=\"24\" height=\"24\">"
+    },
+    {
+      "src": "assets/images/categories/ai.svg",
+      "originalSrc": "assets/images/categories/ai.svg",
+      "alt": "AI tools category",
+      "originalAlt": "AI tools category",
+      "source": "<img src=\"assets/images/categories/ai.svg\" alt=\"AI tools category\" width=\"24\" height=\"24\">"
+    },
+    {
+      "src": "assets/images/categories/writing.svg",
+      "originalSrc": "assets/images/categories/writing.svg",
+      "alt": "Writing tools category",
+      "originalAlt": "Writing tools category",
+      "source": "<img src=\"assets/images/categories/writing.svg\" alt=\"Writing tools category\" width=\"24\" height=\"24\">"
+    },
+    {
+      "src": "assets/images/tools/copy-ai.png",
+      "originalSrc": "assets/images/tools/copy-ai.png",
+      "alt": "Copy.ai logo",
+      "originalAlt": "Copy.ai logo",
+      "source": "<img src=\"assets/images/tools/copy-ai.png\" alt=\"Copy.ai logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/quillbot-com.png",
+      "originalSrc": "assets/images/tools/quillbot-com.png",
+      "alt": "Quillbot logo",
+      "originalAlt": "Quillbot logo",
+      "source": "<img src=\"assets/images/tools/quillbot-com.png\" alt=\"Quillbot logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/wordai-com.png",
+      "originalSrc": "assets/images/tools/wordai-com.png",
+      "alt": "WordAI logo",
+      "originalAlt": "WordAI logo",
+      "source": "<img src=\"assets/images/tools/wordai-com.png\" alt=\"WordAI logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/writecream-com.png",
+      "originalSrc": "assets/images/tools/writecream-com.png",
+      "alt": "Writecream logo",
+      "originalAlt": "Writecream logo",
+      "source": "<img src=\"assets/images/tools/writecream-com.png\" alt=\"Writecream logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/adobe-com.png",
+      "originalSrc": "assets/images/tools/adobe-com.png",
+      "alt": "Adobe Creative Cloud logo",
+      "originalAlt": "Adobe Creative Cloud logo",
+      "source": "<img src=\"assets/images/tools/adobe-com.png\" alt=\"Adobe Creative Cloud logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/canva-com.png",
+      "originalSrc": "assets/images/tools/canva-com.png",
+      "alt": "Canva Pro logo",
+      "originalAlt": "Canva Pro logo",
+      "source": "<img src=\"assets/images/tools/canva-com.png\" alt=\"Canva Pro logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/crello-com.png",
+      "originalSrc": "assets/images/tools/crello-com.png",
+      "alt": "Crello logo",
+      "originalAlt": "Crello logo",
+      "source": "<img src=\"assets/images/tools/crello-com.png\" alt=\"Crello logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/picmonkey-com.png",
+      "originalSrc": "assets/images/tools/picmonkey-com.png",
+      "alt": "PicMonkey logo",
+      "originalAlt": "PicMonkey logo",
+      "source": "<img src=\"assets/images/tools/picmonkey-com.png\" alt=\"PicMonkey logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/stencil-com.png",
+      "originalSrc": "assets/images/tools/stencil-com.png",
+      "alt": "Stencil logo",
+      "originalAlt": "Stencil logo",
+      "source": "<img src=\"assets/images/tools/stencil-com.png\" alt=\"Stencil logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/helium10-com.png",
+      "originalSrc": "assets/images/tools/helium10-com.png",
+      "alt": "Helium 10 logo",
+      "originalAlt": "Helium 10 logo",
+      "source": "<img src=\"assets/images/tools/helium10-com.png\" alt=\"Helium 10 logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/junglescout-com.png",
+      "originalSrc": "assets/images/tools/junglescout-com.png",
+      "alt": "Jungle Scout logo",
+      "originalAlt": "Jungle Scout logo",
+      "source": "<img src=\"assets/images/tools/junglescout-com.png\" alt=\"Jungle Scout logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/merchinformer-com.png",
+      "originalSrc": "assets/images/tools/merchinformer-com.png",
+      "alt": "Merch Informer logo",
+      "originalAlt": "Merch Informer logo",
+      "source": "<img src=\"assets/images/tools/merchinformer-com.png\" alt=\"Merch Informer logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/zonguru-com.png",
+      "originalSrc": "assets/images/tools/zonguru-com.png",
+      "alt": "ZonGuru logo",
+      "originalAlt": "ZonGuru logo",
+      "source": "<img src=\"assets/images/tools/zonguru-com.png\" alt=\"ZonGuru logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/ahrefs-com.png",
+      "originalSrc": "assets/images/tools/ahrefs-com.png",
+      "alt": "Ahrefs logo",
+      "originalAlt": "Ahrefs logo",
+      "source": "<img src=\"assets/images/tools/ahrefs-com.png\" alt=\"Ahrefs logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/buzzsumo-com.png",
+      "originalSrc": "assets/images/tools/buzzsumo-com.png",
+      "alt": "BuzzSumo logo",
+      "originalAlt": "BuzzSumo logo",
+      "source": "<img src=\"assets/images/tools/buzzsumo-com.png\" alt=\"BuzzSumo logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/crazyegg-com.png",
+      "originalSrc": "assets/images/tools/crazyegg-com.png",
+      "alt": "Crazy Egg logo",
+      "originalAlt": "Crazy Egg logo",
+      "source": "<img src=\"assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/kwfinder-com.png",
+      "originalSrc": "assets/images/tools/kwfinder-com.png",
+      "alt": "KWFinder logo",
+      "originalAlt": "KWFinder logo",
+      "source": "<img src=\"assets/images/tools/kwfinder-com.png\" alt=\"KWFinder logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/majestic-com.png",
+      "originalSrc": "assets/images/tools/majestic-com.png",
+      "alt": "Majestic SEO logo",
+      "originalAlt": "Majestic SEO logo",
+      "source": "<img src=\"assets/images/tools/majestic-com.png\" alt=\"Majestic SEO logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/moz-com.png",
+      "originalSrc": "assets/images/tools/moz-com.png",
+      "alt": "Moz Pro logo",
+      "originalAlt": "Moz Pro logo",
+      "source": "<img src=\"assets/images/tools/moz-com.png\" alt=\"Moz Pro logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/semrush-com.png",
+      "originalSrc": "assets/images/tools/semrush-com.png",
+      "alt": "SEMrush logo",
+      "originalAlt": "SEMrush logo",
+      "source": "<img src=\"assets/images/tools/semrush-com.png\" alt=\"SEMrush logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/serpstat-com.png",
+      "originalSrc": "assets/images/tools/serpstat-com.png",
+      "alt": "Serpstat logo",
+      "originalAlt": "Serpstat logo",
+      "source": "<img src=\"assets/images/tools/serpstat-com.png\" alt=\"Serpstat logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/similarweb-com.png",
+      "originalSrc": "assets/images/tools/similarweb-com.png",
+      "alt": "Similarweb logo",
+      "originalAlt": "Similarweb logo",
+      "source": "<img src=\"assets/images/tools/similarweb-com.png\" alt=\"Similarweb logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/spyfu-com.png",
+      "originalSrc": "assets/images/tools/spyfu-com.png",
+      "alt": "SpyFu logo",
+      "originalAlt": "SpyFu logo",
+      "source": "<img src=\"assets/images/tools/spyfu-com.png\" alt=\"SpyFu logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/surfer-seo.png",
+      "originalSrc": "assets/images/tools/surfer-seo.png",
+      "alt": "Surfer SEO logo",
+      "originalAlt": "Surfer SEO logo",
+      "source": "<img src=\"assets/images/tools/surfer-seo.png\" alt=\"Surfer SEO logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/neilpatel-com.png",
+      "originalSrc": "assets/images/tools/neilpatel-com.png",
+      "alt": "Ubersuggest logo",
+      "originalAlt": "Ubersuggest logo",
+      "source": "<img src=\"assets/images/tools/neilpatel-com.png\" alt=\"Ubersuggest logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/adspy-com.png",
+      "originalSrc": "assets/images/tools/adspy-com.png",
+      "alt": "AdSpy logo",
+      "originalAlt": "AdSpy logo",
+      "source": "<img src=\"assets/images/tools/adspy-com.png\" alt=\"AdSpy logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/anstrex-com.png",
+      "originalSrc": "assets/images/tools/anstrex-com.png",
+      "alt": "Anstrex logo",
+      "originalAlt": "Anstrex logo",
+      "source": "<img src=\"assets/images/tools/anstrex-com.png\" alt=\"Anstrex logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/dropispy-com.png",
+      "originalSrc": "assets/images/tools/dropispy-com.png",
+      "alt": "Dropispy logo",
+      "originalAlt": "Dropispy logo",
+      "source": "<img src=\"assets/images/tools/dropispy-com.png\" alt=\"Dropispy logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/pipiads-com.png",
+      "originalSrc": "assets/images/tools/pipiads-com.png",
+      "alt": "PipiAds logo",
+      "originalAlt": "PipiAds logo",
+      "source": "<img src=\"assets/images/tools/pipiads-com.png\" alt=\"PipiAds logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "assets/images/tools/poweradspy-com.png",
+      "originalSrc": "assets/images/tools/poweradspy-com.png",
+      "alt": "PowerAdSpy logo",
+      "originalAlt": "PowerAdSpy logo",
+      "source": "<img src=\"assets/images/tools/poweradspy-com.png\" alt=\"PowerAdSpy logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">"
+    }
+  ],
+  "priceValues": [
+    {
+      "value": "$5",
+      "originalValue": "$5",
+      "source": "<span class=\"amount\">$5</span>"
+    },
+    {
+      "value": "$15",
+      "originalValue": "$15",
+      "source": "<span class=\"amount\">$15</span>"
+    },
+    {
+      "value": "$49",
+      "originalValue": "$49",
+      "source": "<span class=\"amount\">$49</span>"
+    }
+  ],
   "originalPageTitle": "What Is SEO Group Buy Tools? — Complete Guide 2026",
   "originalSeoTitle": "What Is SEO Group Buy Tools? — Complete Guide 2026",
   "originalSeoDescription": "Learn what SEO group buy tools are, how they work, pricing, safety, and whether they are worth it. Compare top providers and find affordable premium SEO tool access.",
@@ -3588,5 +3913,993 @@
     "headingHighlight": "best SEO tools",
     "headingAfter": " in one place – fast, reliable and affordable",
     "description": "Get 50+ cloud tools in one place with SEO Group Buy Tools — fast, reliable access at prices that beat the rest. Support available 24/7."
-  }
+  },
+  "cardLinks": [
+    {
+      "label": "SEO Tools",
+      "url": "seo-tools/",
+      "originalUrl": "seo-tools/",
+      "source": "<a href=\"seo-tools/\" class=\"cat-card\" style=\"--cat-color: #2563eb\"> <div class=\"cat-icon\">🔍</div> <h3>SEO Tools</h3> <p>SEMrush, Ahrefs, Moz Pro, Surfer SEO & 12+ premium SEO tools</p> <span class=\"cat-count\">12 tools →</span>\n</a>"
+    },
+    {
+      "label": "Design Tools",
+      "url": "design-tools/",
+      "originalUrl": "design-tools/",
+      "source": "<a href=\"design-tools/\" class=\"cat-card\" style=\"--cat-color: #7c3aed\"> <div class=\"cat-icon\">🎨</div> <h3>Design Tools</h3> <p>Canva Pro, Adobe CC, Crello, PicMonkey, Stencil</p> <span class=\"cat-count\">5 tools →</span>\n</a>"
+    },
+    {
+      "label": "Spy & Ad Intelligence",
+      "url": "spy-tools/",
+      "originalUrl": "spy-tools/",
+      "source": "<a href=\"spy-tools/\" class=\"cat-card\" style=\"--cat-color: #dc2626\"> <div class=\"cat-icon\">🕵️</div> <h3>Spy & Ad Intelligence</h3> <p>AdSpy, PowerAdSpy, PipiAds, Dropispy, Anstrex</p> <span class=\"cat-count\">5 tools →</span>\n</a>"
+    },
+    {
+      "label": "AI Writing Tools",
+      "url": "ai-writing-tools/",
+      "originalUrl": "ai-writing-tools/",
+      "source": "<a href=\"ai-writing-tools/\" class=\"cat-card\" style=\"--cat-color: #059669\"> <div class=\"cat-icon\">✍️</div> <h3>AI Writing Tools</h3> <p>Quillbot, Copy.ai, WordAI, Writecream</p> <span class=\"cat-count\">4 tools →</span>\n</a>"
+    },
+    {
+      "label": "E-commerce Tools",
+      "url": "ecommerce-tools/",
+      "originalUrl": "ecommerce-tools/",
+      "source": "<a href=\"ecommerce-tools/\" class=\"cat-card\" style=\"--cat-color: #ea580c\"> <div class=\"cat-icon\">🛒</div> <h3>E-commerce Tools</h3> <p>Helium 10, Jungle Scout, ZonGuru, Merch Informer</p> <span class=\"cat-count\">4 tools →</span>\n</a>"
+    },
+    {
+      "label": "Copy.ai Group Buy — AI Copywriting Tool from $5/month",
+      "url": "ai-writing-tools/copy-ai/",
+      "originalUrl": "ai-writing-tools/copy-ai/",
+      "source": "<a class=\"resource-card__link\" href=\"ai-writing-tools/copy-ai/\" aria-label=\"Copy.ai Group Buy — AI Copywriting Tool from $5/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/copy-ai.png\" alt=\"Copy.ai logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Copy.ai Group Buy — AI Copywriting Tool from $5/month</h2><p class=\"resource-card__excerpt\">Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"ai-writing-tools/\" data-tag=\"ai\">Ai</a>"
+    },
+    {
+      "label": "Quillbot Group Buy — AI Paraphrasing Tool from $3/month",
+      "url": "ai-writing-tools/quillbot/",
+      "originalUrl": "ai-writing-tools/quillbot/",
+      "source": "<a class=\"resource-card__link\" href=\"ai-writing-tools/quillbot/\" aria-label=\"Quillbot Group Buy — AI Paraphrasing Tool from $3/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/quillbot-com.png\" alt=\"Quillbot logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Quillbot Group Buy — AI Paraphrasing Tool from $3/month</h2><p class=\"resource-card__excerpt\">Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"ai-writing-tools/\" data-tag=\"ai\">Ai</a>"
+    },
+    {
+      "label": "WordAI Group Buy — AI Article Spinning Tool from $4/month",
+      "url": "ai-writing-tools/wordai/",
+      "originalUrl": "ai-writing-tools/wordai/",
+      "source": "<a class=\"resource-card__link\" href=\"ai-writing-tools/wordai/\" aria-label=\"WordAI Group Buy — AI Article Spinning Tool from $4/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/wordai-com.png\" alt=\"WordAI logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">WordAI Group Buy — AI Article Spinning Tool from $4/month</h2><p class=\"resource-card__excerpt\">Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"ai-writing-tools/\" data-tag=\"ai\">Ai</a>"
+    },
+    {
+      "label": "Writecream Group Buy — AI Content & Cold Email Tool from $4/month",
+      "url": "ai-writing-tools/writecream/",
+      "originalUrl": "ai-writing-tools/writecream/",
+      "source": "<a class=\"resource-card__link\" href=\"ai-writing-tools/writecream/\" aria-label=\"Writecream Group Buy — AI Content &amp; Cold Email Tool from $4/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/writecream-com.png\" alt=\"Writecream logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Writecream Group Buy — AI Content &amp; Cold Email Tool from $4/month</h2><p class=\"resource-card__excerpt\">Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"ai-writing-tools/\" data-tag=\"ai\">Ai</a>"
+    },
+    {
+      "label": "Adobe Creative Cloud Group Buy — Professional Design Tools",
+      "url": "design-tools/adobe-creative-cloud/",
+      "originalUrl": "design-tools/adobe-creative-cloud/",
+      "source": "<a class=\"resource-card__link\" href=\"design-tools/adobe-creative-cloud/\" aria-label=\"Adobe Creative Cloud Group Buy — Professional Design Tools\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/adobe-com.png\" alt=\"Adobe Creative Cloud logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Adobe Creative Cloud Group Buy — Professional Design Tools</h2><p class=\"resource-card__excerpt\">Access Adobe Creative Cloud for $10-$20/month through SEO Group Buy Tools. Get Photoshop, Illustrator, Premiere Pro...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"design-tools/\" data-tag=\"writing\">Writing</a>"
+    },
+    {
+      "label": "Canva Pro Group Buy — Most Reliable Design Tool",
+      "url": "design-tools/canva-pro/",
+      "originalUrl": "design-tools/canva-pro/",
+      "source": "<a class=\"resource-card__link\" href=\"design-tools/canva-pro/\" aria-label=\"Canva Pro Group Buy — Most Reliable Design Tool\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/canva-com.png\" alt=\"Canva Pro logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Canva Pro Group Buy — Most Reliable Design Tool</h2><p class=\"resource-card__excerpt\">Access Canva Pro for $3-$5/month through SEO Group Buy Tools. The team-invite method makes Canva the most reliable...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"design-tools/\" data-tag=\"writing\">Writing</a>"
+    },
+    {
+      "label": "Crello Group Buy — Animation Design Tool",
+      "url": "design-tools/crello/",
+      "originalUrl": "design-tools/crello/",
+      "source": "<a class=\"resource-card__link\" href=\"design-tools/crello/\" aria-label=\"Crello Group Buy — Animation Design Tool\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/crello-com.png\" alt=\"Crello logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Crello Group Buy — Animation Design Tool</h2><p class=\"resource-card__excerpt\">Access Crello for $3-$6/month through SEO Group Buy Tools. Create animated designs, social media graphics, and video...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"design-tools/\" data-tag=\"writing\">Writing</a>"
+    },
+    {
+      "label": "PicMonkey Group Buy — Photo Editing & Design",
+      "url": "design-tools/picmonkey/",
+      "originalUrl": "design-tools/picmonkey/",
+      "source": "<a class=\"resource-card__link\" href=\"design-tools/picmonkey/\" aria-label=\"PicMonkey Group Buy — Photo Editing &amp; Design\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/picmonkey-com.png\" alt=\"PicMonkey logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">PicMonkey Group Buy — Photo Editing &amp; Design</h2><p class=\"resource-card__excerpt\">Access PicMonkey for $3-$6/month through SEO Group Buy Tools. Get photo editing, design templates, and brand tools....</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"design-tools/\" data-tag=\"writing\">Writing</a>"
+    },
+    {
+      "label": "Stencil Group Buy — Fastest Social Media Image Creator",
+      "url": "design-tools/stencil/",
+      "originalUrl": "design-tools/stencil/",
+      "source": "<a class=\"resource-card__link\" href=\"design-tools/stencil/\" aria-label=\"Stencil Group Buy — Fastest Social Media Image Creator\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/stencil-com.png\" alt=\"Stencil logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Stencil Group Buy — Fastest Social Media Image Creator</h2><p class=\"resource-card__excerpt\">Access Stencil for $2-$5/month through SEO Group Buy Tools. The fastest social media image creator with 5M+ stock...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"design-tools/\" data-tag=\"writing\">Writing</a>"
+    },
+    {
+      "label": "Helium 10 Group Buy — Amazon Seller Toolkit from $6/month",
+      "url": "ecommerce-tools/helium-10/",
+      "originalUrl": "ecommerce-tools/helium-10/",
+      "source": "<a class=\"resource-card__link\" href=\"ecommerce-tools/helium-10/\" aria-label=\"Helium 10 Group Buy — Amazon Seller Toolkit from $6/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/helium10-com.png\" alt=\"Helium 10 logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Helium 10 Group Buy — Amazon Seller Toolkit from $6/month</h2><p class=\"resource-card__excerpt\">Access Helium 10 group buy through SEO Group Buy Tools for Black Box product research, Cerebro keyword research,...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"ecommerce-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "Jungle Scout Group Buy — Amazon Product Finder from $5/month",
+      "url": "ecommerce-tools/jungle-scout/",
+      "originalUrl": "ecommerce-tools/jungle-scout/",
+      "source": "<a class=\"resource-card__link\" href=\"ecommerce-tools/jungle-scout/\" aria-label=\"Jungle Scout Group Buy — Amazon Product Finder from $5/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/junglescout-com.png\" alt=\"Jungle Scout logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Jungle Scout Group Buy — Amazon Product Finder from $5/month</h2><p class=\"resource-card__excerpt\">Access Jungle Scout group buy through SEO Group Buy Tools for Amazon product research, keyword scouting, supplier...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"ecommerce-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "Merch Informer Group Buy — Amazon Merch Research from $5/month",
+      "url": "ecommerce-tools/merch-informer/",
+      "originalUrl": "ecommerce-tools/merch-informer/",
+      "source": "<a class=\"resource-card__link\" href=\"ecommerce-tools/merch-informer/\" aria-label=\"Merch Informer Group Buy — Amazon Merch Research from $5/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/merchinformer-com.png\" alt=\"Merch Informer logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Merch Informer Group Buy — Amazon Merch Research from $5/month</h2><p class=\"resource-card__excerpt\">Access Merch Informer group buy through SEO Group Buy Tools for Amazon Merch by Amazon niche research, trademark...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"ecommerce-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "ZonGuru Group Buy — Amazon Niche Finder from $5/month",
+      "url": "ecommerce-tools/zonguru/",
+      "originalUrl": "ecommerce-tools/zonguru/",
+      "source": "<a class=\"resource-card__link\" href=\"ecommerce-tools/zonguru/\" aria-label=\"ZonGuru Group Buy — Amazon Niche Finder from $5/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/zonguru-com.png\" alt=\"ZonGuru logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">ZonGuru Group Buy — Amazon Niche Finder from $5/month</h2><p class=\"resource-card__excerpt\">Access ZonGuru group buy through SEO Group Buy Tools for Amazon niche finding, keyword optimization, listing...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"ecommerce-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "Ahrefs Group Buy — Affordable Ahrefs Access from $8/month",
+      "url": "seo-tools/ahrefs/",
+      "originalUrl": "seo-tools/ahrefs/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/ahrefs/\" aria-label=\"Ahrefs Group Buy — Affordable Ahrefs Access from $8/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/ahrefs-com.png\" alt=\"Ahrefs logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Ahrefs Group Buy — Affordable Ahrefs Access from $8/month</h2><p class=\"resource-card__excerpt\">Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"keyword\">Keyword</a>"
+    },
+    {
+      "label": "BuzzSumo Group Buy — Content Research Tool",
+      "url": "seo-tools/buzzsumo/",
+      "originalUrl": "seo-tools/buzzsumo/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/buzzsumo/\" aria-label=\"BuzzSumo Group Buy — Content Research Tool\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/buzzsumo-com.png\" alt=\"BuzzSumo logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">BuzzSumo Group Buy — Content Research Tool</h2><p class=\"resource-card__excerpt\">Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification,...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "Crazy Egg Group Buy — Heatmaps & A/B Testing",
+      "url": "seo-tools/crazy-egg/",
+      "originalUrl": "seo-tools/crazy-egg/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/crazy-egg/\" aria-label=\"Crazy Egg Group Buy — Heatmaps &amp; A/B Testing\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Crazy Egg Group Buy — Heatmaps &amp; A/B Testing</h2><p class=\"resource-card__excerpt\">Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "KWFinder Group Buy — Long-Tail Keyword Research Tool from $3/month",
+      "url": "seo-tools/kwfinder/",
+      "originalUrl": "seo-tools/kwfinder/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/kwfinder/\" aria-label=\"KWFinder Group Buy — Long-Tail Keyword Research Tool from $3/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/kwfinder-com.png\" alt=\"KWFinder logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">KWFinder Group Buy — Long-Tail Keyword Research Tool from $3/month</h2><p class=\"resource-card__excerpt\">Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty,...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"keyword\">Keyword</a>"
+    },
+    {
+      "label": "Majestic SEO Group Buy — Backlink Intelligence from $5/month",
+      "url": "seo-tools/majestic-seo/",
+      "originalUrl": "seo-tools/majestic-seo/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/majestic-seo/\" aria-label=\"Majestic SEO Group Buy — Backlink Intelligence from $5/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/majestic-com.png\" alt=\"Majestic SEO logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Majestic SEO Group Buy — Backlink Intelligence from $5/month</h2><p class=\"resource-card__excerpt\">Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "Moz Pro Group Buy — DA Checker & SEO Tools from $5/month",
+      "url": "seo-tools/moz-pro/",
+      "originalUrl": "seo-tools/moz-pro/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/moz-pro/\" aria-label=\"Moz Pro Group Buy — DA Checker &amp; SEO Tools from $5/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/moz-com.png\" alt=\"Moz Pro logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Moz Pro Group Buy — DA Checker &amp; SEO Tools from $5/month</h2><p class=\"resource-card__excerpt\">Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer,...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"keyword\">Keyword</a>"
+    },
+    {
+      "label": "SEMrush Group Buy — Get Premium SEMrush Access from $5/month",
+      "url": "seo-tools/semrush/",
+      "originalUrl": "seo-tools/semrush/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/semrush/\" aria-label=\"SEMrush Group Buy — Get Premium SEMrush Access from $5/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/semrush-com.png\" alt=\"SEMrush logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">SEMrush Group Buy — Get Premium SEMrush Access from $5/month</h2><p class=\"resource-card__excerpt\">Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit,...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"keyword\">Keyword</a>"
+    },
+    {
+      "label": "Serpstat Group Buy — All-in-One SEO Platform from $4/month",
+      "url": "seo-tools/serpstat/",
+      "originalUrl": "seo-tools/serpstat/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/serpstat/\" aria-label=\"Serpstat Group Buy — All-in-One SEO Platform from $4/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/serpstat-com.png\" alt=\"Serpstat logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Serpstat Group Buy — All-in-One SEO Platform from $4/month</h2><p class=\"resource-card__excerpt\">Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"keyword\">Keyword</a>"
+    },
+    {
+      "label": "Similarweb Group Buy — Website Traffic Analysis from $5/month",
+      "url": "seo-tools/similarweb/",
+      "originalUrl": "seo-tools/similarweb/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/similarweb/\" aria-label=\"Similarweb Group Buy — Website Traffic Analysis from $5/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/similarweb-com.png\" alt=\"Similarweb logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Similarweb Group Buy — Website Traffic Analysis from $5/month</h2><p class=\"resource-card__excerpt\">Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "SpyFu Group Buy — Competitor Keyword & PPC Spy Tool from $3/month",
+      "url": "seo-tools/spyfu/",
+      "originalUrl": "seo-tools/spyfu/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/spyfu/\" aria-label=\"SpyFu Group Buy — Competitor Keyword &amp; PPC Spy Tool from $3/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/spyfu-com.png\" alt=\"SpyFu logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">SpyFu Group Buy — Competitor Keyword &amp; PPC Spy Tool from $3/month</h2><p class=\"resource-card__excerpt\">Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings....</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"keyword\">Keyword</a>"
+    },
+    {
+      "label": "Surfer SEO Group Buy — Content Optimization Tool from $5/month",
+      "url": "seo-tools/surfer-seo/",
+      "originalUrl": "seo-tools/surfer-seo/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/surfer-seo/\" aria-label=\"Surfer SEO Group Buy — Content Optimization Tool from $5/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/surfer-seo.png\" alt=\"Surfer SEO logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Surfer SEO Group Buy — Content Optimization Tool from $5/month</h2><p class=\"resource-card__excerpt\">Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research....</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "Ubersuggest Group Buy — Keyword & Content Ideas Tool from $3/month",
+      "url": "seo-tools/ubersuggest/",
+      "originalUrl": "seo-tools/ubersuggest/",
+      "source": "<a class=\"resource-card__link\" href=\"seo-tools/ubersuggest/\" aria-label=\"Ubersuggest Group Buy — Keyword &amp; Content Ideas Tool from $3/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/neilpatel-com.png\" alt=\"Ubersuggest logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Ubersuggest Group Buy — Keyword &amp; Content Ideas Tool from $3/month</h2><p class=\"resource-card__excerpt\">Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"seo-tools/\" data-tag=\"keyword\">Keyword</a>"
+    },
+    {
+      "label": "AdSpy Group Buy — Largest Facebook Ad Database",
+      "url": "spy-tools/adspy/",
+      "originalUrl": "spy-tools/adspy/",
+      "source": "<a class=\"resource-card__link\" href=\"spy-tools/adspy/\" aria-label=\"AdSpy Group Buy — Largest Facebook Ad Database\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/adspy-com.png\" alt=\"AdSpy logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">AdSpy Group Buy — Largest Facebook Ad Database</h2><p class=\"resource-card__excerpt\">Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns,...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"spy-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "Anstrex Group Buy — Native Ad & Push Spy Tool from $5/month",
+      "url": "spy-tools/anstrex/",
+      "originalUrl": "spy-tools/anstrex/",
+      "source": "<a class=\"resource-card__link\" href=\"spy-tools/anstrex/\" aria-label=\"Anstrex Group Buy — Native Ad &amp; Push Spy Tool from $5/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/anstrex-com.png\" alt=\"Anstrex logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Anstrex Group Buy — Native Ad &amp; Push Spy Tool from $5/month</h2><p class=\"resource-card__excerpt\">Access Anstrex group buy through SEO Group Buy Tools for native ad intelligence, push notification spying, and...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"spy-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "Dropispy Group Buy — Shopify Spy Tool Access from $4/month",
+      "url": "spy-tools/dropispy/",
+      "originalUrl": "spy-tools/dropispy/",
+      "source": "<a class=\"resource-card__link\" href=\"spy-tools/dropispy/\" aria-label=\"Dropispy Group Buy — Shopify Spy Tool Access from $4/month\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/dropispy-com.png\" alt=\"Dropispy logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">Dropispy Group Buy — Shopify Spy Tool Access from $4/month</h2><p class=\"resource-card__excerpt\">Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"spy-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "PipiAds Group Buy — Leading TikTok Ad Spy Tool",
+      "url": "spy-tools/pipiads/",
+      "originalUrl": "spy-tools/pipiads/",
+      "source": "<a class=\"resource-card__link\" href=\"spy-tools/pipiads/\" aria-label=\"PipiAds Group Buy — Leading TikTok Ad Spy Tool\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/pipiads-com.png\" alt=\"PipiAds logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">PipiAds Group Buy — Leading TikTok Ad Spy Tool</h2><p class=\"resource-card__excerpt\">Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning...</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"spy-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "PowerAdSpy Group Buy — Multi-Platform Ad Spy Tool",
+      "url": "spy-tools/poweradspy/",
+      "originalUrl": "spy-tools/poweradspy/",
+      "source": "<a class=\"resource-card__link\" href=\"spy-tools/poweradspy/\" aria-label=\"PowerAdSpy Group Buy — Multi-Platform Ad Spy Tool\"> <div class=\"resource-card__media\"><img src=\"assets/images/tools/poweradspy-com.png\" alt=\"PowerAdSpy logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\"></div> <div class=\"resource-card__content\"><h2 class=\"resource-card__title\">PowerAdSpy Group Buy — Multi-Platform Ad Spy Tool</h2><p class=\"resource-card__excerpt\">Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads....</p><div class=\"resource-card__tags\"><a style=\"--color-accent:inherit\" href=\"spy-tools/\" data-tag=\"seo\">Seo</a>"
+    },
+    {
+      "label": "Card",
+      "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
+      "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>"
+    }
+  ],
+  "outsideGroups": [
+    {
+      "heading": "",
+      "originalHeading": "",
+      "headingSource": "",
+      "items": [
+        {
+          "text": "Get 50+ cloud tools in one place with SEO Group Buy Tools — fast, reliable access at prices that beat the rest. Support available 24/7.",
+          "originalText": "Get 50+ cloud tools in one place with SEO Group Buy Tools — fast, reliable access at prices that beat the rest. Support available 24/7.",
+          "source": "<p class=\"hero-live-desc\">Get 50+ cloud tools in one place with SEO Group Buy Tools — fast, reliable access at prices that beat the rest. Support available 24/7.</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Everything You Need to Grow Online",
+      "originalHeading": "Everything You Need to Grow Online",
+      "headingSource": "<h2>Everything You Need to Grow Online</h2>",
+      "items": [
+        {
+          "text": "Premium marketing tools at a fraction of the cost — with reliable access and dedicated support.",
+          "originalText": "Premium marketing tools at a fraction of the cost — with reliable access and dedicated support.",
+          "source": "<p>Premium marketing tools at a fraction of the cost — with reliable access and dedicated support.</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Save Up to 96%",
+      "originalHeading": "Save Up to 96%",
+      "headingSource": "<h3>Save Up to 96%</h3>",
+      "items": [
+        {
+          "text": "Access $500+/month worth of premium tools for as little as $5/month through our group buy plans.",
+          "originalText": "Access $500+/month worth of premium tools for as little as $5/month through our group buy plans.",
+          "source": "<p>Access $500+/month worth of premium tools for as little as $5/month through our group buy plans.</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Instant Access",
+      "originalHeading": "Instant Access",
+      "headingSource": "<h3>Instant Access</h3>",
+      "items": [
+        {
+          "text": "Get started within minutes. Browser extension, RDP, or team invite — choose what works for you.",
+          "originalText": "Get started within minutes. Browser extension, RDP, or team invite — choose what works for you.",
+          "source": "<p>Get started within minutes. Browser extension, RDP, or team invite — choose what works for you.</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "90%+ Uptime",
+      "originalHeading": "90%+ Uptime",
+      "headingSource": "<h3>90%+ Uptime</h3>",
+      "items": [
+        {
+          "text": "Reliable access with fast account replacements and 24/7 support when you need help.",
+          "originalText": "Reliable access with fast account replacements and 24/7 support when you need help.",
+          "source": "<p>Reliable access with fast account replacements and 24/7 support when you need help.</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Explore Our Tool Categories",
+      "originalHeading": "Explore Our Tool Categories",
+      "headingSource": "<h2>Explore Our Tool Categories</h2>",
+      "items": [
+        {
+          "text": "30 premium tools across 5 categories — all included in our group buy plans.",
+          "originalText": "30 premium tools across 5 categories — all included in our group buy plans.",
+          "source": "<p>30 premium tools across 5 categories — all included in our group buy plans.</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "SEO Tools",
+      "originalHeading": "SEO Tools",
+      "headingSource": "<h3>SEO Tools</h3>",
+      "items": [
+        {
+          "text": "SEMrush, Ahrefs, Moz Pro, Surfer SEO & 12+ premium SEO tools",
+          "originalText": "SEMrush, Ahrefs, Moz Pro, Surfer SEO & 12+ premium SEO tools",
+          "source": "<p>SEMrush, Ahrefs, Moz Pro, Surfer SEO & 12+ premium SEO tools</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Design Tools",
+      "originalHeading": "Design Tools",
+      "headingSource": "<h3>Design Tools</h3>",
+      "items": [
+        {
+          "text": "Canva Pro, Adobe CC, Crello, PicMonkey, Stencil",
+          "originalText": "Canva Pro, Adobe CC, Crello, PicMonkey, Stencil",
+          "source": "<p>Canva Pro, Adobe CC, Crello, PicMonkey, Stencil</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Spy & Ad Intelligence",
+      "originalHeading": "Spy & Ad Intelligence",
+      "headingSource": "<h3>Spy & Ad Intelligence</h3>",
+      "items": [
+        {
+          "text": "AdSpy, PowerAdSpy, PipiAds, Dropispy, Anstrex",
+          "originalText": "AdSpy, PowerAdSpy, PipiAds, Dropispy, Anstrex",
+          "source": "<p>AdSpy, PowerAdSpy, PipiAds, Dropispy, Anstrex</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "AI Writing Tools",
+      "originalHeading": "AI Writing Tools",
+      "headingSource": "<h3>AI Writing Tools</h3>",
+      "items": [
+        {
+          "text": "Quillbot, Copy.ai, WordAI, Writecream",
+          "originalText": "Quillbot, Copy.ai, WordAI, Writecream",
+          "source": "<p>Quillbot, Copy.ai, WordAI, Writecream</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "E-commerce Tools",
+      "originalHeading": "E-commerce Tools",
+      "headingSource": "<h3>E-commerce Tools</h3>",
+      "items": [
+        {
+          "text": "Helium 10, Jungle Scout, ZonGuru, Merch Informer",
+          "originalText": "Helium 10, Jungle Scout, ZonGuru, Merch Informer",
+          "source": "<p>Helium 10, Jungle Scout, ZonGuru, Merch Informer</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Browse Our Group Buy Tools",
+      "originalHeading": "Browse Our Group Buy Tools",
+      "headingSource": "<h2>Browse Our Group Buy Tools</h2>",
+      "items": [
+        {
+          "text": "Filter by category and pick the tools you need — all from $5/month.",
+          "originalText": "Filter by category and pick the tools you need — all from $5/month.",
+          "source": "<p>Filter by category and pick the tools you need — all from $5/month.</p>",
+          "tag": "p"
+        },
+        {
+          "text": "All tools 30",
+          "originalText": "All tools 30",
+          "source": "<li class=\"active\"><button type=\"button\"><span class=\"cat-name accent-all\">All tools</span><span class=\"cat-count\">30</span></button></li>",
+          "tag": "li"
+        },
+        {
+          "text": "SEO 21",
+          "originalText": "SEO 21",
+          "source": "<li><button type=\"button\"><img src=\"assets/images/categories/seo.svg\" alt=\"SEO tools category\" width=\"24\" height=\"24\"><span class=\"cat-name\">SEO</span><span class=\"cat-count\">21</span></button></li>",
+          "tag": "li"
+        },
+        {
+          "text": "Keyword 7",
+          "originalText": "Keyword 7",
+          "source": "<li><button type=\"button\"><img src=\"assets/images/categories/keyword.svg\" alt=\"Keyword research category\" width=\"24\" height=\"24\"><span class=\"cat-name\">Keyword</span><span class=\"cat-count\">7</span></button></li>",
+          "tag": "li"
+        },
+        {
+          "text": "AI 4",
+          "originalText": "AI 4",
+          "source": "<li><button type=\"button\"><img src=\"assets/images/categories/ai.svg\" alt=\"AI tools category\" width=\"24\" height=\"24\"><span class=\"cat-name\">AI</span><span class=\"cat-count\">4</span></button></li>",
+          "tag": "li"
+        },
+        {
+          "text": "Writing 9",
+          "originalText": "Writing 9",
+          "source": "<li><button type=\"button\"><img src=\"assets/images/categories/writing.svg\" alt=\"Writing tools category\" width=\"24\" height=\"24\"><span class=\"cat-name\">Writing</span><span class=\"cat-count\">9</span></button></li>",
+          "tag": "li"
+        }
+      ]
+    },
+    {
+      "heading": "Copy.ai Group Buy — AI Copywriting Tool from $5/month",
+      "originalHeading": "Copy.ai Group Buy — AI Copywriting Tool from $5/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Copy.ai Group Buy — AI Copywriting Tool from $5/month</h2>",
+      "items": [
+        {
+          "text": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of...",
+          "originalText": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of...",
+          "source": "<p class=\"resource-card__excerpt\">Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Quillbot Group Buy — AI Paraphrasing Tool from $3/month",
+      "originalHeading": "Quillbot Group Buy — AI Paraphrasing Tool from $3/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Quillbot Group Buy — AI Paraphrasing Tool from $3/month</h2>",
+      "items": [
+        {
+          "text": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and...",
+          "originalText": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and...",
+          "source": "<p class=\"resource-card__excerpt\">Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "WordAI Group Buy — AI Article Spinning Tool from $4/month",
+      "originalHeading": "WordAI Group Buy — AI Article Spinning Tool from $4/month",
+      "headingSource": "<h2 class=\"resource-card__title\">WordAI Group Buy — AI Article Spinning Tool from $4/month</h2>",
+      "items": [
+        {
+          "text": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a...",
+          "originalText": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a...",
+          "source": "<p class=\"resource-card__excerpt\">Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Writecream Group Buy — AI Content & Cold Email Tool from $4/month",
+      "originalHeading": "Writecream Group Buy — AI Content & Cold Email Tool from $4/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Writecream Group Buy — AI Content &amp; Cold Email Tool from $4/month</h2>",
+      "items": [
+        {
+          "text": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email...",
+          "originalText": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email...",
+          "source": "<p class=\"resource-card__excerpt\">Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Adobe Creative Cloud Group Buy — Professional Design Tools",
+      "originalHeading": "Adobe Creative Cloud Group Buy — Professional Design Tools",
+      "headingSource": "<h2 class=\"resource-card__title\">Adobe Creative Cloud Group Buy — Professional Design Tools</h2>",
+      "items": [
+        {
+          "text": "Access Adobe Creative Cloud for $10-$20/month through SEO Group Buy Tools. Get Photoshop, Illustrator, Premiere Pro...",
+          "originalText": "Access Adobe Creative Cloud for $10-$20/month through SEO Group Buy Tools. Get Photoshop, Illustrator, Premiere Pro...",
+          "source": "<p class=\"resource-card__excerpt\">Access Adobe Creative Cloud for $10-$20/month through SEO Group Buy Tools. Get Photoshop, Illustrator, Premiere Pro...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Canva Pro Group Buy — Most Reliable Design Tool",
+      "originalHeading": "Canva Pro Group Buy — Most Reliable Design Tool",
+      "headingSource": "<h2 class=\"resource-card__title\">Canva Pro Group Buy — Most Reliable Design Tool</h2>",
+      "items": [
+        {
+          "text": "Access Canva Pro for $3-$5/month through SEO Group Buy Tools. The team-invite method makes Canva the most reliable...",
+          "originalText": "Access Canva Pro for $3-$5/month through SEO Group Buy Tools. The team-invite method makes Canva the most reliable...",
+          "source": "<p class=\"resource-card__excerpt\">Access Canva Pro for $3-$5/month through SEO Group Buy Tools. The team-invite method makes Canva the most reliable...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Crello Group Buy — Animation Design Tool",
+      "originalHeading": "Crello Group Buy — Animation Design Tool",
+      "headingSource": "<h2 class=\"resource-card__title\">Crello Group Buy — Animation Design Tool</h2>",
+      "items": [
+        {
+          "text": "Access Crello for $3-$6/month through SEO Group Buy Tools. Create animated designs, social media graphics, and video...",
+          "originalText": "Access Crello for $3-$6/month through SEO Group Buy Tools. Create animated designs, social media graphics, and video...",
+          "source": "<p class=\"resource-card__excerpt\">Access Crello for $3-$6/month through SEO Group Buy Tools. Create animated designs, social media graphics, and video...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "PicMonkey Group Buy — Photo Editing & Design",
+      "originalHeading": "PicMonkey Group Buy — Photo Editing & Design",
+      "headingSource": "<h2 class=\"resource-card__title\">PicMonkey Group Buy — Photo Editing &amp; Design</h2>",
+      "items": [
+        {
+          "text": "Access PicMonkey for $3-$6/month through SEO Group Buy Tools. Get photo editing, design templates, and brand tools....",
+          "originalText": "Access PicMonkey for $3-$6/month through SEO Group Buy Tools. Get photo editing, design templates, and brand tools....",
+          "source": "<p class=\"resource-card__excerpt\">Access PicMonkey for $3-$6/month through SEO Group Buy Tools. Get photo editing, design templates, and brand tools....</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Stencil Group Buy — Fastest Social Media Image Creator",
+      "originalHeading": "Stencil Group Buy — Fastest Social Media Image Creator",
+      "headingSource": "<h2 class=\"resource-card__title\">Stencil Group Buy — Fastest Social Media Image Creator</h2>",
+      "items": [
+        {
+          "text": "Access Stencil for $2-$5/month through SEO Group Buy Tools. The fastest social media image creator with 5M+ stock...",
+          "originalText": "Access Stencil for $2-$5/month through SEO Group Buy Tools. The fastest social media image creator with 5M+ stock...",
+          "source": "<p class=\"resource-card__excerpt\">Access Stencil for $2-$5/month through SEO Group Buy Tools. The fastest social media image creator with 5M+ stock...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Helium 10 Group Buy — Amazon Seller Toolkit from $6/month",
+      "originalHeading": "Helium 10 Group Buy — Amazon Seller Toolkit from $6/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Helium 10 Group Buy — Amazon Seller Toolkit from $6/month</h2>",
+      "items": [
+        {
+          "text": "Access Helium 10 group buy through SEO Group Buy Tools for Black Box product research, Cerebro keyword research,...",
+          "originalText": "Access Helium 10 group buy through SEO Group Buy Tools for Black Box product research, Cerebro keyword research,...",
+          "source": "<p class=\"resource-card__excerpt\">Access Helium 10 group buy through SEO Group Buy Tools for Black Box product research, Cerebro keyword research,...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Jungle Scout Group Buy — Amazon Product Finder from $5/month",
+      "originalHeading": "Jungle Scout Group Buy — Amazon Product Finder from $5/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Jungle Scout Group Buy — Amazon Product Finder from $5/month</h2>",
+      "items": [
+        {
+          "text": "Access Jungle Scout group buy through SEO Group Buy Tools for Amazon product research, keyword scouting, supplier...",
+          "originalText": "Access Jungle Scout group buy through SEO Group Buy Tools for Amazon product research, keyword scouting, supplier...",
+          "source": "<p class=\"resource-card__excerpt\">Access Jungle Scout group buy through SEO Group Buy Tools for Amazon product research, keyword scouting, supplier...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Merch Informer Group Buy — Amazon Merch Research from $5/month",
+      "originalHeading": "Merch Informer Group Buy — Amazon Merch Research from $5/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Merch Informer Group Buy — Amazon Merch Research from $5/month</h2>",
+      "items": [
+        {
+          "text": "Access Merch Informer group buy through SEO Group Buy Tools for Amazon Merch by Amazon niche research, trademark...",
+          "originalText": "Access Merch Informer group buy through SEO Group Buy Tools for Amazon Merch by Amazon niche research, trademark...",
+          "source": "<p class=\"resource-card__excerpt\">Access Merch Informer group buy through SEO Group Buy Tools for Amazon Merch by Amazon niche research, trademark...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "ZonGuru Group Buy — Amazon Niche Finder from $5/month",
+      "originalHeading": "ZonGuru Group Buy — Amazon Niche Finder from $5/month",
+      "headingSource": "<h2 class=\"resource-card__title\">ZonGuru Group Buy — Amazon Niche Finder from $5/month</h2>",
+      "items": [
+        {
+          "text": "Access ZonGuru group buy through SEO Group Buy Tools for Amazon niche finding, keyword optimization, listing...",
+          "originalText": "Access ZonGuru group buy through SEO Group Buy Tools for Amazon niche finding, keyword optimization, listing...",
+          "source": "<p class=\"resource-card__excerpt\">Access ZonGuru group buy through SEO Group Buy Tools for Amazon niche finding, keyword optimization, listing...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Ahrefs Group Buy — Affordable Ahrefs Access from $8/month",
+      "originalHeading": "Ahrefs Group Buy — Affordable Ahrefs Access from $8/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Ahrefs Group Buy — Affordable Ahrefs Access from $8/month</h2>",
+      "items": [
+        {
+          "text": "Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and...",
+          "originalText": "Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and...",
+          "source": "<p class=\"resource-card__excerpt\">Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "BuzzSumo Group Buy — Content Research Tool",
+      "originalHeading": "BuzzSumo Group Buy — Content Research Tool",
+      "headingSource": "<h2 class=\"resource-card__title\">BuzzSumo Group Buy — Content Research Tool</h2>",
+      "items": [
+        {
+          "text": "Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification,...",
+          "originalText": "Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification,...",
+          "source": "<p class=\"resource-card__excerpt\">Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification,...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Crazy Egg Group Buy — Heatmaps & A/B Testing",
+      "originalHeading": "Crazy Egg Group Buy — Heatmaps & A/B Testing",
+      "headingSource": "<h2 class=\"resource-card__title\">Crazy Egg Group Buy — Heatmaps &amp; A/B Testing</h2>",
+      "items": [
+        {
+          "text": "Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B...",
+          "originalText": "Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B...",
+          "source": "<p class=\"resource-card__excerpt\">Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "KWFinder Group Buy — Long-Tail Keyword Research Tool from $3/month",
+      "originalHeading": "KWFinder Group Buy — Long-Tail Keyword Research Tool from $3/month",
+      "headingSource": "<h2 class=\"resource-card__title\">KWFinder Group Buy — Long-Tail Keyword Research Tool from $3/month</h2>",
+      "items": [
+        {
+          "text": "Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty,...",
+          "originalText": "Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty,...",
+          "source": "<p class=\"resource-card__excerpt\">Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty,...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Majestic SEO Group Buy — Backlink Intelligence from $5/month",
+      "originalHeading": "Majestic SEO Group Buy — Backlink Intelligence from $5/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Majestic SEO Group Buy — Backlink Intelligence from $5/month</h2>",
+      "items": [
+        {
+          "text": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink...",
+          "originalText": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink...",
+          "source": "<p class=\"resource-card__excerpt\">Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Moz Pro Group Buy — DA Checker & SEO Tools from $5/month",
+      "originalHeading": "Moz Pro Group Buy — DA Checker & SEO Tools from $5/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Moz Pro Group Buy — DA Checker &amp; SEO Tools from $5/month</h2>",
+      "items": [
+        {
+          "text": "Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer,...",
+          "originalText": "Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer,...",
+          "source": "<p class=\"resource-card__excerpt\">Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer,...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "SEMrush Group Buy — Get Premium SEMrush Access from $5/month",
+      "originalHeading": "SEMrush Group Buy — Get Premium SEMrush Access from $5/month",
+      "headingSource": "<h2 class=\"resource-card__title\">SEMrush Group Buy — Get Premium SEMrush Access from $5/month</h2>",
+      "items": [
+        {
+          "text": "Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit,...",
+          "originalText": "Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit,...",
+          "source": "<p class=\"resource-card__excerpt\">Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit,...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Serpstat Group Buy — All-in-One SEO Platform from $4/month",
+      "originalHeading": "Serpstat Group Buy — All-in-One SEO Platform from $4/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Serpstat Group Buy — All-in-One SEO Platform from $4/month</h2>",
+      "items": [
+        {
+          "text": "Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and...",
+          "originalText": "Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and...",
+          "source": "<p class=\"resource-card__excerpt\">Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Similarweb Group Buy — Website Traffic Analysis from $5/month",
+      "originalHeading": "Similarweb Group Buy — Website Traffic Analysis from $5/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Similarweb Group Buy — Website Traffic Analysis from $5/month</h2>",
+      "items": [
+        {
+          "text": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and...",
+          "originalText": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and...",
+          "source": "<p class=\"resource-card__excerpt\">Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "SpyFu Group Buy — Competitor Keyword & PPC Spy Tool from $3/month",
+      "originalHeading": "SpyFu Group Buy — Competitor Keyword & PPC Spy Tool from $3/month",
+      "headingSource": "<h2 class=\"resource-card__title\">SpyFu Group Buy — Competitor Keyword &amp; PPC Spy Tool from $3/month</h2>",
+      "items": [
+        {
+          "text": "Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings....",
+          "originalText": "Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings....",
+          "source": "<p class=\"resource-card__excerpt\">Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings....</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Surfer SEO Group Buy — Content Optimization Tool from $5/month",
+      "originalHeading": "Surfer SEO Group Buy — Content Optimization Tool from $5/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Surfer SEO Group Buy — Content Optimization Tool from $5/month</h2>",
+      "items": [
+        {
+          "text": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research....",
+          "originalText": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research....",
+          "source": "<p class=\"resource-card__excerpt\">Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research....</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Ubersuggest Group Buy — Keyword & Content Ideas Tool from $3/month",
+      "originalHeading": "Ubersuggest Group Buy — Keyword & Content Ideas Tool from $3/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Ubersuggest Group Buy — Keyword &amp; Content Ideas Tool from $3/month</h2>",
+      "items": [
+        {
+          "text": "Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and...",
+          "originalText": "Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and...",
+          "source": "<p class=\"resource-card__excerpt\">Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "AdSpy Group Buy — Largest Facebook Ad Database",
+      "originalHeading": "AdSpy Group Buy — Largest Facebook Ad Database",
+      "headingSource": "<h2 class=\"resource-card__title\">AdSpy Group Buy — Largest Facebook Ad Database</h2>",
+      "items": [
+        {
+          "text": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns,...",
+          "originalText": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns,...",
+          "source": "<p class=\"resource-card__excerpt\">Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns,...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Anstrex Group Buy — Native Ad & Push Spy Tool from $5/month",
+      "originalHeading": "Anstrex Group Buy — Native Ad & Push Spy Tool from $5/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Anstrex Group Buy — Native Ad &amp; Push Spy Tool from $5/month</h2>",
+      "items": [
+        {
+          "text": "Access Anstrex group buy through SEO Group Buy Tools for native ad intelligence, push notification spying, and...",
+          "originalText": "Access Anstrex group buy through SEO Group Buy Tools for native ad intelligence, push notification spying, and...",
+          "source": "<p class=\"resource-card__excerpt\">Access Anstrex group buy through SEO Group Buy Tools for native ad intelligence, push notification spying, and...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Dropispy Group Buy — Shopify Spy Tool Access from $4/month",
+      "originalHeading": "Dropispy Group Buy — Shopify Spy Tool Access from $4/month",
+      "headingSource": "<h2 class=\"resource-card__title\">Dropispy Group Buy — Shopify Spy Tool Access from $4/month</h2>",
+      "items": [
+        {
+          "text": "Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and...",
+          "originalText": "Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and...",
+          "source": "<p class=\"resource-card__excerpt\">Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "PipiAds Group Buy — Leading TikTok Ad Spy Tool",
+      "originalHeading": "PipiAds Group Buy — Leading TikTok Ad Spy Tool",
+      "headingSource": "<h2 class=\"resource-card__title\">PipiAds Group Buy — Leading TikTok Ad Spy Tool</h2>",
+      "items": [
+        {
+          "text": "Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning...",
+          "originalText": "Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning...",
+          "source": "<p class=\"resource-card__excerpt\">Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning...</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "PowerAdSpy Group Buy — Multi-Platform Ad Spy Tool",
+      "originalHeading": "PowerAdSpy Group Buy — Multi-Platform Ad Spy Tool",
+      "headingSource": "<h2 class=\"resource-card__title\">PowerAdSpy Group Buy — Multi-Platform Ad Spy Tool</h2>",
+      "items": [
+        {
+          "text": "Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads....",
+          "originalText": "Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads....",
+          "source": "<p class=\"resource-card__excerpt\">Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads....</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Simple, Transparent Pricing",
+      "originalHeading": "Simple, Transparent Pricing",
+      "headingSource": "<h2>Simple, Transparent Pricing</h2>",
+      "items": [
+        {
+          "text": "Choose the plan that fits your needs. All plans include instant access, 24/7 support, and a money-back guarantee.",
+          "originalText": "Choose the plan that fits your needs. All plans include instant access, 24/7 support, and a money-back guarantee.",
+          "source": "<p>Choose the plan that fits your needs. All plans include instant access, 24/7 support, and a money-back guarantee.</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Basic",
+      "originalHeading": "Basic",
+      "headingSource": "<h3>Basic</h3>",
+      "items": [
+        {
+          "text": "✓ 10-15 SEO tools",
+          "originalText": "✓ 10-15 SEO tools",
+          "source": "<li>✓ 10-15 SEO tools</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Browser extension access",
+          "originalText": "✓ Browser extension access",
+          "source": "<li>✓ Browser extension access</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ 85-90% uptime",
+          "originalText": "✓ 85-90% uptime",
+          "source": "<li>✓ 85-90% uptime</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Email support (24hr)",
+          "originalText": "✓ Email support (24hr)",
+          "source": "<li>✓ Email support (24hr)</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Monthly billing",
+          "originalText": "✓ Monthly billing",
+          "source": "<li>✓ Monthly billing</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✗ Priority tools (Ahrefs Adv.)",
+          "originalText": "✗ Priority tools (Ahrefs Adv.)",
+          "source": "<li class=\"excluded\">✗ Priority tools (Ahrefs Adv.)</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✗ API access",
+          "originalText": "✗ API access",
+          "source": "<li class=\"excluded\">✗ API access</li>",
+          "tag": "li"
+        }
+      ]
+    },
+    {
+      "heading": "Pro",
+      "originalHeading": "Pro",
+      "headingSource": "<h3>Pro</h3>",
+      "items": [
+        {
+          "text": "✓ 20-25 SEO + design tools",
+          "originalText": "✓ 20-25 SEO + design tools",
+          "source": "<li>✓ 20-25 SEO + design tools</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Browser extension + RDP",
+          "originalText": "✓ Browser extension + RDP",
+          "source": "<li>✓ Browser extension + RDP</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ 95% uptime guaranteed",
+          "originalText": "✓ 95% uptime guaranteed",
+          "source": "<li>✓ 95% uptime guaranteed</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Priority support (<4hr)",
+          "originalText": "✓ Priority support (<4hr)",
+          "source": "<li>✓ Priority support (&lt;4hr)</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Monthly or quarterly billing",
+          "originalText": "✓ Monthly or quarterly billing",
+          "source": "<li>✓ Monthly or quarterly billing</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Ahrefs + SEMrush included",
+          "originalText": "✓ Ahrefs + SEMrush included",
+          "source": "<li>✓ Ahrefs + SEMrush included</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✗ Dedicated credentials",
+          "originalText": "✗ Dedicated credentials",
+          "source": "<li class=\"excluded\">✗ Dedicated credentials</li>",
+          "tag": "li"
+        }
+      ]
+    },
+    {
+      "heading": "Agency",
+      "originalHeading": "Agency",
+      "headingSource": "<h3>Agency</h3>",
+      "items": [
+        {
+          "text": "✓ 40+ all-category tools",
+          "originalText": "✓ 40+ all-category tools",
+          "source": "<li>✓ 40+ all-category tools</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ All access methods",
+          "originalText": "✓ All access methods",
+          "source": "<li>✓ All access methods</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ 99% uptime SLA",
+          "originalText": "✓ 99% uptime SLA",
+          "source": "<li>✓ 99% uptime SLA</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Priority support (<1hr)",
+          "originalText": "✓ Priority support (<1hr)",
+          "source": "<li>✓ Priority support (&lt;1hr)</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Annual billing discounts",
+          "originalText": "✓ Annual billing discounts",
+          "source": "<li>✓ Annual billing discounts</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Semi-dedicated credentials",
+          "originalText": "✓ Semi-dedicated credentials",
+          "source": "<li>✓ Semi-dedicated credentials</li>",
+          "tag": "li"
+        },
+        {
+          "text": "✓ Team management (up to 5)",
+          "originalText": "✓ Team management (up to 5)",
+          "source": "<li>✓ Team management (up to 5)</li>",
+          "tag": "li"
+        },
+        {
+          "text": "💡 All plans come with a 7-day money-back guarantee. Start with monthly billing to test reliability before committing to longer terms.",
+          "originalText": "💡 All plans come with a 7-day money-back guarantee. Start with monthly billing to test reliability before committing to longer terms.",
+          "source": "<p class=\"pricing-note\">💡 All plans come with a 7-day money-back guarantee. Start with monthly billing to test reliability before committing to longer terms.</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "What Is SEO Group Buy Tools?",
+      "originalHeading": "What Is SEO Group Buy Tools?",
+      "headingSource": "<h2>What Is SEO Group Buy Tools?</h2>",
+      "items": [
+        {
+          "text": "Everything you need to know about group buy access, pricing, safety, and getting started.",
+          "originalText": "Everything you need to know about group buy access, pricing, safety, and getting started.",
+          "source": "<p>Everything you need to know about group buy access, pricing, safety, and getting started.</p>",
+          "tag": "p"
+        }
+      ]
+    },
+    {
+      "heading": "Ready to Get Started?",
+      "originalHeading": "Ready to Get Started?",
+      "headingSource": "<h2>Ready to Get Started?</h2>",
+      "items": [
+        {
+          "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+          "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+          "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
+          "tag": "p"
+        }
+      ]
+    }
+  ]
 }

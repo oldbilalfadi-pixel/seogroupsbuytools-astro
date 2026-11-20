@@ -100,5 +100,27 @@
   "priceValues": [],
   "originalPageTitle": "404 - Page Not Found | SEO Group Buy Tools",
   "originalSeoTitle": "404 - Page Not Found | SEO Group Buy Tools",
-  "originalSeoDescription": "Page not found on SEO Group Buy Tools. Return to the homepage to browse premium SEO tool group buy plans."
+  "originalSeoDescription": "Page not found on SEO Group Buy Tools. Return to the homepage to browse premium SEO tool group buy plans.",
+  "cardLinks": [],
+  "outsideGroups": [
+    {
+      "heading": "404",
+      "originalHeading": "404",
+      "headingSource": "<h1>404</h1>",
+      "items": []
+    },
+    {
+      "heading": "Page Not Found",
+      "originalHeading": "Page Not Found",
+      "headingSource": "<h2>Page Not Found</h2>",
+      "items": [
+        {
+          "text": "Sorry, the page you're looking for doesn't exist. It may have been moved or removed.",
+          "originalText": "Sorry, the page you're looking for doesn't exist. It may have been moved or removed.",
+          "source": "<p>Sorry, the page you're looking for doesn't exist. It may have been moved or removed.</p>",
+          "tag": "p"
+        }
+      ]
+    }
+  ]
 }
