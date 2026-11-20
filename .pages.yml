@@ -1,0 +1,48 @@
+media:
+  input: public/assets/images
+  output: /assets/images
+content:
+  - name: homepage
+    label: Homepage
+    type: file
+    path: content/homepage.json
+    format: json
+    fields: &page_fields
+      - {name: route, label: Route, type: string, required: true}
+      - {name: title, label: SEO title, type: string}
+      - {name: description, label: Meta description, type: text}
+      - {name: html, label: Original full HTML, type: code, options: {language: html}}
+      - {name: sourceFile, label: Source file, type: string}
+  - name: products
+    label: Products
+    type: collection
+    path: content/products
+    format: json
+    fields: *page_fields
+  - name: pages
+    label: Static pages and guides
+    type: collection
+    path: content/pages
+    format: json
+    fields: *page_fields
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: content/posts
+    format: json
+    fields: *page_fields
+  - name: categories
+    label: Categories
+    type: collection
+    path: content/categories
+    format: json
+    fields: *page_fields
+  - name: settings
+    label: Site settings
+    type: file
+    path: content/settings.json
+    format: json
+    fields:
+      - {name: siteUrl, label: Production URL, type: string}
+      - {name: siteName, label: Site name, type: string}
+      - {name: previewNoindex, label: Preview noindex, type: boolean}
