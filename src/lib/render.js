@@ -63,6 +63,18 @@ export function renderPage(page,settings={}) {
       html=replaceOriginal(html,item.source,innerReplace(item.source,item.text));
     }
   }
+  for(const label of page.labelTexts||[]) {
+    if (!label.source || typeof label.text!=='string' || label.text===label.originalText) continue;
+    const original=label.source;
+    let from=0, at=-1;
+    for(let i=0;i<= (label.ordinal||0);i++) {
+      at=html.indexOf(original,from);
+      if(at<0) break;
+      from=at+original.length;
+    }
+    if(at>=0)
+      html=html.slice(0,at)+innerReplace(original,label.text)+html.slice(at+original.length);
+  }
   for(const price of page.priceValues||[]) {
     if (!price.source || price.value===price.originalValue) continue;
     html=replaceOriginal(html,price.source,price.mode==='prefix' ? price.source.replace(price.originalValue,text(price.value)) : innerReplace(price.source,price.value));
