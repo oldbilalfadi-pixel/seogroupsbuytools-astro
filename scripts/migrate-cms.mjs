@@ -68,6 +68,20 @@ for (const file of files) {
       .map(m=>({value:plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')),originalValue:plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')),source:m[0]}))
       .filter(x=>x.value&&x.value.length<100&&!/<[a-z]/i.test(x.source.replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')));
   }
+  // Price amounts inside designed cards and product hero blocks have nested markup.
+  // Edit only the amount text so currency, /month suffix, and CSS remain untouched.
+  const mainPrices=page.html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i)?.[1]||page.html;
+  page.priceValues ??= [];
+  for(const m of mainPrices.matchAll(/<span\b[^>]*class="[^"]*\bamount\b[^"]*"[^>]*>[^<]*<\/span>/gi)) {
+    const value=plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/span>$/,''));
+    if(value && !page.priceValues.some(p=>p.source===m[0]))
+      page.priceValues.push({value,originalValue:value,source:m[0]});
+  }
+  for(const m of mainPrices.matchAll(/<span\b[^>]*class="[^"]*\bproduct-hero-price\b[^"]*"[^>]*>([^<]+)/gi)) {
+    const source=m[0],value=plain(m[1]);
+    if(value && !page.priceValues.some(p=>p.source===source))
+      page.priceValues.push({value,originalValue:value,source,mode:'prefix'});
+  }
   for(const group of page.contentGroups) {
     if (group.headingSource) assert.ok(page.html.includes(group.headingSource),file+' heading');
     for(const entry of group.items) assert.ok(page.html.includes(entry.source),file+' entry');
