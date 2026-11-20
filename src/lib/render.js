@@ -6,6 +6,34 @@ function innerReplace(source,value) {
   if (start<1 || end<start) return source;
   return source.slice(0,start)+text(value)+source.slice(end);
 }
+function preserveInline(source,newPlain,originalPlain) {
+  const open=source.indexOf('>')+1,end=source.lastIndexOf('</');
+  if(open<1||end<open)return source;
+  const inner=source.slice(open,end);
+  if(!/<[a-z][^>]*>/i.test(inner))return innerReplace(source,newPlain);
+  const before=String(originalPlain??''),after=String(newPlain??'');
+  let front=0,back=0;
+  while(front<before.length&&front<after.length&&before[front]===after[front])front++;
+  while(back<before.length-front&&back<after.length-front&&before[before.length-1-back]===after[after.length-1-back])back++;
+  const oldChanged=before.slice(front,before.length-back),newChanged=after.slice(front,after.length-back);
+  if(oldChanged) {
+    const fragments=inner.split(/(<[^>]*>)/g);
+    const matches=[];
+    for(let i=0;i<fragments.length;i+=2) {
+      const at=fragments[i].indexOf(oldChanged);
+      if(at>=0)matches.push([i,at]);
+    }
+    if(matches.length===1) {
+      const [i,at]=matches[0];
+      fragments[i]=fragments[i].slice(0,at)+text(newChanged)+fragments[i].slice(at+oldChanged.length);
+      return source.slice(0,open)+fragments.join('')+source.slice(end);
+    }
+  }
+  // For major rewrites a visual editor can replace all text; the parent tag
+  // and its CSS classes are retained. Ordinary small edits preserve inline tags.
+  return innerReplace(source,newPlain);
+}
+
 function replaceOriginal(html, source, replacement) {
   if (!source || !html.includes(source)) return html;
   return html.replace(source,replacement);
@@ -95,10 +123,10 @@ export function renderPage(page,settings={}) {
   }
   for(const group of [...(page.contentGroups||[]),...(page.outsideGroups||[])]) {
     if(group.headingSource && typeof group.heading==='string' && group.heading!==group.originalHeading)
-      add(group.headingSource,group.sourceOffset,s=>innerReplace(s,group.heading));
+      add(group.headingSource,group.sourceOffset,s=>preserveInline(s,group.heading,group.originalHeading));
     for(const item of group.items||[])
       if(item.source && typeof item.text==='string' && item.text!==item.originalText)
-        add(item.source,item.sourceOffset,s=>innerReplace(s,item.text));
+        add(item.source,item.sourceOffset,s=>preserveInline(s,item.text,item.originalText));
   }
   for(const label of page.labelTexts||[])
     if(label.source && typeof label.text==='string' && label.text!==label.originalText)
