@@ -1,48 +1,80 @@
 media:
   input: public/assets/images
   output: /assets/images
+
 content:
   - name: homepage
     label: Homepage
     type: file
     path: content/homepage.json
     format: json
+    operations:
+      delete: false
     fields: &page_fields
-      - {name: route, label: Route, type: string, required: true}
-      - {name: title, label: SEO title, type: string}
-      - {name: description, label: Meta description, type: text}
-      - {name: html, label: Original full HTML, type: code, options: {language: html}}
-      - {name: sourceFile, label: Source file, type: string}
+      - name: route
+        label: Page URL path
+        type: string
+        required: true
+        readonly: true
+      - name: title
+        label: SEO title (metadata)
+        type: string
+        description: The original HTML also contains a title tag; update both for consistent output.
+      - name: description
+        label: SEO description (metadata)
+        type: text
+        description: The original HTML also contains a meta description; update both for consistent output.
+      - name: html
+        label: Full page HTML (source of truth)
+        type: code
+        required: true
+        options:
+          format: html
+      - name: sourceFile
+        label: Original source file
+        type: string
+        readonly: true
+
   - name: products
-    label: Products
+    label: Products (30)
     type: collection
     path: content/products
     format: json
+    view:
+      fields: [title, route]
+      primary: title
+      search: [title, route]
+    operations:
+      delete: false
     fields: *page_fields
+
   - name: pages
-    label: Static pages and guides
+    label: Pages and guides (41)
     type: collection
     path: content/pages
     format: json
+    view:
+      fields: [title, route]
+      primary: title
+      search: [title, route]
+    operations:
+      delete: false
     fields: *page_fields
-  - name: posts
-    label: Blog posts
-    type: collection
-    path: content/posts
-    format: json
-    fields: *page_fields
-  - name: categories
-    label: Categories
-    type: collection
-    path: content/categories
-    format: json
-    fields: *page_fields
+
   - name: settings
     label: Site settings
     type: file
     path: content/settings.json
     format: json
+    operations:
+      delete: false
     fields:
-      - {name: siteUrl, label: Production URL, type: string}
-      - {name: siteName, label: Site name, type: string}
-      - {name: previewNoindex, label: Preview noindex, type: boolean}
+      - name: siteUrl
+        label: Production URL
+        type: string
+      - name: siteName
+        label: Site name
+        type: string
+      - name: previewNoindex
+        label: Preview noindex
+        type: boolean
