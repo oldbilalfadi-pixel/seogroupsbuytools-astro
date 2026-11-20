@@ -65,7 +65,7 @@ export function renderPage(page,settings={}) {
   }
   for(const price of page.priceValues||[]) {
     if (!price.source || price.value===price.originalValue) continue;
-    html=replaceOriginal(html,price.source,innerReplace(price.source,price.value));
+    html=replaceOriginal(html,price.source,price.mode==='prefix' ? price.source.replace(price.originalValue,text(price.value)) : innerReplace(price.source,price.value));
   }
   for(const link of page.buttons||[]) {
     if (!link.source || (link.text===link.originalText && link.url===link.originalUrl)) continue;
