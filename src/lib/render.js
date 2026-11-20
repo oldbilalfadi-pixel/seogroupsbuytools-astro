@@ -55,7 +55,7 @@ export function renderPage(page,settings={}) {
   if (typeof page.title === 'string' && page.originalPageTitle !== undefined && page.title!==page.originalPageTitle) {
     html=html.replace(/<h1\b[^>]*>[\s\S]*?<\/h1>/i,m=>innerReplace(m,page.title));
   }
-  for(const group of page.contentGroups||[]) {
+  for(const group of [...(page.contentGroups||[]),...(page.outsideGroups||[])]) {
     if (group.headingSource && typeof group.heading==='string' && group.heading!==group.originalHeading)
       html=replaceOriginal(html,group.headingSource,innerReplace(group.headingSource,group.heading));
     for(const item of group.items||[]) {
