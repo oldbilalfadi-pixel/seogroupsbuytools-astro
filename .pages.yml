@@ -309,6 +309,26 @@ content:
         fields: *image_fields
       - { name: seoTitle, label: SEO title, type: string }
       - { name: seoDescription, label: SEO description, type: text }
+  - name: posts
+    label: Blog posts
+    type: collection
+    path: content/posts
+    format: json
+    filename:
+      template: "{primary}.json"
+      field: false
+    exclude: [README.md]
+    view: { primary: title, fields: [title, excerpt] }
+    fields:
+      - { name: title, label: Blog title, type: string, required: true }
+      - { name: excerpt, label: Excerpt, type: text }
+      - { name: featuredImage, label: Featured image, type: image, options: { media: uploads } }
+      - name: body
+        label: Article content
+        type: rich-text
+        options: { format: html, media: uploads, switcher: false }
+      - { name: seoTitle, label: SEO title, type: string }
+      - { name: seoDescription, label: SEO description, type: text }
   - name: settings
     label: Site settings
     type: file
