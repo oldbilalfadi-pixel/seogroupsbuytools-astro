@@ -32,6 +32,20 @@ content:
         list: true
         fields:
           - { name: text, label: Content, type: text }
+      - name: links
+        label: Buttons and links
+        type: object
+        list: true
+        fields:
+          - { name: text, label: Button or link text, type: string }
+          - { name: url, label: Destination URL, type: string }
+      - name: images
+        label: Images
+        type: object
+        list: true
+        fields:
+          - { name: src, label: Image URL, type: image, options: { media: uploads } }
+          - { name: alt, label: Image description, type: string }
   - name: products
     label: Products
     type: collection
