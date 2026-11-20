@@ -1,15 +1,23 @@
 ---
-import fs from 'node:fs';
-import path from 'node:path';
-const root = path.resolve(process.cwd(), 'content');
-function allPages(dir) {
-  return fs.readdirSync(dir,{withFileTypes:true}).flatMap(e => e.isDirectory()?allPages(path.join(dir,e.name)):(e.name.endsWith('.json') && e.name !== 'settings.json' ? [JSON.parse(fs.readFileSync(path.join(dir,e.name),'utf8'))] : []));
+export async function getStaticPaths() {
+  const fs = await import('node:fs');
+  const path = await import('node:path');
+  const root = path.resolve(process.cwd(), 'content');
+  function allPages(dir) {
+    return fs.readdirSync(dir, { withFileTypes: true }).flatMap(entry => {
+      const file = path.join(dir, entry.name);
+      if (entry.isDirectory()) return allPages(file);
+      if (!entry.name.endsWith('.json') || entry.name === 'settings.json') return [];
+      return [JSON.parse(fs.readFileSync(file, 'utf8'))];
+    });
+  }
+  return allPages(root)
+    .filter(page => page.route !== '/404/')
+    .map(page => ({
+      params: { slug: page.route === '/' ? undefined : page.route.replace(/^\/|\/$/g, '') },
+      props: { page }
+    }));
 }
-export function getStaticPaths() {
-  return allPages(root).filter(p=>p.route !== '/404/').map(p=>({params:{slug:p.route==='/'?undefined:p.route.replace(/^\/|\/$/g,'')},props:{page:p}}));
-}
-const {page} = Astro.props;
-// The complete original HTML is deliberately retained, including metadata and JS.
-// Editing content/*.json updates the generated pages on the next build.
+const { page } = Astro.props;
 ---
 <Fragment set:html={page.html} />
