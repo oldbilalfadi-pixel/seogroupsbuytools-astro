@@ -46,7 +46,6 @@ content:
               - { name: originalText, type: text, hidden: true }
               - { name: source, type: text, hidden: true }
               - { name: sourceOffset, type: number, hidden: true }
-          - { name: sourceOffset, type: number, hidden: true }
               - { name: tag, type: string, hidden: true }
               - { name: sourceOffset, type: number, hidden: true }
       - name: contentGroups
@@ -109,7 +108,6 @@ content:
           - { name: text, label: Label text, type: string }
           - { name: originalText, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
-          - { name: sourceOffset, type: number, hidden: true }
           - { name: sourceOffset, type: number, hidden: true }
           - { name: ordinal, type: number, hidden: true }
       - name: priceValues
@@ -204,7 +202,6 @@ content:
           - { name: originalText, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
           - { name: sourceOffset, type: number, hidden: true }
-          - { name: sourceOffset, type: number, hidden: true }
           - { name: ordinal, type: number, hidden: true }
       - name: priceValues
         label: Pricing
@@ -277,7 +274,6 @@ content:
           - { name: text, label: Label text, type: string }
           - { name: originalText, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
-          - { name: sourceOffset, type: number, hidden: true }
           - { name: sourceOffset, type: number, hidden: true }
           - { name: ordinal, type: number, hidden: true }
       - name: priceValues
