@@ -91,6 +91,19 @@ content:
           - { name: originalSrc, type: string, hidden: true }
           - { name: originalAlt, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
+      - name: labelTexts
+        label: Badges, stats and small labels
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{text}"
+        fields:
+          - { name: text, label: Label text, type: string }
+          - { name: originalText, type: string, hidden: true }
+          - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
+          - { name: ordinal, type: number, hidden: true }
       - name: priceValues
         label: Prices
         type: object
@@ -164,6 +177,19 @@ content:
             collapsed: true
             summary: "{heading}"
         fields: *section_fields
+      - name: labelTexts
+        label: Badges, stats and small labels
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{text}"
+        fields:
+          - { name: text, label: Label text, type: string }
+          - { name: originalText, type: string, hidden: true }
+          - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
+          - { name: ordinal, type: number, hidden: true }
       - name: priceValues
         label: Pricing
         type: object
@@ -224,6 +250,19 @@ content:
             collapsed: true
             summary: "{heading}"
         fields: *section_fields
+      - name: labelTexts
+        label: Badges, stats and small labels
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{text}"
+        fields:
+          - { name: text, label: Label text, type: string }
+          - { name: originalText, type: string, hidden: true }
+          - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
+          - { name: ordinal, type: number, hidden: true }
       - name: priceValues
         label: Pricing
         type: object
