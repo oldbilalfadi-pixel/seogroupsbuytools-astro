@@ -36,7 +36,6 @@ content:
           - { name: content, label: Edit content, type: rich-text, options: { format: html, media: uploads, switcher: true } }
           - { name: original, label: Original content, type: text, readonly: true }
           - { name: source, label: Original HTML tag, type: text, readonly: true }
-      - { name: html, label: Original HTML source - do not edit, type: code, readonly: true, options: { format: html } }
       - { name: title, label: Original title, type: string, readonly: true }
       - { name: description, label: Original description, type: text, readonly: true }
       - { name: sourceFile, label: Original source file, type: string, readonly: true }
