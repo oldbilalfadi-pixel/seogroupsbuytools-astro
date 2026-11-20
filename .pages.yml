@@ -50,16 +50,6 @@ content:
             collapsed: true
             summary: "{heading}"
         fields: *section_fields
-          - { name: heading, label: Heading, type: string }
-          - name: items
-            label: Paragraphs, subheadings and features
-            type: object
-            list:
-              collapsible:
-                collapsed: true
-                summary: "{text}"
-            fields:
-              - { name: text, label: Content, type: text }
       - name: buttons
         label: Buttons and destinations
         type: object
