@@ -3,12 +3,14 @@ import fs from 'node:fs';
 import path from 'node:path';
 import renderPage from '../src/lib/render.js';
 const files=['content/homepage.json',...['products','pages'].flatMap(dir=>fs.readdirSync('content/'+dir).filter(x=>x.endsWith('.json')).map(f=>'content/'+dir+'/'+f))];
-const totals={pages:0,groups:0,editableText:0,buttons:0,images:0,prices:0,seo:0,hero:0};
+const site=JSON.parse(fs.readFileSync('content/settings.json','utf8'));
+const totals={pages:0,groups:0,outsideGroups:0,editableText:0,buttons:0,cards:0,images:0,prices:0,seo:0,hero:0,global:0};
 for (const file of files) {
   const page=JSON.parse(fs.readFileSync(file,'utf8'));
-  assert.equal(renderPage(page),page.html,'Unedited page HTML changed: '+file);
+  assert.equal(renderPage(page,site),page.html,'Unedited page HTML changed: '+file);
+  assert.ok(Array.isArray(page.outsideGroups), 'Missing outside CMS groups: '+file);
   assert.ok(Array.isArray(page.contentGroups), 'Missing CMS groups: '+file);
-  for (const group of page.contentGroups) {
+  for (const group of [...page.contentGroups,...page.outsideGroups]) {
     if(group.headingSource) {
       const edited=structuredClone(page);
       const index=edited.contentGroups.indexOf(edited.contentGroups.find(g=>g.headingSource===group.headingSource));
@@ -19,10 +21,10 @@ for (const file of files) {
       assert.ok(item.text && item.source && page.html.includes(item.source),file+' empty CMS field');
     }
   }
-  const item=page.contentGroups.flatMap(g=>g.items).find(e=>e.source && e.text);
+  const item=[...page.contentGroups,...page.outsideGroups].flatMap(g=>g.items).find(e=>e.source && e.text);
   if(item) {
     const edit=structuredClone(page);
-    edit.contentGroups.flatMap(g=>g.items).find(e=>e.source===item.source).text='CMS PARAGRAPH VALIDATION';
+    [...edit.contentGroups,...edit.outsideGroups].flatMap(g=>g.items).find(e=>e.source===item.source).text='CMS PARAGRAPH VALIDATION';
     assert.ok(renderPage(edit).includes('CMS PARAGRAPH VALIDATION'),file+' text edit');
   }
   if (page.buttons?.length) {
@@ -30,6 +32,12 @@ for (const file of files) {
     edit.buttons[0].url='/cms-link-validation/';
     assert.ok(renderPage(edit).includes('href="/cms-link-validation/"'),file+' link edit');
     totals.buttons+=page.buttons.length;
+  }
+  if (page.cardLinks?.length) {
+    const edit=structuredClone(page);
+    edit.cardLinks[0].url='/cms-card-validation/';
+    assert.ok(renderPage(edit,site).includes('href="/cms-card-validation/"'),file+' card edit');
+    totals.cards+=page.cardLinks.length;
   }
   if (page.mediaImages?.length) {
     const edit=structuredClone(page);
@@ -55,13 +63,29 @@ for (const file of files) {
     assert.ok(renderPage(edit).includes('CMS HERO VALIDATION'),file+' hero edit');
     totals.hero++;
   }
+  if (page.html.includes('<header') && site.siteChrome?.headerLinks?.length) {
+    const edited=structuredClone(site);
+    edited.siteChrome.headerLinks[0].text='CMS MENU VALIDATION';
+    assert.ok(renderPage(page,edited).includes('CMS MENU VALIDATION'),file+' menu edit');
+    totals.global++;
+  }
+  if (page.html.includes('<footer') && site.siteChrome?.footerText) {
+    const edited=structuredClone(site);
+    edited.siteChrome.footerText='CMS FOOTER VALIDATION';
+    assert.ok(renderPage(page,edited).includes('CMS FOOTER VALIDATION'),file+' footer edit');
+  }
   totals.pages++;
-  totals.groups+=page.contentGroups.length;
-  totals.editableText+=page.contentGroups.reduce((n,g)=>n+g.items.length+(g.headingSource?1:0),0);
+  totals.groups+=page.contentGroups.length+page.outsideGroups.length;
+  totals.outsideGroups+=page.outsideGroups.length;
+  totals.editableText+=[...page.contentGroups,...page.outsideGroups].reduce((n,g)=>n+g.items.length+(g.headingSource?1:0),0);
 }
 assert.equal(totals.pages,72);
-assert.ok(totals.groups>100 && totals.editableText>300 && totals.buttons>100 && totals.images>50 && totals.prices>10);
+assert.ok(totals.groups>100 && totals.outsideGroups>20 && totals.editableText>500 && totals.buttons>100 && totals.cards>50 && totals.images>50 && totals.prices>10);
+assert.ok(site.siteChrome?.headerLinks.length>5 && site.siteChrome?.footerLinks.length>5);
+for(const file of ['content/homepage.json','content/pages/pricing.json','content/products/seo-tools__ahrefs.json']){
+  assert.ok(JSON.parse(fs.readFileSync(file,'utf8')).priceValues.length>0,'Pricing fields missing: '+file);
+}
 const cms=fs.readFileSync('.pages.yml','utf8');
 assert.ok(!cms.includes('Section ID')&&!cms.includes('Original HTML')&&!cms.includes('editorContent'));
-assert.ok(cms.includes('summary: "{heading}"') && cms.includes('name: priceValues'));
+assert.ok(cms.includes('summary: "{heading}"') && cms.includes('name: priceValues') && cms.includes('name: cardLinks') && cms.includes('name: outsideGroups'));
 console.log('CMS validated:',JSON.stringify(totals));
