@@ -1103,5 +1103,1629 @@
       "source": "<p class=\"answer-snippet\">SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides</p>",
       "tag": "p"
     }
-  ]
+  ],
+  "contentGroups": [
+    {
+      "heading": "How Do You Use SEO Group Buy Tools for Technical SEO Audit?",
+      "originalHeading": "How Do You Use SEO Group Buy Tools for Technical SEO Audit?",
+      "headingSource": "<h2>How Do You Use SEO Group Buy Tools for Technical SEO Audit?</h2>",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.",
+          "originalText": "Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.",
+          "source": "<p class=\"answer-snippet\">Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "Which Tools Are Best for Technical SEO Audit?",
+      "originalHeading": "Which Tools Are Best for Technical SEO Audit?",
+      "headingSource": "<h2>Which Tools Are Best for Technical SEO Audit?</h2>",
+      "items": [
+        {
+          "tag": "p",
+          "text": "SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.",
+          "originalText": "SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.",
+          "source": "<p class=\"answer-snippet\">SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&amp;#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.",
+          "originalText": "Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.",
+          "source": "<p>Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&#x27;s current authority.",
+          "originalText": "Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&#x27;s current authority.",
+          "source": "<p>Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&amp;#x27;s current authority.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&#x27;s own keyword suggestions for your seed terms.",
+          "originalText": "Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&#x27;s own keyword suggestions for your seed terms.",
+          "source": "<p>Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&amp;#x27;s own keyword suggestions for your seed terms.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "How Do You Find Critical Site Issues?",
+      "originalHeading": "How Do You Find Critical Site Issues?",
+      "headingSource": "<h2>How Do You Find Critical Site Issues?</h2>",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.",
+          "originalText": "Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.",
+          "source": "<p class=\"answer-snippet\">Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Enter each into SEMrush&#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.",
+          "originalText": "Enter each into SEMrush&#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.",
+          "source": "<p>Enter each into SEMrush&amp;#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.",
+          "originalText": "Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.",
+          "source": "<p>Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &#x27;Missing&#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.",
+          "originalText": "Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &#x27;Missing&#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.",
+          "source": "<p>Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &amp;#x27;Missing&amp;#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "How Do You Assess Crawl & Indexing Health?",
+      "originalHeading": "How Do You Assess Crawl & Indexing Health?",
+      "headingSource": "<h2>How Do You Assess Crawl & Indexing Health?</h2>",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.",
+          "originalText": "Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.",
+          "source": "<p class=\"answer-snippet\">Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&amp;#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.",
+          "originalText": "Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.",
+          "source": "<p>Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.",
+          "originalText": "Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.",
+          "source": "<p>Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.",
+          "originalText": "Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.",
+          "source": "<p>Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "How Do You Build a Technical Fix Priority Plan?",
+      "originalHeading": "How Do You Build a Technical Fix Priority Plan?",
+      "headingSource": "<h2>How Do You Build a Technical Fix Priority Plan?</h2>",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.",
+          "originalText": "Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.",
+          "source": "<p class=\"answer-snippet\">Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.",
+          "originalText": "Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.",
+          "source": "<p>Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.",
+          "originalText": "Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.",
+          "source": "<p>Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&amp;#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.",
+          "originalText": "Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.",
+          "source": "<p>Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.",
+          "originalText": "This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.",
+          "source": "<p>This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "What Are the References for This Page?",
+      "originalHeading": "What Are the References for This Page?",
+      "headingSource": "<h2>What Are the References for This Page?</h2>",
+      "items": [
+        {
+          "tag": "p",
+          "text": "SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides",
+          "originalText": "SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides",
+          "source": "<p class=\"answer-snippet\">SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides</p>"
+        },
+        {
+          "tag": "th",
+          "text": "This",
+          "originalText": "This",
+          "source": "<th>This</th>"
+        },
+        {
+          "tag": "th",
+          "text": "guide",
+          "originalText": "guide",
+          "source": "<th>guide</th>"
+        },
+        {
+          "tag": "th",
+          "text": "shows",
+          "originalText": "shows",
+          "source": "<th>shows</th>"
+        },
+        {
+          "tag": "th",
+          "text": "you",
+          "originalText": "you",
+          "source": "<th>you</th>"
+        },
+        {
+          "tag": "th",
+          "text": "how",
+          "originalText": "how",
+          "source": "<th>how</th>"
+        },
+        {
+          "tag": "td",
+          "text": "to",
+          "originalText": "to",
+          "source": "<td>to</td>"
+        },
+        {
+          "tag": "td",
+          "text": "conduct",
+          "originalText": "conduct",
+          "source": "<td>conduct</td>"
+        },
+        {
+          "tag": "td",
+          "text": "professional",
+          "originalText": "professional",
+          "source": "<td>professional</td>"
+        },
+        {
+          "tag": "td",
+          "text": "keyword",
+          "originalText": "keyword",
+          "source": "<td>keyword</td>"
+        },
+        {
+          "tag": "td",
+          "text": "research",
+          "originalText": "research",
+          "source": "<td>research</td>"
+        },
+        {
+          "tag": "td",
+          "text": "using",
+          "originalText": "using",
+          "source": "<td>using</td>"
+        },
+        {
+          "tag": "td",
+          "text": "group",
+          "originalText": "group",
+          "source": "<td>group</td>"
+        },
+        {
+          "tag": "td",
+          "text": "buy",
+          "originalText": "buy",
+          "source": "<td>buy</td>"
+        },
+        {
+          "tag": "td",
+          "text": "tools",
+          "originalText": "tools",
+          "source": "<td>tools</td>"
+        },
+        {
+          "tag": "td",
+          "text": "from",
+          "originalText": "from",
+          "source": "<td>from</td>"
+        },
+        {
+          "tag": "td",
+          "text": "initial",
+          "originalText": "initial",
+          "source": "<td>initial</td>"
+        },
+        {
+          "tag": "td",
+          "text": "discovery",
+          "originalText": "discovery",
+          "source": "<td>discovery</td>"
+        },
+        {
+          "tag": "td",
+          "text": "to",
+          "originalText": "to",
+          "source": "<td>to</td>"
+        },
+        {
+          "tag": "td",
+          "text": "strategic",
+          "originalText": "strategic",
+          "source": "<td>strategic</td>"
+        },
+        {
+          "tag": "td",
+          "text": "prioritization.",
+          "originalText": "prioritization.",
+          "source": "<td>prioritization.</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Tool",
+          "originalText": "Tool",
+          "source": "<td>Tool</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Database",
+          "originalText": "Database",
+          "source": "<td>Database</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Size",
+          "originalText": "Size",
+          "source": "<td>Size</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Key",
+          "originalText": "Key",
+          "source": "<td>Key</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Strength",
+          "originalText": "Strength",
+          "source": "<td>Strength</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Best",
+          "originalText": "Best",
+          "source": "<td>Best</td>"
+        },
+        {
+          "tag": "td",
+          "text": "For",
+          "originalText": "For",
+          "source": "<td>For</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Group",
+          "originalText": "Group",
+          "source": "<td>Group</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Buy",
+          "originalText": "Buy",
+          "source": "<td>Buy</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Access",
+          "originalText": "Access",
+          "source": "<td>Access</td>"
+        },
+        {
+          "tag": "td",
+          "text": "SEMrush",
+          "originalText": "SEMrush",
+          "source": "<td>SEMrush</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Keyword",
+          "originalText": "Keyword",
+          "source": "<td>Keyword</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Magic",
+          "originalText": "Magic",
+          "source": "<td>Magic</td>"
+        },
+        {
+          "tag": "td",
+          "text": "20B+",
+          "originalText": "20B+",
+          "source": "<td>20B+</td>"
+        },
+        {
+          "tag": "td",
+          "text": "keywords",
+          "originalText": "keywords",
+          "source": "<td>keywords</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Volume",
+          "originalText": "Volume",
+          "source": "<td>Volume</td>"
+        },
+        {
+          "tag": "td",
+          "text": "+",
+          "originalText": "+",
+          "source": "<td>+</td>"
+        },
+        {
+          "tag": "td",
+          "text": "filtering",
+          "originalText": "filtering",
+          "source": "<td>filtering</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Discovery",
+          "originalText": "Discovery",
+          "source": "<td>Discovery</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Reliable",
+          "originalText": "Reliable",
+          "source": "<td>Reliable</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Ahrefs",
+          "originalText": "Ahrefs",
+          "source": "<td>Ahrefs</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Keywords",
+          "originalText": "Keywords",
+          "source": "<td>Keywords</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Explorer",
+          "originalText": "Explorer",
+          "source": "<td>Explorer</td>"
+        },
+        {
+          "tag": "td",
+          "text": "10B+",
+          "originalText": "10B+",
+          "source": "<td>10B+</td>"
+        },
+        {
+          "tag": "td",
+          "text": "keywords",
+          "originalText": "keywords",
+          "source": "<td>keywords</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Difficulty",
+          "originalText": "Difficulty",
+          "source": "<td>Difficulty</td>"
+        },
+        {
+          "tag": "td",
+          "text": "accuracy",
+          "originalText": "accuracy",
+          "source": "<td>accuracy</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Validation",
+          "originalText": "Validation",
+          "source": "<td>Validation</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Good",
+          "originalText": "Good",
+          "source": "<td>Good</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Google",
+          "originalText": "Google",
+          "source": "<td>Google</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Keyword",
+          "originalText": "Keyword",
+          "source": "<td>Keyword</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Planner",
+          "originalText": "Planner",
+          "source": "<td>Planner</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Google",
+          "originalText": "Google",
+          "source": "<td>Google</td>"
+        },
+        {
+          "tag": "td",
+          "text": "data",
+          "originalText": "data",
+          "source": "<td>data</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Source",
+          "originalText": "Source",
+          "source": "<td>Source</td>"
+        },
+        {
+          "tag": "td",
+          "text": "accuracy",
+          "originalText": "accuracy",
+          "source": "<td>accuracy</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Volume",
+          "originalText": "Volume",
+          "source": "<td>Volume</td>"
+        },
+        {
+          "tag": "td",
+          "text": "validation",
+          "originalText": "validation",
+          "source": "<td>validation</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Free",
+          "originalText": "Free",
+          "source": "<td>Free</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Ubersuggest",
+          "originalText": "Ubersuggest",
+          "source": "<td>Ubersuggest</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Limited",
+          "originalText": "Limited",
+          "source": "<td>Limited</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Free",
+          "originalText": "Free",
+          "source": "<td>Free</td>"
+        },
+        {
+          "tag": "td",
+          "text": "baseline",
+          "originalText": "baseline",
+          "source": "<td>baseline</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Initial",
+          "originalText": "Initial",
+          "source": "<td>Initial</td>"
+        },
+        {
+          "tag": "td",
+          "text": "exploration",
+          "originalText": "exploration",
+          "source": "<td>exploration</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Free",
+          "originalText": "Free",
+          "source": "<td>Free</td>"
+        },
+        {
+          "tag": "td",
+          "text": "SEMrush",
+          "originalText": "SEMrush",
+          "source": "<td>SEMrush</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Trend",
+          "originalText": "Trend",
+          "source": "<td>Trend</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Historical",
+          "originalText": "Historical",
+          "source": "<td>Historical</td>"
+        },
+        {
+          "tag": "td",
+          "text": "data",
+          "originalText": "data",
+          "source": "<td>data</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Step",
+          "originalText": "Step",
+          "source": "<td>Step</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Action",
+          "originalText": "Action",
+          "source": "<td>Action</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Tool",
+          "originalText": "Tool",
+          "source": "<td>Tool</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Output",
+          "originalText": "Output",
+          "source": "<td>Output</td>"
+        },
+        {
+          "tag": "td",
+          "text": "1",
+          "originalText": "1",
+          "source": "<td>1</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Enter",
+          "originalText": "Enter",
+          "source": "<td>Enter</td>"
+        },
+        {
+          "tag": "td",
+          "text": "seed",
+          "originalText": "seed",
+          "source": "<td>seed</td>"
+        },
+        {
+          "tag": "td",
+          "text": "keywords",
+          "originalText": "keywords",
+          "source": "<td>keywords</td>"
+        },
+        {
+          "tag": "td",
+          "text": "SEMrush",
+          "originalText": "SEMrush",
+          "source": "<td>SEMrush</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Keyword",
+          "originalText": "Keyword",
+          "source": "<td>Keyword</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Magic",
+          "originalText": "Magic",
+          "source": "<td>Magic</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Raw",
+          "originalText": "Raw",
+          "source": "<td>Raw</td>"
+        },
+        {
+          "tag": "td",
+          "text": "keyword",
+          "originalText": "keyword",
+          "source": "<td>keyword</td>"
+        },
+        {
+          "tag": "td",
+          "text": "list",
+          "originalText": "list",
+          "source": "<td>list</td>"
+        },
+        {
+          "tag": "td",
+          "text": "2",
+          "originalText": "2",
+          "source": "<td>2</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Filter",
+          "originalText": "Filter",
+          "source": "<td>Filter</td>"
+        },
+        {
+          "tag": "td",
+          "text": "by",
+          "originalText": "by",
+          "source": "<td>by</td>"
+        },
+        {
+          "tag": "td",
+          "text": "volume",
+          "originalText": "volume",
+          "source": "<td>volume</td>"
+        },
+        {
+          "tag": "td",
+          "text": "+",
+          "originalText": "+",
+          "source": "<td>+</td>"
+        },
+        {
+          "tag": "td",
+          "text": "difficulty",
+          "originalText": "difficulty",
+          "source": "<td>difficulty</td>"
+        },
+        {
+          "tag": "td",
+          "text": "SEMrush",
+          "originalText": "SEMrush",
+          "source": "<td>SEMrush</td>"
+        },
+        {
+          "tag": "td",
+          "text": "filters",
+          "originalText": "filters",
+          "source": "<td>filters</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Refined",
+          "originalText": "Refined",
+          "source": "<td>Refined</td>"
+        },
+        {
+          "tag": "td",
+          "text": "list",
+          "originalText": "list",
+          "source": "<td>list</td>"
+        },
+        {
+          "tag": "td",
+          "text": "3",
+          "originalText": "3",
+          "source": "<td>3</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Identify",
+          "originalText": "Identify",
+          "source": "<td>Identify</td>"
+        },
+        {
+          "tag": "td",
+          "text": "search",
+          "originalText": "search",
+          "source": "<td>search</td>"
+        },
+        {
+          "tag": "td",
+          "text": "intent",
+          "originalText": "intent",
+          "source": "<td>intent</td>"
+        },
+        {
+          "tag": "td",
+          "text": "SEMrush",
+          "originalText": "SEMrush",
+          "source": "<td>SEMrush</td>"
+        },
+        {
+          "tag": "td",
+          "text": "intent",
+          "originalText": "intent",
+          "source": "<td>intent</td>"
+        },
+        {
+          "tag": "td",
+          "text": "tags",
+          "originalText": "tags",
+          "source": "<td>tags</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Categorized",
+          "originalText": "Categorized",
+          "source": "<td>Categorized</td>"
+        },
+        {
+          "tag": "td",
+          "text": "keywords",
+          "originalText": "keywords",
+          "source": "<td>keywords</td>"
+        },
+        {
+          "tag": "td",
+          "text": "4",
+          "originalText": "4",
+          "source": "<td>4</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Validate",
+          "originalText": "Validate",
+          "source": "<td>Validate</td>"
+        },
+        {
+          "tag": "td",
+          "text": "difficulty",
+          "originalText": "difficulty",
+          "source": "<td>difficulty</td>"
+        },
+        {
+          "tag": "td",
+          "text": "scores",
+          "originalText": "scores",
+          "source": "<td>scores</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Ahrefs",
+          "originalText": "Ahrefs",
+          "source": "<td>Ahrefs</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Keywords",
+          "originalText": "Keywords",
+          "source": "<td>Keywords</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Explorer",
+          "originalText": "Explorer",
+          "source": "<td>Explorer</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Accurate",
+          "originalText": "Accurate",
+          "source": "<td>Accurate</td>"
+        },
+        {
+          "tag": "td",
+          "text": "KD",
+          "originalText": "KD",
+          "source": "<td>KD</td>"
+        },
+        {
+          "tag": "td",
+          "text": "data",
+          "originalText": "data",
+          "source": "<td>data</td>"
+        },
+        {
+          "tag": "td",
+          "text": "5",
+          "originalText": "5",
+          "source": "<td>5</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Find",
+          "originalText": "Find",
+          "source": "<td>Find</td>"
+        },
+        {
+          "tag": "td",
+          "text": "competitor",
+          "originalText": "competitor",
+          "source": "<td>competitor</td>"
+        },
+        {
+          "tag": "td",
+          "text": "keyword",
+          "originalText": "keyword",
+          "source": "<td>keyword</td>"
+        },
+        {
+          "tag": "td",
+          "text": "gaps",
+          "originalText": "gaps",
+          "source": "<td>gaps</td>"
+        },
+        {
+          "tag": "td",
+          "text": "SEMrush",
+          "originalText": "SEMrush",
+          "source": "<td>SEMrush</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Keyword",
+          "originalText": "Keyword",
+          "source": "<td>Keyword</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Gap",
+          "originalText": "Gap",
+          "source": "<td>Gap</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Opportunity",
+          "originalText": "Opportunity",
+          "source": "<td>Opportunity</td>"
+        },
+        {
+          "tag": "td",
+          "text": "keywords",
+          "originalText": "keywords",
+          "source": "<td>keywords</td>"
+        },
+        {
+          "tag": "td",
+          "text": "6",
+          "originalText": "6",
+          "source": "<td>6</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Prioritize",
+          "originalText": "Prioritize",
+          "source": "<td>Prioritize</td>"
+        },
+        {
+          "tag": "td",
+          "text": "by",
+          "originalText": "by",
+          "source": "<td>by</td>"
+        },
+        {
+          "tag": "td",
+          "text": "business",
+          "originalText": "business",
+          "source": "<td>business</td>"
+        },
+        {
+          "tag": "td",
+          "text": "value",
+          "originalText": "value",
+          "source": "<td>value</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Manual",
+          "originalText": "Manual",
+          "source": "<td>Manual</td>"
+        },
+        {
+          "tag": "td",
+          "text": "review",
+          "originalText": "review",
+          "source": "<td>review</td>"
+        },
+        {
+          "tag": "td",
+          "text": "KD",
+          "originalText": "KD",
+          "source": "<td>KD</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Score",
+          "originalText": "Score",
+          "source": "<td>Score</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Range",
+          "originalText": "Range",
+          "source": "<td>Range</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Difficulty",
+          "originalText": "Difficulty",
+          "source": "<td>Difficulty</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Level",
+          "originalText": "Level",
+          "source": "<td>Level</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Required",
+          "originalText": "Required",
+          "source": "<td>Required</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Authority",
+          "originalText": "Authority",
+          "source": "<td>Authority</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Strategy",
+          "originalText": "Strategy",
+          "source": "<td>Strategy</td>"
+        },
+        {
+          "tag": "td",
+          "text": "0–20",
+          "originalText": "0–20",
+          "source": "<td>0–20</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Easy",
+          "originalText": "Easy",
+          "source": "<td>Easy</td>"
+        },
+        {
+          "tag": "td",
+          "text": "New",
+          "originalText": "New",
+          "source": "<td>New</td>"
+        },
+        {
+          "tag": "td",
+          "text": "site",
+          "originalText": "site",
+          "source": "<td>site</td>"
+        },
+        {
+          "tag": "td",
+          "text": "OK",
+          "originalText": "OK",
+          "source": "<td>OK</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Create",
+          "originalText": "Create",
+          "source": "<td>Create</td>"
+        },
+        {
+          "tag": "td",
+          "text": "quality",
+          "originalText": "quality",
+          "source": "<td>quality</td>"
+        },
+        {
+          "tag": "td",
+          "text": "content",
+          "originalText": "content",
+          "source": "<td>content</td>"
+        },
+        {
+          "tag": "td",
+          "text": "20–40",
+          "originalText": "20–40",
+          "source": "<td>20–40</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Moderate",
+          "originalText": "Moderate",
+          "source": "<td>Moderate</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Some",
+          "originalText": "Some",
+          "source": "<td>Some</td>"
+        },
+        {
+          "tag": "td",
+          "text": "authority",
+          "originalText": "authority",
+          "source": "<td>authority</td>"
+        },
+        {
+          "tag": "td",
+          "text": "needed",
+          "originalText": "needed",
+          "source": "<td>needed</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Content",
+          "originalText": "Content",
+          "source": "<td>Content</td>"
+        },
+        {
+          "tag": "td",
+          "text": "+",
+          "originalText": "+",
+          "source": "<td>+</td>"
+        },
+        {
+          "tag": "td",
+          "text": "basic",
+          "originalText": "basic",
+          "source": "<td>basic</td>"
+        },
+        {
+          "tag": "td",
+          "text": "links",
+          "originalText": "links",
+          "source": "<td>links</td>"
+        },
+        {
+          "tag": "td",
+          "text": "40–60",
+          "originalText": "40–60",
+          "source": "<td>40–60</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Difficult",
+          "originalText": "Difficult",
+          "source": "<td>Difficult</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Established",
+          "originalText": "Established",
+          "source": "<td>Established</td>"
+        },
+        {
+          "tag": "td",
+          "text": "domain",
+          "originalText": "domain",
+          "source": "<td>domain</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Content",
+          "originalText": "Content",
+          "source": "<td>Content</td>"
+        },
+        {
+          "tag": "td",
+          "text": "+",
+          "originalText": "+",
+          "source": "<td>+</td>"
+        },
+        {
+          "tag": "td",
+          "text": "active",
+          "originalText": "active",
+          "source": "<td>active</td>"
+        },
+        {
+          "tag": "td",
+          "text": "link",
+          "originalText": "link",
+          "source": "<td>link</td>"
+        },
+        {
+          "tag": "td",
+          "text": "building",
+          "originalText": "building",
+          "source": "<td>building</td>"
+        },
+        {
+          "tag": "td",
+          "text": "60–80",
+          "originalText": "60–80",
+          "source": "<td>60–80</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Very",
+          "originalText": "Very",
+          "source": "<td>Very</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Difficult",
+          "originalText": "Difficult",
+          "source": "<td>Difficult</td>"
+        },
+        {
+          "tag": "td",
+          "text": "High",
+          "originalText": "High",
+          "source": "<td>High</td>"
+        },
+        {
+          "tag": "td",
+          "text": "authority",
+          "originalText": "authority",
+          "source": "<td>authority</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Long-term",
+          "originalText": "Long-term",
+          "source": "<td>Long-term</td>"
+        },
+        {
+          "tag": "td",
+          "text": "investment",
+          "originalText": "investment",
+          "source": "<td>investment</td>"
+        },
+        {
+          "tag": "td",
+          "text": "80–100",
+          "originalText": "80–100",
+          "source": "<td>80–100</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Extremely",
+          "originalText": "Extremely",
+          "source": "<td>Extremely</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Hard",
+          "originalText": "Hard",
+          "source": "<td>Hard</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Industry",
+          "originalText": "Industry",
+          "source": "<td>Industry</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Phase",
+          "originalText": "Phase",
+          "source": "<td>Phase</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Target",
+          "originalText": "Target",
+          "source": "<td>Target</td>"
+        },
+        {
+          "tag": "td",
+          "text": "KD",
+          "originalText": "KD",
+          "source": "<td>KD</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Content",
+          "originalText": "Content",
+          "source": "<td>Content</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Type",
+          "originalText": "Type",
+          "source": "<td>Type</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Timeline",
+          "originalText": "Timeline",
+          "source": "<td>Timeline</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Expected",
+          "originalText": "Expected",
+          "source": "<td>Expected</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Traffic",
+          "originalText": "Traffic",
+          "source": "<td>Traffic</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Phase",
+          "originalText": "Phase",
+          "source": "<td>Phase</td>"
+        },
+        {
+          "tag": "td",
+          "text": "1:",
+          "originalText": "1:",
+          "source": "<td>1:</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Quick",
+          "originalText": "Quick",
+          "source": "<td>Quick</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Wins",
+          "originalText": "Wins",
+          "source": "<td>Wins</td>"
+        },
+        {
+          "tag": "td",
+          "text": "0–20",
+          "originalText": "0–20",
+          "source": "<td>0–20</td>"
+        },
+        {
+          "tag": "td",
+          "text": "FAQ",
+          "originalText": "FAQ",
+          "source": "<td>FAQ</td>"
+        },
+        {
+          "tag": "td",
+          "text": "+",
+          "originalText": "+",
+          "source": "<td>+</td>"
+        },
+        {
+          "tag": "td",
+          "text": "How-to",
+          "originalText": "How-to",
+          "source": "<td>How-to</td>"
+        },
+        {
+          "tag": "td",
+          "text": "posts",
+          "originalText": "posts",
+          "source": "<td>posts</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Month",
+          "originalText": "Month",
+          "source": "<td>Month</td>"
+        },
+        {
+          "tag": "td",
+          "text": "1–2",
+          "originalText": "1–2",
+          "source": "<td>1–2</td>"
+        },
+        {
+          "tag": "td",
+          "text": "100–500",
+          "originalText": "100–500",
+          "source": "<td>100–500</td>"
+        },
+        {
+          "tag": "td",
+          "text": "visits/month",
+          "originalText": "visits/month",
+          "source": "<td>visits/month</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Phase",
+          "originalText": "Phase",
+          "source": "<td>Phase</td>"
+        },
+        {
+          "tag": "td",
+          "text": "2:",
+          "originalText": "2:",
+          "source": "<td>2:</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Growth",
+          "originalText": "Growth",
+          "source": "<td>Growth</td>"
+        },
+        {
+          "tag": "td",
+          "text": "20–40",
+          "originalText": "20–40",
+          "source": "<td>20–40</td>"
+        },
+        {
+          "tag": "td",
+          "text": "In-depth",
+          "originalText": "In-depth",
+          "source": "<td>In-depth</td>"
+        },
+        {
+          "tag": "td",
+          "text": "guides",
+          "originalText": "guides",
+          "source": "<td>guides</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Month",
+          "originalText": "Month",
+          "source": "<td>Month</td>"
+        },
+        {
+          "tag": "td",
+          "text": "3–4",
+          "originalText": "3–4",
+          "source": "<td>3–4</td>"
+        },
+        {
+          "tag": "td",
+          "text": "500–2,000",
+          "originalText": "500–2,000",
+          "source": "<td>500–2,000</td>"
+        },
+        {
+          "tag": "td",
+          "text": "visits/month",
+          "originalText": "visits/month",
+          "source": "<td>visits/month</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Phase",
+          "originalText": "Phase",
+          "source": "<td>Phase</td>"
+        },
+        {
+          "tag": "td",
+          "text": "3:",
+          "originalText": "3:",
+          "source": "<td>3:</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Authority",
+          "originalText": "Authority",
+          "source": "<td>Authority</td>"
+        },
+        {
+          "tag": "td",
+          "text": "40–60",
+          "originalText": "40–60",
+          "source": "<td>40–60</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Comprehensive",
+          "originalText": "Comprehensive",
+          "source": "<td>Comprehensive</td>"
+        },
+        {
+          "tag": "td",
+          "text": "resources",
+          "originalText": "resources",
+          "source": "<td>resources</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Month",
+          "originalText": "Month",
+          "source": "<td>Month</td>"
+        },
+        {
+          "tag": "td",
+          "text": "5–8",
+          "originalText": "5–8",
+          "source": "<td>5–8</td>"
+        },
+        {
+          "tag": "td",
+          "text": "2,000–10,000",
+          "originalText": "2,000–10,000",
+          "source": "<td>2,000–10,000</td>"
+        },
+        {
+          "tag": "td",
+          "text": "visits/month",
+          "originalText": "visits/month",
+          "source": "<td>visits/month</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Phase",
+          "originalText": "Phase",
+          "source": "<td>Phase</td>"
+        },
+        {
+          "tag": "td",
+          "text": "4:",
+          "originalText": "4:",
+          "source": "<td>4:</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Leadership",
+          "originalText": "Leadership",
+          "source": "<td>Leadership</td>"
+        },
+        {
+          "tag": "td",
+          "text": "60+",
+          "originalText": "60+",
+          "source": "<td>60+</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Industry-defining",
+          "originalText": "Industry-defining",
+          "source": "<td>Industry-defining</td>"
+        },
+        {
+          "tag": "td",
+          "text": "content",
+          "originalText": "content",
+          "source": "<td>content</td>"
+        },
+        {
+          "tag": "td",
+          "text": "Month",
+          "originalText": "Month",
+          "source": "<td>Month</td>"
+        },
+        {
+          "tag": "td",
+          "text": "9–12",
+          "originalText": "9–12",
+          "source": "<td>9–12</td>"
+        },
+        {
+          "tag": "td",
+          "text": "10,000+",
+          "originalText": "10,000+",
+          "source": "<td>10,000+</td>"
+        }
+      ]
+    }
+  ],
+  "buttons": [
+    {
+      "text": "SEMrush Group Buy",
+      "originalText": "SEMrush Group Buy",
+      "url": "../../seo-tools/semrush/",
+      "originalUrl": "../../seo-tools/semrush/",
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+    },
+    {
+      "text": "KWFinder Group Buy",
+      "originalText": "KWFinder Group Buy",
+      "url": "../../seo-tools/kwfinder/",
+      "originalUrl": "../../seo-tools/kwfinder/",
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+    },
+    {
+      "text": "Ubersuggest Group Buy",
+      "originalText": "Ubersuggest Group Buy",
+      "url": "../../seo-tools/ubersuggest/",
+      "originalUrl": "../../seo-tools/ubersuggest/",
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+    },
+    {
+      "text": "SEO Tools",
+      "originalText": "SEO Tools",
+      "url": "../../seo-tools/",
+      "originalUrl": "../../seo-tools/",
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+    },
+    {
+      "text": "SEMrush Group Buy",
+      "originalText": "SEMrush Group Buy",
+      "url": "../../seo-tools/semrush/",
+      "originalUrl": "../../seo-tools/semrush/",
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+    },
+    {
+      "text": "KWFinder Group Buy",
+      "originalText": "KWFinder Group Buy",
+      "url": "../../seo-tools/kwfinder/",
+      "originalUrl": "../../seo-tools/kwfinder/",
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+    },
+    {
+      "text": "Ubersuggest Group Buy",
+      "originalText": "Ubersuggest Group Buy",
+      "url": "../../seo-tools/ubersuggest/",
+      "originalUrl": "../../seo-tools/ubersuggest/",
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+    },
+    {
+      "text": "SEO Tools",
+      "originalText": "SEO Tools",
+      "url": "../../seo-tools/",
+      "originalUrl": "../../seo-tools/",
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+    },
+    {
+      "text": "SEMrush Group Buy",
+      "originalText": "SEMrush Group Buy",
+      "url": "../../seo-tools/semrush/",
+      "originalUrl": "../../seo-tools/semrush/",
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+    },
+    {
+      "text": "KWFinder Group Buy",
+      "originalText": "KWFinder Group Buy",
+      "url": "../../seo-tools/kwfinder/",
+      "originalUrl": "../../seo-tools/kwfinder/",
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+    },
+    {
+      "text": "Ubersuggest Group Buy",
+      "originalText": "Ubersuggest Group Buy",
+      "url": "../../seo-tools/ubersuggest/",
+      "originalUrl": "../../seo-tools/ubersuggest/",
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+    },
+    {
+      "text": "SEO Tools",
+      "originalText": "SEO Tools",
+      "url": "../../seo-tools/",
+      "originalUrl": "../../seo-tools/",
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+    },
+    {
+      "text": "SEMrush Group Buy",
+      "originalText": "SEMrush Group Buy",
+      "url": "../../seo-tools/semrush/",
+      "originalUrl": "../../seo-tools/semrush/",
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+    },
+    {
+      "text": "KWFinder Group Buy",
+      "originalText": "KWFinder Group Buy",
+      "url": "../../seo-tools/kwfinder/",
+      "originalUrl": "../../seo-tools/kwfinder/",
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+    },
+    {
+      "text": "Ubersuggest Group Buy",
+      "originalText": "Ubersuggest Group Buy",
+      "url": "../../seo-tools/ubersuggest/",
+      "originalUrl": "../../seo-tools/ubersuggest/",
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+    },
+    {
+      "text": "SEO Tools",
+      "originalText": "SEO Tools",
+      "url": "../../seo-tools/",
+      "originalUrl": "../../seo-tools/",
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+    }
+  ],
+  "mediaImages": [],
+  "priceValues": []
 }

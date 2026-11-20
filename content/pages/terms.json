@@ -900,5 +900,135 @@
       "source": "<p>We reserve the right to terminate or suspend accounts that violate these Terms, engage in abusive behavior, or fail to make timely payments. In such cases, refunds are not provided.</p>",
       "tag": "p"
     }
-  ]
+  ],
+  "contentGroups": [
+    {
+      "heading": "",
+      "originalHeading": "",
+      "headingSource": "",
+      "items": [
+        {
+          "tag": "p",
+          "text": "These Terms of Service govern your use of SEO Group Buy Tools and the shared-access subscription services we provide. By signing up for any plan, you agree to these terms in full.",
+          "originalText": "These Terms of Service govern your use of SEO Group Buy Tools and the shared-access subscription services we provide. By signing up for any plan, you agree to these terms in full.",
+          "source": "<p>These Terms of Service govern your use of SEO Group Buy Tools and the shared-access subscription services we provide. By signing up for any plan, you agree to these terms in full.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "SEO Group Buy Tools provides shared-access subscriptions to premium SEO and marketing tools. We are an independent service provider and are not affiliated with, endorsed by, or sponsored by any of the tool providers whose products we offer access to.",
+          "originalText": "SEO Group Buy Tools provides shared-access subscriptions to premium SEO and marketing tools. We are an independent service provider and are not affiliated with, endorsed by, or sponsored by any of the tool providers whose products we offer access to.",
+          "source": "<p>SEO Group Buy Tools provides shared-access subscriptions to premium SEO and marketing tools. We are an independent service provider and are not affiliated with, endorsed by, or sponsored by any of the tool providers whose products we offer access to.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "What services do we provide?",
+      "originalHeading": "What services do we provide?",
+      "headingSource": "<h2>What services do we provide?</h2>",
+      "items": [
+        {
+          "tag": "p",
+          "text": "We provide shared-access subscriptions to premium SEO, design, and marketing tools at significantly reduced costs compared to individual official subscriptions.",
+          "originalText": "We provide shared-access subscriptions to premium SEO, design, and marketing tools at significantly reduced costs compared to individual official subscriptions.",
+          "source": "<p class=\"answer-snippet\">We provide shared-access subscriptions to premium SEO, design, and marketing tools at significantly reduced costs compared to individual official subscriptions.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Our service includes access to a curated catalog of 50+ premium tools across SEO, design, ad intelligence, AI writing, e-commerce, social media, and education categories. Access is provided via browser extension, remote desktop connection, or team invitation, depending on the tool and plan tier.",
+          "originalText": "Our service includes access to a curated catalog of 50+ premium tools across SEO, design, ad intelligence, AI writing, e-commerce, social media, and education categories. Access is provided via browser extension, remote desktop connection, or team invitation, depending on the tool and plan tier.",
+          "source": "<p>Our service includes access to a curated catalog of 50+ premium tools across SEO, design, ad intelligence, AI writing, e-commerce, social media, and education categories. Access is provided via browser extension, remote desktop connection, or team invitation, depending on the tool and plan tier.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "We handle account management, replacement of suspended accounts, technical support, and billing. We do not own or control the underlying tools — we simply provide shared access to subscriptions we purchase.",
+          "originalText": "We handle account management, replacement of suspended accounts, technical support, and billing. We do not own or control the underlying tools — we simply provide shared access to subscriptions we purchase.",
+          "source": "<p>We handle account management, replacement of suspended accounts, technical support, and billing. We do not own or control the underlying tools — we simply provide shared access to subscriptions we purchase.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "What are your responsibilities as a user?",
+      "originalHeading": "What are your responsibilities as a user?",
+      "headingSource": "<h2>What are your responsibilities as a user?</h2>",
+      "items": [
+        {
+          "tag": "p",
+          "text": "You must use shared tools responsibly, avoid storing sensitive client data, respect other users on shared accounts, and not abuse or resell access.",
+          "originalText": "You must use shared tools responsibly, avoid storing sensitive client data, respect other users on shared accounts, and not abuse or resell access.",
+          "source": "<p class=\"answer-snippet\">You must use shared tools responsibly, avoid storing sensitive client data, respect other users on shared accounts, and not abuse or resell access.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "You agree to use the shared-access tools for legitimate personal or business purposes only. Do not store sensitive client data, financial information, or confidential business intelligence in shared tools, as other users on the same account may have visibility into your activity.",
+          "originalText": "You agree to use the shared-access tools for legitimate personal or business purposes only. Do not store sensitive client data, financial information, or confidential business intelligence in shared tools, as other users on the same account may have visibility into your activity.",
+          "source": "<p>You agree to use the shared-access tools for legitimate personal or business purposes only. Do not store sensitive client data, financial information, or confidential business intelligence in shared tools, as other users on the same account may have visibility into your activity.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Do not share your access credentials with others, attempt to bypass concurrent session limits, or resell access to the tools. Such activities will result in immediate account termination without refund.",
+          "originalText": "Do not share your access credentials with others, attempt to bypass concurrent session limits, or resell access to the tools. Such activities will result in immediate account termination without refund.",
+          "source": "<p>Do not share your access credentials with others, attempt to bypass concurrent session limits, or resell access to the tools. Such activities will result in immediate account termination without refund.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "You acknowledge that shared-access subscriptions may experience occasional downtime when tool providers detect and suspend shared accounts. We work to minimize this downtime but cannot guarantee 100% uptime.",
+          "originalText": "You acknowledge that shared-access subscriptions may experience occasional downtime when tool providers detect and suspend shared accounts. We work to minimize this downtime but cannot guarantee 100% uptime.",
+          "source": "<p>You acknowledge that shared-access subscriptions may experience occasional downtime when tool providers detect and suspend shared accounts. We work to minimize this downtime but cannot guarantee 100% uptime.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "What is our refund policy?",
+      "originalHeading": "What is our refund policy?",
+      "headingSource": "<h2>What is our refund policy?</h2>",
+      "items": [
+        {
+          "tag": "p",
+          "text": "We offer a 7-day money-back guarantee on all new subscriptions. Refunds are processed within 5-7 business days via the original payment method.",
+          "originalText": "We offer a 7-day money-back guarantee on all new subscriptions. Refunds are processed within 5-7 business days via the original payment method.",
+          "source": "<p class=\"answer-snippet\">We offer a 7-day money-back guarantee on all new subscriptions. Refunds are processed within 5-7 business days via the original payment method.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "If you are not satisfied with our service within the first 7 days of your subscription, contact us via WhatsApp or email to request a full refund. After the 7-day window, refunds are evaluated on a case-by-case basis.",
+          "originalText": "If you are not satisfied with our service within the first 7 days of your subscription, contact us via WhatsApp or email to request a full refund. After the 7-day window, refunds are evaluated on a case-by-case basis.",
+          "source": "<p>If you are not satisfied with our service within the first 7 days of your subscription, contact us via WhatsApp or email to request a full refund. After the 7-day window, refunds are evaluated on a case-by-case basis.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "Refunds are not available for accounts terminated due to violations of these Terms of Service, including credential sharing, abuse, or fraudulent activity.",
+          "originalText": "Refunds are not available for accounts terminated due to violations of these Terms of Service, including credential sharing, abuse, or fraudulent activity.",
+          "source": "<p>Refunds are not available for accounts terminated due to violations of these Terms of Service, including credential sharing, abuse, or fraudulent activity.</p>"
+        }
+      ]
+    },
+    {
+      "heading": "How can subscriptions be terminated?",
+      "originalHeading": "How can subscriptions be terminated?",
+      "headingSource": "<h2>How can subscriptions be terminated?</h2>",
+      "items": [
+        {
+          "tag": "p",
+          "text": "Either party may terminate a subscription at any time. Users can cancel anytime via WhatsApp; we may terminate accounts for violations of these Terms.",
+          "originalText": "Either party may terminate a subscription at any time. Users can cancel anytime via WhatsApp; we may terminate accounts for violations of these Terms.",
+          "source": "<p class=\"answer-snippet\">Either party may terminate a subscription at any time. Users can cancel anytime via WhatsApp; we may terminate accounts for violations of these Terms.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "You may cancel your subscription at any time by contacting us via WhatsApp or email. Cancellation takes effect at the end of your current billing period — you retain access until then.",
+          "originalText": "You may cancel your subscription at any time by contacting us via WhatsApp or email. Cancellation takes effect at the end of your current billing period — you retain access until then.",
+          "source": "<p>You may cancel your subscription at any time by contacting us via WhatsApp or email. Cancellation takes effect at the end of your current billing period — you retain access until then.</p>"
+        },
+        {
+          "tag": "p",
+          "text": "We reserve the right to terminate or suspend accounts that violate these Terms, engage in abusive behavior, or fail to make timely payments. In such cases, refunds are not provided.",
+          "originalText": "We reserve the right to terminate or suspend accounts that violate these Terms, engage in abusive behavior, or fail to make timely payments. In such cases, refunds are not provided.",
+          "source": "<p>We reserve the right to terminate or suspend accounts that violate these Terms, engage in abusive behavior, or fail to make timely payments. In such cases, refunds are not provided.</p>"
+        }
+      ]
+    }
+  ],
+  "buttons": [],
+  "mediaImages": [],
+  "priceValues": []
 }
