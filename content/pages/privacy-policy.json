@@ -903,9 +903,9 @@
   ],
   "contentGroups": [
     {
-      "heading": "",
-      "originalHeading": "",
-      "headingSource": "",
+      "heading": "What information do we collect?",
+      "originalHeading": "What information do we collect?",
+      "headingSource": "<h2>What information do we collect?</h2>",
       "items": [
         {
           "tag": "p",
@@ -918,14 +918,7 @@
           "text": "We do not sell, trade, or rent your personal information to third parties. Any data you share with us — such as your name, email address, WhatsApp number, or payment details — is used solely for processing your subscription and providing support.",
           "originalText": "We do not sell, trade, or rent your personal information to third parties. Any data you share with us — such as your name, email address, WhatsApp number, or payment details — is used solely for processing your subscription and providing support.",
           "source": "<p>We do not sell, trade, or rent your personal information to third parties. Any data you share with us — such as your name, email address, WhatsApp number, or payment details — is used solely for processing your subscription and providing support.</p>"
-        }
-      ]
-    },
-    {
-      "heading": "What information do we collect?",
-      "originalHeading": "What information do we collect?",
-      "headingSource": "<h2>What information do we collect?</h2>",
-      "items": [
+        },
         {
           "tag": "p",
           "text": "We collect minimal information necessary to provide our services: your name, email address, WhatsApp number, payment confirmation, and basic usage data such as which tools you access.",

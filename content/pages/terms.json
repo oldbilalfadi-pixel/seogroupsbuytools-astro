@@ -903,9 +903,9 @@
   ],
   "contentGroups": [
     {
-      "heading": "",
-      "originalHeading": "",
-      "headingSource": "",
+      "heading": "What services do we provide?",
+      "originalHeading": "What services do we provide?",
+      "headingSource": "<h2>What services do we provide?</h2>",
       "items": [
         {
           "tag": "p",
@@ -918,14 +918,7 @@
           "text": "SEO Group Buy Tools provides shared-access subscriptions to premium SEO and marketing tools. We are an independent service provider and are not affiliated with, endorsed by, or sponsored by any of the tool providers whose products we offer access to.",
           "originalText": "SEO Group Buy Tools provides shared-access subscriptions to premium SEO and marketing tools. We are an independent service provider and are not affiliated with, endorsed by, or sponsored by any of the tool providers whose products we offer access to.",
           "source": "<p>SEO Group Buy Tools provides shared-access subscriptions to premium SEO and marketing tools. We are an independent service provider and are not affiliated with, endorsed by, or sponsored by any of the tool providers whose products we offer access to.</p>"
-        }
-      ]
-    },
-    {
-      "heading": "What services do we provide?",
-      "originalHeading": "What services do we provide?",
-      "headingSource": "<h2>What services do we provide?</h2>",
-      "items": [
+        },
         {
           "tag": "p",
           "text": "We provide shared-access subscriptions to premium SEO, design, and marketing tools at significantly reduced costs compared to individual official subscriptions.",
