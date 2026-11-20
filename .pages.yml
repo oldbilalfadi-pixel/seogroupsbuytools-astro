@@ -47,7 +47,6 @@ content:
               - { name: source, type: text, hidden: true }
               - { name: sourceOffset, type: number, hidden: true }
               - { name: tag, type: string, hidden: true }
-              - { name: sourceOffset, type: number, hidden: true }
       - name: contentGroups
         label: Page sections
         type: object
@@ -156,7 +155,7 @@ content:
               - { name: text, label: Feature, type: string }
               - { name: originalText, type: string, hidden: true }
               - { name: source, type: text, hidden: true }
-          - { name: sourceOffset, type: number, hidden: true }
+              - { name: sourceOffset, type: number, hidden: true }
           - { name: originalName, type: string, hidden: true }
           - { name: nameSource, type: text, hidden: true }
           - { name: nameOffset, type: number, hidden: true }
