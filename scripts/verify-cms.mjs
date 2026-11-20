@@ -183,7 +183,8 @@ for (const file of files) {
 assert.equal(totals.pages,72);
 assert.equal(totals.products,30);
 assert.ok(totals.productFields>=180);
-assert.ok(totals.offsets>2000 && totals.duplicates>0 && totals.nested>0 && totals.inlineFormatting>0 && totals.assetPaths>200);
+console.log('CMS field diagnostics:',JSON.stringify(totals));
+for(const [name,min] of Object.entries({offsets:2000,duplicates:0,nested:0,inlineFormatting:0,assetPaths:200})) assert.ok(totals[name]>min,`CMS ${name}: expected >${min}, observed ${totals[name]}`);
 assert.ok(totals.groups>100 && totals.outsideGroups>20 && totals.editableText>500 && totals.buttons>100 && totals.cards>50 && totals.images>50 && totals.prices>10 && totals.labels>20);
 assert.ok(site.siteChrome?.headerLinks.length>5 && site.siteChrome?.footerLinks.length>5);
 for(const file of ['content/homepage.json','content/pages/pricing.json','content/products/seo-tools__ahrefs.json']){
