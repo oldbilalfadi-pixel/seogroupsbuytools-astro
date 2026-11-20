@@ -14,7 +14,7 @@ export async function getStaticPaths() {
   }
   const settings=JSON.parse(fs.readFileSync(path.join(root,'settings.json'),'utf8'));
   return allPages(root)
-    .filter(page => page.route !== '/404/')
+    .filter(page => typeof page.route === 'string' && typeof page.html === 'string' && page.route !== '/404/')
     .map(page => ({
       params: { slug: page.route === '/' ? undefined : page.route.replace(/^\/|\/$/g, '') },
       props: { page, settings }
