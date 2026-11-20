@@ -4,7 +4,7 @@ import path from 'node:path';
 import renderPage from '../src/lib/render.js';
 const files=['content/homepage.json',...['products','pages'].flatMap(dir=>fs.readdirSync('content/'+dir).filter(x=>x.endsWith('.json')).map(f=>'content/'+dir+'/'+f))];
 const site=JSON.parse(fs.readFileSync('content/settings.json','utf8'));
-const totals={pages:0,groups:0,outsideGroups:0,editableText:0,buttons:0,cards:0,images:0,prices:0,seo:0,hero:0,global:0,products:0,productFields:0};
+const totals={pages:0,groups:0,outsideGroups:0,editableText:0,buttons:0,cards:0,images:0,prices:0,seo:0,hero:0,global:0,products:0,productFields:0,labels:0};
 for (const file of files) {
   const page=JSON.parse(fs.readFileSync(file,'utf8'));
   assert.equal(renderPage(page,site),page.html,'Unedited page HTML changed: '+file);
@@ -63,6 +63,18 @@ for (const file of files) {
     assert.ok(renderPage(edit).includes('src="/assets/images/cms-image-validation.png"'),file+' image edit');
     totals.images+=page.mediaImages.length;
   }
+  if(page.labelTexts?.length) {
+    for(const label of page.labelTexts) {
+      assert.equal(page.html.slice(label.sourceOffset,label.sourceOffset+label.source.length),label.source,file+' badge mapped incorrectly');
+    }
+    const target=page.labelTexts.find(label=>label.text && label.sourceOffset>=0);
+    if(target) {
+      const edit=structuredClone(page);
+      edit.labelTexts.find(l=>l.sourceOffset===target.sourceOffset).text='CMS BADGE VALIDATION';
+      assert.ok(renderPage(edit,site).includes('CMS BADGE VALIDATION'),file+' badge edit');
+    }
+    totals.labels+=page.labelTexts.length;
+  }
   if (page.priceValues?.length) {
     const edit=structuredClone(page);
     edit.priceValues[0].value='$98765';
@@ -100,12 +112,12 @@ for (const file of files) {
 assert.equal(totals.pages,72);
 assert.equal(totals.products,30);
 assert.ok(totals.productFields>=180);
-assert.ok(totals.groups>100 && totals.outsideGroups>20 && totals.editableText>500 && totals.buttons>100 && totals.cards>50 && totals.images>50 && totals.prices>10);
+assert.ok(totals.groups>100 && totals.outsideGroups>20 && totals.editableText>500 && totals.buttons>100 && totals.cards>50 && totals.images>50 && totals.prices>10 && totals.labels>20);
 assert.ok(site.siteChrome?.headerLinks.length>5 && site.siteChrome?.footerLinks.length>5);
 for(const file of ['content/homepage.json','content/pages/pricing.json','content/products/seo-tools__ahrefs.json']){
   assert.ok(JSON.parse(fs.readFileSync(file,'utf8')).priceValues.length>0,'Pricing fields missing: '+file);
 }
 const cms=fs.readFileSync('.pages.yml','utf8');
 assert.ok(!cms.includes('Section ID')&&!cms.includes('Original HTML')&&!cms.includes('editorContent'));
-assert.ok(cms.includes('summary: "{heading}"') && cms.includes('name: priceValues') && cms.includes('name: cardLinks') && cms.includes('name: outsideGroups') && cms.includes('name: productHero'));
+assert.ok(cms.includes('summary: "{heading}"') && cms.includes('name: priceValues') && cms.includes('name: cardLinks') && cms.includes('name: outsideGroups') && cms.includes('name: productHero') && cms.includes('name: labelTexts'));
 console.log('CMS validated:',JSON.stringify(totals));
