@@ -1441,15 +1441,18 @@
           "tag": "p",
           "text": "SEO Group Buy Tools offers BuzzSumo through a shared-access model that reduces the cost from the official $199 per month to $5-$15 per month. BuzzSumo is a content research and influencer identification platform used by marketers to analyze trending topics, find key influencers, and monitor brand mentions.",
           "originalText": "SEO Group Buy Tools offers BuzzSumo through a shared-access model that reduces the cost from the official $199 per month to $5-$15 per month. BuzzSumo is a content research and influencer identification platform used by marketers to analyze trending topics, find key influencers, and monitor brand mentions.",
-          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools offers BuzzSumo through a shared-access model that reduces the cost from the official $199 per month to $5-$15 per month. BuzzSumo is a content research and influencer identification platform used by marketers to analyze trending topics, find key influencers, and monitor brand mentions.</p>"
+          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools offers BuzzSumo through a shared-access model that reduces the cost from the official $199 per month to $5-$15 per month. BuzzSumo is a content research and influencer identification platform used by marketers to analyze trending topics, find key influencers, and monitor brand mentions.</p>",
+          "sourceOffset": 5739
         },
         {
           "tag": "p",
           "text": "This page explains what BuzzSumo group buy includes, how much it costs, and who benefits most from it.",
           "originalText": "This page explains what BuzzSumo group buy includes, how much it costs, and who benefits most from it.",
-          "source": "<p>This page explains what BuzzSumo group buy includes, how much it costs, and who benefits most from it.</p>"
+          "source": "<p>This page explains what BuzzSumo group buy includes, how much it costs, and who benefits most from it.</p>",
+          "sourceOffset": 6076
         }
-      ]
+      ],
+      "sourceOffset": 5675
     },
     {
       "heading": "What Is BuzzSumo Group Buy?",
@@ -1460,21 +1463,25 @@
           "tag": "p",
           "text": "BuzzSumo group buy is a shared-access arrangement where multiple users split the cost of a BuzzSumo subscription through SEO Group Buy Tools, reducing the price from $199/month to $5-$15/month per user. BuzzSumo group buy works by pooling users onto a single BuzzSumo account managed by SEO Group Buy Tools.",
           "originalText": "BuzzSumo group buy is a shared-access arrangement where multiple users split the cost of a BuzzSumo subscription through SEO Group Buy Tools, reducing the price from $199/month to $5-$15/month per user. BuzzSumo group buy works by pooling users onto a single BuzzSumo account managed by SEO Group Buy Tools.",
-          "source": "<p class=\"answer-snippet\">BuzzSumo group buy is a shared-access arrangement where multiple users split the cost of a BuzzSumo subscription through SEO Group Buy Tools, reducing the price from $199/month to $5-$15/month per user. BuzzSumo group buy works by pooling users onto a single BuzzSumo account managed by SEO Group Buy Tools.</p>"
+          "source": "<p class=\"answer-snippet\">BuzzSumo group buy is a shared-access arrangement where multiple users split the cost of a BuzzSumo subscription through SEO Group Buy Tools, reducing the price from $199/month to $5-$15/month per user. BuzzSumo group buy works by pooling users onto a single BuzzSumo account managed by SEO Group Buy Tools.</p>",
+          "sourceOffset": 6296
         },
         {
           "tag": "p",
           "text": "Each user receives login credentials to access the platform&#x27;s content research, influencer discovery, and alert features. The shared model makes premium tools accessible to freelancers and small agencies. The provider handles account maintenance, renewal, and technical support.",
           "originalText": "Each user receives login credentials to access the platform&#x27;s content research, influencer discovery, and alert features. The shared model makes premium tools accessible to freelancers and small agencies. The provider handles account maintenance, renewal, and technical support.",
-          "source": "<p>Each user receives login credentials to access the platform&#x27;s content research, influencer discovery, and alert features. The shared model makes premium tools accessible to freelancers and small agencies. The provider handles account maintenance, renewal, and technical support.</p>"
+          "source": "<p>Each user receives login credentials to access the platform&#x27;s content research, influencer discovery, and alert features. The shared model makes premium tools accessible to freelancers and small agencies. The provider handles account maintenance, renewal, and technical support.</p>",
+          "sourceOffset": 6633
         },
         {
           "tag": "p",
           "text": "Users connect through a web-based dashboard without installing software. Access is typically available within minutes of payment confirmation.",
           "originalText": "Users connect through a web-based dashboard without installing software. Access is typically available within minutes of payment confirmation.",
-          "source": "<p>Users connect through a web-based dashboard without installing software. Access is typically available within minutes of payment confirmation.</p>"
+          "source": "<p>Users connect through a web-based dashboard without installing software. Access is typically available within minutes of payment confirmation.</p>",
+          "sourceOffset": 6923
         }
-      ]
+      ],
+      "sourceOffset": 6260
     },
     {
       "heading": "What BuzzSumo Features Are Available?",
@@ -1485,21 +1492,25 @@
           "tag": "p",
           "text": "BuzzSumo group buy provides content discovery, influencer identification, backlink tracking, brand monitoring alerts, and trend analysis through SEO Group Buy Tools shared access. BuzzSumo&#x27;s core features remain accessible in the group buy model.",
           "originalText": "BuzzSumo group buy provides content discovery, influencer identification, backlink tracking, brand monitoring alerts, and trend analysis through SEO Group Buy Tools shared access. BuzzSumo&#x27;s core features remain accessible in the group buy model.",
-          "source": "<p class=\"answer-snippet\">BuzzSumo group buy provides content discovery, influencer identification, backlink tracking, brand monitoring alerts, and trend analysis through SEO Group Buy Tools shared access. BuzzSumo&#x27;s core features remain accessible in the group buy model.</p>"
+          "source": "<p class=\"answer-snippet\">BuzzSumo group buy provides content discovery, influencer identification, backlink tracking, brand monitoring alerts, and trend analysis through SEO Group Buy Tools shared access. BuzzSumo&#x27;s core features remain accessible in the group buy model.</p>",
+          "sourceOffset": 7279
         },
         {
           "tag": "p",
           "text": "The content analyzer shows the most shared content across social networks for any topic or domain. Influencer search identifies authoritative voices by reach and engagement metrics. The alerts system monitors brand mentions, competitor activities, and new content from specific authors.",
           "originalText": "The content analyzer shows the most shared content across social networks for any topic or domain. Influencer search identifies authoritative voices by reach and engagement metrics. The alerts system monitors brand mentions, competitor activities, and new content from specific authors.",
-          "source": "<p>The content analyzer shows the most shared content across social networks for any topic or domain. Influencer search identifies authoritative voices by reach and engagement metrics. The alerts system monitors brand mentions, competitor activities, and new content from specific authors.</p>"
+          "source": "<p>The content analyzer shows the most shared content across social networks for any topic or domain. Influencer search identifies authoritative voices by reach and engagement metrics. The alerts system monitors brand mentions, competitor activities, and new content from specific authors.</p>",
+          "sourceOffset": 7560
         },
         {
           "tag": "p",
           "text": "Backlink data reveals which domains link to specific URLs. Trend detection surfaces rising topics before they peak.",
           "originalText": "Backlink data reveals which domains link to specific URLs. Trend detection surfaces rising topics before they peak.",
-          "source": "<p>Backlink data reveals which domains link to specific URLs. Trend detection surfaces rising topics before they peak.</p>"
+          "source": "<p>Backlink data reveals which domains link to specific URLs. Trend detection surfaces rising topics before they peak.</p>",
+          "sourceOffset": 7853
         }
-      ]
+      ],
+      "sourceOffset": 7233
     },
     {
       "heading": "How Much Does BuzzSumo Cost?",
@@ -1510,21 +1521,25 @@
           "tag": "p",
           "text": "BuzzSumo costs $199/month officially, but SEO Group Buy Tools offers shared access at $5-$15/month, saving users up to 97% on content research capabilities. The official BuzzSumo pricing starts at $199 per month for the Large plan, which includes all research and monitoring features.",
           "originalText": "BuzzSumo costs $199/month officially, but SEO Group Buy Tools offers shared access at $5-$15/month, saving users up to 97% on content research capabilities. The official BuzzSumo pricing starts at $199 per month for the Large plan, which includes all research and monitoring features.",
-          "source": "<p class=\"answer-snippet\">BuzzSumo costs $199/month officially, but SEO Group Buy Tools offers shared access at $5-$15/month, saving users up to 97% on content research capabilities. The official BuzzSumo pricing starts at $199 per month for the Large plan, which includes all research and monitoring features.</p>"
+          "source": "<p class=\"answer-snippet\">BuzzSumo costs $199/month officially, but SEO Group Buy Tools offers shared access at $5-$15/month, saving users up to 97% on content research capabilities. The official BuzzSumo pricing starts at $199 per month for the Large plan, which includes all research and monitoring features.</p>",
+          "sourceOffset": 8363
         },
         {
           "tag": "p",
           "text": "Enterprise plans cost significantly more. For solo marketers and small teams, this price is prohibitive. Features Table:",
           "originalText": "Enterprise plans cost significantly more. For solo marketers and small teams, this price is prohibitive. Features Table:",
-          "source": "<p>Enterprise plans cost significantly more. For solo marketers and small teams, this price is prohibitive. Features Table:</p>"
+          "source": "<p>Enterprise plans cost significantly more. For solo marketers and small teams, this price is prohibitive. Features Table:</p>",
+          "sourceOffset": 8677
         },
         {
           "tag": "p",
           "text": "Pricing Table:",
           "originalText": "Pricing Table:",
-          "source": "<p>Pricing Table:</p>"
+          "source": "<p>Pricing Table:</p>",
+          "sourceOffset": 8804
         }
-      ]
+      ],
+      "sourceOffset": 8326
     },
     {
       "heading": "Who Should Use BuzzSumo Group Buy?",
@@ -1535,255 +1550,298 @@
           "tag": "p",
           "text": "BuzzSumo group buy suits content marketers, SEO freelancers, social media managers, and small agencies who need content research but cannot justify $199/month through SEO Group Buy Tools. Content marketers who research viral topics and track competitor performance benefit most from BuzzSumo group buy.",
           "originalText": "BuzzSumo group buy suits content marketers, SEO freelancers, social media managers, and small agencies who need content research but cannot justify $199/month through SEO Group Buy Tools. Content marketers who research viral topics and track competitor performance benefit most from BuzzSumo group buy.",
-          "source": "<p class=\"answer-snippet\">BuzzSumo group buy suits content marketers, SEO freelancers, social media managers, and small agencies who need content research but cannot justify $199/month through SEO Group Buy Tools. Content marketers who research viral topics and track competitor performance benefit most from BuzzSumo group buy.</p>"
+          "source": "<p class=\"answer-snippet\">BuzzSumo group buy suits content marketers, SEO freelancers, social media managers, and small agencies who need content research but cannot justify $199/month through SEO Group Buy Tools. Content marketers who research viral topics and track competitor performance benefit most from BuzzSumo group buy.</p>",
+          "sourceOffset": 9192
         },
         {
           "tag": "p",
           "text": "SEO professionals use the backlink and content data to inform link-building strategies. Social media managers identify trending content and key influencers efficiently. Small agencies managing multiple clients gain access to enterprise-level research at a fraction of the cost.",
           "originalText": "SEO professionals use the backlink and content data to inform link-building strategies. Social media managers identify trending content and key influencers efficiently. Small agencies managing multiple clients gain access to enterprise-level research at a fraction of the cost.",
-          "source": "<p>SEO professionals use the backlink and content data to inform link-building strategies. Social media managers identify trending content and key influencers efficiently. Small agencies managing multiple clients gain access to enterprise-level research at a fraction of the cost.</p>"
+          "source": "<p>SEO professionals use the backlink and content data to inform link-building strategies. Social media managers identify trending content and key influencers efficiently. Small agencies managing multiple clients gain access to enterprise-level research at a fraction of the cost.</p>",
+          "sourceOffset": 9524
         },
         {
           "tag": "p",
           "text": "Freelancers building content strategies find the tool valuable for client deliverables. Users who need occasional research rather than daily use are ideal candidates.",
           "originalText": "Freelancers building content strategies find the tool valuable for client deliverables. Users who need occasional research rather than daily use are ideal candidates.",
-          "source": "<p>Freelancers building content strategies find the tool valuable for client deliverables. Users who need occasional research rather than daily use are ideal candidates.</p>"
+          "source": "<p>Freelancers building content strategies find the tool valuable for client deliverables. Users who need occasional research rather than daily use are ideal candidates.</p>",
+          "sourceOffset": 9808
         },
         {
           "tag": "th",
           "text": "Feature",
           "originalText": "Feature",
-          "source": "<th>Feature</th>"
+          "source": "<th>Feature</th>",
+          "sourceOffset": 10375
         },
         {
           "tag": "th",
           "text": "Official BuzzSumo",
           "originalText": "Official BuzzSumo",
-          "source": "<th>Official BuzzSumo</th>"
+          "source": "<th>Official BuzzSumo</th>",
+          "sourceOffset": 10391
         },
         {
           "tag": "th",
           "text": "Group Buy Access",
           "originalText": "Group Buy Access",
-          "source": "<th>Group Buy Access</th>"
+          "source": "<th>Group Buy Access</th>",
+          "sourceOffset": 10417
         },
         {
           "tag": "td",
           "text": "Content Analyzer",
           "originalText": "Content Analyzer",
-          "source": "<td>Content Analyzer</td>"
+          "source": "<td>Content Analyzer</td>",
+          "sourceOffset": 10466
         },
         {
           "tag": "td",
           "text": "✓ Full",
           "originalText": "✓ Full",
-          "source": "<td>✓ Full</td>"
+          "source": "<td>✓ Full</td>",
+          "sourceOffset": 10491
         },
         {
           "tag": "td",
           "text": "✓ Full",
           "originalText": "✓ Full",
-          "source": "<td>✓ Full</td>"
+          "source": "<td>✓ Full</td>",
+          "sourceOffset": 10506
         },
         {
           "tag": "td",
           "text": "Influencer Search",
           "originalText": "Influencer Search",
-          "source": "<td>Influencer Search</td>"
+          "source": "<td>Influencer Search</td>",
+          "sourceOffset": 10530
         },
         {
           "tag": "td",
           "text": "✓ Full",
           "originalText": "✓ Full",
-          "source": "<td>✓ Full</td>"
+          "source": "<td>✓ Full</td>",
+          "sourceOffset": 10556
         },
         {
           "tag": "td",
           "text": "✓ Full",
           "originalText": "✓ Full",
-          "source": "<td>✓ Full</td>"
+          "source": "<td>✓ Full</td>",
+          "sourceOffset": 10571
         },
         {
           "tag": "td",
           "text": "Backlink Analysis",
           "originalText": "Backlink Analysis",
-          "source": "<td>Backlink Analysis</td>"
+          "source": "<td>Backlink Analysis</td>",
+          "sourceOffset": 10595
         },
         {
           "tag": "td",
           "text": "✓ Limited",
           "originalText": "✓ Limited",
-          "source": "<td>✓ Limited</td>"
+          "source": "<td>✓ Limited</td>",
+          "sourceOffset": 10621
         },
         {
           "tag": "td",
           "text": "✓ Limited",
           "originalText": "✓ Limited",
-          "source": "<td>✓ Limited</td>"
+          "source": "<td>✓ Limited</td>",
+          "sourceOffset": 10639
         },
         {
           "tag": "td",
           "text": "Brand Alerts",
           "originalText": "Brand Alerts",
-          "source": "<td>Brand Alerts</td>"
+          "source": "<td>Brand Alerts</td>",
+          "sourceOffset": 10666
         },
         {
           "tag": "td",
           "text": "✓ Full",
           "originalText": "✓ Full",
-          "source": "<td>✓ Full</td>"
+          "source": "<td>✓ Full</td>",
+          "sourceOffset": 10687
         },
         {
           "tag": "td",
           "text": "✓ Full",
           "originalText": "✓ Full",
-          "source": "<td>✓ Full</td>"
+          "source": "<td>✓ Full</td>",
+          "sourceOffset": 10702
         },
         {
           "tag": "td",
           "text": "Trend Detection",
           "originalText": "Trend Detection",
-          "source": "<td>Trend Detection</td>"
+          "source": "<td>Trend Detection</td>",
+          "sourceOffset": 10726
         },
         {
           "tag": "td",
           "text": "✓ Full",
           "originalText": "✓ Full",
-          "source": "<td>✓ Full</td>"
+          "source": "<td>✓ Full</td>",
+          "sourceOffset": 10750
         },
         {
           "tag": "td",
           "text": "✓ Full",
           "originalText": "✓ Full",
-          "source": "<td>✓ Full</td>"
+          "source": "<td>✓ Full</td>",
+          "sourceOffset": 10765
         },
         {
           "tag": "td",
           "text": "API Access",
           "originalText": "API Access",
-          "source": "<td>API Access</td>"
+          "source": "<td>API Access</td>",
+          "sourceOffset": 10789
         },
         {
           "tag": "td",
           "text": "✓ Enterprise",
           "originalText": "✓ Enterprise",
-          "source": "<td>✓ Enterprise</td>"
+          "source": "<td>✓ Enterprise</td>",
+          "sourceOffset": 10808
         },
         {
           "tag": "td",
           "text": "✗ Not available",
           "originalText": "✗ Not available",
-          "source": "<td>✗ Not available</td>"
+          "source": "<td>✗ Not available</td>",
+          "sourceOffset": 10829
         },
         {
           "tag": "td",
           "text": "Export Data",
           "originalText": "Export Data",
-          "source": "<td>Export Data</td>"
+          "source": "<td>Export Data</td>",
+          "sourceOffset": 10862
         },
         {
           "tag": "td",
           "text": "✓ Full",
           "originalText": "✓ Full",
-          "source": "<td>✓ Full</td>"
+          "source": "<td>✓ Full</td>",
+          "sourceOffset": 10882
         },
         {
           "tag": "td",
           "text": "✓ Limited",
           "originalText": "✓ Limited",
-          "source": "<td>✓ Limited</td>"
+          "source": "<td>✓ Limited</td>",
+          "sourceOffset": 10897
         },
         {
           "tag": "td",
           "text": "Concurrent Users",
           "originalText": "Concurrent Users",
-          "source": "<td>Concurrent Users</td>"
+          "source": "<td>Concurrent Users</td>",
+          "sourceOffset": 10924
         },
         {
           "tag": "td",
           "text": "1 user",
           "originalText": "1 user",
-          "source": "<td>1 user</td>"
+          "source": "<td>1 user</td>",
+          "sourceOffset": 10949
         },
         {
           "tag": "td",
           "text": "Shared access",
           "originalText": "Shared access",
-          "source": "<td>Shared access</td>"
+          "source": "<td>Shared access</td>",
+          "sourceOffset": 10964
         },
         {
           "tag": "td",
           "text": "Plan",
           "originalText": "Plan",
-          "source": "<td>Plan</td>"
+          "source": "<td>Plan</td>",
+          "sourceOffset": 10995
         },
         {
           "tag": "td",
           "text": "Official Price",
           "originalText": "Official Price",
-          "source": "<td>Official Price</td>"
+          "source": "<td>Official Price</td>",
+          "sourceOffset": 11008
         },
         {
           "tag": "td",
           "text": "Group Buy Price",
           "originalText": "Group Buy Price",
-          "source": "<td>Group Buy Price</td>"
+          "source": "<td>Group Buy Price</td>",
+          "sourceOffset": 11031
         },
         {
           "tag": "td",
           "text": "Savings",
           "originalText": "Savings",
-          "source": "<td>Savings</td>"
+          "source": "<td>Savings</td>",
+          "sourceOffset": 11055
         },
         {
           "tag": "td",
           "text": "BuzzSumo Large",
           "originalText": "BuzzSumo Large",
-          "source": "<td>BuzzSumo Large</td>"
+          "source": "<td>BuzzSumo Large</td>",
+          "sourceOffset": 11080
         },
         {
           "tag": "td",
           "text": "$199/month",
           "originalText": "$199/month",
-          "source": "<td>$199/month</td>"
+          "source": "<td>$199/month</td>",
+          "sourceOffset": 11103
         },
         {
           "tag": "td",
           "text": "$5-$15/month",
           "originalText": "$5-$15/month",
-          "source": "<td>$5-$15/month</td>"
+          "source": "<td>$5-$15/month</td>",
+          "sourceOffset": 11122
         },
         {
           "tag": "td",
           "text": "Up to 97%",
           "originalText": "Up to 97%",
-          "source": "<td>Up to 97%</td>"
+          "source": "<td>Up to 97%</td>",
+          "sourceOffset": 11143
         },
         {
           "tag": "td",
           "text": "BuzzSumo Enterprise",
           "originalText": "BuzzSumo Enterprise",
-          "source": "<td>BuzzSumo Enterprise</td>"
+          "source": "<td>BuzzSumo Enterprise</td>",
+          "sourceOffset": 11170
         },
         {
           "tag": "td",
           "text": "$999/month",
           "originalText": "$999/month",
-          "source": "<td>$999/month</td>"
+          "source": "<td>$999/month</td>",
+          "sourceOffset": 11198
         },
         {
           "tag": "td",
           "text": "Not typically available",
           "originalText": "Not typically available",
-          "source": "<td>Not typically available</td>"
+          "source": "<td>Not typically available</td>",
+          "sourceOffset": 11217
         },
         {
           "tag": "td",
           "text": "—",
           "originalText": "—",
-          "source": "<td>—</td>"
+          "source": "<td>—</td>",
+          "sourceOffset": 11249
         }
-      ]
+      ],
+      "sourceOffset": 9149
     },
     {
       "heading": "Available SEO Tools in Group Buy",
@@ -1794,135 +1852,158 @@
           "tag": "h4",
           "text": "SEMrush Group Buy",
           "originalText": "SEMrush Group Buy",
-          "source": "<h4>SEMrush Group Buy</h4>"
+          "source": "<h4>SEMrush Group Buy</h4>",
+          "sourceOffset": 11636
         },
         {
           "tag": "p",
           "text": "Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...",
           "originalText": "Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...",
-          "source": "<p>Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...</p>"
+          "source": "<p>Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...</p>",
+          "sourceOffset": 11699
         },
         {
           "tag": "h4",
           "text": "Ahrefs Group Buy",
           "originalText": "Ahrefs Group Buy",
-          "source": "<h4>Ahrefs Group Buy</h4>"
+          "source": "<h4>Ahrefs Group Buy</h4>",
+          "sourceOffset": 12103
         },
         {
           "tag": "p",
           "text": "Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...",
           "originalText": "Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...",
-          "source": "<p>Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...</p>"
+          "source": "<p>Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...</p>",
+          "sourceOffset": 12165
         },
         {
           "tag": "h4",
           "text": "Moz Pro Group Buy",
           "originalText": "Moz Pro Group Buy",
-          "source": "<h4>Moz Pro Group Buy</h4>"
+          "source": "<h4>Moz Pro Group Buy</h4>",
+          "sourceOffset": 12568
         },
         {
           "tag": "p",
           "text": "Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...",
           "originalText": "Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...",
-          "source": "<p>Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...</p>"
+          "source": "<p>Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...</p>",
+          "sourceOffset": 12631
         },
         {
           "tag": "h4",
           "text": "SpyFu Group Buy",
           "originalText": "SpyFu Group Buy",
-          "source": "<h4>SpyFu Group Buy</h4>"
+          "source": "<h4>SpyFu Group Buy</h4>",
+          "sourceOffset": 13032
         },
         {
           "tag": "p",
           "text": "Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...",
           "originalText": "Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...",
-          "source": "<p>Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...</p>"
+          "source": "<p>Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...</p>",
+          "sourceOffset": 13093
         },
         {
           "tag": "h4",
           "text": "Surfer SEO Group Buy",
           "originalText": "Surfer SEO Group Buy",
-          "source": "<h4>Surfer SEO Group Buy</h4>"
+          "source": "<h4>Surfer SEO Group Buy</h4>",
+          "sourceOffset": 13505
         },
         {
           "tag": "p",
           "text": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...",
           "originalText": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...",
-          "source": "<p>Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...</p>"
+          "source": "<p>Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...</p>",
+          "sourceOffset": 13571
         },
         {
           "tag": "h4",
           "text": "KWFinder Group Buy",
           "originalText": "KWFinder Group Buy",
-          "source": "<h4>KWFinder Group Buy</h4>"
+          "source": "<h4>KWFinder Group Buy</h4>",
+          "sourceOffset": 13981
         },
         {
           "tag": "p",
           "text": "Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...",
           "originalText": "Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...",
-          "source": "<p>Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...</p>"
+          "source": "<p>Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...</p>",
+          "sourceOffset": 14045
         },
         {
           "tag": "h4",
           "text": "Majestic SEO Group Buy",
           "originalText": "Majestic SEO Group Buy",
-          "source": "<h4>Majestic SEO Group Buy</h4>"
+          "source": "<h4>Majestic SEO Group Buy</h4>",
+          "sourceOffset": 14463
         },
         {
           "tag": "p",
           "text": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....",
           "originalText": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....",
-          "source": "<p>Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....</p>"
+          "source": "<p>Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....</p>",
+          "sourceOffset": 14531
         },
         {
           "tag": "h4",
           "text": "Serpstat Group Buy",
           "originalText": "Serpstat Group Buy",
-          "source": "<h4>Serpstat Group Buy</h4>"
+          "source": "<h4>Serpstat Group Buy</h4>",
+          "sourceOffset": 14941
         },
         {
           "tag": "p",
           "text": "Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...",
           "originalText": "Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...",
-          "source": "<p>Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...</p>"
+          "source": "<p>Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...</p>",
+          "sourceOffset": 15005
         },
         {
           "tag": "h4",
           "text": "Ubersuggest Group Buy",
           "originalText": "Ubersuggest Group Buy",
-          "source": "<h4>Ubersuggest Group Buy</h4>"
+          "source": "<h4>Ubersuggest Group Buy</h4>",
+          "sourceOffset": 15422
         },
         {
           "tag": "p",
           "text": "Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competi...",
           "originalText": "Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competi...",
-          "source": "<p>Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competi...</p>"
+          "source": "<p>Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competi...</p>",
+          "sourceOffset": 15489
         },
         {
           "tag": "h4",
           "text": "Similarweb Group Buy",
           "originalText": "Similarweb Group Buy",
-          "source": "<h4>Similarweb Group Buy</h4>"
+          "source": "<h4>Similarweb Group Buy</h4>",
+          "sourceOffset": 15863
         },
         {
           "tag": "p",
           "text": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...",
           "originalText": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...",
-          "source": "<p>Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...</p>"
+          "source": "<p>Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...</p>",
+          "sourceOffset": 15929
         },
         {
           "tag": "h4",
           "text": "Crazy Egg Group Buy",
           "originalText": "Crazy Egg Group Buy",
-          "source": "<h4>Crazy Egg Group Buy</h4>"
+          "source": "<h4>Crazy Egg Group Buy</h4>",
+          "sourceOffset": 16341
         },
         {
           "tag": "p",
           "text": "Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...",
           "originalText": "Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...",
-          "source": "<p>Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...</p>"
+          "source": "<p>Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...</p>",
+          "sourceOffset": 16406
         }
-      ]
+      ],
+      "sourceOffset": 11348
     }
   ],
   "buttons": [
@@ -1931,161 +2012,184 @@
       "originalText": "What Is SEO Group Buy Tools",
       "url": "../../",
       "originalUrl": "../../",
-      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>"
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>",
+      "sourceOffset": 7094
     },
     {
       "text": "How It Works",
       "originalText": "How It Works",
       "url": "../../how-it-works/",
       "originalUrl": "../../how-it-works/",
-      "source": "<a href=\"../../how-it-works/\">How It Works</a>"
+      "source": "<a href=\"../../how-it-works/\">How It Works</a>",
+      "sourceOffset": 7997
     },
     {
       "text": "For Agencies",
       "originalText": "For Agencies",
       "url": "../../for-bloggers/",
       "originalUrl": "../../for-bloggers/",
-      "source": "<a href=\"../../for-bloggers/\">For Agencies</a>"
+      "source": "<a href=\"../../for-bloggers/\">For Agencies</a>",
+      "sourceOffset": 8067
     },
     {
       "text": "Content Optimization Guide",
       "originalText": "Content Optimization Guide",
       "url": "../../guides/content-optimization/",
       "originalUrl": "../../guides/content-optimization/",
-      "source": "<a href=\"../../guides/content-optimization/\">Content Optimization Guide</a>"
+      "source": "<a href=\"../../guides/content-optimization/\">Content Optimization Guide</a>",
+      "sourceOffset": 8137
     },
     {
       "text": "What Is SEO Group Buy Tools",
       "originalText": "What Is SEO Group Buy Tools",
       "url": "../../",
       "originalUrl": "../../",
-      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>"
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>",
+      "sourceOffset": 8847
     },
     {
       "text": "SEO Tools",
       "originalText": "SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>",
+      "sourceOffset": 8916
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 8970
     },
     {
       "text": "How It Works",
       "originalText": "How It Works",
       "url": "../../how-it-works/",
       "originalUrl": "../../how-it-works/",
-      "source": "<a href=\"../../how-it-works/\">How It Works</a>"
+      "source": "<a href=\"../../how-it-works/\">How It Works</a>",
+      "sourceOffset": 10003
     },
     {
       "text": "For Agencies",
       "originalText": "For Agencies",
       "url": "../../for-bloggers/",
       "originalUrl": "../../for-bloggers/",
-      "source": "<a href=\"../../for-bloggers/\">For Agencies</a>"
+      "source": "<a href=\"../../for-bloggers/\">For Agencies</a>",
+      "sourceOffset": 10073
     },
     {
       "text": "Content Optimization Guide",
       "originalText": "Content Optimization Guide",
       "url": "../../guides/content-optimization/",
       "originalUrl": "../../guides/content-optimization/",
-      "source": "<a href=\"../../guides/content-optimization/\">Content Optimization Guide</a>"
+      "source": "<a href=\"../../guides/content-optimization/\">Content Optimization Guide</a>",
+      "sourceOffset": 10143
     },
     {
       "text": "Home",
       "originalText": "Home",
       "url": "../../",
       "originalUrl": "../../",
-      "source": "<a href=\"../../\">Home</a>"
+      "source": "<a href=\"../../\">Home</a>",
+      "sourceOffset": 4452
     },
     {
       "text": "SEO Tools",
       "originalText": "SEO Tools",
       "url": "../",
       "originalUrl": "../",
-      "source": "<a href=\"../\">SEO Tools</a>"
+      "source": "<a href=\"../\">SEO Tools</a>",
+      "sourceOffset": 4503
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>"
+      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>",
+      "sourceOffset": 5375
     },
     {
       "text": "💬 WhatsApp Us",
       "originalText": "💬 WhatsApp Us",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>",
+      "sourceOffset": 16772
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>"
+      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>",
+      "sourceOffset": 17013
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../semrush/",
       "originalUrl": "../semrush/",
-      "source": "<a href=\"../semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 18090
     },
     {
       "text": "Ahrefs Group Buy",
       "originalText": "Ahrefs Group Buy",
       "url": "../ahrefs/",
       "originalUrl": "../ahrefs/",
-      "source": "<a href=\"../ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 18142
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../moz-pro/",
       "originalUrl": "../moz-pro/",
-      "source": "<a href=\"../moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 18192
     },
     {
       "text": "Surfer SEO Group Buy",
       "originalText": "Surfer SEO Group Buy",
       "url": "../surfer-seo/",
       "originalUrl": "../surfer-seo/",
-      "source": "<a href=\"../surfer-seo/\">Surfer SEO Group Buy</a>"
+      "source": "<a href=\"../surfer-seo/\">Surfer SEO Group Buy</a>",
+      "sourceOffset": 18244
     },
     {
       "text": "Canva Pro Group Buy",
       "originalText": "Canva Pro Group Buy",
       "url": "../../design-tools/canva-pro/",
       "originalUrl": "../../design-tools/canva-pro/",
-      "source": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>"
+      "source": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
+      "sourceOffset": 18302
     },
     {
       "text": "Quillbot Group Buy",
       "originalText": "Quillbot Group Buy",
       "url": "../../ai-writing-tools/quillbot/",
       "originalUrl": "../../ai-writing-tools/quillbot/",
-      "source": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>"
+      "source": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
+      "sourceOffset": 18374
     },
     {
       "text": "💬 WhatsApp Us Now",
       "originalText": "💬 WhatsApp Us Now",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>",
+      "sourceOffset": 18996
     },
     {
       "text": "💬 Buy Now on WhatsApp",
       "originalText": "💬 Buy Now on WhatsApp",
       "url": "https://seogroupsbuy.com/users/cart/index/product/id/25/c/",
       "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/25/c/",
-      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/25/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
+      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/25/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>",
+      "sourceOffset": 5202
     }
   ],
   "mediaImages": [
@@ -2094,142 +2198,165 @@
       "originalSrc": "../../assets/images/tools/semrush-com.png",
       "alt": "SEMrush logo",
       "originalAlt": "SEMrush logo",
-      "source": "<img src=\"../../assets/images/tools/semrush-com.png\" alt=\"SEMrush logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/semrush-com.png\" alt=\"SEMrush logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 11485
     },
     {
       "src": "../../assets/images/tools/ahrefs-com.png",
       "originalSrc": "../../assets/images/tools/ahrefs-com.png",
       "alt": "Ahrefs logo",
       "originalAlt": "Ahrefs logo",
-      "source": "<img src=\"../../assets/images/tools/ahrefs-com.png\" alt=\"Ahrefs logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/ahrefs-com.png\" alt=\"Ahrefs logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 11954
     },
     {
       "src": "../../assets/images/tools/moz-com.png",
       "originalSrc": "../../assets/images/tools/moz-com.png",
       "alt": "Moz Pro logo",
       "originalAlt": "Moz Pro logo",
-      "source": "<img src=\"../../assets/images/tools/moz-com.png\" alt=\"Moz Pro logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/moz-com.png\" alt=\"Moz Pro logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 12421
     },
     {
       "src": "../../assets/images/tools/spyfu-com.png",
       "originalSrc": "../../assets/images/tools/spyfu-com.png",
       "alt": "SpyFu logo",
       "originalAlt": "SpyFu logo",
-      "source": "<img src=\"../../assets/images/tools/spyfu-com.png\" alt=\"SpyFu logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/spyfu-com.png\" alt=\"SpyFu logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 12885
     },
     {
       "src": "../../assets/images/tools/surfer-seo.png",
       "originalSrc": "../../assets/images/tools/surfer-seo.png",
       "alt": "Surfer SEO logo",
       "originalAlt": "Surfer SEO logo",
-      "source": "<img src=\"../../assets/images/tools/surfer-seo.png\" alt=\"Surfer SEO logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/surfer-seo.png\" alt=\"Surfer SEO logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 13352
     },
     {
       "src": "../../assets/images/tools/kwfinder-com.png",
       "originalSrc": "../../assets/images/tools/kwfinder-com.png",
       "alt": "KWFinder logo",
       "originalAlt": "KWFinder logo",
-      "source": "<img src=\"../../assets/images/tools/kwfinder-com.png\" alt=\"KWFinder logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/kwfinder-com.png\" alt=\"KWFinder logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 13828
     },
     {
       "src": "../../assets/images/tools/majestic-com.png",
       "originalSrc": "../../assets/images/tools/majestic-com.png",
       "alt": "Majestic SEO logo",
       "originalAlt": "Majestic SEO logo",
-      "source": "<img src=\"../../assets/images/tools/majestic-com.png\" alt=\"Majestic SEO logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/majestic-com.png\" alt=\"Majestic SEO logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 14306
     },
     {
       "src": "../../assets/images/tools/serpstat-com.png",
       "originalSrc": "../../assets/images/tools/serpstat-com.png",
       "alt": "Serpstat logo",
       "originalAlt": "Serpstat logo",
-      "source": "<img src=\"../../assets/images/tools/serpstat-com.png\" alt=\"Serpstat logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/serpstat-com.png\" alt=\"Serpstat logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 14788
     },
     {
       "src": "../../assets/images/tools/neilpatel-com.png",
       "originalSrc": "../../assets/images/tools/neilpatel-com.png",
       "alt": "Ubersuggest logo",
       "originalAlt": "Ubersuggest logo",
-      "source": "<img src=\"../../assets/images/tools/neilpatel-com.png\" alt=\"Ubersuggest logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/neilpatel-com.png\" alt=\"Ubersuggest logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 15265
     },
     {
       "src": "../../assets/images/tools/similarweb-com.png",
       "originalSrc": "../../assets/images/tools/similarweb-com.png",
       "alt": "Similarweb logo",
       "originalAlt": "Similarweb logo",
-      "source": "<img src=\"../../assets/images/tools/similarweb-com.png\" alt=\"Similarweb logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/similarweb-com.png\" alt=\"Similarweb logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 15706
     },
     {
       "src": "../../assets/images/tools/crazyegg-com.png",
       "originalSrc": "../../assets/images/tools/crazyegg-com.png",
       "alt": "Crazy Egg logo",
       "originalAlt": "Crazy Egg logo",
-      "source": "<img src=\"../../assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 16187
     },
     {
       "src": "../../assets/images/tools/buzzsumo-com.png",
       "originalSrc": "../../assets/images/tools/buzzsumo-com.png",
       "alt": "BuzzSumo logo",
       "originalAlt": "BuzzSumo logo",
-      "source": "<img src=\"../../assets/images/tools/buzzsumo-com.png\" alt=\"BuzzSumo logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
+      "source": "<img src=\"../../assets/images/tools/buzzsumo-com.png\" alt=\"BuzzSumo logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
+      "sourceOffset": 4186
     }
   ],
   "priceValues": [
     {
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
-      "source": "<span class=\"price-tag\">From $5/mo</span>"
+      "source": "<span class=\"price-tag\">From $5/mo</span>",
+      "sourceOffset": 11830
     },
     {
       "value": "From $8/mo",
       "originalValue": "From $8/mo",
-      "source": "<span class=\"price-tag\">From $8/mo</span>"
+      "source": "<span class=\"price-tag\">From $8/mo</span>",
+      "sourceOffset": 12296
     },
     {
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
-      "source": "<span class=\"price-tag\">From $5/mo</span>"
+      "source": "<span class=\"price-tag\">From $5/mo</span>",
+      "sourceOffset": 12762
     },
     {
       "value": "From $3/mo",
       "originalValue": "From $3/mo",
-      "source": "<span class=\"price-tag\">From $3/mo</span>"
+      "source": "<span class=\"price-tag\">From $3/mo</span>",
+      "sourceOffset": 13224
     },
     {
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
-      "source": "<span class=\"price-tag\">From $5/mo</span>"
+      "source": "<span class=\"price-tag\">From $5/mo</span>",
+      "sourceOffset": 13702
     },
     {
       "value": "From $3/mo",
       "originalValue": "From $3/mo",
-      "source": "<span class=\"price-tag\">From $3/mo</span>"
+      "source": "<span class=\"price-tag\">From $3/mo</span>",
+      "sourceOffset": 14176
     },
     {
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
-      "source": "<span class=\"price-tag\">From $5/mo</span>"
+      "source": "<span class=\"price-tag\">From $5/mo</span>",
+      "sourceOffset": 14662
     },
     {
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
-      "source": "<span class=\"price-tag\">From $5/mo</span>"
+      "source": "<span class=\"price-tag\">From $5/mo</span>",
+      "sourceOffset": 15136
     },
     {
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
-      "source": "<span class=\"price-tag\">From $5/mo</span>"
+      "source": "<span class=\"price-tag\">From $5/mo</span>",
+      "sourceOffset": 16060
     },
     {
       "value": "From $3-$8/month/mo",
       "originalValue": "From $3-$8/month/mo",
-      "source": "<span class=\"price-tag\">From $3-$8/month/mo</span>"
+      "source": "<span class=\"price-tag\">From $3-$8/month/mo</span>",
+      "sourceOffset": 16537
     },
     {
       "value": "$5",
       "originalValue": "$5",
       "source": "<span class=\"product-hero-price\">$5",
-      "mode": "prefix"
+      "mode": "prefix",
+      "sourceOffset": 4930
     }
   ],
   "originalPageTitle": "BuzzSumo Group Buy — Content Research Tool | SEO Group Buy Tools",
@@ -2240,115 +2367,134 @@
       "label": "SEMrush Group Buy",
       "url": "../semrush/",
       "originalUrl": "../semrush/",
-      "source": "<a href=\"../semrush/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/semrush-com.png\" alt=\"SEMrush logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>SEMrush Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>"
+      "source": "<a href=\"../semrush/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/semrush-com.png\" alt=\"SEMrush logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>SEMrush Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>",
+      "sourceOffset": 11413
     },
     {
       "label": "Ahrefs Group Buy",
       "url": "../ahrefs/",
       "originalUrl": "../ahrefs/",
-      "source": "<a href=\"../ahrefs/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/ahrefs-com.png\" alt=\"Ahrefs logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Ahrefs Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...</p> <span class=\"price-tag\">From $8/mo</span> </div>\n</a>"
+      "source": "<a href=\"../ahrefs/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/ahrefs-com.png\" alt=\"Ahrefs logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Ahrefs Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...</p> <span class=\"price-tag\">From $8/mo</span> </div>\n</a>",
+      "sourceOffset": 11883
     },
     {
       "label": "Moz Pro Group Buy",
       "url": "../moz-pro/",
       "originalUrl": "../moz-pro/",
-      "source": "<a href=\"../moz-pro/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/moz-com.png\" alt=\"Moz Pro logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Moz Pro Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>"
+      "source": "<a href=\"../moz-pro/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/moz-com.png\" alt=\"Moz Pro logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Moz Pro Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>",
+      "sourceOffset": 12349
     },
     {
       "label": "SpyFu Group Buy",
       "url": "../spyfu/",
       "originalUrl": "../spyfu/",
-      "source": "<a href=\"../spyfu/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/spyfu-com.png\" alt=\"SpyFu logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>SpyFu Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...</p> <span class=\"price-tag\">From $3/mo</span> </div>\n</a>"
+      "source": "<a href=\"../spyfu/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/spyfu-com.png\" alt=\"SpyFu logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>SpyFu Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...</p> <span class=\"price-tag\">From $3/mo</span> </div>\n</a>",
+      "sourceOffset": 12815
     },
     {
       "label": "Surfer SEO Group Buy",
       "url": "../surfer-seo/",
       "originalUrl": "../surfer-seo/",
-      "source": "<a href=\"../surfer-seo/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/surfer-seo.png\" alt=\"Surfer SEO logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Surfer SEO Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>"
+      "source": "<a href=\"../surfer-seo/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/surfer-seo.png\" alt=\"Surfer SEO logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Surfer SEO Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>",
+      "sourceOffset": 13277
     },
     {
       "label": "KWFinder Group Buy",
       "url": "../kwfinder/",
       "originalUrl": "../kwfinder/",
-      "source": "<a href=\"../kwfinder/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/kwfinder-com.png\" alt=\"KWFinder logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>KWFinder Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...</p> <span class=\"price-tag\">From $3/mo</span> </div>\n</a>"
+      "source": "<a href=\"../kwfinder/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/kwfinder-com.png\" alt=\"KWFinder logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>KWFinder Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...</p> <span class=\"price-tag\">From $3/mo</span> </div>\n</a>",
+      "sourceOffset": 13755
     },
     {
       "label": "Majestic SEO Group Buy",
       "url": "../majestic-seo/",
       "originalUrl": "../majestic-seo/",
-      "source": "<a href=\"../majestic-seo/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/majestic-com.png\" alt=\"Majestic SEO logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Majestic SEO Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>"
+      "source": "<a href=\"../majestic-seo/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/majestic-com.png\" alt=\"Majestic SEO logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Majestic SEO Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>",
+      "sourceOffset": 14229
     },
     {
       "label": "Serpstat Group Buy",
       "url": "../serpstat/",
       "originalUrl": "../serpstat/",
-      "source": "<a href=\"../serpstat/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/serpstat-com.png\" alt=\"Serpstat logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Serpstat Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>"
+      "source": "<a href=\"../serpstat/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/serpstat-com.png\" alt=\"Serpstat logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Serpstat Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>",
+      "sourceOffset": 14715
     },
     {
       "label": "Ubersuggest Group Buy",
       "url": "../ubersuggest/",
       "originalUrl": "../ubersuggest/",
-      "source": "<a href=\"../ubersuggest/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/neilpatel-com.png\" alt=\"Ubersuggest logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Ubersuggest Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competi...</p> </div>\n</a>"
+      "source": "<a href=\"../ubersuggest/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/neilpatel-com.png\" alt=\"Ubersuggest logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Ubersuggest Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competi...</p> </div>\n</a>",
+      "sourceOffset": 15189
     },
     {
       "label": "Similarweb Group Buy",
       "url": "../similarweb/",
       "originalUrl": "../similarweb/",
-      "source": "<a href=\"../similarweb/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/similarweb-com.png\" alt=\"Similarweb logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Similarweb Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>"
+      "source": "<a href=\"../similarweb/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/similarweb-com.png\" alt=\"Similarweb logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Similarweb Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>",
+      "sourceOffset": 15631
     },
     {
       "label": "Crazy Egg Group Buy",
       "url": "../crazy-egg/",
       "originalUrl": "../crazy-egg/",
-      "source": "<a href=\"../crazy-egg/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Crazy Egg Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...</p> <span class=\"price-tag\">From $3-$8/month/mo</span> </div>\n</a>"
+      "source": "<a href=\"../crazy-egg/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../../assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Crazy Egg Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...</p> <span class=\"price-tag\">From $3-$8/month/mo</span> </div>\n</a>",
+      "sourceOffset": 16113
     },
     {
       "label": "🔍 SEO Tools",
       "url": "../",
       "originalUrl": "../",
-      "source": "<a href=\"../\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>"
+      "source": "<a href=\"../\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>",
+      "sourceOffset": 17168
     },
     {
       "label": "🎨 Design Tools",
       "url": "../../design-tools/",
       "originalUrl": "../../design-tools/",
-      "source": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>"
+      "source": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>",
+      "sourceOffset": 17267
     },
     {
       "label": "🕵️ Spy & Ad Intelligence",
       "url": "../../spy-tools/",
       "originalUrl": "../../spy-tools/",
-      "source": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>"
+      "source": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>",
+      "sourceOffset": 17384
     },
     {
       "label": "✍️ AI Writing Tools",
       "url": "../../ai-writing-tools/",
       "originalUrl": "../../ai-writing-tools/",
-      "source": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>"
+      "source": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>",
+      "sourceOffset": 17508
     },
     {
       "label": "🛒 E-commerce Tools",
       "url": "../../ecommerce-tools/",
       "originalUrl": "../../ecommerce-tools/",
-      "source": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>"
+      "source": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>",
+      "sourceOffset": 17633
     },
     {
       "label": "📱 Social Media Tools",
       "url": "../../social-media-tools/",
       "originalUrl": "../../social-media-tools/",
-      "source": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>"
+      "source": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>",
+      "sourceOffset": 17757
     },
     {
       "label": "🎓 Education Tools",
       "url": "../../education-tools/",
       "originalUrl": "../../education-tools/",
-      "source": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>"
+      "source": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>",
+      "sourceOffset": 17886
     },
     {
       "label": "Card",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>",
+      "sourceOffset": 21844
     }
   ],
   "outsideGroups": [
@@ -2361,9 +2507,11 @@
           "text": "Access 50+ premium SEO tools from $5/month",
           "originalText": "Access 50+ premium SEO tools from $5/month",
           "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 16705
         }
-      ]
+      ],
+      "sourceOffset": 16678
     },
     {
       "heading": "Tool Categories",
@@ -2374,45 +2522,53 @@
           "text": "🔍 SEO Tools 12",
           "originalText": "🔍 SEO Tools 12",
           "source": "<li><a href=\"../\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17164
         },
         {
           "text": "🎨 Design Tools 5",
           "originalText": "🎨 Design Tools 5",
           "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17263
         },
         {
           "text": "🕵️ Spy & Ad Intelligence 5",
           "originalText": "🕵️ Spy & Ad Intelligence 5",
           "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17380
         },
         {
           "text": "✍️ AI Writing Tools 4",
           "originalText": "✍️ AI Writing Tools 4",
           "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17504
         },
         {
           "text": "🛒 E-commerce Tools 4",
           "originalText": "🛒 E-commerce Tools 4",
           "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17629
         },
         {
           "text": "📱 Social Media Tools 3",
           "originalText": "📱 Social Media Tools 3",
           "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17753
         },
         {
           "text": "🎓 Education Tools 3",
           "originalText": "🎓 Education Tools 3",
           "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17882
         }
-      ]
+      ],
+      "sourceOffset": 17117
     },
     {
       "heading": "Popular Tools",
@@ -2423,39 +2579,46 @@
           "text": "SEMrush Group Buy",
           "originalText": "SEMrush Group Buy",
           "source": "<li><a href=\"../semrush/\">SEMrush Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18086
         },
         {
           "text": "Ahrefs Group Buy",
           "originalText": "Ahrefs Group Buy",
           "source": "<li><a href=\"../ahrefs/\">Ahrefs Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18138
         },
         {
           "text": "Moz Pro Group Buy",
           "originalText": "Moz Pro Group Buy",
           "source": "<li><a href=\"../moz-pro/\">Moz Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18188
         },
         {
           "text": "Surfer SEO Group Buy",
           "originalText": "Surfer SEO Group Buy",
           "source": "<li><a href=\"../surfer-seo/\">Surfer SEO Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18240
         },
         {
           "text": "Canva Pro Group Buy",
           "originalText": "Canva Pro Group Buy",
           "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18298
         },
         {
           "text": "Quillbot Group Buy",
           "originalText": "Quillbot Group Buy",
           "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18370
         }
-      ]
+      ],
+      "sourceOffset": 18040
     },
     {
       "heading": "Why Choose Us",
@@ -2466,33 +2629,39 @@
           "text": "✓ 50+ Premium Tools",
           "originalText": "✓ 50+ Premium Tools",
           "source": "<li>✓ 50+ Premium Tools</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18539
         },
         {
           "text": "✓ 90%+ Uptime Guaranteed",
           "originalText": "✓ 90%+ Uptime Guaranteed",
           "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18568
         },
         {
           "text": "✓ Instant Access Setup",
           "originalText": "✓ Instant Access Setup",
           "source": "<li>✓ Instant Access Setup</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18602
         },
         {
           "text": "✓ 24/7 Support",
           "originalText": "✓ 24/7 Support",
           "source": "<li>✓ 24/7 Support</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18634
         },
         {
           "text": "✓ Secure Payments",
           "originalText": "✓ Secure Payments",
           "source": "<li>✓ Secure Payments</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 18658
         }
-      ]
+      ],
+      "sourceOffset": 18492
     },
     {
       "heading": "Ready to Get Started?",
@@ -2503,9 +2672,11 @@
           "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 18826
         }
-      ]
+      ],
+      "sourceOffset": 18795
     }
   ],
   "productHero": {
@@ -2532,19 +2703,27 @@
       {
         "text": "Instant Access",
         "originalText": "Instant Access",
-        "source": "<li>Instant Access</li>"
+        "source": "<li>Instant Access</li>",
+        "sourceOffset": 5091
       },
       {
         "text": "24/7 WhatsApp Support",
         "originalText": "24/7 WhatsApp Support",
-        "source": "<li>24/7 WhatsApp Support</li>"
+        "source": "<li>24/7 WhatsApp Support</li>",
+        "sourceOffset": 5114
       },
       {
         "text": "Secure Payment",
         "originalText": "Secure Payment",
-        "source": "<li>Secure Payment</li>"
+        "source": "<li>Secure Payment</li>",
+        "sourceOffset": 5144
       }
-    ]
+    ],
+    "nameOffset": 4650,
+    "descriptionOffset": 4677,
+    "priceOffset": 4930,
+    "imageOffset": 4186,
+    "buttonOffset": 5202
   },
   "labelTexts": [
     {

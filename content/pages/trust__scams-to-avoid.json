@@ -1117,9 +1117,11 @@
           "tag": "p",
           "text": "SEO Group Buy Tools attract scam operators because users pay upfront for shared digital access that is difficult to verify before purchasing. Recognizing common scam patterns protects users from financial loss and data theft.",
           "originalText": "SEO Group Buy Tools attract scam operators because users pay upfront for shared digital access that is difficult to verify before purchasing. Recognizing common scam patterns protects users from financial loss and data theft.",
-          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools attract scam operators because users pay upfront for shared digital access that is difficult to verify before purchasing. Recognizing common scam patterns protects users from financial loss and data theft.</p>"
+          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools attract scam operators because users pay upfront for shared digital access that is difficult to verify before purchasing. Recognizing common scam patterns protects users from financial loss and data theft.</p>",
+          "sourceOffset": 4333
         }
-      ]
+      ],
+      "sourceOffset": 4271
     },
     {
       "heading": "What are the most common scams?",
@@ -1130,135 +1132,158 @@
           "tag": "p",
           "text": "Common scams include credential harvesting, bait-and-switch tool lists, phantom uptime promises, fake lifetime deals, and pyramid referral schemes that collapse without delivering actual tool access.",
           "originalText": "Common scams include credential harvesting, bait-and-switch tool lists, phantom uptime promises, fake lifetime deals, and pyramid referral schemes that collapse without delivering actual tool access.",
-          "source": "<p class=\"answer-snippet\">Common scams include credential harvesting, bait-and-switch tool lists, phantom uptime promises, fake lifetime deals, and pyramid referral schemes that collapse without delivering actual tool access.</p>"
+          "source": "<p class=\"answer-snippet\">Common scams include credential harvesting, bait-and-switch tool lists, phantom uptime promises, fake lifetime deals, and pyramid referral schemes that collapse without delivering actual tool access.</p>",
+          "sourceOffset": 4707
         },
         {
           "tag": "p",
           "text": "Credential harvesting scams occur when fraudulent providers create convincing websites that mimic legitimate SEO Group Buy Tools services. Once users create accounts and enter payment information, the scammer collects and sells this data on the dark web, and no actual tool access is ever provided.",
           "originalText": "Credential harvesting scams occur when fraudulent providers create convincing websites that mimic legitimate SEO Group Buy Tools services. Once users create accounts and enter payment information, the scammer collects and sells this data on the dark web, and no actual tool access is ever provided.",
-          "source": "<p>Credential harvesting scams occur when fraudulent providers create convincing websites that mimic legitimate SEO Group Buy Tools services. Once users create accounts and enter payment information, the scammer collects and sells this data on the dark web, and no actual tool access is ever provided.</p>"
+          "source": "<p>Credential harvesting scams occur when fraudulent providers create convincing websites that mimic legitimate SEO Group Buy Tools services. Once users create accounts and enter payment information, the scammer collects and sells this data on the dark web, and no actual tool access is ever provided.</p>",
+          "sourceOffset": 4936
         },
         {
           "tag": "p",
           "text": "Bait-and-switch scams advertise extensive tool catalogs at attractive prices but deliver access to only a fraction of the promised tools. The provider lists premium tools like Ahrefs and SEMrush on their sales page but only provides access to low-value or free alternatives after payment.",
           "originalText": "Bait-and-switch scams advertise extensive tool catalogs at attractive prices but deliver access to only a fraction of the promised tools. The provider lists premium tools like Ahrefs and SEMrush on their sales page but only provides access to low-value or free alternatives after payment.",
-          "source": "<p>Bait-and-switch scams advertise extensive tool catalogs at attractive prices but deliver access to only a fraction of the promised tools. The provider lists premium tools like Ahrefs and SEMrush on their sales page but only provides access to low-value or free alternatives after payment.</p>"
+          "source": "<p>Bait-and-switch scams advertise extensive tool catalogs at attractive prices but deliver access to only a fraction of the promised tools. The provider lists premium tools like Ahrefs and SEMrush on their sales page but only provides access to low-value or free alternatives after payment.</p>",
+          "sourceOffset": 5241
         },
         {
           "tag": "p",
           "text": "Phantom uptime scams promise 99.9% availability but actually provide access that fails during peak hours when users need the tools most. These providers oversell their capacity, knowing that most users will not request refunds for the small amounts paid, making the scam highly profitable at scale.",
           "originalText": "Phantom uptime scams promise 99.9% availability but actually provide access that fails during peak hours when users need the tools most. These providers oversell their capacity, knowing that most users will not request refunds for the small amounts paid, making the scam highly profitable at scale.",
-          "source": "<p>Phantom uptime scams promise 99.9% availability but actually provide access that fails during peak hours when users need the tools most. These providers oversell their capacity, knowing that most users will not request refunds for the small amounts paid, making the scam highly profitable at scale.</p>"
+          "source": "<p>Phantom uptime scams promise 99.9% availability but actually provide access that fails during peak hours when users need the tools most. These providers oversell their capacity, knowing that most users will not request refunds for the small amounts paid, making the scam highly profitable at scale.</p>",
+          "sourceOffset": 5536
         },
         {
           "tag": "th",
           "text": "Scam Type",
           "originalText": "Scam Type",
-          "source": "<th>Scam Type</th>"
+          "source": "<th>Scam Type</th>",
+          "sourceOffset": 5902
         },
         {
           "tag": "th",
           "text": "How It Works",
           "originalText": "How It Works",
-          "source": "<th>How It Works</th>"
+          "source": "<th>How It Works</th>",
+          "sourceOffset": 5920
         },
         {
           "tag": "th",
           "text": "Typical Loss",
           "originalText": "Typical Loss",
-          "source": "<th>Typical Loss</th>"
+          "source": "<th>Typical Loss</th>",
+          "sourceOffset": 5941
         },
         {
           "tag": "td",
           "text": "Credential Harvesting",
           "originalText": "Credential Harvesting",
-          "source": "<td>Credential Harvesting</td>"
+          "source": "<td>Credential Harvesting</td>",
+          "sourceOffset": 5986
         },
         {
           "tag": "td",
           "text": "Fake site collects login/payment data",
           "originalText": "Fake site collects login/payment data",
-          "source": "<td>Fake site collects login/payment data</td>"
+          "source": "<td>Fake site collects login/payment data</td>",
+          "sourceOffset": 6016
         },
         {
           "tag": "td",
           "text": "$0–$500+ (identity theft)",
           "originalText": "$0–$500+ (identity theft)",
-          "source": "<td>$0–$500+ (identity theft)</td>"
+          "source": "<td>$0–$500+ (identity theft)</td>",
+          "sourceOffset": 6062
         },
         {
           "tag": "td",
           "text": "Bait-and-Switch",
           "originalText": "Bait-and-Switch",
-          "source": "<td>Bait-and-Switch</td>"
+          "source": "<td>Bait-and-Switch</td>",
+          "sourceOffset": 6105
         },
         {
           "tag": "td",
           "text": "Advertised tools not actually available",
           "originalText": "Advertised tools not actually available",
-          "source": "<td>Advertised tools not actually available</td>"
+          "source": "<td>Advertised tools not actually available</td>",
+          "sourceOffset": 6129
         },
         {
           "tag": "td",
           "text": "$10–$50/month",
           "originalText": "$10–$50/month",
-          "source": "<td>$10–$50/month</td>"
+          "source": "<td>$10–$50/month</td>",
+          "sourceOffset": 6177
         },
         {
           "tag": "td",
           "text": "Phantom Uptime",
           "originalText": "Phantom Uptime",
-          "source": "<td>Phantom Uptime</td>"
+          "source": "<td>Phantom Uptime</td>",
+          "sourceOffset": 6208
         },
         {
           "tag": "td",
           "text": "Access fails during peak hours",
           "originalText": "Access fails during peak hours",
-          "source": "<td>Access fails during peak hours</td>"
+          "source": "<td>Access fails during peak hours</td>",
+          "sourceOffset": 6231
         },
         {
           "tag": "td",
           "text": "$10–$30/month",
           "originalText": "$10–$30/month",
-          "source": "<td>$10–$30/month</td>"
+          "source": "<td>$10–$30/month</td>",
+          "sourceOffset": 6270
         },
         {
           "tag": "td",
           "text": "Fake Lifetime Deal",
           "originalText": "Fake Lifetime Deal",
-          "source": "<td>Fake Lifetime Deal</td>"
+          "source": "<td>Fake Lifetime Deal</td>",
+          "sourceOffset": 6301
         },
         {
           "tag": "td",
           "text": "One-time payment, service disappears",
           "originalText": "One-time payment, service disappears",
-          "source": "<td>One-time payment, service disappears</td>"
+          "source": "<td>One-time payment, service disappears</td>",
+          "sourceOffset": 6328
         },
         {
           "tag": "td",
           "text": "$50–$200 one-time",
           "originalText": "$50–$200 one-time",
-          "source": "<td>$50–$200 one-time</td>"
+          "source": "<td>$50–$200 one-time</td>",
+          "sourceOffset": 6373
         },
         {
           "tag": "td",
           "text": "Pyramid Referral",
           "originalText": "Pyramid Referral",
-          "source": "<td>Pyramid Referral</td>"
+          "source": "<td>Pyramid Referral</td>",
+          "sourceOffset": 6408
         },
         {
           "tag": "td",
           "text": "Earnings from referrals, not tools",
           "originalText": "Earnings from referrals, not tools",
-          "source": "<td>Earnings from referrals, not tools</td>"
+          "source": "<td>Earnings from referrals, not tools</td>",
+          "sourceOffset": 6433
         },
         {
           "tag": "td",
           "text": "$20–$100 referral fees",
           "originalText": "$20–$100 referral fees",
-          "source": "<td>$20–$100 referral fees</td>"
+          "source": "<td>$20–$100 referral fees</td>",
+          "sourceOffset": 6476
         }
-      ]
+      ],
+      "sourceOffset": 4667
     },
     {
       "heading": "What are the warning signs of scam providers?",
@@ -1269,153 +1294,179 @@
           "tag": "p",
           "text": "Warning signs include newly registered domains, crypto-only payments, no customer support, unrealistic pricing, copied website content, and absent refund policies that collectively indicate fraudulent intent.",
           "originalText": "Warning signs include newly registered domains, crypto-only payments, no customer support, unrealistic pricing, copied website content, and absent refund policies that collectively indicate fraudulent intent.",
-          "source": "<p class=\"answer-snippet\">Warning signs include newly registered domains, crypto-only payments, no customer support, unrealistic pricing, copied website content, and absent refund policies that collectively indicate fraudulent intent.</p>"
+          "source": "<p class=\"answer-snippet\">Warning signs include newly registered domains, crypto-only payments, no customer support, unrealistic pricing, copied website content, and absent refund policies that collectively indicate fraudulent intent.</p>",
+          "sourceOffset": 6853
         },
         {
           "tag": "p",
           "text": "Newly registered domains are the strongest initial indicator of a potential scam in the SEO Group Buy Tools market. Legitimate providers build reputation over years, while scam operators create new domains every few months after their previous sites accumulate negative reviews and complaints.",
           "originalText": "Newly registered domains are the strongest initial indicator of a potential scam in the SEO Group Buy Tools market. Legitimate providers build reputation over years, while scam operators create new domains every few months after their previous sites accumulate negative reviews and complaints.",
-          "source": "<p>Newly registered domains are the strongest initial indicator of a potential scam in the SEO Group Buy Tools market. Legitimate providers build reputation over years, while scam operators create new domains every few months after their previous sites accumulate negative reviews and complaints.</p>"
+          "source": "<p>Newly registered domains are the strongest initial indicator of a potential scam in the SEO Group Buy Tools market. Legitimate providers build reputation over years, while scam operators create new domains every few months after their previous sites accumulate negative reviews and complaints.</p>",
+          "sourceOffset": 7091
         },
         {
           "tag": "p",
           "text": "Payment method restrictions provide another clear warning sign. Providers that only accept cryptocurrency or irreversible payment methods eliminate the consumer protection that credit card chargebacks and PayPal dispute resolution provide, making it nearly impossible to recover funds if the service is fraudulent.",
           "originalText": "Payment method restrictions provide another clear warning sign. Providers that only accept cryptocurrency or irreversible payment methods eliminate the consumer protection that credit card chargebacks and PayPal dispute resolution provide, making it nearly impossible to recover funds if the service is fraudulent.",
-          "source": "<p>Payment method restrictions provide another clear warning sign. Providers that only accept cryptocurrency or irreversible payment methods eliminate the consumer protection that credit card chargebacks and PayPal dispute resolution provide, making it nearly impossible to recover funds if the service is fraudulent.</p>"
+          "source": "<p>Payment method restrictions provide another clear warning sign. Providers that only accept cryptocurrency or irreversible payment methods eliminate the consumer protection that credit card chargebacks and PayPal dispute resolution provide, making it nearly impossible to recover funds if the service is fraudulent.</p>",
+          "sourceOffset": 7391
         },
         {
           "tag": "p",
           "text": "Copy-pasted website content and stock photography without genuine team information suggest the operator is not a real business. Legitimate SEO Group Buy Tools providers feature original content, verifiable team members, and consistent branding across their web presence and social media profiles.",
           "originalText": "Copy-pasted website content and stock photography without genuine team information suggest the operator is not a real business. Legitimate SEO Group Buy Tools providers feature original content, verifiable team members, and consistent branding across their web presence and social media profiles.",
-          "source": "<p>Copy-pasted website content and stock photography without genuine team information suggest the operator is not a real business. Legitimate SEO Group Buy Tools providers feature original content, verifiable team members, and consistent branding across their web presence and social media profiles.</p>"
+          "source": "<p>Copy-pasted website content and stock photography without genuine team information suggest the operator is not a real business. Legitimate SEO Group Buy Tools providers feature original content, verifiable team members, and consistent branding across their web presence and social media profiles.</p>",
+          "sourceOffset": 7712
         },
         {
           "tag": "th",
           "text": "Warning Sign",
           "originalText": "Warning Sign",
-          "source": "<th>Warning Sign</th>"
+          "source": "<th>Warning Sign</th>",
+          "sourceOffset": 8076
         },
         {
           "tag": "th",
           "text": "Severity",
           "originalText": "Severity",
-          "source": "<th>Severity</th>"
+          "source": "<th>Severity</th>",
+          "sourceOffset": 8097
         },
         {
           "tag": "th",
           "text": "Action to Take",
           "originalText": "Action to Take",
-          "source": "<th>Action to Take</th>"
+          "source": "<th>Action to Take</th>",
+          "sourceOffset": 8114
         },
         {
           "tag": "td",
           "text": "Domain under 6 months old",
           "originalText": "Domain under 6 months old",
-          "source": "<td>Domain under 6 months old</td>"
+          "source": "<td>Domain under 6 months old</td>",
+          "sourceOffset": 8161
         },
         {
           "tag": "td",
           "text": "High",
           "originalText": "High",
-          "source": "<td>High</td>"
+          "source": "<td>High</td>",
+          "sourceOffset": 8195
         },
         {
           "tag": "td",
           "text": "Check WHOIS records before purchasing",
           "originalText": "Check WHOIS records before purchasing",
-          "source": "<td>Check WHOIS records before purchasing</td>"
+          "source": "<td>Check WHOIS records before purchasing</td>",
+          "sourceOffset": 8208
         },
         {
           "tag": "td",
           "text": "Crypto-only payments",
           "originalText": "Crypto-only payments",
-          "source": "<td>Crypto-only payments</td>"
+          "source": "<td>Crypto-only payments</td>",
+          "sourceOffset": 8263
         },
         {
           "tag": "td",
           "text": "High",
           "originalText": "High",
-          "source": "<td>High</td>"
+          "source": "<td>High</td>",
+          "sourceOffset": 8292
         },
         {
           "tag": "td",
           "text": "Only use providers with card/PayPal options",
           "originalText": "Only use providers with card/PayPal options",
-          "source": "<td>Only use providers with card/PayPal options</td>"
+          "source": "<td>Only use providers with card/PayPal options</td>",
+          "sourceOffset": 8305
         },
         {
           "tag": "td",
           "text": "No refund policy",
           "originalText": "No refund policy",
-          "source": "<td>No refund policy</td>"
+          "source": "<td>No refund policy</td>",
+          "sourceOffset": 8366
         },
         {
           "tag": "td",
           "text": "High",
           "originalText": "High",
-          "source": "<td>High</td>"
+          "source": "<td>High</td>",
+          "sourceOffset": 8391
         },
         {
           "tag": "td",
           "text": "Avoid providers without clear refund terms",
           "originalText": "Avoid providers without clear refund terms",
-          "source": "<td>Avoid providers without clear refund terms</td>"
+          "source": "<td>Avoid providers without clear refund terms</td>",
+          "sourceOffset": 8404
         },
         {
           "tag": "td",
           "text": "No support channels",
           "originalText": "No support channels",
-          "source": "<td>No support channels</td>"
+          "source": "<td>No support channels</td>",
+          "sourceOffset": 8464
         },
         {
           "tag": "td",
           "text": "Medium",
           "originalText": "Medium",
-          "source": "<td>Medium</td>"
+          "source": "<td>Medium</td>",
+          "sourceOffset": 8492
         },
         {
           "tag": "td",
           "text": "Test support before buying",
           "originalText": "Test support before buying",
-          "source": "<td>Test support before buying</td>"
+          "source": "<td>Test support before buying</td>",
+          "sourceOffset": 8507
         },
         {
           "tag": "td",
           "text": "Prices below $3/month",
           "originalText": "Prices below $3/month",
-          "source": "<td>Prices below $3/month</td>"
+          "source": "<td>Prices below $3/month</td>",
+          "sourceOffset": 8551
         },
         {
           "tag": "td",
           "text": "Medium",
           "originalText": "Medium",
-          "source": "<td>Medium</td>"
+          "source": "<td>Medium</td>",
+          "sourceOffset": 8581
         },
         {
           "tag": "td",
           "text": "Compare with market averages",
           "originalText": "Compare with market averages",
-          "source": "<td>Compare with market averages</td>"
+          "source": "<td>Compare with market averages</td>",
+          "sourceOffset": 8596
         },
         {
           "tag": "td",
           "text": "Copied website content",
           "originalText": "Copied website content",
-          "source": "<td>Copied website content</td>"
+          "source": "<td>Copied website content</td>",
+          "sourceOffset": 8642
         },
         {
           "tag": "td",
           "text": "Medium",
           "originalText": "Medium",
-          "source": "<td>Medium</td>"
+          "source": "<td>Medium</td>",
+          "sourceOffset": 8673
         },
         {
           "tag": "td",
           "text": "Search for original source of content",
           "originalText": "Search for original source of content",
-          "source": "<td>Search for original source of content</td>"
+          "source": "<td>Search for original source of content</td>",
+          "sourceOffset": 8688
         }
-      ]
+      ],
+      "sourceOffset": 6799
     },
     {
       "heading": "How can you protect yourself?",
@@ -1426,27 +1477,32 @@
           "tag": "p",
           "text": "Protect yourself by using credit cards for chargeback protection, testing support before purchasing, starting with monthly plans, enabling two-factor authentication, and never sharing personal account credentials.",
           "originalText": "Protect yourself by using credit cards for chargeback protection, testing support before purchasing, starting with monthly plans, enabling two-factor authentication, and never sharing personal account credentials.",
-          "source": "<p class=\"answer-snippet\">Protect yourself by using credit cards for chargeback protection, testing support before purchasing, starting with monthly plans, enabling two-factor authentication, and never sharing personal account credentials.</p>"
+          "source": "<p class=\"answer-snippet\">Protect yourself by using credit cards for chargeback protection, testing support before purchasing, starting with monthly plans, enabling two-factor authentication, and never sharing personal account credentials.</p>",
+          "sourceOffset": 9036
         },
         {
           "tag": "p",
           "text": "Always use credit cards or PayPal when purchasing access to SEO Group Buy Tools, as these payment methods offer built-in fraud protection and chargeback mechanisms. If a provider only accepts cryptocurrency or bank transfers, the risk of unrecoverable financial loss increases dramatically.",
           "originalText": "Always use credit cards or PayPal when purchasing access to SEO Group Buy Tools, as these payment methods offer built-in fraud protection and chargeback mechanisms. If a provider only accepts cryptocurrency or bank transfers, the risk of unrecoverable financial loss increases dramatically.",
-          "source": "<p>Always use credit cards or PayPal when purchasing access to SEO Group Buy Tools, as these payment methods offer built-in fraud protection and chargeback mechanisms. If a provider only accepts cryptocurrency or bank transfers, the risk of unrecoverable financial loss increases dramatically.</p>"
+          "source": "<p>Always use credit cards or PayPal when purchasing access to SEO Group Buy Tools, as these payment methods offer built-in fraud protection and chargeback mechanisms. If a provider only accepts cryptocurrency or bank transfers, the risk of unrecoverable financial loss increases dramatically.</p>",
+          "sourceOffset": 9279
         },
         {
           "tag": "p",
           "text": "Start with the shortest subscription period available, typically one month, rather than committing to annual plans regardless of the discount offered. This approach limits your financial exposure while you evaluate whether the provider delivers on its promises regarding tool availability and uptime.",
           "originalText": "Start with the shortest subscription period available, typically one month, rather than committing to annual plans regardless of the discount offered. This approach limits your financial exposure while you evaluate whether the provider delivers on its promises regarding tool availability and uptime.",
-          "source": "<p>Start with the shortest subscription period available, typically one month, rather than committing to annual plans regardless of the discount offered. This approach limits your financial exposure while you evaluate whether the provider delivers on its promises regarding tool availability and uptime.</p>"
+          "source": "<p>Start with the shortest subscription period available, typically one month, rather than committing to annual plans regardless of the discount offered. This approach limits your financial exposure while you evaluate whether the provider delivers on its promises regarding tool availability and uptime.</p>",
+          "sourceOffset": 9576
         },
         {
           "tag": "p",
           "text": "Never provide your personal account credentials for any third-party platform to a group buy provider. Legitimate services provide their own access infrastructure and have no reason to request your personal login details for Ahrefs, SEMrush, or any other premium tool.",
           "originalText": "Never provide your personal account credentials for any third-party platform to a group buy provider. Legitimate services provide their own access infrastructure and have no reason to request your personal login details for Ahrefs, SEMrush, or any other premium tool.",
-          "source": "<p>Never provide your personal account credentials for any third-party platform to a group buy provider. Legitimate services provide their own access infrastructure and have no reason to request your personal login details for Ahrefs, SEMrush, or any other premium tool.</p>"
+          "source": "<p>Never provide your personal account credentials for any third-party platform to a group buy provider. Legitimate services provide their own access infrastructure and have no reason to request your personal login details for Ahrefs, SEMrush, or any other premium tool.</p>",
+          "sourceOffset": 9883
         }
-      ]
+      ],
+      "sourceOffset": 8998
     },
     {
       "heading": "What should you do if you are scammed?",
@@ -1457,153 +1513,179 @@
           "tag": "p",
           "text": "If scammed, immediately dispute the charge with your payment provider, change any shared passwords, report the site to hosting and domain registrars, and warn others through SEO community forums and review platforms. Contact your credit card issuer or PayPal immediately to initiate a chargeback dispute.",
           "originalText": "If scammed, immediately dispute the charge with your payment provider, change any shared passwords, report the site to hosting and domain registrars, and warn others through SEO community forums and review platforms. Contact your credit card issuer or PayPal immediately to initiate a chargeback dispute.",
-          "source": "<p class=\"answer-snippet\">If scammed, immediately dispute the charge with your payment provider, change any shared passwords, report the site to hosting and domain registrars, and warn others through SEO community forums and review platforms. Contact your credit card issuer or PayPal immediately to initiate a chargeback dispute.</p>"
+          "source": "<p class=\"answer-snippet\">If scammed, immediately dispute the charge with your payment provider, change any shared passwords, report the site to hosting and domain registrars, and warn others through SEO community forums and review platforms. Contact your credit card issuer or PayPal immediately to initiate a chargeback dispute.</p>",
+          "sourceOffset": 10490
         },
         {
           "tag": "p",
           "text": "Most providers allow disputes within 60-120 days of the transaction, and demonstrating that the service was not delivered as advertised typically results in a successful resolution for the consumer.",
           "originalText": "Most providers allow disputes within 60-120 days of the transaction, and demonstrating that the service was not delivered as advertised typically results in a successful resolution for the consumer.",
-          "source": "<p>Most providers allow disputes within 60-120 days of the transaction, and demonstrating that the service was not delivered as advertised typically results in a successful resolution for the consumer.</p>"
+          "source": "<p>Most providers allow disputes within 60-120 days of the transaction, and demonstrating that the service was not delivered as advertised typically results in a successful resolution for the consumer.</p>",
+          "sourceOffset": 10824
         },
         {
           "tag": "p",
           "text": "Change every password that you may have used or shared during the scam interaction, even if you believe you only provided payment information. Scam operators often use credential-stuffing techniques to attempt access across multiple platforms using any information they collect.",
           "originalText": "Change every password that you may have used or shared during the scam interaction, even if you believe you only provided payment information. Scam operators often use credential-stuffing techniques to attempt access across multiple platforms using any information they collect.",
-          "source": "<p>Change every password that you may have used or shared during the scam interaction, even if you believe you only provided payment information. Scam operators often use credential-stuffing techniques to attempt access across multiple platforms using any information they collect.</p>"
+          "source": "<p>Change every password that you may have used or shared during the scam interaction, even if you believe you only provided payment information. Scam operators often use credential-stuffing techniques to attempt access across multiple platforms using any information they collect.</p>",
+          "sourceOffset": 11029
         },
         {
           "tag": "p",
           "text": "Report the fraudulent provider to their domain registrar, hosting company, and relevant consumer protection agencies. Most registrars have abuse departments that investigate fraudulent websites and can suspend domains that are being used for scams, helping protect other potential victims.",
           "originalText": "Report the fraudulent provider to their domain registrar, hosting company, and relevant consumer protection agencies. Most registrars have abuse departments that investigate fraudulent websites and can suspend domains that are being used for scams, helping protect other potential victims.",
-          "source": "<p>Report the fraudulent provider to their domain registrar, hosting company, and relevant consumer protection agencies. Most registrars have abuse departments that investigate fraudulent websites and can suspend domains that are being used for scams, helping protect other potential victims.</p>"
+          "source": "<p>Report the fraudulent provider to their domain registrar, hosting company, and relevant consumer protection agencies. Most registrars have abuse departments that investigate fraudulent websites and can suspend domains that are being used for scams, helping protect other potential victims.</p>",
+          "sourceOffset": 11314
         },
         {
           "tag": "th",
           "text": "Step",
           "originalText": "Step",
-          "source": "<th>Step</th>"
+          "source": "<th>Step</th>",
+          "sourceOffset": 11671
         },
         {
           "tag": "th",
           "text": "Action",
           "originalText": "Action",
-          "source": "<th>Action</th>"
+          "source": "<th>Action</th>",
+          "sourceOffset": 11684
         },
         {
           "tag": "th",
           "text": "Timeline",
           "originalText": "Timeline",
-          "source": "<th>Timeline</th>"
+          "source": "<th>Timeline</th>",
+          "sourceOffset": 11699
         },
         {
           "tag": "td",
           "text": "1",
           "originalText": "1",
-          "source": "<td>1</td>"
+          "source": "<td>1</td>",
+          "sourceOffset": 11740
         },
         {
           "tag": "td",
           "text": "Dispute charge with payment provider",
           "originalText": "Dispute charge with payment provider",
-          "source": "<td>Dispute charge with payment provider</td>"
+          "source": "<td>Dispute charge with payment provider</td>",
+          "sourceOffset": 11750
         },
         {
           "tag": "td",
           "text": "Within 24 hours",
           "originalText": "Within 24 hours",
-          "source": "<td>Within 24 hours</td>"
+          "source": "<td>Within 24 hours</td>",
+          "sourceOffset": 11795
         },
         {
           "tag": "td",
           "text": "2",
           "originalText": "2",
-          "source": "<td>2</td>"
+          "source": "<td>2</td>",
+          "sourceOffset": 11828
         },
         {
           "tag": "td",
           "text": "Change all potentially compromised passwords",
           "originalText": "Change all potentially compromised passwords",
-          "source": "<td>Change all potentially compromised passwords</td>"
+          "source": "<td>Change all potentially compromised passwords</td>",
+          "sourceOffset": 11838
         },
         {
           "tag": "td",
           "text": "Within 24 hours",
           "originalText": "Within 24 hours",
-          "source": "<td>Within 24 hours</td>"
+          "source": "<td>Within 24 hours</td>",
+          "sourceOffset": 11891
         },
         {
           "tag": "td",
           "text": "3",
           "originalText": "3",
-          "source": "<td>3</td>"
+          "source": "<td>3</td>",
+          "sourceOffset": 11924
         },
         {
           "tag": "td",
           "text": "Report to domain registrar (abuse department)",
           "originalText": "Report to domain registrar (abuse department)",
-          "source": "<td>Report to domain registrar (abuse department)</td>"
+          "source": "<td>Report to domain registrar (abuse department)</td>",
+          "sourceOffset": 11934
         },
         {
           "tag": "td",
           "text": "Within 48 hours",
           "originalText": "Within 48 hours",
-          "source": "<td>Within 48 hours</td>"
+          "source": "<td>Within 48 hours</td>",
+          "sourceOffset": 11988
         },
         {
           "tag": "td",
           "text": "4",
           "originalText": "4",
-          "source": "<td>4</td>"
+          "source": "<td>4</td>",
+          "sourceOffset": 12021
         },
         {
           "tag": "td",
           "text": "Post warnings on SEO forums and review sites",
           "originalText": "Post warnings on SEO forums and review sites",
-          "source": "<td>Post warnings on SEO forums and review sites</td>"
+          "source": "<td>Post warnings on SEO forums and review sites</td>",
+          "sourceOffset": 12031
         },
         {
           "tag": "td",
           "text": "Within 48 hours",
           "originalText": "Within 48 hours",
-          "source": "<td>Within 48 hours</td>"
+          "source": "<td>Within 48 hours</td>",
+          "sourceOffset": 12084
         },
         {
           "tag": "td",
           "text": "5",
           "originalText": "5",
-          "source": "<td>5</td>"
+          "source": "<td>5</td>",
+          "sourceOffset": 12117
         },
         {
           "tag": "td",
           "text": "File complaint with consumer protection agency",
           "originalText": "File complaint with consumer protection agency",
-          "source": "<td>File complaint with consumer protection agency</td>"
+          "source": "<td>File complaint with consumer protection agency</td>",
+          "sourceOffset": 12127
         },
         {
           "tag": "td",
           "text": "Within 1 week",
           "originalText": "Within 1 week",
-          "source": "<td>Within 1 week</td>"
+          "source": "<td>Within 1 week</td>",
+          "sourceOffset": 12182
         },
         {
           "tag": "td",
           "text": "6",
           "originalText": "6",
-          "source": "<td>6</td>"
+          "source": "<td>6</td>",
+          "sourceOffset": 12213
         },
         {
           "tag": "td",
           "text": "Monitor accounts for unauthorized activity",
           "originalText": "Monitor accounts for unauthorized activity",
-          "source": "<td>Monitor accounts for unauthorized activity</td>"
+          "source": "<td>Monitor accounts for unauthorized activity</td>",
+          "sourceOffset": 12223
         },
         {
           "tag": "td",
           "text": "Ongoing for 90 days",
           "originalText": "Ongoing for 90 days",
-          "source": "<td>Ongoing for 90 days</td>"
+          "source": "<td>Ongoing for 90 days</td>",
+          "sourceOffset": 12274
         }
-      ]
+      ],
+      "sourceOffset": 10443
     },
     {
       "heading": "What Are the References for This Page?",
@@ -1614,33 +1696,39 @@
           "tag": "li",
           "text": "Internet Fraud Statistics Report 2026, Cybercrime Prevention Bureau",
           "originalText": "Internet Fraud Statistics Report 2026, Cybercrime Prevention Bureau",
-          "source": "<li>Internet Fraud Statistics Report 2026, Cybercrime Prevention Bureau</li>"
+          "source": "<li>Internet Fraud Statistics Report 2026, Cybercrime Prevention Bureau</li>",
+          "sourceOffset": 12641
         },
         {
           "tag": "li",
           "text": "Consumer Chargeback Rights in Digital Services, Payment Protection Alliance",
           "originalText": "Consumer Chargeback Rights in Digital Services, Payment Protection Alliance",
-          "source": "<li>Consumer Chargeback Rights in Digital Services, Payment Protection Alliance</li>"
+          "source": "<li>Consumer Chargeback Rights in Digital Services, Payment Protection Alliance</li>",
+          "sourceOffset": 12717
         },
         {
           "tag": "li",
           "text": "Domain Abuse Reporting Procedures, ICANN Guidelines Update 2025",
           "originalText": "Domain Abuse Reporting Procedures, ICANN Guidelines Update 2025",
-          "source": "<li>Domain Abuse Reporting Procedures, ICANN Guidelines Update 2025</li>"
+          "source": "<li>Domain Abuse Reporting Procedures, ICANN Guidelines Update 2025</li>",
+          "sourceOffset": 12801
         },
         {
           "tag": "li",
           "text": "SEO Industry Fraud Patterns, Digital Marketing Security Consortium",
           "originalText": "SEO Industry Fraud Patterns, Digital Marketing Security Consortium",
-          "source": "<li>SEO Industry Fraud Patterns, Digital Marketing Security Consortium</li>"
+          "source": "<li>SEO Industry Fraud Patterns, Digital Marketing Security Consortium</li>",
+          "sourceOffset": 12873
         },
         {
           "tag": "li",
           "text": "Identity Theft Prevention After Online Scams, Federal Trade Commission Advisory",
           "originalText": "Identity Theft Prevention After Online Scams, Federal Trade Commission Advisory",
-          "source": "<li>Identity Theft Prevention After Online Scams, Federal Trade Commission Advisory</li>"
+          "source": "<li>Identity Theft Prevention After Online Scams, Federal Trade Commission Advisory</li>",
+          "sourceOffset": 12948
         }
-      ]
+      ],
+      "sourceOffset": 12566
     }
   ],
   "buttons": [
@@ -1649,140 +1737,160 @@
       "originalText": "What Is SEO Group Buy Tools",
       "url": "../../",
       "originalUrl": "../../",
-      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>"
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>",
+      "sourceOffset": 6556
     },
     {
       "text": "Is It Safe",
       "originalText": "Is It Safe",
       "url": "../../is-it-safe/",
       "originalUrl": "../../is-it-safe/",
-      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>"
+      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>",
+      "sourceOffset": 6606
     },
     {
       "text": "Best Providers",
       "originalText": "Best Providers",
       "url": "../../best-providers/",
       "originalUrl": "../../best-providers/",
-      "source": "<a href=\"../../best-providers/\">Best Providers</a>"
+      "source": "<a href=\"../../best-providers/\">Best Providers</a>",
+      "sourceOffset": 6650
     },
     {
       "text": "Why SEO Tools Are Expensive",
       "originalText": "Why SEO Tools Are Expensive",
       "url": "../../trust/why-seo-tools-expensive/",
       "originalUrl": "../../trust/why-seo-tools-expensive/",
-      "source": "<a href=\"../../trust/why-seo-tools-expensive/\">Why SEO Tools Are Expensive</a>"
+      "source": "<a href=\"../../trust/why-seo-tools-expensive/\">Why SEO Tools Are Expensive</a>",
+      "sourceOffset": 8783
     },
     {
       "text": "Combo Plans",
       "originalText": "Combo Plans",
       "url": "../../pricing/combo-plans/",
       "originalUrl": "../../pricing/combo-plans/",
-      "source": "<a href=\"../../pricing/combo-plans/\">Combo Plans</a>"
+      "source": "<a href=\"../../pricing/combo-plans/\">Combo Plans</a>",
+      "sourceOffset": 8863
     },
     {
       "text": "What Is SEO Group Buy Tools",
       "originalText": "What Is SEO Group Buy Tools",
       "url": "../../",
       "originalUrl": "../../",
-      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>"
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>",
+      "sourceOffset": 10179
     },
     {
       "text": "Is It Safe",
       "originalText": "Is It Safe",
       "url": "../../is-it-safe/",
       "originalUrl": "../../is-it-safe/",
-      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>"
+      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>",
+      "sourceOffset": 10229
     },
     {
       "text": "Why SEO Tools Are Expensive",
       "originalText": "Why SEO Tools Are Expensive",
       "url": "../../trust/why-seo-tools-expensive/",
       "originalUrl": "../../trust/why-seo-tools-expensive/",
-      "source": "<a href=\"../../trust/why-seo-tools-expensive/\">Why SEO Tools Are Expensive</a>"
+      "source": "<a href=\"../../trust/why-seo-tools-expensive/\">Why SEO Tools Are Expensive</a>",
+      "sourceOffset": 10273
     },
     {
       "text": "Best Providers",
       "originalText": "Best Providers",
       "url": "../../best-providers/",
       "originalUrl": "../../best-providers/",
-      "source": "<a href=\"../../best-providers/\">Best Providers</a>"
+      "source": "<a href=\"../../best-providers/\">Best Providers</a>",
+      "sourceOffset": 12351
     },
     {
       "text": "Combo Plans",
       "originalText": "Combo Plans",
       "url": "../../pricing/combo-plans/",
       "originalUrl": "../../pricing/combo-plans/",
-      "source": "<a href=\"../../pricing/combo-plans/\">Combo Plans</a>"
+      "source": "<a href=\"../../pricing/combo-plans/\">Combo Plans</a>",
+      "sourceOffset": 12403
     },
     {
       "text": "💬 WhatsApp Us",
       "originalText": "💬 WhatsApp Us",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>",
+      "sourceOffset": 13208
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>"
+      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>",
+      "sourceOffset": 13449
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 14539
     },
     {
       "text": "Ahrefs Group Buy",
       "originalText": "Ahrefs Group Buy",
       "url": "../../seo-tools/ahrefs/",
       "originalUrl": "../../seo-tools/ahrefs/",
-      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 14604
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../../seo-tools/moz-pro/",
       "originalUrl": "../../seo-tools/moz-pro/",
-      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 14667
     },
     {
       "text": "Surfer SEO Group Buy",
       "originalText": "Surfer SEO Group Buy",
       "url": "../../seo-tools/surfer-seo/",
       "originalUrl": "../../seo-tools/surfer-seo/",
-      "source": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
+      "sourceOffset": 14732
     },
     {
       "text": "Canva Pro Group Buy",
       "originalText": "Canva Pro Group Buy",
       "url": "../../design-tools/canva-pro/",
       "originalUrl": "../../design-tools/canva-pro/",
-      "source": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>"
+      "source": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
+      "sourceOffset": 14803
     },
     {
       "text": "Quillbot Group Buy",
       "originalText": "Quillbot Group Buy",
       "url": "../../ai-writing-tools/quillbot/",
       "originalUrl": "../../ai-writing-tools/quillbot/",
-      "source": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>"
+      "source": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
+      "sourceOffset": 14875
     },
     {
       "text": "💬 WhatsApp Us Now",
       "originalText": "💬 WhatsApp Us Now",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>",
+      "sourceOffset": 15497
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>"
+      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>",
+      "sourceOffset": 15739
     }
   ],
   "mediaImages": [],
@@ -1795,49 +1903,57 @@
       "label": "🔍 SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>",
+      "sourceOffset": 13604
     },
     {
       "label": "🎨 Design Tools",
       "url": "../../design-tools/",
       "originalUrl": "../../design-tools/",
-      "source": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>"
+      "source": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>",
+      "sourceOffset": 13716
     },
     {
       "label": "🕵️ Spy & Ad Intelligence",
       "url": "../../spy-tools/",
       "originalUrl": "../../spy-tools/",
-      "source": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>"
+      "source": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>",
+      "sourceOffset": 13833
     },
     {
       "label": "✍️ AI Writing Tools",
       "url": "../../ai-writing-tools/",
       "originalUrl": "../../ai-writing-tools/",
-      "source": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>"
+      "source": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>",
+      "sourceOffset": 13957
     },
     {
       "label": "🛒 E-commerce Tools",
       "url": "../../ecommerce-tools/",
       "originalUrl": "../../ecommerce-tools/",
-      "source": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>"
+      "source": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>",
+      "sourceOffset": 14082
     },
     {
       "label": "📱 Social Media Tools",
       "url": "../../social-media-tools/",
       "originalUrl": "../../social-media-tools/",
-      "source": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>"
+      "source": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>",
+      "sourceOffset": 14206
     },
     {
       "label": "🎓 Education Tools",
       "url": "../../education-tools/",
       "originalUrl": "../../education-tools/",
-      "source": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>"
+      "source": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>",
+      "sourceOffset": 14335
     },
     {
       "label": "Card",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>",
+      "sourceOffset": 18297
     }
   ],
   "outsideGroups": [
@@ -1845,7 +1961,8 @@
       "heading": "Common Group Buy Scams to Avoid",
       "originalHeading": "Common Group Buy Scams to Avoid",
       "headingSource": "<h1>Common Group Buy Scams to Avoid</h1>",
-      "items": []
+      "items": [],
+      "sourceOffset": 4020
     },
     {
       "heading": "Get Started Today",
@@ -1856,9 +1973,11 @@
           "text": "Access 50+ premium SEO tools from $5/month",
           "originalText": "Access 50+ premium SEO tools from $5/month",
           "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 13141
         }
-      ]
+      ],
+      "sourceOffset": 13114
     },
     {
       "heading": "Tool Categories",
@@ -1869,45 +1988,53 @@
           "text": "🔍 SEO Tools 12",
           "originalText": "🔍 SEO Tools 12",
           "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 13600
         },
         {
           "text": "🎨 Design Tools 5",
           "originalText": "🎨 Design Tools 5",
           "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 13712
         },
         {
           "text": "🕵️ Spy & Ad Intelligence 5",
           "originalText": "🕵️ Spy & Ad Intelligence 5",
           "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 13829
         },
         {
           "text": "✍️ AI Writing Tools 4",
           "originalText": "✍️ AI Writing Tools 4",
           "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 13953
         },
         {
           "text": "🛒 E-commerce Tools 4",
           "originalText": "🛒 E-commerce Tools 4",
           "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14078
         },
         {
           "text": "📱 Social Media Tools 3",
           "originalText": "📱 Social Media Tools 3",
           "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14202
         },
         {
           "text": "🎓 Education Tools 3",
           "originalText": "🎓 Education Tools 3",
           "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14331
         }
-      ]
+      ],
+      "sourceOffset": 13553
     },
     {
       "heading": "Popular Tools",
@@ -1918,39 +2045,46 @@
           "text": "SEMrush Group Buy",
           "originalText": "SEMrush Group Buy",
           "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14535
         },
         {
           "text": "Ahrefs Group Buy",
           "originalText": "Ahrefs Group Buy",
           "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14600
         },
         {
           "text": "Moz Pro Group Buy",
           "originalText": "Moz Pro Group Buy",
           "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14663
         },
         {
           "text": "Surfer SEO Group Buy",
           "originalText": "Surfer SEO Group Buy",
           "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14728
         },
         {
           "text": "Canva Pro Group Buy",
           "originalText": "Canva Pro Group Buy",
           "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14799
         },
         {
           "text": "Quillbot Group Buy",
           "originalText": "Quillbot Group Buy",
           "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14871
         }
-      ]
+      ],
+      "sourceOffset": 14489
     },
     {
       "heading": "Why Choose Us",
@@ -1961,33 +2095,39 @@
           "text": "✓ 50+ Premium Tools",
           "originalText": "✓ 50+ Premium Tools",
           "source": "<li>✓ 50+ Premium Tools</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15040
         },
         {
           "text": "✓ 90%+ Uptime Guaranteed",
           "originalText": "✓ 90%+ Uptime Guaranteed",
           "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15069
         },
         {
           "text": "✓ Instant Access Setup",
           "originalText": "✓ Instant Access Setup",
           "source": "<li>✓ Instant Access Setup</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15103
         },
         {
           "text": "✓ 24/7 Support",
           "originalText": "✓ 24/7 Support",
           "source": "<li>✓ 24/7 Support</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15135
         },
         {
           "text": "✓ Secure Payments",
           "originalText": "✓ Secure Payments",
           "source": "<li>✓ Secure Payments</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15159
         }
-      ]
+      ],
+      "sourceOffset": 14993
     },
     {
       "heading": "Ready to Get Started?",
@@ -1998,9 +2138,11 @@
           "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 15327
         }
-      ]
+      ],
+      "sourceOffset": 15296
     }
   ],
   "labelTexts": []

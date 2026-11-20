@@ -1207,9 +1207,11 @@
           "tag": "p",
           "text": "Deciding between SEO Group Buy Tools and individual subscriptions impacts your marketing budget and workflow reliability. Group buy services share premium tool costs among users, while individual subscriptions offer direct vendor access. This comparison reveals the true cost-benefit of each approach.",
           "originalText": "Deciding between SEO Group Buy Tools and individual subscriptions impacts your marketing budget and workflow reliability. Group buy services share premium tool costs among users, while individual subscriptions offer direct vendor access. This comparison reveals the true cost-benefit of each approach.",
-          "source": "<p class=\"answer-snippet\">Deciding between SEO Group Buy Tools and individual subscriptions impacts your marketing budget and workflow reliability. Group buy services share premium tool costs among users, while individual subscriptions offer direct vendor access. This comparison reveals the true cost-benefit of each approach.</p>"
+          "source": "<p class=\"answer-snippet\">Deciding between SEO Group Buy Tools and individual subscriptions impacts your marketing budget and workflow reliability. Group buy services share premium tool costs among users, while individual subscriptions offer direct vendor access. This comparison reveals the true cost-benefit of each approach.</p>",
+          "sourceOffset": 4198
         }
-      ]
+      ],
+      "sourceOffset": 4123
     },
     {
       "heading": "How Much Can You Save with Group Buy?",
@@ -1220,357 +1222,417 @@
           "tag": "p",
           "text": "Group buy services can save 80–95% compared to individual subscriptions, with combined access to tools worth $5,000+/month available for $10–$30/month through shared account access. Individual SEMrush subscriptions cost $129–$499/month. Ahrefs charges $99–$999/month. Moz Pro ranges from $99–$599/month.",
           "originalText": "Group buy services can save 80–95% compared to individual subscriptions, with combined access to tools worth $5,000+/month available for $10–$30/month through shared account access. Individual SEMrush subscriptions cost $129–$499/month. Ahrefs charges $99–$999/month. Moz Pro ranges from $99–$599/month.",
-          "source": "<p class=\"answer-snippet\">Group buy services can save 80–95% compared to individual subscriptions, with combined access to tools worth $5,000+/month available for $10–$30/month through shared account access. Individual SEMrush subscriptions cost $129–$499/month. Ahrefs charges $99–$999/month. Moz Pro ranges from $99–$599/month.</p>"
+          "source": "<p class=\"answer-snippet\">Group buy services can save 80–95% compared to individual subscriptions, with combined access to tools worth $5,000+/month available for $10–$30/month through shared account access. Individual SEMrush subscriptions cost $129–$499/month. Ahrefs charges $99–$999/month. Moz Pro ranges from $99–$599/month.</p>",
+          "sourceOffset": 4660
         },
         {
           "tag": "p",
           "text": "Combined, these three tools alone cost $327–$2,097/month at retail prices. SEO Group Buy Tools offer access to all three for under $30/month. The savings multiply as you add more tools. Access to 30+ premium SEO, design, and marketing tools through group buy costs roughly $10–$30/month.",
           "originalText": "Combined, these three tools alone cost $327–$2,097/month at retail prices. SEO Group Buy Tools offer access to all three for under $30/month. The savings multiply as you add more tools. Access to 30+ premium SEO, design, and marketing tools through group buy costs roughly $10–$30/month.",
-          "source": "<p>Combined, these three tools alone cost $327–$2,097/month at retail prices. SEO Group Buy Tools offer access to all three for under $30/month. The savings multiply as you add more tools. Access to 30+ premium SEO, design, and marketing tools through group buy costs roughly $10–$30/month.</p>"
+          "source": "<p>Combined, these three tools alone cost $327–$2,097/month at retail prices. SEO Group Buy Tools offer access to all three for under $30/month. The savings multiply as you add more tools. Access to 30+ premium SEO, design, and marketing tools through group buy costs roughly $10–$30/month.</p>",
+          "sourceOffset": 4993
         },
         {
           "tag": "p",
           "text": "The same tools purchased individually would exceed $5,000/month. For freelancers and small agencies, this cost difference determines business viability.",
           "originalText": "The same tools purchased individually would exceed $5,000/month. For freelancers and small agencies, this cost difference determines business viability.",
-          "source": "<p>The same tools purchased individually would exceed $5,000/month. For freelancers and small agencies, this cost difference determines business viability.</p>"
+          "source": "<p>The same tools purchased individually would exceed $5,000/month. For freelancers and small agencies, this cost difference determines business viability.</p>",
+          "sourceOffset": 5287
         },
         {
           "tag": "th",
           "text": "Tool",
           "originalText": "Tool",
-          "source": "<th>Tool</th>"
+          "source": "<th>Tool</th>",
+          "sourceOffset": 5507
         },
         {
           "tag": "th",
           "text": "Individual Price/Month",
           "originalText": "Individual Price/Month",
-          "source": "<th>Individual Price/Month</th>"
+          "source": "<th>Individual Price/Month</th>",
+          "sourceOffset": 5520
         },
         {
           "tag": "th",
           "text": "Group Buy Price/Month",
           "originalText": "Group Buy Price/Month",
-          "source": "<th>Group Buy Price/Month</th>"
+          "source": "<th>Group Buy Price/Month</th>",
+          "sourceOffset": 5551
         },
         {
           "tag": "th",
           "text": "Savings %",
           "originalText": "Savings %",
-          "source": "<th>Savings %</th>"
+          "source": "<th>Savings %</th>",
+          "sourceOffset": 5581
         },
         {
           "tag": "td",
           "text": "SEMrush Guru",
           "originalText": "SEMrush Guru",
-          "source": "<td>SEMrush Guru</td>"
+          "source": "<td>SEMrush Guru</td>",
+          "sourceOffset": 5623
         },
         {
           "tag": "td",
           "text": "$229.95",
           "originalText": "$229.95",
-          "source": "<td>$229.95</td>"
+          "source": "<td>$229.95</td>",
+          "sourceOffset": 5644
         },
         {
           "tag": "td",
           "text": "~$15 (bundled)",
           "originalText": "~$15 (bundled)",
-          "source": "<td>~$15 (bundled)</td>"
+          "source": "<td>~$15 (bundled)</td>",
+          "sourceOffset": 5660
         },
         {
           "tag": "td",
           "text": "93%",
           "originalText": "93%",
-          "source": "<td>93%</td>"
+          "source": "<td>93%</td>",
+          "sourceOffset": 5683
         },
         {
           "tag": "td",
           "text": "Ahrefs Standard",
           "originalText": "Ahrefs Standard",
-          "source": "<td>Ahrefs Standard</td>"
+          "source": "<td>Ahrefs Standard</td>",
+          "sourceOffset": 5704
         },
         {
           "tag": "td",
           "text": "$179",
           "originalText": "$179",
-          "source": "<td>$179</td>"
+          "source": "<td>$179</td>",
+          "sourceOffset": 5728
         },
         {
           "tag": "td",
           "text": "~$15 (bundled)",
           "originalText": "~$15 (bundled)",
-          "source": "<td>~$15 (bundled)</td>"
+          "source": "<td>~$15 (bundled)</td>",
+          "sourceOffset": 5741
         },
         {
           "tag": "td",
           "text": "92%",
           "originalText": "92%",
-          "source": "<td>92%</td>"
+          "source": "<td>92%</td>",
+          "sourceOffset": 5764
         },
         {
           "tag": "td",
           "text": "Moz Pro Medium",
           "originalText": "Moz Pro Medium",
-          "source": "<td>Moz Pro Medium</td>"
+          "source": "<td>Moz Pro Medium</td>",
+          "sourceOffset": 5785
         },
         {
           "tag": "td",
           "text": "$179",
           "originalText": "$179",
-          "source": "<td>$179</td>"
+          "source": "<td>$179</td>",
+          "sourceOffset": 5808
         },
         {
           "tag": "td",
           "text": "~$10 (bundled)",
           "originalText": "~$10 (bundled)",
-          "source": "<td>~$10 (bundled)</td>"
+          "source": "<td>~$10 (bundled)</td>",
+          "sourceOffset": 5821
         },
         {
           "tag": "td",
           "text": "94%",
           "originalText": "94%",
-          "source": "<td>94%</td>"
+          "source": "<td>94%</td>",
+          "sourceOffset": 5844
         },
         {
           "tag": "td",
           "text": "Surfer SEO",
           "originalText": "Surfer SEO",
-          "source": "<td>Surfer SEO</td>"
+          "source": "<td>Surfer SEO</td>",
+          "sourceOffset": 5865
         },
         {
           "tag": "td",
           "text": "$89",
           "originalText": "$89",
-          "source": "<td>$89</td>"
+          "source": "<td>$89</td>",
+          "sourceOffset": 5884
         },
         {
           "tag": "td",
           "text": "~$8 (bundled)",
           "originalText": "~$8 (bundled)",
-          "source": "<td>~$8 (bundled)</td>"
+          "source": "<td>~$8 (bundled)</td>",
+          "sourceOffset": 5896
         },
         {
           "tag": "td",
           "text": "91%",
           "originalText": "91%",
-          "source": "<td>91%</td>"
+          "source": "<td>91%</td>",
+          "sourceOffset": 5918
         },
         {
           "tag": "td",
           "text": "SpyFu",
           "originalText": "SpyFu",
-          "source": "<td>SpyFu</td>"
+          "source": "<td>SpyFu</td>",
+          "sourceOffset": 5939
         },
         {
           "tag": "td",
           "text": "$39",
           "originalText": "$39",
-          "source": "<td>$39</td>"
+          "source": "<td>$39</td>",
+          "sourceOffset": 5953
         },
         {
           "tag": "td",
           "text": "~$5 (bundled)",
           "originalText": "~$5 (bundled)",
-          "source": "<td>~$5 (bundled)</td>"
+          "source": "<td>~$5 (bundled)</td>",
+          "sourceOffset": 5965
         },
         {
           "tag": "td",
           "text": "87%",
           "originalText": "87%",
-          "source": "<td>87%</td>"
+          "source": "<td>87%</td>",
+          "sourceOffset": 5987
         },
         {
           "tag": "td",
           "text": "30+ Tool Bundle",
           "originalText": "30+ Tool Bundle",
-          "source": "<td>30+ Tool Bundle</td>"
+          "source": "<td>30+ Tool Bundle</td>",
+          "sourceOffset": 6008
         },
         {
           "tag": "td",
           "text": "$5,000+",
           "originalText": "$5,000+",
-          "source": "<td>$5,000+</td>"
+          "source": "<td>$5,000+</td>",
+          "sourceOffset": 6032
         },
         {
           "tag": "td",
           "text": "$10–$30",
           "originalText": "$10–$30",
-          "source": "<td>$10–$30</td>"
+          "source": "<td>$10–$30</td>",
+          "sourceOffset": 6048
         },
         {
           "tag": "td",
           "text": "95%+",
           "originalText": "95%+",
-          "source": "<td>95%+</td>"
+          "source": "<td>95%+</td>",
+          "sourceOffset": 6064
         },
         {
           "tag": "th",
           "text": "Factor",
           "originalText": "Factor",
-          "source": "<th>Factor</th>"
+          "source": "<th>Factor</th>",
+          "sourceOffset": 6165
         },
         {
           "tag": "th",
           "text": "Individual Subscription",
           "originalText": "Individual Subscription",
-          "source": "<th>Individual Subscription</th>"
+          "source": "<th>Individual Subscription</th>",
+          "sourceOffset": 6180
         },
         {
           "tag": "th",
           "text": "Group Buy Access",
           "originalText": "Group Buy Access",
-          "source": "<th>Group Buy Access</th>"
+          "source": "<th>Group Buy Access</th>",
+          "sourceOffset": 6212
         },
         {
           "tag": "th",
           "text": "Impact Level",
           "originalText": "Impact Level",
-          "source": "<th>Impact Level</th>"
+          "source": "<th>Impact Level</th>",
+          "sourceOffset": 6237
         },
         {
           "tag": "td",
           "text": "Account Privacy",
           "originalText": "Account Privacy",
-          "source": "<td>Account Privacy</td>"
+          "source": "<td>Account Privacy</td>",
+          "sourceOffset": 6282
         },
         {
           "tag": "td",
           "text": "Full privacy",
           "originalText": "Full privacy",
-          "source": "<td>Full privacy</td>"
+          "source": "<td>Full privacy</td>",
+          "sourceOffset": 6306
         },
         {
           "tag": "td",
           "text": "Shared sessions",
           "originalText": "Shared sessions",
-          "source": "<td>Shared sessions</td>"
+          "source": "<td>Shared sessions</td>",
+          "sourceOffset": 6327
         },
         {
           "tag": "td",
           "text": "Medium",
           "originalText": "Medium",
-          "source": "<td>Medium</td>"
+          "source": "<td>Medium</td>",
+          "sourceOffset": 6351
         },
         {
           "tag": "td",
           "text": "Vendor Support",
           "originalText": "Vendor Support",
-          "source": "<td>Vendor Support</td>"
+          "source": "<td>Vendor Support</td>",
+          "sourceOffset": 6375
         },
         {
           "tag": "td",
           "text": "Direct support",
           "originalText": "Direct support",
-          "source": "<td>Direct support</td>"
+          "source": "<td>Direct support</td>",
+          "sourceOffset": 6398
         },
         {
           "tag": "td",
           "text": "No vendor support",
           "originalText": "No vendor support",
-          "source": "<td>No vendor support</td>"
+          "source": "<td>No vendor support</td>",
+          "sourceOffset": 6421
         },
         {
           "tag": "td",
           "text": "High",
           "originalText": "High",
-          "source": "<td>High</td>"
+          "source": "<td>High</td>",
+          "sourceOffset": 6447
         },
         {
           "tag": "td",
           "text": "Custom Dashboards",
           "originalText": "Custom Dashboards",
-          "source": "<td>Custom Dashboards</td>"
+          "source": "<td>Custom Dashboards</td>",
+          "sourceOffset": 6469
         },
         {
           "tag": "td",
           "text": "Persistent",
           "originalText": "Persistent",
-          "source": "<td>Persistent</td>"
+          "source": "<td>Persistent</td>",
+          "sourceOffset": 6495
         },
         {
           "tag": "td",
           "text": "Temporary only",
           "originalText": "Temporary only",
-          "source": "<td>Temporary only</td>"
+          "source": "<td>Temporary only</td>",
+          "sourceOffset": 6514
         },
         {
           "tag": "td",
           "text": "Low",
           "originalText": "Low",
-          "source": "<td>Low</td>"
+          "source": "<td>Low</td>",
+          "sourceOffset": 6537
         },
         {
           "tag": "td",
           "text": "Uptime Guarantee",
           "originalText": "Uptime Guarantee",
-          "source": "<td>Uptime Guarantee</td>"
+          "source": "<td>Uptime Guarantee</td>",
+          "sourceOffset": 6558
         },
         {
           "tag": "td",
           "text": "99.9% SLA",
           "originalText": "99.9% SLA",
-          "source": "<td>99.9% SLA</td>"
+          "source": "<td>99.9% SLA</td>",
+          "sourceOffset": 6583
         },
         {
           "tag": "td",
           "text": "Provider-dependent",
           "originalText": "Provider-dependent",
-          "source": "<td>Provider-dependent</td>"
+          "source": "<td>Provider-dependent</td>",
+          "sourceOffset": 6601
         },
         {
           "tag": "td",
           "text": "Medium",
           "originalText": "Medium",
-          "source": "<td>Medium</td>"
+          "source": "<td>Medium</td>",
+          "sourceOffset": 6628
         },
         {
           "tag": "td",
           "text": "API Access",
           "originalText": "API Access",
-          "source": "<td>API Access</td>"
+          "source": "<td>API Access</td>",
+          "sourceOffset": 6652
         },
         {
           "tag": "td",
           "text": "Included",
           "originalText": "Included",
-          "source": "<td>Included</td>"
+          "source": "<td>Included</td>",
+          "sourceOffset": 6671
         },
         {
           "tag": "td",
           "text": "Not available",
           "originalText": "Not available",
-          "source": "<td>Not available</td>"
+          "source": "<td>Not available</td>",
+          "sourceOffset": 6688
         },
         {
           "tag": "td",
           "text": "High",
           "originalText": "High",
-          "source": "<td>High</td>"
+          "source": "<td>High</td>",
+          "sourceOffset": 6710
         },
         {
           "tag": "td",
           "text": "Terms Compliance",
           "originalText": "Terms Compliance",
-          "source": "<td>Terms Compliance</td>"
+          "source": "<td>Terms Compliance</td>",
+          "sourceOffset": 6732
         },
         {
           "tag": "td",
           "text": "Full compliance",
           "originalText": "Full compliance",
-          "source": "<td>Full compliance</td>"
+          "source": "<td>Full compliance</td>",
+          "sourceOffset": 6757
         },
         {
           "tag": "td",
           "text": "Shared account risk",
           "originalText": "Shared account risk",
-          "source": "<td>Shared account risk</td>"
+          "source": "<td>Shared account risk</td>",
+          "sourceOffset": 6781
         },
         {
           "tag": "td",
           "text": "Medium",
           "originalText": "Medium",
-          "source": "<td>Medium</td>"
+          "source": "<td>Medium</td>",
+          "sourceOffset": 6809
         }
-      ]
+      ],
+      "sourceOffset": 4614
     },
     {
       "heading": "What Do You Sacrifice with Group Buy?",
@@ -1581,171 +1643,200 @@
           "tag": "p",
           "text": "Group buy access may involve shared login limitations, occasional downtime, no direct vendor support, data privacy considerations, and restricted features like API access or white-label reporting. Shared account access means you cannot save custom dashboards or preferences permanently.",
           "originalText": "Group buy access may involve shared login limitations, occasional downtime, no direct vendor support, data privacy considerations, and restricted features like API access or white-label reporting. Shared account access means you cannot save custom dashboards or preferences permanently.",
-          "source": "<p class=\"answer-snippet\">Group buy access may involve shared login limitations, occasional downtime, no direct vendor support, data privacy considerations, and restricted features like API access or white-label reporting. Shared account access means you cannot save custom dashboards or preferences permanently.</p>"
+          "source": "<p class=\"answer-snippet\">Group buy access may involve shared login limitations, occasional downtime, no direct vendor support, data privacy considerations, and restricted features like API access or white-label reporting. Shared account access means you cannot save custom dashboards or preferences permanently.</p>",
+          "sourceOffset": 7246
         },
         {
           "tag": "p",
           "text": "Multiple users accessing the same account can cause session conflicts. Some group buy providers use browser extensions while others use remote desktop, each with different reliability characteristics. Vendor support is not available with group buy access.",
           "originalText": "Multiple users accessing the same account can cause session conflicts. Some group buy providers use browser extensions while others use remote desktop, each with different reliability characteristics. Vendor support is not available with group buy access.",
-          "source": "<p>Multiple users accessing the same account can cause session conflicts. Some group buy providers use browser extensions while others use remote desktop, each with different reliability characteristics. Vendor support is not available with group buy access.</p>"
+          "source": "<p>Multiple users accessing the same account can cause session conflicts. Some group buy providers use browser extensions while others use remote desktop, each with different reliability characteristics. Vendor support is not available with group buy access.</p>",
+          "sourceOffset": 7562
         },
         {
           "tag": "p",
           "text": "If SEMrush or Ahrefs changes their interface, you rely on the group buy provider to update their system. There is no priority support, no feature requests, and no direct communication with the tool vendor. Data privacy is a consideration since your research queries pass through shared infrastructure.",
           "originalText": "If SEMrush or Ahrefs changes their interface, you rely on the group buy provider to update their system. There is no priority support, no feature requests, and no direct communication with the tool vendor. Data privacy is a consideration since your research queries pass through shared infrastructure.",
-          "source": "<p>If SEMrush or Ahrefs changes their interface, you rely on the group buy provider to update their system. There is no priority support, no feature requests, and no direct communication with the tool vendor. Data privacy is a consideration since your research queries pass through shared infrastructure.</p>"
+          "source": "<p>If SEMrush or Ahrefs changes their interface, you rely on the group buy provider to update their system. There is no priority support, no feature requests, and no direct communication with the tool vendor. Data privacy is a consideration since your research queries pass through shared infrastructure.</p>",
+          "sourceOffset": 7824
         },
         {
           "tag": "p",
           "text": "Some providers log search history, and account sharing technically violates most tool terms of service. Understanding these trade-offs helps you make an informed decision about group buy versus individual access.",
           "originalText": "Some providers log search history, and account sharing technically violates most tool terms of service. Understanding these trade-offs helps you make an informed decision about group buy versus individual access.",
-          "source": "<p>Some providers log search history, and account sharing technically violates most tool terms of service. Understanding these trade-offs helps you make an informed decision about group buy versus individual access.</p>"
+          "source": "<p>Some providers log search history, and account sharing technically violates most tool terms of service. Understanding these trade-offs helps you make an informed decision about group buy versus individual access.</p>",
+          "sourceOffset": 8132
         },
         {
           "tag": "th",
           "text": "Scenario",
           "originalText": "Scenario",
-          "source": "<th>Scenario</th>"
+          "source": "<th>Scenario</th>",
+          "sourceOffset": 8412
         },
         {
           "tag": "th",
           "text": "Individual Better?",
           "originalText": "Individual Better?",
-          "source": "<th>Individual Better?</th>"
+          "source": "<th>Individual Better?</th>",
+          "sourceOffset": 8429
         },
         {
           "tag": "th",
           "text": "Reason",
           "originalText": "Reason",
-          "source": "<th>Reason</th>"
+          "source": "<th>Reason</th>",
+          "sourceOffset": 8456
         },
         {
           "tag": "th",
           "text": "Budget Impact",
           "originalText": "Budget Impact",
-          "source": "<th>Budget Impact</th>"
+          "source": "<th>Budget Impact</th>",
+          "sourceOffset": 8471
         },
         {
           "tag": "td",
           "text": "API Integration Needed",
           "originalText": "API Integration Needed",
-          "source": "<td>API Integration Needed</td>"
+          "source": "<td>API Integration Needed</td>",
+          "sourceOffset": 8517
         },
         {
           "tag": "td",
           "text": "Yes",
           "originalText": "Yes",
-          "source": "<td>Yes</td>"
+          "source": "<td>Yes</td>",
+          "sourceOffset": 8548
         },
         {
           "tag": "td",
           "text": "No API in group buy",
           "originalText": "No API in group buy",
-          "source": "<td>No API in group buy</td>"
+          "source": "<td>No API in group buy</td>",
+          "sourceOffset": 8560
         },
         {
           "tag": "td",
           "text": "High cost justified",
           "originalText": "High cost justified",
-          "source": "<td>High cost justified</td>"
+          "source": "<td>High cost justified</td>",
+          "sourceOffset": 8588
         },
         {
           "tag": "td",
           "text": "Team of 5+ Users",
           "originalText": "Team of 5+ Users",
-          "source": "<td>Team of 5+ Users</td>"
+          "source": "<td>Team of 5+ Users</td>",
+          "sourceOffset": 8625
         },
         {
           "tag": "td",
           "text": "Yes",
           "originalText": "Yes",
-          "source": "<td>Yes</td>"
+          "source": "<td>Yes</td>",
+          "sourceOffset": 8650
         },
         {
           "tag": "td",
           "text": "Seat conflicts avoided",
           "originalText": "Seat conflicts avoided",
-          "source": "<td>Seat conflicts avoided</td>"
+          "source": "<td>Seat conflicts avoided</td>",
+          "sourceOffset": 8662
         },
         {
           "tag": "td",
           "text": "High cost justified",
           "originalText": "High cost justified",
-          "source": "<td>High cost justified</td>"
+          "source": "<td>High cost justified</td>",
+          "sourceOffset": 8693
         },
         {
           "tag": "td",
           "text": "Enterprise Compliance",
           "originalText": "Enterprise Compliance",
-          "source": "<td>Enterprise Compliance</td>"
+          "source": "<td>Enterprise Compliance</td>",
+          "sourceOffset": 8730
         },
         {
           "tag": "td",
           "text": "Yes",
           "originalText": "Yes",
-          "source": "<td>Yes</td>"
+          "source": "<td>Yes</td>",
+          "sourceOffset": 8760
         },
         {
           "tag": "td",
           "text": "Terms compliance",
           "originalText": "Terms compliance",
-          "source": "<td>Terms compliance</td>"
+          "source": "<td>Terms compliance</td>",
+          "sourceOffset": 8772
         },
         {
           "tag": "td",
           "text": "Required investment",
           "originalText": "Required investment",
-          "source": "<td>Required investment</td>"
+          "source": "<td>Required investment</td>",
+          "sourceOffset": 8797
         },
         {
           "tag": "td",
           "text": "Solo Freelancer",
           "originalText": "Solo Freelancer",
-          "source": "<td>Solo Freelancer</td>"
+          "source": "<td>Solo Freelancer</td>",
+          "sourceOffset": 8834
         },
         {
           "tag": "td",
           "text": "No",
           "originalText": "No",
-          "source": "<td>No</td>"
+          "source": "<td>No</td>",
+          "sourceOffset": 8858
         },
         {
           "tag": "td",
           "text": "Cost savings critical",
           "originalText": "Cost savings critical",
-          "source": "<td>Cost savings critical</td>"
+          "source": "<td>Cost savings critical</td>",
+          "sourceOffset": 8869
         },
         {
           "tag": "td",
           "text": "Group buy preferred",
           "originalText": "Group buy preferred",
-          "source": "<td>Group buy preferred</td>"
+          "source": "<td>Group buy preferred</td>",
+          "sourceOffset": 8899
         },
         {
           "tag": "td",
           "text": "Agency (2-3 Users)",
           "originalText": "Agency (2-3 Users)",
-          "source": "<td>Agency (2-3 Users)</td>"
+          "source": "<td>Agency (2-3 Users)</td>",
+          "sourceOffset": 8936
         },
         {
           "tag": "td",
           "text": "Depends",
           "originalText": "Depends",
-          "source": "<td>Depends</td>"
+          "source": "<td>Depends</td>",
+          "sourceOffset": 8963
         },
         {
           "tag": "td",
           "text": "Evaluate trade-offs",
           "originalText": "Evaluate trade-offs",
-          "source": "<td>Evaluate trade-offs</td>"
+          "source": "<td>Evaluate trade-offs</td>",
+          "sourceOffset": 8979
         },
         {
           "tag": "td",
           "text": "Case-by-case",
           "originalText": "Case-by-case",
-          "source": "<td>Case-by-case</td>"
+          "source": "<td>Case-by-case</td>",
+          "sourceOffset": 9007
         }
-      ]
+      ],
+      "sourceOffset": 7200
     },
     {
       "heading": "When Does Individual Subscription Make Sense?",
@@ -1756,171 +1847,200 @@
           "tag": "p",
           "text": "Individual subscriptions make sense for agencies requiring API access, businesses needing vendor support, teams needing persistent dashboards, and professionals who prioritize uptime guarantees and full compliance. Agencies that integrate SEO tools into custom workflows via API need individual subscriptions.",
           "originalText": "Individual subscriptions make sense for agencies requiring API access, businesses needing vendor support, teams needing persistent dashboards, and professionals who prioritize uptime guarantees and full compliance. Agencies that integrate SEO tools into custom workflows via API need individual subscriptions.",
-          "source": "<p class=\"answer-snippet\">Individual subscriptions make sense for agencies requiring API access, businesses needing vendor support, teams needing persistent dashboards, and professionals who prioritize uptime guarantees and full compliance. Agencies that integrate SEO tools into custom workflows via API need individual subscriptions.</p>"
+          "source": "<p class=\"answer-snippet\">Individual subscriptions make sense for agencies requiring API access, businesses needing vendor support, teams needing persistent dashboards, and professionals who prioritize uptime guarantees and full compliance. Agencies that integrate SEO tools into custom workflows via API need individual subscriptions.</p>",
+          "sourceOffset": 9466
         },
         {
           "tag": "p",
           "text": "SEMrush and Ahrefs APIs power automated reporting systems, content pipelines, and client dashboards. Group buy access does not include API functionality, making individual subscriptions necessary. Teams of five or more working simultaneously on the same tool require dedicated seats.",
           "originalText": "SEMrush and Ahrefs APIs power automated reporting systems, content pipelines, and client dashboards. Group buy access does not include API functionality, making individual subscriptions necessary. Teams of five or more working simultaneously on the same tool require dedicated seats.",
-          "source": "<p>SEMrush and Ahrefs APIs power automated reporting systems, content pipelines, and client dashboards. Group buy access does not include API functionality, making individual subscriptions necessary. Teams of five or more working simultaneously on the same tool require dedicated seats.</p>"
+          "source": "<p>SEMrush and Ahrefs APIs power automated reporting systems, content pipelines, and client dashboards. Group buy access does not include API functionality, making individual subscriptions necessary. Teams of five or more working simultaneously on the same tool require dedicated seats.</p>",
+          "sourceOffset": 9805
         },
         {
           "tag": "p",
           "text": "Shared group buy accounts create bottlenecks and session conflicts that disrupt productivity. Individual team seats with role-based access control justify the higher cost. Enterprises with strict compliance requirements must use individual subscriptions.",
           "originalText": "Shared group buy accounts create bottlenecks and session conflicts that disrupt productivity. Individual team seats with role-based access control justify the higher cost. Enterprises with strict compliance requirements must use individual subscriptions.",
-          "source": "<p>Shared group buy accounts create bottlenecks and session conflicts that disrupt productivity. Individual team seats with role-based access control justify the higher cost. Enterprises with strict compliance requirements must use individual subscriptions.</p>"
+          "source": "<p>Shared group buy accounts create bottlenecks and session conflicts that disrupt productivity. Individual team seats with role-based access control justify the higher cost. Enterprises with strict compliance requirements must use individual subscriptions.</p>",
+          "sourceOffset": 10095
         },
         {
           "tag": "p",
           "text": "Shared account access violates most tool terms of service, creating legal and audit risks. Companies handling sensitive client data should invest in direct vendor relationships for full accountability.",
           "originalText": "Shared account access violates most tool terms of service, creating legal and audit risks. Companies handling sensitive client data should invest in direct vendor relationships for full accountability.",
-          "source": "<p>Shared account access violates most tool terms of service, creating legal and audit risks. Companies handling sensitive client data should invest in direct vendor relationships for full accountability.</p>"
+          "source": "<p>Shared account access violates most tool terms of service, creating legal and audit risks. Companies handling sensitive client data should invest in direct vendor relationships for full accountability.</p>",
+          "sourceOffset": 10356
         },
         {
           "tag": "th",
           "text": "Revenue Level",
           "originalText": "Revenue Level",
-          "source": "<th>Revenue Level</th>"
+          "source": "<th>Revenue Level</th>",
+          "sourceOffset": 10625
         },
         {
           "tag": "th",
           "text": "Group Buy Cost",
           "originalText": "Group Buy Cost",
-          "source": "<th>Group Buy Cost</th>"
+          "source": "<th>Group Buy Cost</th>",
+          "sourceOffset": 10647
         },
         {
           "tag": "th",
           "text": "% of Revenue",
           "originalText": "% of Revenue",
-          "source": "<th>% of Revenue</th>"
+          "source": "<th>% of Revenue</th>",
+          "sourceOffset": 10670
         },
         {
           "tag": "th",
           "text": "Recommendation",
           "originalText": "Recommendation",
-          "source": "<th>Recommendation</th>"
+          "source": "<th>Recommendation</th>",
+          "sourceOffset": 10691
         },
         {
           "tag": "td",
           "text": "$0–$500/month",
           "originalText": "$0–$500/month",
-          "source": "<td>$0–$500/month</td>"
+          "source": "<td>$0–$500/month</td>",
+          "sourceOffset": 10738
         },
         {
           "tag": "td",
           "text": "$15–$30/month",
           "originalText": "$15–$30/month",
-          "source": "<td>$15–$30/month</td>"
+          "source": "<td>$15–$30/month</td>",
+          "sourceOffset": 10760
         },
         {
           "tag": "td",
           "text": "3–6%",
           "originalText": "3–6%",
-          "source": "<td>3–6%</td>"
+          "source": "<td>3–6%</td>",
+          "sourceOffset": 10782
         },
         {
           "tag": "td",
           "text": "Start with free tools",
           "originalText": "Start with free tools",
-          "source": "<td>Start with free tools</td>"
+          "source": "<td>Start with free tools</td>",
+          "sourceOffset": 10795
         },
         {
           "tag": "td",
           "text": "$500–$1,000/month",
           "originalText": "$500–$1,000/month",
-          "source": "<td>$500–$1,000/month</td>"
+          "source": "<td>$500–$1,000/month</td>",
+          "sourceOffset": 10834
         },
         {
           "tag": "td",
           "text": "$15–$30/month",
           "originalText": "$15–$30/month",
-          "source": "<td>$15–$30/month</td>"
+          "source": "<td>$15–$30/month</td>",
+          "sourceOffset": 10860
         },
         {
           "tag": "td",
           "text": "1.5–3%",
           "originalText": "1.5–3%",
-          "source": "<td>1.5–3%</td>"
+          "source": "<td>1.5–3%</td>",
+          "sourceOffset": 10882
         },
         {
           "tag": "td",
           "text": "Group buy ROI positive",
           "originalText": "Group buy ROI positive",
-          "source": "<td>Group buy ROI positive</td>"
+          "source": "<td>Group buy ROI positive</td>",
+          "sourceOffset": 10897
         },
         {
           "tag": "td",
           "text": "$1,000–$5,000/month",
           "originalText": "$1,000–$5,000/month",
-          "source": "<td>$1,000–$5,000/month</td>"
+          "source": "<td>$1,000–$5,000/month</td>",
+          "sourceOffset": 10937
         },
         {
           "tag": "td",
           "text": "$15–$30/month",
           "originalText": "$15–$30/month",
-          "source": "<td>$15–$30/month</td>"
+          "source": "<td>$15–$30/month</td>",
+          "sourceOffset": 10965
         },
         {
           "tag": "td",
           "text": "0.3–1.5%",
           "originalText": "0.3–1.5%",
-          "source": "<td>0.3–1.5%</td>"
+          "source": "<td>0.3–1.5%</td>",
+          "sourceOffset": 10987
         },
         {
           "tag": "td",
           "text": "Group buy essential",
           "originalText": "Group buy essential",
-          "source": "<td>Group buy essential</td>"
+          "source": "<td>Group buy essential</td>",
+          "sourceOffset": 11004
         },
         {
           "tag": "td",
           "text": "$5,000–$10,000/month",
           "originalText": "$5,000–$10,000/month",
-          "source": "<td>$5,000–$10,000/month</td>"
+          "source": "<td>$5,000–$10,000/month</td>",
+          "sourceOffset": 11041
         },
         {
           "tag": "td",
           "text": "$30–$100/month",
           "originalText": "$30–$100/month",
-          "source": "<td>$30–$100/month</td>"
+          "source": "<td>$30–$100/month</td>",
+          "sourceOffset": 11070
         },
         {
           "tag": "td",
           "text": "0.3–1%",
           "originalText": "0.3–1%",
-          "source": "<td>0.3–1%</td>"
+          "source": "<td>0.3–1%</td>",
+          "sourceOffset": 11093
         },
         {
           "tag": "td",
           "text": "Hybrid approach",
           "originalText": "Hybrid approach",
-          "source": "<td>Hybrid approach</td>"
+          "source": "<td>Hybrid approach</td>",
+          "sourceOffset": 11108
         },
         {
           "tag": "td",
           "text": "$10,000+/month",
           "originalText": "$10,000+/month",
-          "source": "<td>$10,000+/month</td>"
+          "source": "<td>$10,000+/month</td>",
+          "sourceOffset": 11141
         },
         {
           "tag": "td",
           "text": "$100–$500/month",
           "originalText": "$100–$500/month",
-          "source": "<td>$100–$500/month</td>"
+          "source": "<td>$100–$500/month</td>",
+          "sourceOffset": 11164
         },
         {
           "tag": "td",
           "text": "<1%",
           "originalText": "<1%",
-          "source": "<td>&lt;1%</td>"
+          "source": "<td>&lt;1%</td>",
+          "sourceOffset": 11188
         },
         {
           "tag": "td",
           "text": "Individual + Group buy",
           "originalText": "Individual + Group buy",
-          "source": "<td>Individual + Group buy</td>"
+          "source": "<td>Individual + Group buy</td>",
+          "sourceOffset": 11203
         }
-      ]
+      ],
+      "sourceOffset": 9412
     },
     {
       "heading": "Is the Break-Even Point?",
@@ -1931,267 +2051,312 @@
           "tag": "p",
           "text": "The break-even point occurs when your monthly revenue from SEO activities exceeds $500–$1,000, making group buy tools a negligible cost while delivering professional-grade capabilities for client work.",
           "originalText": "The break-even point occurs when your monthly revenue from SEO activities exceeds $500–$1,000, making group buy tools a negligible cost while delivering professional-grade capabilities for client work.",
-          "source": "<p class=\"answer-snippet\">The break-even point occurs when your monthly revenue from SEO activities exceeds $500–$1,000, making group buy tools a negligible cost while delivering professional-grade capabilities for client work.</p>"
+          "source": "<p class=\"answer-snippet\">The break-even point occurs when your monthly revenue from SEO activities exceeds $500–$1,000, making group buy tools a negligible cost while delivering professional-grade capabilities for client work.</p>",
+          "sourceOffset": 11630
         },
         {
           "tag": "p",
           "text": "For freelancers earning $1,000+/month from SEO services, group buy tools at $15–$30/month represent just 1.5–3% of revenue. The ROI is immediate since premium tools enable faster, more accurate work that commands higher rates. The break-even point is reached with just one client engagement.",
           "originalText": "For freelancers earning $1,000+/month from SEO services, group buy tools at $15–$30/month represent just 1.5–3% of revenue. The ROI is immediate since premium tools enable faster, more accurate work that commands higher rates. The break-even point is reached with just one client engagement.",
-          "source": "<p>For freelancers earning $1,000+/month from SEO services, group buy tools at $15–$30/month represent just 1.5–3% of revenue. The ROI is immediate since premium tools enable faster, more accurate work that commands higher rates. The break-even point is reached with just one client engagement.</p>"
+          "source": "<p>For freelancers earning $1,000+/month from SEO services, group buy tools at $15–$30/month represent just 1.5–3% of revenue. The ROI is immediate since premium tools enable faster, more accurate work that commands higher rates. The break-even point is reached with just one client engagement.</p>",
+          "sourceOffset": 11861
         },
         {
           "tag": "p",
           "text": "Agencies with $5,000+/month in revenue should consider a hybrid approach. Use group buy for research tools like SEMrush and Ahrefs while maintaining individual subscriptions for client-facing tools and API-dependent workflows. This balances cost savings with reliability needs.",
           "originalText": "Agencies with $5,000+/month in revenue should consider a hybrid approach. Use group buy for research tools like SEMrush and Ahrefs while maintaining individual subscriptions for client-facing tools and API-dependent workflows. This balances cost savings with reliability needs.",
-          "source": "<p>Agencies with $5,000+/month in revenue should consider a hybrid approach. Use group buy for research tools like SEMrush and Ahrefs while maintaining individual subscriptions for client-facing tools and API-dependent workflows. This balances cost savings with reliability needs.</p>"
+          "source": "<p>Agencies with $5,000+/month in revenue should consider a hybrid approach. Use group buy for research tools like SEMrush and Ahrefs while maintaining individual subscriptions for client-facing tools and API-dependent workflows. This balances cost savings with reliability needs.</p>",
+          "sourceOffset": 12159
         },
         {
           "tag": "p",
           "text": "The true break-even calculation must include time savings. Premium tools through group buy can reduce research time by 60–80% compared to free alternatives. If you value your time at $50/hour, saving just 1 hour per week pays for the entire monthly group buy subscription.",
           "originalText": "The true break-even calculation must include time savings. Premium tools through group buy can reduce research time by 60–80% compared to free alternatives. If you value your time at $50/hour, saving just 1 hour per week pays for the entire monthly group buy subscription.",
-          "source": "<p>The true break-even calculation must include time savings. Premium tools through group buy can reduce research time by 60–80% compared to free alternatives. If you value your time at $50/hour, saving just 1 hour per week pays for the entire monthly group buy subscription.</p>"
+          "source": "<p>The true break-even calculation must include time savings. Premium tools through group buy can reduce research time by 60–80% compared to free alternatives. If you value your time at $50/hour, saving just 1 hour per week pays for the entire monthly group buy subscription.</p>",
+          "sourceOffset": 12443
         },
         {
           "tag": "th",
           "text": "Revenue",
           "originalText": "Revenue",
-          "source": "<th>Revenue</th>"
+          "source": "<th>Revenue</th>",
+          "sourceOffset": 12783
         },
         {
           "tag": "th",
           "text": "Level",
           "originalText": "Level",
-          "source": "<th>Level</th>"
+          "source": "<th>Level</th>",
+          "sourceOffset": 12799
         },
         {
           "tag": "th",
           "text": "Group",
           "originalText": "Group",
-          "source": "<th>Group</th>"
+          "source": "<th>Group</th>",
+          "sourceOffset": 12813
         },
         {
           "tag": "th",
           "text": "Buy",
           "originalText": "Buy",
-          "source": "<th>Buy</th>"
+          "source": "<th>Buy</th>",
+          "sourceOffset": 12827
         },
         {
           "tag": "td",
           "text": "Cost",
           "originalText": "Cost",
-          "source": "<td>Cost</td>"
+          "source": "<td>Cost</td>",
+          "sourceOffset": 12863
         },
         {
           "tag": "td",
           "text": "%",
           "originalText": "%",
-          "source": "<td>%</td>"
+          "source": "<td>%</td>",
+          "sourceOffset": 12876
         },
         {
           "tag": "td",
           "text": "of",
           "originalText": "of",
-          "source": "<td>of</td>"
+          "source": "<td>of</td>",
+          "sourceOffset": 12886
         },
         {
           "tag": "td",
           "text": "Revenue",
           "originalText": "Revenue",
-          "source": "<td>Revenue</td>"
+          "source": "<td>Revenue</td>",
+          "sourceOffset": 12897
         },
         {
           "tag": "td",
           "text": "Recommendation",
           "originalText": "Recommendation",
-          "source": "<td>Recommendation</td>"
+          "source": "<td>Recommendation</td>",
+          "sourceOffset": 12922
         },
         {
           "tag": "td",
           "text": "$0–$500/month",
           "originalText": "$0–$500/month",
-          "source": "<td>$0–$500/month</td>"
+          "source": "<td>$0–$500/month</td>",
+          "sourceOffset": 12945
         },
         {
           "tag": "td",
           "text": "$15–$30/month",
           "originalText": "$15–$30/month",
-          "source": "<td>$15–$30/month</td>"
+          "source": "<td>$15–$30/month</td>",
+          "sourceOffset": 12967
         },
         {
           "tag": "td",
           "text": "3–6%",
           "originalText": "3–6%",
-          "source": "<td>3–6%</td>"
+          "source": "<td>3–6%</td>",
+          "sourceOffset": 12989
         },
         {
           "tag": "td",
           "text": "Start",
           "originalText": "Start",
-          "source": "<td>Start</td>"
+          "source": "<td>Start</td>",
+          "sourceOffset": 13011
         },
         {
           "tag": "td",
           "text": "with",
           "originalText": "with",
-          "source": "<td>with</td>"
+          "source": "<td>with</td>",
+          "sourceOffset": 13025
         },
         {
           "tag": "td",
           "text": "free",
           "originalText": "free",
-          "source": "<td>free</td>"
+          "source": "<td>free</td>",
+          "sourceOffset": 13038
         },
         {
           "tag": "td",
           "text": "tools",
           "originalText": "tools",
-          "source": "<td>tools</td>"
+          "source": "<td>tools</td>",
+          "sourceOffset": 13051
         },
         {
           "tag": "td",
           "text": "$500–$1,000/month",
           "originalText": "$500–$1,000/month",
-          "source": "<td>$500–$1,000/month</td>"
+          "source": "<td>$500–$1,000/month</td>",
+          "sourceOffset": 13074
         },
         {
           "tag": "td",
           "text": "$15–$30/month",
           "originalText": "$15–$30/month",
-          "source": "<td>$15–$30/month</td>"
+          "source": "<td>$15–$30/month</td>",
+          "sourceOffset": 13100
         },
         {
           "tag": "td",
           "text": "1.5–3%",
           "originalText": "1.5–3%",
-          "source": "<td>1.5–3%</td>"
+          "source": "<td>1.5–3%</td>",
+          "sourceOffset": 13122
         },
         {
           "tag": "td",
           "text": "Group",
           "originalText": "Group",
-          "source": "<td>Group</td>"
+          "source": "<td>Group</td>",
+          "sourceOffset": 13137
         },
         {
           "tag": "td",
           "text": "buy",
           "originalText": "buy",
-          "source": "<td>buy</td>"
+          "source": "<td>buy</td>",
+          "sourceOffset": 13160
         },
         {
           "tag": "td",
           "text": "ROI",
           "originalText": "ROI",
-          "source": "<td>ROI</td>"
+          "source": "<td>ROI</td>",
+          "sourceOffset": 13172
         },
         {
           "tag": "td",
           "text": "positive",
           "originalText": "positive",
-          "source": "<td>positive</td>"
+          "source": "<td>positive</td>",
+          "sourceOffset": 13184
         },
         {
           "tag": "td",
           "text": "$1,000–$5,000/month",
           "originalText": "$1,000–$5,000/month",
-          "source": "<td>$1,000–$5,000/month</td>"
+          "source": "<td>$1,000–$5,000/month</td>",
+          "sourceOffset": 13201
         },
         {
           "tag": "td",
           "text": "$15–$30/month",
           "originalText": "$15–$30/month",
-          "source": "<td>$15–$30/month</td>"
+          "source": "<td>$15–$30/month</td>",
+          "sourceOffset": 13238
         },
         {
           "tag": "td",
           "text": "0.3–1.5%",
           "originalText": "0.3–1.5%",
-          "source": "<td>0.3–1.5%</td>"
+          "source": "<td>0.3–1.5%</td>",
+          "sourceOffset": 13260
         },
         {
           "tag": "td",
           "text": "Group",
           "originalText": "Group",
-          "source": "<td>Group</td>"
+          "source": "<td>Group</td>",
+          "sourceOffset": 13277
         },
         {
           "tag": "td",
           "text": "buy",
           "originalText": "buy",
-          "source": "<td>buy</td>"
+          "source": "<td>buy</td>",
+          "sourceOffset": 13291
         },
         {
           "tag": "td",
           "text": "essential",
           "originalText": "essential",
-          "source": "<td>essential</td>"
+          "source": "<td>essential</td>",
+          "sourceOffset": 13312
         },
         {
           "tag": "td",
           "text": "$5,000–$10,000/month",
           "originalText": "$5,000–$10,000/month",
-          "source": "<td>$5,000–$10,000/month</td>"
+          "source": "<td>$5,000–$10,000/month</td>",
+          "sourceOffset": 13330
         },
         {
           "tag": "td",
           "text": "$30–$100/month",
           "originalText": "$30–$100/month",
-          "source": "<td>$30–$100/month</td>"
+          "source": "<td>$30–$100/month</td>",
+          "sourceOffset": 13359
         },
         {
           "tag": "td",
           "text": "0.3–1%",
           "originalText": "0.3–1%",
-          "source": "<td>0.3–1%</td>"
+          "source": "<td>0.3–1%</td>",
+          "sourceOffset": 13382
         },
         {
           "tag": "td",
           "text": "Hybrid",
           "originalText": "Hybrid",
-          "source": "<td>Hybrid</td>"
+          "source": "<td>Hybrid</td>",
+          "sourceOffset": 13406
         },
         {
           "tag": "td",
           "text": "approach",
           "originalText": "approach",
-          "source": "<td>approach</td>"
+          "source": "<td>approach</td>",
+          "sourceOffset": 13421
         },
         {
           "tag": "td",
           "text": "$10,000+/month",
           "originalText": "$10,000+/month",
-          "source": "<td>$10,000+/month</td>"
+          "source": "<td>$10,000+/month</td>",
+          "sourceOffset": 13438
         },
         {
           "tag": "td",
           "text": "$100–$500/month",
           "originalText": "$100–$500/month",
-          "source": "<td>$100–$500/month</td>"
+          "source": "<td>$100–$500/month</td>",
+          "sourceOffset": 13461
         },
         {
           "tag": "td",
           "text": "<1%",
           "originalText": "<1%",
-          "source": "<td>&lt;1%</td>"
+          "source": "<td>&lt;1%</td>",
+          "sourceOffset": 13494
         },
         {
           "tag": "td",
           "text": "Individual",
           "originalText": "Individual",
-          "source": "<td>Individual</td>"
+          "source": "<td>Individual</td>",
+          "sourceOffset": 13509
         },
         {
           "tag": "td",
           "text": "+",
           "originalText": "+",
-          "source": "<td>+</td>"
+          "source": "<td>+</td>",
+          "sourceOffset": 13528
         },
         {
           "tag": "td",
           "text": "Group",
           "originalText": "Group",
-          "source": "<td>Group</td>"
+          "source": "<td>Group</td>",
+          "sourceOffset": 13538
         }
-      ]
+      ],
+      "sourceOffset": 11597
     },
     {
       "heading": "What Are the References for This Page?",
@@ -2202,33 +2367,39 @@
           "tag": "li",
           "text": "SEMrush Pricing Page",
           "originalText": "SEMrush Pricing Page",
-          "source": "<li><a href=\"https://semrush.com/pricing\" rel=\"noopener\">SEMrush Pricing Page</a></li>"
+          "source": "<li><a href=\"https://semrush.com/pricing\" rel=\"noopener\">SEMrush Pricing Page</a></li>",
+          "sourceOffset": 14023
         },
         {
           "tag": "li",
           "text": "Ahrefs Pricing Page",
           "originalText": "Ahrefs Pricing Page",
-          "source": "<li><a href=\"https://ahrefs.com/pricing\" rel=\"noopener\">Ahrefs Pricing Page</a></li>"
+          "source": "<li><a href=\"https://ahrefs.com/pricing\" rel=\"noopener\">Ahrefs Pricing Page</a></li>",
+          "sourceOffset": 14109
         },
         {
           "tag": "li",
           "text": "Moz Pro Pricing Page",
           "originalText": "Moz Pro Pricing Page",
-          "source": "<li><a href=\"https://moz.com/products/pricing\" rel=\"noopener\">Moz Pro Pricing Page</a></li>"
+          "source": "<li><a href=\"https://moz.com/products/pricing\" rel=\"noopener\">Moz Pro Pricing Page</a></li>",
+          "sourceOffset": 14193
         },
         {
           "tag": "li",
           "text": "SEO Group Buy Cost Analysis",
           "originalText": "SEO Group Buy Cost Analysis",
-          "source": "<li><a href=\"https://seogroupsbuytools.com/pricing\" rel=\"noopener\">SEO Group Buy Cost Analysis</a></li>"
+          "source": "<li><a href=\"https://seogroupsbuytools.com/pricing\" rel=\"noopener\">SEO Group Buy Cost Analysis</a></li>",
+          "sourceOffset": 14284
         },
         {
           "tag": "li",
           "text": "Freelancer SEO Revenue Survey 2024",
           "originalText": "Freelancer SEO Revenue Survey 2024",
-          "source": "<li><a href=\"https://searchengineland.com\" rel=\"noopener\">Freelancer SEO Revenue Survey 2024</a></li>"
+          "source": "<li><a href=\"https://searchengineland.com\" rel=\"noopener\">Freelancer SEO Revenue Survey 2024</a></li>",
+          "sourceOffset": 14387
         }
-      ]
+      ],
+      "sourceOffset": 13948
     }
   ],
   "buttons": [
@@ -2237,238 +2408,272 @@
       "originalText": "What Is SEO Group Buy Tools",
       "url": "../../",
       "originalUrl": "../../",
-      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>"
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>",
+      "sourceOffset": 6873
     },
     {
       "text": "How It Works",
       "originalText": "How It Works",
       "url": "../../how-it-works/",
       "originalUrl": "../../how-it-works/",
-      "source": "<a href=\"../../how-it-works/\">How It Works</a>"
+      "source": "<a href=\"../../how-it-works/\">How It Works</a>",
+      "sourceOffset": 6923
     },
     {
       "text": "Is It Safe",
       "originalText": "Is It Safe",
       "url": "../../is-it-safe/",
       "originalUrl": "../../is-it-safe/",
-      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>"
+      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>",
+      "sourceOffset": 6971
     },
     {
       "text": "Pricing",
       "originalText": "Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\">Pricing</a>"
+      "source": "<a href=\"../../pricing/\">Pricing</a>",
+      "sourceOffset": 7015
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 7053
     },
     {
       "text": "What Is SEO Group Buy Tools",
       "originalText": "What Is SEO Group Buy Tools",
       "url": "../../",
       "originalUrl": "../../",
-      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>"
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>",
+      "sourceOffset": 9077
     },
     {
       "text": "How It Works",
       "originalText": "How It Works",
       "url": "../../how-it-works/",
       "originalUrl": "../../how-it-works/",
-      "source": "<a href=\"../../how-it-works/\">How It Works</a>"
+      "source": "<a href=\"../../how-it-works/\">How It Works</a>",
+      "sourceOffset": 9127
     },
     {
       "text": "Is It Safe",
       "originalText": "Is It Safe",
       "url": "../../is-it-safe/",
       "originalUrl": "../../is-it-safe/",
-      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>"
+      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>",
+      "sourceOffset": 9175
     },
     {
       "text": "Pricing",
       "originalText": "Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\">Pricing</a>"
+      "source": "<a href=\"../../pricing/\">Pricing</a>",
+      "sourceOffset": 9219
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 9257
     },
     {
       "text": "What Is SEO Group Buy Tools",
       "originalText": "What Is SEO Group Buy Tools",
       "url": "../../",
       "originalUrl": "../../",
-      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>"
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>",
+      "sourceOffset": 11283
     },
     {
       "text": "How It Works",
       "originalText": "How It Works",
       "url": "../../how-it-works/",
       "originalUrl": "../../how-it-works/",
-      "source": "<a href=\"../../how-it-works/\">How It Works</a>"
+      "source": "<a href=\"../../how-it-works/\">How It Works</a>",
+      "sourceOffset": 11333
     },
     {
       "text": "Is It Safe",
       "originalText": "Is It Safe",
       "url": "../../is-it-safe/",
       "originalUrl": "../../is-it-safe/",
-      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>"
+      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>",
+      "sourceOffset": 11381
     },
     {
       "text": "Pricing",
       "originalText": "Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\">Pricing</a>"
+      "source": "<a href=\"../../pricing/\">Pricing</a>",
+      "sourceOffset": 11425
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 11463
     },
     {
       "text": "What Is SEO Group Buy Tools",
       "originalText": "What Is SEO Group Buy Tools",
       "url": "../../",
       "originalUrl": "../../",
-      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>"
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools</a>",
+      "sourceOffset": 13601
     },
     {
       "text": "How It Works",
       "originalText": "How It Works",
       "url": "../../how-it-works/",
       "originalUrl": "../../how-it-works/",
-      "source": "<a href=\"../../how-it-works/\">How It Works</a>"
+      "source": "<a href=\"../../how-it-works/\">How It Works</a>",
+      "sourceOffset": 13651
     },
     {
       "text": "Is It Safe",
       "originalText": "Is It Safe",
       "url": "../../is-it-safe/",
       "originalUrl": "../../is-it-safe/",
-      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>"
+      "source": "<a href=\"../../is-it-safe/\">Is It Safe</a>",
+      "sourceOffset": 13699
     },
     {
       "text": "Pricing",
       "originalText": "Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\">Pricing</a>"
+      "source": "<a href=\"../../pricing/\">Pricing</a>",
+      "sourceOffset": 13743
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 13781
     },
     {
       "text": "SEMrush Pricing Page",
       "originalText": "SEMrush Pricing Page",
       "url": "https://semrush.com/pricing",
       "originalUrl": "https://semrush.com/pricing",
-      "source": "<a href=\"https://semrush.com/pricing\" rel=\"noopener\">SEMrush Pricing Page</a>"
+      "source": "<a href=\"https://semrush.com/pricing\" rel=\"noopener\">SEMrush Pricing Page</a>",
+      "sourceOffset": 14027
     },
     {
       "text": "Ahrefs Pricing Page",
       "originalText": "Ahrefs Pricing Page",
       "url": "https://ahrefs.com/pricing",
       "originalUrl": "https://ahrefs.com/pricing",
-      "source": "<a href=\"https://ahrefs.com/pricing\" rel=\"noopener\">Ahrefs Pricing Page</a>"
+      "source": "<a href=\"https://ahrefs.com/pricing\" rel=\"noopener\">Ahrefs Pricing Page</a>",
+      "sourceOffset": 14113
     },
     {
       "text": "Moz Pro Pricing Page",
       "originalText": "Moz Pro Pricing Page",
       "url": "https://moz.com/products/pricing",
       "originalUrl": "https://moz.com/products/pricing",
-      "source": "<a href=\"https://moz.com/products/pricing\" rel=\"noopener\">Moz Pro Pricing Page</a>"
+      "source": "<a href=\"https://moz.com/products/pricing\" rel=\"noopener\">Moz Pro Pricing Page</a>",
+      "sourceOffset": 14197
     },
     {
       "text": "SEO Group Buy Cost Analysis",
       "originalText": "SEO Group Buy Cost Analysis",
       "url": "https://seogroupsbuytools.com/pricing",
       "originalUrl": "https://seogroupsbuytools.com/pricing",
-      "source": "<a href=\"https://seogroupsbuytools.com/pricing\" rel=\"noopener\">SEO Group Buy Cost Analysis</a>"
+      "source": "<a href=\"https://seogroupsbuytools.com/pricing\" rel=\"noopener\">SEO Group Buy Cost Analysis</a>",
+      "sourceOffset": 14288
     },
     {
       "text": "Freelancer SEO Revenue Survey 2024",
       "originalText": "Freelancer SEO Revenue Survey 2024",
       "url": "https://searchengineland.com",
       "originalUrl": "https://searchengineland.com",
-      "source": "<a href=\"https://searchengineland.com\" rel=\"noopener\">Freelancer SEO Revenue Survey 2024</a>"
+      "source": "<a href=\"https://searchengineland.com\" rel=\"noopener\">Freelancer SEO Revenue Survey 2024</a>",
+      "sourceOffset": 14391
     },
     {
       "text": "💬 WhatsApp Us",
       "originalText": "💬 WhatsApp Us",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>",
+      "sourceOffset": 14660
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>"
+      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>",
+      "sourceOffset": 14901
     },
     {
       "text": "Ahrefs Group Buy",
       "originalText": "Ahrefs Group Buy",
       "url": "../../seo-tools/ahrefs/",
       "originalUrl": "../../seo-tools/ahrefs/",
-      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 16056
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../../seo-tools/moz-pro/",
       "originalUrl": "../../seo-tools/moz-pro/",
-      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 16119
     },
     {
       "text": "Surfer SEO Group Buy",
       "originalText": "Surfer SEO Group Buy",
       "url": "../../seo-tools/surfer-seo/",
       "originalUrl": "../../seo-tools/surfer-seo/",
-      "source": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
+      "sourceOffset": 16184
     },
     {
       "text": "Canva Pro Group Buy",
       "originalText": "Canva Pro Group Buy",
       "url": "../../design-tools/canva-pro/",
       "originalUrl": "../../design-tools/canva-pro/",
-      "source": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>"
+      "source": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
+      "sourceOffset": 16255
     },
     {
       "text": "Quillbot Group Buy",
       "originalText": "Quillbot Group Buy",
       "url": "../../ai-writing-tools/quillbot/",
       "originalUrl": "../../ai-writing-tools/quillbot/",
-      "source": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>"
+      "source": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
+      "sourceOffset": 16327
     },
     {
       "text": "💬 WhatsApp Us Now",
       "originalText": "💬 WhatsApp Us Now",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>",
+      "sourceOffset": 16949
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>"
+      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>",
+      "sourceOffset": 17191
     }
   ],
   "mediaImages": [],
@@ -2481,49 +2686,57 @@
       "label": "🔍 SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>",
+      "sourceOffset": 15056
     },
     {
       "label": "🎨 Design Tools",
       "url": "../../design-tools/",
       "originalUrl": "../../design-tools/",
-      "source": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>"
+      "source": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>",
+      "sourceOffset": 15168
     },
     {
       "label": "🕵️ Spy & Ad Intelligence",
       "url": "../../spy-tools/",
       "originalUrl": "../../spy-tools/",
-      "source": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>"
+      "source": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>",
+      "sourceOffset": 15285
     },
     {
       "label": "✍️ AI Writing Tools",
       "url": "../../ai-writing-tools/",
       "originalUrl": "../../ai-writing-tools/",
-      "source": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>"
+      "source": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>",
+      "sourceOffset": 15409
     },
     {
       "label": "🛒 E-commerce Tools",
       "url": "../../ecommerce-tools/",
       "originalUrl": "../../ecommerce-tools/",
-      "source": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>"
+      "source": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>",
+      "sourceOffset": 15534
     },
     {
       "label": "📱 Social Media Tools",
       "url": "../../social-media-tools/",
       "originalUrl": "../../social-media-tools/",
-      "source": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>"
+      "source": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>",
+      "sourceOffset": 15658
     },
     {
       "label": "🎓 Education Tools",
       "url": "../../education-tools/",
       "originalUrl": "../../education-tools/",
-      "source": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>"
+      "source": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>",
+      "sourceOffset": 15787
     },
     {
       "label": "Card",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>",
+      "sourceOffset": 19810
     }
   ],
   "outsideGroups": [
@@ -2531,7 +2744,8 @@
       "heading": "Group Buy vs Individual Subscription",
       "originalHeading": "Group Buy vs Individual Subscription",
       "headingSource": "<h1>Group Buy vs Individual Subscription</h1>",
-      "items": []
+      "items": [],
+      "sourceOffset": 3859
     },
     {
       "heading": "Get Started Today",
@@ -2542,9 +2756,11 @@
           "text": "Access 50+ premium SEO tools from $5/month",
           "originalText": "Access 50+ premium SEO tools from $5/month",
           "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 14593
         }
-      ]
+      ],
+      "sourceOffset": 14566
     },
     {
       "heading": "Tool Categories",
@@ -2555,45 +2771,53 @@
           "text": "🔍 SEO Tools 12",
           "originalText": "🔍 SEO Tools 12",
           "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15052
         },
         {
           "text": "🎨 Design Tools 5",
           "originalText": "🎨 Design Tools 5",
           "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15164
         },
         {
           "text": "🕵️ Spy & Ad Intelligence 5",
           "originalText": "🕵️ Spy & Ad Intelligence 5",
           "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15281
         },
         {
           "text": "✍️ AI Writing Tools 4",
           "originalText": "✍️ AI Writing Tools 4",
           "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15405
         },
         {
           "text": "🛒 E-commerce Tools 4",
           "originalText": "🛒 E-commerce Tools 4",
           "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15530
         },
         {
           "text": "📱 Social Media Tools 3",
           "originalText": "📱 Social Media Tools 3",
           "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15654
         },
         {
           "text": "🎓 Education Tools 3",
           "originalText": "🎓 Education Tools 3",
           "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15783
         }
-      ]
+      ],
+      "sourceOffset": 15005
     },
     {
       "heading": "Popular Tools",
@@ -2604,39 +2828,46 @@
           "text": "SEMrush Group Buy",
           "originalText": "SEMrush Group Buy",
           "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15987
         },
         {
           "text": "Ahrefs Group Buy",
           "originalText": "Ahrefs Group Buy",
           "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16052
         },
         {
           "text": "Moz Pro Group Buy",
           "originalText": "Moz Pro Group Buy",
           "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16115
         },
         {
           "text": "Surfer SEO Group Buy",
           "originalText": "Surfer SEO Group Buy",
           "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16180
         },
         {
           "text": "Canva Pro Group Buy",
           "originalText": "Canva Pro Group Buy",
           "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16251
         },
         {
           "text": "Quillbot Group Buy",
           "originalText": "Quillbot Group Buy",
           "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16323
         }
-      ]
+      ],
+      "sourceOffset": 15941
     },
     {
       "heading": "Why Choose Us",
@@ -2647,33 +2878,39 @@
           "text": "✓ 50+ Premium Tools",
           "originalText": "✓ 50+ Premium Tools",
           "source": "<li>✓ 50+ Premium Tools</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16492
         },
         {
           "text": "✓ 90%+ Uptime Guaranteed",
           "originalText": "✓ 90%+ Uptime Guaranteed",
           "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16521
         },
         {
           "text": "✓ Instant Access Setup",
           "originalText": "✓ Instant Access Setup",
           "source": "<li>✓ Instant Access Setup</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16555
         },
         {
           "text": "✓ 24/7 Support",
           "originalText": "✓ 24/7 Support",
           "source": "<li>✓ 24/7 Support</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16587
         },
         {
           "text": "✓ Secure Payments",
           "originalText": "✓ Secure Payments",
           "source": "<li>✓ Secure Payments</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16611
         }
-      ]
+      ],
+      "sourceOffset": 16445
     },
     {
       "heading": "Ready to Get Started?",
@@ -2684,9 +2921,11 @@
           "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 16779
         }
-      ]
+      ],
+      "sourceOffset": 16748
     }
   ],
   "labelTexts": []

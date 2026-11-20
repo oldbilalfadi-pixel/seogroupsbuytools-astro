@@ -1209,9 +1209,11 @@
           "tag": "p",
           "text": "Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium keyword databases that reveal profitable opportunities. This guide shows you how to conduct professional keyword research using group buy tools from initial discovery to strategic prioritization.",
           "originalText": "Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium keyword databases that reveal profitable opportunities. This guide shows you how to conduct professional keyword research using group buy tools from initial discovery to strategic prioritization.",
-          "source": "<p class=\"answer-snippet\">Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium keyword databases that reveal profitable opportunities. This guide shows you how to conduct professional keyword research using group buy tools from initial discovery to strategic prioritization.</p>"
+          "source": "<p class=\"answer-snippet\">Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium keyword databases that reveal profitable opportunities. This guide shows you how to conduct professional keyword research using group buy tools from initial discovery to strategic prioritization.</p>",
+          "sourceOffset": 4171
         }
-      ]
+      ],
+      "sourceOffset": 4106
     },
     {
       "heading": "Which Tools Are Best for Keyword Research?",
@@ -1222,207 +1224,242 @@
           "tag": "p",
           "text": "SEMrush Keyword Magic Tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&#x27;s Keyword Magic Tool is the most comprehensive keyword research tool available.",
           "originalText": "SEMrush Keyword Magic Tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&#x27;s Keyword Magic Tool is the most comprehensive keyword research tool available.",
-          "source": "<p class=\"answer-snippet\">SEMrush Keyword Magic Tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&#x27;s Keyword Magic Tool is the most comprehensive keyword research tool available.</p>"
+          "source": "<p class=\"answer-snippet\">SEMrush Keyword Magic Tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&#x27;s Keyword Magic Tool is the most comprehensive keyword research tool available.</p>",
+          "sourceOffset": 4656
         },
         {
           "tag": "p",
           "text": "Enter a seed keyword and it generates thousands of related terms with search volume, trend data, keyword difficulty, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in keyword difficulty accuracy.",
           "originalText": "Enter a seed keyword and it generates thousands of related terms with search volume, trend data, keyword difficulty, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in keyword difficulty accuracy.",
-          "source": "<p>Enter a seed keyword and it generates thousands of related terms with search volume, trend data, keyword difficulty, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in keyword difficulty accuracy.</p>"
+          "source": "<p>Enter a seed keyword and it generates thousands of related terms with search volume, trend data, keyword difficulty, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in keyword difficulty accuracy.</p>",
+          "sourceOffset": 4979
         },
         {
           "tag": "p",
           "text": "Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&#x27;s current authority.",
           "originalText": "Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&#x27;s current authority.",
-          "source": "<p>Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&#x27;s current authority.</p>"
+          "source": "<p>Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&#x27;s current authority.</p>",
+          "sourceOffset": 5282
         },
         {
           "tag": "p",
           "text": "Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&#x27;s own keyword suggestions for your seed terms.",
           "originalText": "Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&#x27;s own keyword suggestions for your seed terms.",
-          "source": "<p>Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&#x27;s own keyword suggestions for your seed terms.</p>"
+          "source": "<p>Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&#x27;s own keyword suggestions for your seed terms.</p>",
+          "sourceOffset": 5537
         },
         {
           "tag": "th",
           "text": "Tool",
           "originalText": "Tool",
-          "source": "<th>Tool</th>"
+          "source": "<th>Tool</th>",
+          "sourceOffset": 5903
         },
         {
           "tag": "th",
           "text": "Database Size",
           "originalText": "Database Size",
-          "source": "<th>Database Size</th>"
+          "source": "<th>Database Size</th>",
+          "sourceOffset": 5916
         },
         {
           "tag": "th",
           "text": "Key Strength",
           "originalText": "Key Strength",
-          "source": "<th>Key Strength</th>"
+          "source": "<th>Key Strength</th>",
+          "sourceOffset": 5938
         },
         {
           "tag": "th",
           "text": "Best For",
           "originalText": "Best For",
-          "source": "<th>Best For</th>"
+          "source": "<th>Best For</th>",
+          "sourceOffset": 5959
         },
         {
           "tag": "th",
           "text": "Group Buy Access",
           "originalText": "Group Buy Access",
-          "source": "<th>Group Buy Access</th>"
+          "source": "<th>Group Buy Access</th>",
+          "sourceOffset": 5976
         },
         {
           "tag": "td",
           "text": "SEMrush Keyword Magic",
           "originalText": "SEMrush Keyword Magic",
-          "source": "<td>SEMrush Keyword Magic</td>"
+          "source": "<td>SEMrush Keyword Magic</td>",
+          "sourceOffset": 6025
         },
         {
           "tag": "td",
           "text": "20B+ keywords",
           "originalText": "20B+ keywords",
-          "source": "<td>20B+ keywords</td>"
+          "source": "<td>20B+ keywords</td>",
+          "sourceOffset": 6055
         },
         {
           "tag": "td",
           "text": "Volume + filtering",
           "originalText": "Volume + filtering",
-          "source": "<td>Volume + filtering</td>"
+          "source": "<td>Volume + filtering</td>",
+          "sourceOffset": 6077
         },
         {
           "tag": "td",
           "text": "Discovery",
           "originalText": "Discovery",
-          "source": "<td>Discovery</td>"
+          "source": "<td>Discovery</td>",
+          "sourceOffset": 6104
         },
         {
           "tag": "td",
           "text": "Reliable",
           "originalText": "Reliable",
-          "source": "<td>Reliable</td>"
+          "source": "<td>Reliable</td>",
+          "sourceOffset": 6122
         },
         {
           "tag": "td",
           "text": "Ahrefs Keywords Explorer",
           "originalText": "Ahrefs Keywords Explorer",
-          "source": "<td>Ahrefs Keywords Explorer</td>"
+          "source": "<td>Ahrefs Keywords Explorer</td>",
+          "sourceOffset": 6148
         },
         {
           "tag": "td",
           "text": "10B+ keywords",
           "originalText": "10B+ keywords",
-          "source": "<td>10B+ keywords</td>"
+          "source": "<td>10B+ keywords</td>",
+          "sourceOffset": 6181
         },
         {
           "tag": "td",
           "text": "Difficulty accuracy",
           "originalText": "Difficulty accuracy",
-          "source": "<td>Difficulty accuracy</td>"
+          "source": "<td>Difficulty accuracy</td>",
+          "sourceOffset": 6203
         },
         {
           "tag": "td",
           "text": "Validation",
           "originalText": "Validation",
-          "source": "<td>Validation</td>"
+          "source": "<td>Validation</td>",
+          "sourceOffset": 6231
         },
         {
           "tag": "td",
           "text": "Good",
           "originalText": "Good",
-          "source": "<td>Good</td>"
+          "source": "<td>Good</td>",
+          "sourceOffset": 6250
         },
         {
           "tag": "td",
           "text": "Google Keyword Planner",
           "originalText": "Google Keyword Planner",
-          "source": "<td>Google Keyword Planner</td>"
+          "source": "<td>Google Keyword Planner</td>",
+          "sourceOffset": 6272
         },
         {
           "tag": "td",
           "text": "Google data",
           "originalText": "Google data",
-          "source": "<td>Google data</td>"
+          "source": "<td>Google data</td>",
+          "sourceOffset": 6303
         },
         {
           "tag": "td",
           "text": "Source accuracy",
           "originalText": "Source accuracy",
-          "source": "<td>Source accuracy</td>"
+          "source": "<td>Source accuracy</td>",
+          "sourceOffset": 6323
         },
         {
           "tag": "td",
           "text": "Volume validation",
           "originalText": "Volume validation",
-          "source": "<td>Volume validation</td>"
+          "source": "<td>Volume validation</td>",
+          "sourceOffset": 6347
         },
         {
           "tag": "td",
           "text": "Free",
           "originalText": "Free",
-          "source": "<td>Free</td>"
+          "source": "<td>Free</td>",
+          "sourceOffset": 6373
         },
         {
           "tag": "td",
           "text": "Ubersuggest",
           "originalText": "Ubersuggest",
-          "source": "<td>Ubersuggest</td>"
+          "source": "<td>Ubersuggest</td>",
+          "sourceOffset": 6395
         },
         {
           "tag": "td",
           "text": "Limited",
           "originalText": "Limited",
-          "source": "<td>Limited</td>"
+          "source": "<td>Limited</td>",
+          "sourceOffset": 6415
         },
         {
           "tag": "td",
           "text": "Free baseline",
           "originalText": "Free baseline",
-          "source": "<td>Free baseline</td>"
+          "source": "<td>Free baseline</td>",
+          "sourceOffset": 6431
         },
         {
           "tag": "td",
           "text": "Initial exploration",
           "originalText": "Initial exploration",
-          "source": "<td>Initial exploration</td>"
+          "source": "<td>Initial exploration</td>",
+          "sourceOffset": 6453
         },
         {
           "tag": "td",
           "text": "Free",
           "originalText": "Free",
-          "source": "<td>Free</td>"
+          "source": "<td>Free</td>",
+          "sourceOffset": 6481
         },
         {
           "tag": "td",
           "text": "SEMrush Trend",
           "originalText": "SEMrush Trend",
-          "source": "<td>SEMrush Trend</td>"
+          "source": "<td>SEMrush Trend</td>",
+          "sourceOffset": 6503
         },
         {
           "tag": "td",
           "text": "Historical data",
           "originalText": "Historical data",
-          "source": "<td>Historical data</td>"
+          "source": "<td>Historical data</td>",
+          "sourceOffset": 6525
         },
         {
           "tag": "td",
           "text": "Seasonal patterns",
           "originalText": "Seasonal patterns",
-          "source": "<td>Seasonal patterns</td>"
+          "source": "<td>Seasonal patterns</td>",
+          "sourceOffset": 6549
         },
         {
           "tag": "td",
           "text": "Timing",
           "originalText": "Timing",
-          "source": "<td>Timing</td>"
+          "source": "<td>Timing</td>",
+          "sourceOffset": 6575
         },
         {
           "tag": "td",
           "text": "Reliable",
           "originalText": "Reliable",
-          "source": "<td>Reliable</td>"
+          "source": "<td>Reliable</td>",
+          "sourceOffset": 6590
         }
-      ]
+      ],
+      "sourceOffset": 4605
     },
     {
       "heading": "How Do You Find Profitable Keywords?",
@@ -1433,195 +1470,228 @@
           "tag": "p",
           "text": "Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.",
           "originalText": "Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.",
-          "source": "<p class=\"answer-snippet\">Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.</p>"
+          "source": "<p class=\"answer-snippet\">Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.</p>",
+          "sourceOffset": 7015
         },
         {
           "tag": "p",
           "text": "Enter each into SEMrush&#x27;s Keyword Magic Tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.",
           "originalText": "Enter each into SEMrush&#x27;s Keyword Magic Tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.",
-          "source": "<p>Enter each into SEMrush&#x27;s Keyword Magic Tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.</p>"
+          "source": "<p>Enter each into SEMrush&#x27;s Keyword Magic Tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.</p>",
+          "sourceOffset": 7335
         },
         {
           "tag": "p",
           "text": "Apply filters to narrow your list: minimum search volume of 100/month, keyword difficulty below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.",
           "originalText": "Apply filters to narrow your list: minimum search volume of 100/month, keyword difficulty below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.",
-          "source": "<p>Apply filters to narrow your list: minimum search volume of 100/month, keyword difficulty below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.</p>"
+          "source": "<p>Apply filters to narrow your list: minimum search volume of 100/month, keyword difficulty below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.</p>",
+          "sourceOffset": 7557
         },
         {
           "tag": "p",
           "text": "Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &#x27;Missing&#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.",
           "originalText": "Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &#x27;Missing&#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.",
-          "source": "<p>Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &#x27;Missing&#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.</p>"
+          "source": "<p>Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &#x27;Missing&#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.</p>",
+          "sourceOffset": 7866
         },
         {
           "tag": "th",
           "text": "Step",
           "originalText": "Step",
-          "source": "<th>Step</th>"
+          "source": "<th>Step</th>",
+          "sourceOffset": 8252
         },
         {
           "tag": "th",
           "text": "Action",
           "originalText": "Action",
-          "source": "<th>Action</th>"
+          "source": "<th>Action</th>",
+          "sourceOffset": 8265
         },
         {
           "tag": "th",
           "text": "Tool",
           "originalText": "Tool",
-          "source": "<th>Tool</th>"
+          "source": "<th>Tool</th>",
+          "sourceOffset": 8280
         },
         {
           "tag": "th",
           "text": "Output",
           "originalText": "Output",
-          "source": "<th>Output</th>"
+          "source": "<th>Output</th>",
+          "sourceOffset": 8293
         },
         {
           "tag": "td",
           "text": "1",
           "originalText": "1",
-          "source": "<td>1</td>"
+          "source": "<td>1</td>",
+          "sourceOffset": 8332
         },
         {
           "tag": "td",
           "text": "Enter seed keywords",
           "originalText": "Enter seed keywords",
-          "source": "<td>Enter seed keywords</td>"
+          "source": "<td>Enter seed keywords</td>",
+          "sourceOffset": 8342
         },
         {
           "tag": "td",
           "text": "SEMrush Keyword Magic",
           "originalText": "SEMrush Keyword Magic",
-          "source": "<td>SEMrush Keyword Magic</td>"
+          "source": "<td>SEMrush Keyword Magic</td>",
+          "sourceOffset": 8370
         },
         {
           "tag": "td",
           "text": "Raw keyword list",
           "originalText": "Raw keyword list",
-          "source": "<td>Raw keyword list</td>"
+          "source": "<td>Raw keyword list</td>",
+          "sourceOffset": 8400
         },
         {
           "tag": "td",
           "text": "2",
           "originalText": "2",
-          "source": "<td>2</td>"
+          "source": "<td>2</td>",
+          "sourceOffset": 8434
         },
         {
           "tag": "td",
           "text": "Filter by volume + difficulty",
           "originalText": "Filter by volume + difficulty",
-          "source": "<td>Filter by volume + difficulty</td>"
+          "source": "<td>Filter by volume + difficulty</td>",
+          "sourceOffset": 8444
         },
         {
           "tag": "td",
           "text": "SEMrush filters",
           "originalText": "SEMrush filters",
-          "source": "<td>SEMrush filters</td>"
+          "source": "<td>SEMrush filters</td>",
+          "sourceOffset": 8482
         },
         {
           "tag": "td",
           "text": "Refined list",
           "originalText": "Refined list",
-          "source": "<td>Refined list</td>"
+          "source": "<td>Refined list</td>",
+          "sourceOffset": 8506
         },
         {
           "tag": "td",
           "text": "3",
           "originalText": "3",
-          "source": "<td>3</td>"
+          "source": "<td>3</td>",
+          "sourceOffset": 8536
         },
         {
           "tag": "td",
           "text": "Identify search intent",
           "originalText": "Identify search intent",
-          "source": "<td>Identify search intent</td>"
+          "source": "<td>Identify search intent</td>",
+          "sourceOffset": 8546
         },
         {
           "tag": "td",
           "text": "SEMrush intent tags",
           "originalText": "SEMrush intent tags",
-          "source": "<td>SEMrush intent tags</td>"
+          "source": "<td>SEMrush intent tags</td>",
+          "sourceOffset": 8577
         },
         {
           "tag": "td",
           "text": "Categorized keywords",
           "originalText": "Categorized keywords",
-          "source": "<td>Categorized keywords</td>"
+          "source": "<td>Categorized keywords</td>",
+          "sourceOffset": 8605
         },
         {
           "tag": "td",
           "text": "4",
           "originalText": "4",
-          "source": "<td>4</td>"
+          "source": "<td>4</td>",
+          "sourceOffset": 8643
         },
         {
           "tag": "td",
           "text": "Validate difficulty scores",
           "originalText": "Validate difficulty scores",
-          "source": "<td>Validate difficulty scores</td>"
+          "source": "<td>Validate difficulty scores</td>",
+          "sourceOffset": 8653
         },
         {
           "tag": "td",
           "text": "Ahrefs Keywords Explorer",
           "originalText": "Ahrefs Keywords Explorer",
-          "source": "<td>Ahrefs Keywords Explorer</td>"
+          "source": "<td>Ahrefs Keywords Explorer</td>",
+          "sourceOffset": 8688
         },
         {
           "tag": "td",
           "text": "Accurate KD data",
           "originalText": "Accurate KD data",
-          "source": "<td>Accurate KD data</td>"
+          "source": "<td>Accurate KD data</td>",
+          "sourceOffset": 8721
         },
         {
           "tag": "td",
           "text": "5",
           "originalText": "5",
-          "source": "<td>5</td>"
+          "source": "<td>5</td>",
+          "sourceOffset": 8755
         },
         {
           "tag": "td",
           "text": "Find competitor keyword gaps",
           "originalText": "Find competitor keyword gaps",
-          "source": "<td>Find competitor keyword gaps</td>"
+          "source": "<td>Find competitor keyword gaps</td>",
+          "sourceOffset": 8765
         },
         {
           "tag": "td",
           "text": "SEMrush Keyword Gap",
           "originalText": "SEMrush Keyword Gap",
-          "source": "<td>SEMrush Keyword Gap</td>"
+          "source": "<td>SEMrush Keyword Gap</td>",
+          "sourceOffset": 8802
         },
         {
           "tag": "td",
           "text": "Opportunity keywords",
           "originalText": "Opportunity keywords",
-          "source": "<td>Opportunity keywords</td>"
+          "source": "<td>Opportunity keywords</td>",
+          "sourceOffset": 8830
         },
         {
           "tag": "td",
           "text": "6",
           "originalText": "6",
-          "source": "<td>6</td>"
+          "source": "<td>6</td>",
+          "sourceOffset": 8868
         },
         {
           "tag": "td",
           "text": "Prioritize by business value",
           "originalText": "Prioritize by business value",
-          "source": "<td>Prioritize by business value</td>"
+          "source": "<td>Prioritize by business value</td>",
+          "sourceOffset": 8878
         },
         {
           "tag": "td",
           "text": "Manual review",
           "originalText": "Manual review",
-          "source": "<td>Manual review</td>"
+          "source": "<td>Manual review</td>",
+          "sourceOffset": 8915
         },
         {
           "tag": "td",
           "text": "Final keyword plan",
           "originalText": "Final keyword plan",
-          "source": "<td>Final keyword plan</td>"
+          "source": "<td>Final keyword plan</td>",
+          "sourceOffset": 8937
         }
-      ]
+      ],
+      "sourceOffset": 6970
     },
     {
       "heading": "How Do You Assess Keyword Difficulty?",
@@ -1632,171 +1702,200 @@
           "tag": "p",
           "text": "Assess keyword difficulty by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.",
           "originalText": "Assess keyword difficulty by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.",
-          "source": "<p class=\"answer-snippet\">Assess keyword difficulty by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.</p>"
+          "source": "<p class=\"answer-snippet\">Assess keyword difficulty by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.</p>",
+          "sourceOffset": 9374
         },
         {
           "tag": "p",
           "text": "Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.",
           "originalText": "Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.",
-          "source": "<p>Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.</p>"
+          "source": "<p>Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.</p>",
+          "sourceOffset": 9714
         },
         {
           "tag": "p",
           "text": "Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.",
           "originalText": "Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.",
-          "source": "<p>Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.</p>"
+          "source": "<p>Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.</p>",
+          "sourceOffset": 10004
         },
         {
           "tag": "p",
           "text": "Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.",
           "originalText": "Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.",
-          "source": "<p>Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.</p>"
+          "source": "<p>Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.</p>",
+          "sourceOffset": 10299
         },
         {
           "tag": "th",
           "text": "KD Score Range",
           "originalText": "KD Score Range",
-          "source": "<th>KD Score Range</th>"
+          "source": "<th>KD Score Range</th>",
+          "sourceOffset": 10644
         },
         {
           "tag": "th",
           "text": "Difficulty Level",
           "originalText": "Difficulty Level",
-          "source": "<th>Difficulty Level</th>"
+          "source": "<th>Difficulty Level</th>",
+          "sourceOffset": 10667
         },
         {
           "tag": "th",
           "text": "Required Authority",
           "originalText": "Required Authority",
-          "source": "<th>Required Authority</th>"
+          "source": "<th>Required Authority</th>",
+          "sourceOffset": 10692
         },
         {
           "tag": "th",
           "text": "Strategy",
           "originalText": "Strategy",
-          "source": "<th>Strategy</th>"
+          "source": "<th>Strategy</th>",
+          "sourceOffset": 10719
         },
         {
           "tag": "td",
           "text": "0–20",
           "originalText": "0–20",
-          "source": "<td>0–20</td>"
+          "source": "<td>0–20</td>",
+          "sourceOffset": 10760
         },
         {
           "tag": "td",
           "text": "Easy",
           "originalText": "Easy",
-          "source": "<td>Easy</td>"
+          "source": "<td>Easy</td>",
+          "sourceOffset": 10773
         },
         {
           "tag": "td",
           "text": "New site OK",
           "originalText": "New site OK",
-          "source": "<td>New site OK</td>"
+          "source": "<td>New site OK</td>",
+          "sourceOffset": 10786
         },
         {
           "tag": "td",
           "text": "Create quality content",
           "originalText": "Create quality content",
-          "source": "<td>Create quality content</td>"
+          "source": "<td>Create quality content</td>",
+          "sourceOffset": 10806
         },
         {
           "tag": "td",
           "text": "20–40",
           "originalText": "20–40",
-          "source": "<td>20–40</td>"
+          "source": "<td>20–40</td>",
+          "sourceOffset": 10846
         },
         {
           "tag": "td",
           "text": "Moderate",
           "originalText": "Moderate",
-          "source": "<td>Moderate</td>"
+          "source": "<td>Moderate</td>",
+          "sourceOffset": 10860
         },
         {
           "tag": "td",
           "text": "Some authority needed",
           "originalText": "Some authority needed",
-          "source": "<td>Some authority needed</td>"
+          "source": "<td>Some authority needed</td>",
+          "sourceOffset": 10877
         },
         {
           "tag": "td",
           "text": "Content + basic links",
           "originalText": "Content + basic links",
-          "source": "<td>Content + basic links</td>"
+          "source": "<td>Content + basic links</td>",
+          "sourceOffset": 10907
         },
         {
           "tag": "td",
           "text": "40–60",
           "originalText": "40–60",
-          "source": "<td>40–60</td>"
+          "source": "<td>40–60</td>",
+          "sourceOffset": 10946
         },
         {
           "tag": "td",
           "text": "Difficult",
           "originalText": "Difficult",
-          "source": "<td>Difficult</td>"
+          "source": "<td>Difficult</td>",
+          "sourceOffset": 10960
         },
         {
           "tag": "td",
           "text": "Established domain",
           "originalText": "Established domain",
-          "source": "<td>Established domain</td>"
+          "source": "<td>Established domain</td>",
+          "sourceOffset": 10978
         },
         {
           "tag": "td",
           "text": "Content + active link building",
           "originalText": "Content + active link building",
-          "source": "<td>Content + active link building</td>"
+          "source": "<td>Content + active link building</td>",
+          "sourceOffset": 11005
         },
         {
           "tag": "td",
           "text": "60–80",
           "originalText": "60–80",
-          "source": "<td>60–80</td>"
+          "source": "<td>60–80</td>",
+          "sourceOffset": 11053
         },
         {
           "tag": "td",
           "text": "Very Difficult",
           "originalText": "Very Difficult",
-          "source": "<td>Very Difficult</td>"
+          "source": "<td>Very Difficult</td>",
+          "sourceOffset": 11067
         },
         {
           "tag": "td",
           "text": "High authority",
           "originalText": "High authority",
-          "source": "<td>High authority</td>"
+          "source": "<td>High authority</td>",
+          "sourceOffset": 11090
         },
         {
           "tag": "td",
           "text": "Long-term investment",
           "originalText": "Long-term investment",
-          "source": "<td>Long-term investment</td>"
+          "source": "<td>Long-term investment</td>",
+          "sourceOffset": 11113
         },
         {
           "tag": "td",
           "text": "80–100",
           "originalText": "80–100",
-          "source": "<td>80–100</td>"
+          "source": "<td>80–100</td>",
+          "sourceOffset": 11151
         },
         {
           "tag": "td",
           "text": "Extremely Hard",
           "originalText": "Extremely Hard",
-          "source": "<td>Extremely Hard</td>"
+          "source": "<td>Extremely Hard</td>",
+          "sourceOffset": 11166
         },
         {
           "tag": "td",
           "text": "Industry leader",
           "originalText": "Industry leader",
-          "source": "<td>Industry leader</td>"
+          "source": "<td>Industry leader</td>",
+          "sourceOffset": 11189
         },
         {
           "tag": "td",
           "text": "Consider alternatives",
           "originalText": "Consider alternatives",
-          "source": "<td>Consider alternatives</td>"
+          "source": "<td>Consider alternatives</td>",
+          "sourceOffset": 11213
         }
-      ]
+      ],
+      "sourceOffset": 9328
     },
     {
       "heading": "How Do You Build a Keyword Strategy?",
@@ -1807,183 +1906,214 @@
           "tag": "p",
           "text": "Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your keyword research into topic clusters.",
           "originalText": "Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your keyword research into topic clusters.",
-          "source": "<p class=\"answer-snippet\">Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your keyword research into topic clusters.</p>"
+          "source": "<p class=\"answer-snippet\">Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your keyword research into topic clusters.</p>",
+          "sourceOffset": 11651
         },
         {
           "tag": "p",
           "text": "Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.",
           "originalText": "Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.",
-          "source": "<p>Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.</p>"
+          "source": "<p>Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.</p>",
+          "sourceOffset": 11962
         },
         {
           "tag": "p",
           "text": "Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.",
           "originalText": "Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.",
-          "source": "<p>Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.</p>"
+          "source": "<p>Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.</p>",
+          "sourceOffset": 12252
         },
         {
           "tag": "p",
           "text": "Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.",
           "originalText": "Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.",
-          "source": "<p>Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.</p>"
+          "source": "<p>Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.</p>",
+          "sourceOffset": 12561
         },
         {
           "tag": "p",
           "text": "This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.",
           "originalText": "This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.",
-          "source": "<p>This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.</p>"
+          "source": "<p>This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.</p>",
+          "sourceOffset": 12811
         },
         {
           "tag": "th",
           "text": "Phase",
           "originalText": "Phase",
-          "source": "<th>Phase</th>"
+          "source": "<th>Phase</th>",
+          "sourceOffset": 12985
         },
         {
           "tag": "th",
           "text": "Target KD",
           "originalText": "Target KD",
-          "source": "<th>Target KD</th>"
+          "source": "<th>Target KD</th>",
+          "sourceOffset": 12999
         },
         {
           "tag": "th",
           "text": "Content Type",
           "originalText": "Content Type",
-          "source": "<th>Content Type</th>"
+          "source": "<th>Content Type</th>",
+          "sourceOffset": 13017
         },
         {
           "tag": "th",
           "text": "Timeline",
           "originalText": "Timeline",
-          "source": "<th>Timeline</th>"
+          "source": "<th>Timeline</th>",
+          "sourceOffset": 13038
         },
         {
           "tag": "th",
           "text": "Expected Traffic",
           "originalText": "Expected Traffic",
-          "source": "<th>Expected Traffic</th>"
+          "source": "<th>Expected Traffic</th>",
+          "sourceOffset": 13055
         },
         {
           "tag": "td",
           "text": "Phase 1: Quick Wins",
           "originalText": "Phase 1: Quick Wins",
-          "source": "<td>Phase 1: Quick Wins</td>"
+          "source": "<td>Phase 1: Quick Wins</td>",
+          "sourceOffset": 13104
         },
         {
           "tag": "td",
           "text": "0–20",
           "originalText": "0–20",
-          "source": "<td>0–20</td>"
+          "source": "<td>0–20</td>",
+          "sourceOffset": 13132
         },
         {
           "tag": "td",
           "text": "FAQ + How-to posts",
           "originalText": "FAQ + How-to posts",
-          "source": "<td>FAQ + How-to posts</td>"
+          "source": "<td>FAQ + How-to posts</td>",
+          "sourceOffset": 13145
         },
         {
           "tag": "td",
           "text": "Month 1–2",
           "originalText": "Month 1–2",
-          "source": "<td>Month 1–2</td>"
+          "source": "<td>Month 1–2</td>",
+          "sourceOffset": 13172
         },
         {
           "tag": "td",
           "text": "100–500 visits/month",
           "originalText": "100–500 visits/month",
-          "source": "<td>100–500 visits/month</td>"
+          "source": "<td>100–500 visits/month</td>",
+          "sourceOffset": 13190
         },
         {
           "tag": "td",
           "text": "Phase 2: Growth",
           "originalText": "Phase 2: Growth",
-          "source": "<td>Phase 2: Growth</td>"
+          "source": "<td>Phase 2: Growth</td>",
+          "sourceOffset": 13228
         },
         {
           "tag": "td",
           "text": "20–40",
           "originalText": "20–40",
-          "source": "<td>20–40</td>"
+          "source": "<td>20–40</td>",
+          "sourceOffset": 13252
         },
         {
           "tag": "td",
           "text": "In-depth guides",
           "originalText": "In-depth guides",
-          "source": "<td>In-depth guides</td>"
+          "source": "<td>In-depth guides</td>",
+          "sourceOffset": 13266
         },
         {
           "tag": "td",
           "text": "Month 3–4",
           "originalText": "Month 3–4",
-          "source": "<td>Month 3–4</td>"
+          "source": "<td>Month 3–4</td>",
+          "sourceOffset": 13290
         },
         {
           "tag": "td",
           "text": "500–2,000 visits/month",
           "originalText": "500–2,000 visits/month",
-          "source": "<td>500–2,000 visits/month</td>"
+          "source": "<td>500–2,000 visits/month</td>",
+          "sourceOffset": 13308
         },
         {
           "tag": "td",
           "text": "Phase 3: Authority",
           "originalText": "Phase 3: Authority",
-          "source": "<td>Phase 3: Authority</td>"
+          "source": "<td>Phase 3: Authority</td>",
+          "sourceOffset": 13348
         },
         {
           "tag": "td",
           "text": "40–60",
           "originalText": "40–60",
-          "source": "<td>40–60</td>"
+          "source": "<td>40–60</td>",
+          "sourceOffset": 13375
         },
         {
           "tag": "td",
           "text": "Comprehensive resources",
           "originalText": "Comprehensive resources",
-          "source": "<td>Comprehensive resources</td>"
+          "source": "<td>Comprehensive resources</td>",
+          "sourceOffset": 13389
         },
         {
           "tag": "td",
           "text": "Month 5–8",
           "originalText": "Month 5–8",
-          "source": "<td>Month 5–8</td>"
+          "source": "<td>Month 5–8</td>",
+          "sourceOffset": 13421
         },
         {
           "tag": "td",
           "text": "2,000–10,000 visits/month",
           "originalText": "2,000–10,000 visits/month",
-          "source": "<td>2,000–10,000 visits/month</td>"
+          "source": "<td>2,000–10,000 visits/month</td>",
+          "sourceOffset": 13439
         },
         {
           "tag": "td",
           "text": "Phase 4: Leadership",
           "originalText": "Phase 4: Leadership",
-          "source": "<td>Phase 4: Leadership</td>"
+          "source": "<td>Phase 4: Leadership</td>",
+          "sourceOffset": 13482
         },
         {
           "tag": "td",
           "text": "60+",
           "originalText": "60+",
-          "source": "<td>60+</td>"
+          "source": "<td>60+</td>",
+          "sourceOffset": 13510
         },
         {
           "tag": "td",
           "text": "Industry-defining content",
           "originalText": "Industry-defining content",
-          "source": "<td>Industry-defining content</td>"
+          "source": "<td>Industry-defining content</td>",
+          "sourceOffset": 13522
         },
         {
           "tag": "td",
           "text": "Month 9–12",
           "originalText": "Month 9–12",
-          "source": "<td>Month 9–12</td>"
+          "source": "<td>Month 9–12</td>",
+          "sourceOffset": 13556
         },
         {
           "tag": "td",
           "text": "10,000+ visits/month",
           "originalText": "10,000+ visits/month",
-          "source": "<td>10,000+ visits/month</td>"
+          "source": "<td>10,000+ visits/month</td>",
+          "sourceOffset": 13575
         }
-      ]
+      ],
+      "sourceOffset": 11606
     },
     {
       "heading": "What Are the References for This Page?",
@@ -1994,33 +2124,39 @@
           "tag": "li",
           "text": "SEMrush Keyword Research Guide",
           "originalText": "SEMrush Keyword Research Guide",
-          "source": "<li><a href=\"https://semrush.com/blog/keyword-research\" rel=\"noopener\">SEMrush Keyword Research Guide</a></li>"
+          "source": "<li><a href=\"https://semrush.com/blog/keyword-research\" rel=\"noopener\">SEMrush Keyword Research Guide</a></li>",
+          "sourceOffset": 14063
         },
         {
           "tag": "li",
           "text": "Ahrefs Keyword Difficulty Explained",
           "originalText": "Ahrefs Keyword Difficulty Explained",
-          "source": "<li><a href=\"https://ahrefs.com/blog/keyword-difficulty\" rel=\"noopener\">Ahrefs Keyword Difficulty Explained</a></li>"
+          "source": "<li><a href=\"https://ahrefs.com/blog/keyword-difficulty\" rel=\"noopener\">Ahrefs Keyword Difficulty Explained</a></li>",
+          "sourceOffset": 14173
         },
         {
           "tag": "li",
           "text": "Google Keyword Planner Tutorial",
           "originalText": "Google Keyword Planner Tutorial",
-          "source": "<li><a href=\"https://support.google.com/google-ads\" rel=\"noopener\">Google Keyword Planner Tutorial</a></li>"
+          "source": "<li><a href=\"https://support.google.com/google-ads\" rel=\"noopener\">Google Keyword Planner Tutorial</a></li>",
+          "sourceOffset": 14289
         },
         {
           "tag": "li",
           "text": "Topic Cluster Strategy Guide",
           "originalText": "Topic Cluster Strategy Guide",
-          "source": "<li><a href=\"https://hubspot.com/topic-clusters\" rel=\"noopener\">Topic Cluster Strategy Guide</a></li>"
+          "source": "<li><a href=\"https://hubspot.com/topic-clusters\" rel=\"noopener\">Topic Cluster Strategy Guide</a></li>",
+          "sourceOffset": 14396
         },
         {
           "tag": "li",
           "text": "SEO Group Buy Keyword Research Workflow",
           "originalText": "SEO Group Buy Keyword Research Workflow",
-          "source": "<li><a href=\"https://seogroupsbuytools.com/guides\" rel=\"noopener\">SEO Group Buy Keyword Research Workflow</a></li>"
+          "source": "<li><a href=\"https://seogroupsbuytools.com/guides\" rel=\"noopener\">SEO Group Buy Keyword Research Workflow</a></li>",
+          "sourceOffset": 14497
         }
-      ]
+      ],
+      "sourceOffset": 13988
     }
   ],
   "buttons": [
@@ -2029,210 +2165,240 @@
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 6656
     },
     {
       "text": "KWFinder Group Buy",
       "originalText": "KWFinder Group Buy",
       "url": "../../seo-tools/kwfinder/",
       "originalUrl": "../../seo-tools/kwfinder/",
-      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>",
+      "sourceOffset": 6714
     },
     {
       "text": "Ubersuggest Group Buy",
       "originalText": "Ubersuggest Group Buy",
       "url": "../../seo-tools/ubersuggest/",
       "originalUrl": "../../seo-tools/ubersuggest/",
-      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>",
+      "sourceOffset": 6774
     },
     {
       "text": "SEO Tools",
       "originalText": "SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>",
+      "sourceOffset": 6840
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 9013
     },
     {
       "text": "KWFinder Group Buy",
       "originalText": "KWFinder Group Buy",
       "url": "../../seo-tools/kwfinder/",
       "originalUrl": "../../seo-tools/kwfinder/",
-      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>",
+      "sourceOffset": 9071
     },
     {
       "text": "Ubersuggest Group Buy",
       "originalText": "Ubersuggest Group Buy",
       "url": "../../seo-tools/ubersuggest/",
       "originalUrl": "../../seo-tools/ubersuggest/",
-      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>",
+      "sourceOffset": 9131
     },
     {
       "text": "SEO Tools",
       "originalText": "SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>",
+      "sourceOffset": 9197
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 11292
     },
     {
       "text": "KWFinder Group Buy",
       "originalText": "KWFinder Group Buy",
       "url": "../../seo-tools/kwfinder/",
       "originalUrl": "../../seo-tools/kwfinder/",
-      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>",
+      "sourceOffset": 11350
     },
     {
       "text": "Ubersuggest Group Buy",
       "originalText": "Ubersuggest Group Buy",
       "url": "../../seo-tools/ubersuggest/",
       "originalUrl": "../../seo-tools/ubersuggest/",
-      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>",
+      "sourceOffset": 11410
     },
     {
       "text": "SEO Tools",
       "originalText": "SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>",
+      "sourceOffset": 11476
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 13653
     },
     {
       "text": "KWFinder Group Buy",
       "originalText": "KWFinder Group Buy",
       "url": "../../seo-tools/kwfinder/",
       "originalUrl": "../../seo-tools/kwfinder/",
-      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>",
+      "sourceOffset": 13711
     },
     {
       "text": "Ubersuggest Group Buy",
       "originalText": "Ubersuggest Group Buy",
       "url": "../../seo-tools/ubersuggest/",
       "originalUrl": "../../seo-tools/ubersuggest/",
-      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>",
+      "sourceOffset": 13771
     },
     {
       "text": "SEO Tools",
       "originalText": "SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>",
+      "sourceOffset": 13837
     },
     {
       "text": "SEMrush Keyword Research Guide",
       "originalText": "SEMrush Keyword Research Guide",
       "url": "https://semrush.com/blog/keyword-research",
       "originalUrl": "https://semrush.com/blog/keyword-research",
-      "source": "<a href=\"https://semrush.com/blog/keyword-research\" rel=\"noopener\">SEMrush Keyword Research Guide</a>"
+      "source": "<a href=\"https://semrush.com/blog/keyword-research\" rel=\"noopener\">SEMrush Keyword Research Guide</a>",
+      "sourceOffset": 14067
     },
     {
       "text": "Ahrefs Keyword Difficulty Explained",
       "originalText": "Ahrefs Keyword Difficulty Explained",
       "url": "https://ahrefs.com/blog/keyword-difficulty",
       "originalUrl": "https://ahrefs.com/blog/keyword-difficulty",
-      "source": "<a href=\"https://ahrefs.com/blog/keyword-difficulty\" rel=\"noopener\">Ahrefs Keyword Difficulty Explained</a>"
+      "source": "<a href=\"https://ahrefs.com/blog/keyword-difficulty\" rel=\"noopener\">Ahrefs Keyword Difficulty Explained</a>",
+      "sourceOffset": 14177
     },
     {
       "text": "Google Keyword Planner Tutorial",
       "originalText": "Google Keyword Planner Tutorial",
       "url": "https://support.google.com/google-ads",
       "originalUrl": "https://support.google.com/google-ads",
-      "source": "<a href=\"https://support.google.com/google-ads\" rel=\"noopener\">Google Keyword Planner Tutorial</a>"
+      "source": "<a href=\"https://support.google.com/google-ads\" rel=\"noopener\">Google Keyword Planner Tutorial</a>",
+      "sourceOffset": 14293
     },
     {
       "text": "Topic Cluster Strategy Guide",
       "originalText": "Topic Cluster Strategy Guide",
       "url": "https://hubspot.com/topic-clusters",
       "originalUrl": "https://hubspot.com/topic-clusters",
-      "source": "<a href=\"https://hubspot.com/topic-clusters\" rel=\"noopener\">Topic Cluster Strategy Guide</a>"
+      "source": "<a href=\"https://hubspot.com/topic-clusters\" rel=\"noopener\">Topic Cluster Strategy Guide</a>",
+      "sourceOffset": 14400
     },
     {
       "text": "SEO Group Buy Keyword Research Workflow",
       "originalText": "SEO Group Buy Keyword Research Workflow",
       "url": "https://seogroupsbuytools.com/guides",
       "originalUrl": "https://seogroupsbuytools.com/guides",
-      "source": "<a href=\"https://seogroupsbuytools.com/guides\" rel=\"noopener\">SEO Group Buy Keyword Research Workflow</a>"
+      "source": "<a href=\"https://seogroupsbuytools.com/guides\" rel=\"noopener\">SEO Group Buy Keyword Research Workflow</a>",
+      "sourceOffset": 14501
     },
     {
       "text": "💬 WhatsApp Us",
       "originalText": "💬 WhatsApp Us",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>",
+      "sourceOffset": 14783
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>"
+      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>",
+      "sourceOffset": 15024
     },
     {
       "text": "Ahrefs Group Buy",
       "originalText": "Ahrefs Group Buy",
       "url": "../../seo-tools/ahrefs/",
       "originalUrl": "../../seo-tools/ahrefs/",
-      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 16179
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../../seo-tools/moz-pro/",
       "originalUrl": "../../seo-tools/moz-pro/",
-      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 16242
     },
     {
       "text": "Surfer SEO Group Buy",
       "originalText": "Surfer SEO Group Buy",
       "url": "../../seo-tools/surfer-seo/",
       "originalUrl": "../../seo-tools/surfer-seo/",
-      "source": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
+      "sourceOffset": 16307
     },
     {
       "text": "Canva Pro Group Buy",
       "originalText": "Canva Pro Group Buy",
       "url": "../../design-tools/canva-pro/",
       "originalUrl": "../../design-tools/canva-pro/",
-      "source": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>"
+      "source": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
+      "sourceOffset": 16378
     },
     {
       "text": "Quillbot Group Buy",
       "originalText": "Quillbot Group Buy",
       "url": "../../ai-writing-tools/quillbot/",
       "originalUrl": "../../ai-writing-tools/quillbot/",
-      "source": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>"
+      "source": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
+      "sourceOffset": 16450
     },
     {
       "text": "💬 WhatsApp Us Now",
       "originalText": "💬 WhatsApp Us Now",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>",
+      "sourceOffset": 17072
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>"
+      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>",
+      "sourceOffset": 17314
     }
   ],
   "mediaImages": [],
@@ -2245,49 +2411,57 @@
       "label": "🔍 SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>",
+      "sourceOffset": 15179
     },
     {
       "label": "🎨 Design Tools",
       "url": "../../design-tools/",
       "originalUrl": "../../design-tools/",
-      "source": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>"
+      "source": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>",
+      "sourceOffset": 15291
     },
     {
       "label": "🕵️ Spy & Ad Intelligence",
       "url": "../../spy-tools/",
       "originalUrl": "../../spy-tools/",
-      "source": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>"
+      "source": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>",
+      "sourceOffset": 15408
     },
     {
       "label": "✍️ AI Writing Tools",
       "url": "../../ai-writing-tools/",
       "originalUrl": "../../ai-writing-tools/",
-      "source": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>"
+      "source": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>",
+      "sourceOffset": 15532
     },
     {
       "label": "🛒 E-commerce Tools",
       "url": "../../ecommerce-tools/",
       "originalUrl": "../../ecommerce-tools/",
-      "source": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>"
+      "source": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>",
+      "sourceOffset": 15657
     },
     {
       "label": "📱 Social Media Tools",
       "url": "../../social-media-tools/",
       "originalUrl": "../../social-media-tools/",
-      "source": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>"
+      "source": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>",
+      "sourceOffset": 15781
     },
     {
       "label": "🎓 Education Tools",
       "url": "../../education-tools/",
       "originalUrl": "../../education-tools/",
-      "source": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>"
+      "source": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>",
+      "sourceOffset": 15910
     },
     {
       "label": "Card",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>",
+      "sourceOffset": 19855
     }
   ],
   "outsideGroups": [
@@ -2295,7 +2469,8 @@
       "heading": "Keyword Research with Group Buy SEO Tools",
       "originalHeading": "Keyword Research with Group Buy SEO Tools",
       "headingSource": "<h1>Keyword Research with Group Buy SEO Tools</h1>",
-      "items": []
+      "items": [],
+      "sourceOffset": 3842
     },
     {
       "heading": "Get Started Today",
@@ -2306,9 +2481,11 @@
           "text": "Access 50+ premium SEO tools from $5/month",
           "originalText": "Access 50+ premium SEO tools from $5/month",
           "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 14716
         }
-      ]
+      ],
+      "sourceOffset": 14689
     },
     {
       "heading": "Tool Categories",
@@ -2319,45 +2496,53 @@
           "text": "🔍 SEO Tools 12",
           "originalText": "🔍 SEO Tools 12",
           "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15175
         },
         {
           "text": "🎨 Design Tools 5",
           "originalText": "🎨 Design Tools 5",
           "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15287
         },
         {
           "text": "🕵️ Spy & Ad Intelligence 5",
           "originalText": "🕵️ Spy & Ad Intelligence 5",
           "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15404
         },
         {
           "text": "✍️ AI Writing Tools 4",
           "originalText": "✍️ AI Writing Tools 4",
           "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15528
         },
         {
           "text": "🛒 E-commerce Tools 4",
           "originalText": "🛒 E-commerce Tools 4",
           "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15653
         },
         {
           "text": "📱 Social Media Tools 3",
           "originalText": "📱 Social Media Tools 3",
           "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15777
         },
         {
           "text": "🎓 Education Tools 3",
           "originalText": "🎓 Education Tools 3",
           "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15906
         }
-      ]
+      ],
+      "sourceOffset": 15128
     },
     {
       "heading": "Popular Tools",
@@ -2368,39 +2553,46 @@
           "text": "SEMrush Group Buy",
           "originalText": "SEMrush Group Buy",
           "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16110
         },
         {
           "text": "Ahrefs Group Buy",
           "originalText": "Ahrefs Group Buy",
           "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16175
         },
         {
           "text": "Moz Pro Group Buy",
           "originalText": "Moz Pro Group Buy",
           "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16238
         },
         {
           "text": "Surfer SEO Group Buy",
           "originalText": "Surfer SEO Group Buy",
           "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16303
         },
         {
           "text": "Canva Pro Group Buy",
           "originalText": "Canva Pro Group Buy",
           "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16374
         },
         {
           "text": "Quillbot Group Buy",
           "originalText": "Quillbot Group Buy",
           "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16446
         }
-      ]
+      ],
+      "sourceOffset": 16064
     },
     {
       "heading": "Why Choose Us",
@@ -2411,33 +2603,39 @@
           "text": "✓ 50+ Premium Tools",
           "originalText": "✓ 50+ Premium Tools",
           "source": "<li>✓ 50+ Premium Tools</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16615
         },
         {
           "text": "✓ 90%+ Uptime Guaranteed",
           "originalText": "✓ 90%+ Uptime Guaranteed",
           "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16644
         },
         {
           "text": "✓ Instant Access Setup",
           "originalText": "✓ Instant Access Setup",
           "source": "<li>✓ Instant Access Setup</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16678
         },
         {
           "text": "✓ 24/7 Support",
           "originalText": "✓ 24/7 Support",
           "source": "<li>✓ 24/7 Support</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16710
         },
         {
           "text": "✓ Secure Payments",
           "originalText": "✓ Secure Payments",
           "source": "<li>✓ Secure Payments</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16734
         }
-      ]
+      ],
+      "sourceOffset": 16568
     },
     {
       "heading": "Ready to Get Started?",
@@ -2448,9 +2646,11 @@
           "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 16902
         }
-      ]
+      ],
+      "sourceOffset": 16871
     }
   ],
   "labelTexts": []

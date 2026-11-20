@@ -1209,9 +1209,11 @@
           "tag": "p",
           "text": "Backlink analysis is one of the most powerful use cases for SEO Group Buy Tools, giving you access to premium backlink databases that reveal link opportunities and competitor strategies. This guide provides a step-by-step workflow for conducting professional backlink analysis using group buy tools.",
           "originalText": "Backlink analysis is one of the most powerful use cases for SEO Group Buy Tools, giving you access to premium backlink databases that reveal link opportunities and competitor strategies. This guide provides a step-by-step workflow for conducting professional backlink analysis using group buy tools.",
-          "source": "<p class=\"answer-snippet\">Backlink analysis is one of the most powerful use cases for SEO Group Buy Tools, giving you access to premium backlink databases that reveal link opportunities and competitor strategies. This guide provides a step-by-step workflow for conducting professional backlink analysis using group buy tools.</p>"
+          "source": "<p class=\"answer-snippet\">Backlink analysis is one of the most powerful use cases for SEO Group Buy Tools, giving you access to premium backlink databases that reveal link opportunities and competitor strategies. This guide provides a step-by-step workflow for conducting professional backlink analysis using group buy tools.</p>",
+          "sourceOffset": 4272
         }
-      ]
+      ],
+      "sourceOffset": 4206
     },
     {
       "heading": "Which Tools Are Best for Backlink Analysis?",
@@ -1222,33 +1224,39 @@
           "tag": "p",
           "text": "Ahrefs is the gold standard for backlink analysis with the freshest link index, SEMrush provides comprehensive referring domain data, and Moz Pro offers Domain Authority metrics for link quality assessment. Ahrefs maintains the most active and frequently updated backlink index among all SEO tools.",
           "originalText": "Ahrefs is the gold standard for backlink analysis with the freshest link index, SEMrush provides comprehensive referring domain data, and Moz Pro offers Domain Authority metrics for link quality assessment. Ahrefs maintains the most active and frequently updated backlink index among all SEO tools.",
-          "source": "<p class=\"answer-snippet\">Ahrefs is the gold standard for backlink analysis with the freshest link index, SEMrush provides comprehensive referring domain data, and Moz Pro offers Domain Authority metrics for link quality assessment. Ahrefs maintains the most active and frequently updated backlink index among all SEO tools.</p>"
+          "source": "<p class=\"answer-snippet\">Ahrefs is the gold standard for backlink analysis with the freshest link index, SEMrush provides comprehensive referring domain data, and Moz Pro offers Domain Authority metrics for link quality assessment. Ahrefs maintains the most active and frequently updated backlink index among all SEO tools.</p>",
+          "sourceOffset": 4744
         },
         {
           "tag": "p",
           "text": "Its crawler processes billions of pages daily, ensuring you see recent links and lost links quickly. The referring domains report, anchor text analysis, and linked pages data are unmatched in depth and freshness. SEMrush&#x27;s Backlink Analytics tool provides a solid alternative with its own substantial link database.",
           "originalText": "Its crawler processes billions of pages daily, ensuring you see recent links and lost links quickly. The referring domains report, anchor text analysis, and linked pages data are unmatched in depth and freshness. SEMrush&#x27;s Backlink Analytics tool provides a solid alternative with its own substantial link database.",
-          "source": "<p>Its crawler processes billions of pages daily, ensuring you see recent links and lost links quickly. The referring domains report, anchor text analysis, and linked pages data are unmatched in depth and freshness. SEMrush&#x27;s Backlink Analytics tool provides a solid alternative with its own substantial link database.</p>"
+          "source": "<p>Its crawler processes billions of pages daily, ensuring you see recent links and lost links quickly. The referring domains report, anchor text analysis, and linked pages data are unmatched in depth and freshness. SEMrush&#x27;s Backlink Analytics tool provides a solid alternative with its own substantial link database.</p>",
+          "sourceOffset": 5072
         },
         {
           "tag": "p",
           "text": "Its toxic backlink scoring helps identify potentially harmful links. The referring domains comparison tool lets you analyze up to five competitors simultaneously, revealing common link sources and unique opportunities.",
           "originalText": "Its toxic backlink scoring helps identify potentially harmful links. The referring domains comparison tool lets you analyze up to five competitors simultaneously, revealing common link sources and unique opportunities.",
-          "source": "<p>Its toxic backlink scoring helps identify potentially harmful links. The referring domains comparison tool lets you analyze up to five competitors simultaneously, revealing common link sources and unique opportunities.</p>"
+          "source": "<p>Its toxic backlink scoring helps identify potentially harmful links. The referring domains comparison tool lets you analyze up to five competitors simultaneously, revealing common link sources and unique opportunities.</p>",
+          "sourceOffset": 5399
         },
         {
           "tag": "p",
           "text": "Moz Pro&#x27;s Link Explorer rounds out the trio with Domain Authority and Page Authority scores that have become industry-standard metrics for evaluating link quality. While its database is smaller than Ahrefs or SEMrush, the DA/PA metrics provide quick quality assessments that many SEO professionals trust.",
           "originalText": "Moz Pro&#x27;s Link Explorer rounds out the trio with Domain Authority and Page Authority scores that have become industry-standard metrics for evaluating link quality. While its database is smaller than Ahrefs or SEMrush, the DA/PA metrics provide quick quality assessments that many SEO professionals trust.",
-          "source": "<p>Moz Pro&#x27;s Link Explorer rounds out the trio with Domain Authority and Page Authority scores that have become industry-standard metrics for evaluating link quality. While its database is smaller than Ahrefs or SEMrush, the DA/PA metrics provide quick quality assessments that many SEO professionals trust.</p>"
+          "source": "<p>Moz Pro&#x27;s Link Explorer rounds out the trio with Domain Authority and Page Authority scores that have become industry-standard metrics for evaluating link quality. While its database is smaller than Ahrefs or SEMrush, the DA/PA metrics provide quick quality assessments that many SEO professionals trust.</p>",
+          "sourceOffset": 5624
         },
         {
           "tag": "p",
           "text": "Tool Link Index Size Update Frequency Best For Group Buy Reliability Ahrefs 38T+ links Every 15 min Fresh link data Medium SEMrush 43T+ links Daily Competitor comparison High Moz Pro 40T+ links Weekly DA/PA scoring Medium-High",
           "originalText": "Tool Link Index Size Update Frequency Best For Group Buy Reliability Ahrefs 38T+ links Every 15 min Fresh link data Medium SEMrush 43T+ links Daily Competitor comparison High Moz Pro 40T+ links Weekly DA/PA scoring Medium-High",
-          "source": "<p>Tool Link Index Size Update Frequency Best For Group Buy Reliability Ahrefs 38T+ links Every 15 min Fresh link data Medium SEMrush 43T+ links Daily Competitor comparison High Moz Pro 40T+ links Weekly DA/PA scoring Medium-High</p>"
+          "source": "<p>Tool Link Index Size Update Frequency Best For Group Buy Reliability Ahrefs 38T+ links Every 15 min Fresh link data Medium SEMrush 43T+ links Daily Competitor comparison High Moz Pro 40T+ links Weekly DA/PA scoring Medium-High</p>",
+          "sourceOffset": 5940
         }
-      ]
+      ],
+      "sourceOffset": 4692
     },
     {
       "heading": "How Do You Analyze Competitor Backlinks?",
@@ -1259,147 +1267,172 @@
           "tag": "p",
           "text": "Enter competitor domains in Ahrefs or SEMrush, examine their top referring domains, analyze anchor text patterns, identify their highest-authority links, and find common link sources across multiple competitors.",
           "originalText": "Enter competitor domains in Ahrefs or SEMrush, examine their top referring domains, analyze anchor text patterns, identify their highest-authority links, and find common link sources across multiple competitors.",
-          "source": "<p class=\"answer-snippet\">Enter competitor domains in Ahrefs or SEMrush, examine their top referring domains, analyze anchor text patterns, identify their highest-authority links, and find common link sources across multiple competitors.</p>"
+          "source": "<p class=\"answer-snippet\">Enter competitor domains in Ahrefs or SEMrush, examine their top referring domains, analyze anchor text patterns, identify their highest-authority links, and find common link sources across multiple competitors.</p>",
+          "sourceOffset": 6556
         },
         {
           "tag": "p",
           "text": "Step one: Identify your top 3–5 organic search competitors by searching your target keywords and noting which domains consistently rank. Enter each competitor&#x27;s domain into Ahrefs Site Explorer to see their complete backlink profile, including total backlinks, referring domains, and domain rating.",
           "originalText": "Step one: Identify your top 3–5 organic search competitors by searching your target keywords and noting which domains consistently rank. Enter each competitor&#x27;s domain into Ahrefs Site Explorer to see their complete backlink profile, including total backlinks, referring domains, and domain rating.",
-          "source": "<p>Step one: Identify your top 3–5 organic search competitors by searching your target keywords and noting which domains consistently rank. Enter each competitor&#x27;s domain into Ahrefs Site Explorer to see their complete backlink profile, including total backlinks, referring domains, and domain rating.</p>"
+          "source": "<p>Step one: Identify your top 3–5 organic search competitors by searching your target keywords and noting which domains consistently rank. Enter each competitor&#x27;s domain into Ahrefs Site Explorer to see their complete backlink profile, including total backlinks, referring domains, and domain rating.</p>",
+          "sourceOffset": 6797
         },
         {
           "tag": "p",
           "text": "Step two: Navigate to the Referring Domains report and sort by Domain Rating to find their highest-quality link sources. These are the domains you want to replicate. Look for industry publications, resource pages, and authoritative directories that link to your competitors but not to you.",
           "originalText": "Step two: Navigate to the Referring Domains report and sort by Domain Rating to find their highest-quality link sources. These are the domains you want to replicate. Look for industry publications, resource pages, and authoritative directories that link to your competitors but not to you.",
-          "source": "<p>Step two: Navigate to the Referring Domains report and sort by Domain Rating to find their highest-quality link sources. These are the domains you want to replicate. Look for industry publications, resource pages, and authoritative directories that link to your competitors but not to you.</p>"
+          "source": "<p>Step two: Navigate to the Referring Domains report and sort by Domain Rating to find their highest-quality link sources. These are the domains you want to replicate. Look for industry publications, resource pages, and authoritative directories that link to your competitors but not to you.</p>",
+          "sourceOffset": 7107
         },
         {
           "tag": "p",
           "text": "Step three: Use the Link Intersect tool (available in Ahrefs and SEMrush) to find domains linking to multiple competitors but not to you. These are proven link opportunities because they already link to sites in your niche. Create a prioritized outreach list from these results.",
           "originalText": "Step three: Use the Link Intersect tool (available in Ahrefs and SEMrush) to find domains linking to multiple competitors but not to you. These are proven link opportunities because they already link to sites in your niche. Create a prioritized outreach list from these results.",
-          "source": "<p>Step three: Use the Link Intersect tool (available in Ahrefs and SEMrush) to find domains linking to multiple competitors but not to you. These are proven link opportunities because they already link to sites in your niche. Create a prioritized outreach list from these results.</p>"
+          "source": "<p>Step three: Use the Link Intersect tool (available in Ahrefs and SEMrush) to find domains linking to multiple competitors but not to you. These are proven link opportunities because they already link to sites in your niche. Create a prioritized outreach list from these results.</p>",
+          "sourceOffset": 7403
         },
         {
           "tag": "th",
           "text": "Tool",
           "originalText": "Tool",
-          "source": "<th>Tool</th>"
+          "source": "<th>Tool</th>",
+          "sourceOffset": 7749
         },
         {
           "tag": "th",
           "text": "Link Index Size",
           "originalText": "Link Index Size",
-          "source": "<th>Link Index Size</th>"
+          "source": "<th>Link Index Size</th>",
+          "sourceOffset": 7762
         },
         {
           "tag": "th",
           "text": "Update Frequency",
           "originalText": "Update Frequency",
-          "source": "<th>Update Frequency</th>"
+          "source": "<th>Update Frequency</th>",
+          "sourceOffset": 7786
         },
         {
           "tag": "th",
           "text": "Best For",
           "originalText": "Best For",
-          "source": "<th>Best For</th>"
+          "source": "<th>Best For</th>",
+          "sourceOffset": 7811
         },
         {
           "tag": "th",
           "text": "Group Buy Reliability",
           "originalText": "Group Buy Reliability",
-          "source": "<th>Group Buy Reliability</th>"
+          "source": "<th>Group Buy Reliability</th>",
+          "sourceOffset": 7828
         },
         {
           "tag": "td",
           "text": "Ahrefs",
           "originalText": "Ahrefs",
-          "source": "<td>Ahrefs</td>"
+          "source": "<td>Ahrefs</td>",
+          "sourceOffset": 7882
         },
         {
           "tag": "td",
           "text": "38T+ links",
           "originalText": "38T+ links",
-          "source": "<td>38T+ links</td>"
+          "source": "<td>38T+ links</td>",
+          "sourceOffset": 7897
         },
         {
           "tag": "td",
           "text": "Every 15 min",
           "originalText": "Every 15 min",
-          "source": "<td>Every 15 min</td>"
+          "source": "<td>Every 15 min</td>",
+          "sourceOffset": 7916
         },
         {
           "tag": "td",
           "text": "Fresh link data",
           "originalText": "Fresh link data",
-          "source": "<td>Fresh link data</td>"
+          "source": "<td>Fresh link data</td>",
+          "sourceOffset": 7937
         },
         {
           "tag": "td",
           "text": "Medium",
           "originalText": "Medium",
-          "source": "<td>Medium</td>"
+          "source": "<td>Medium</td>",
+          "sourceOffset": 7961
         },
         {
           "tag": "td",
           "text": "SEMrush",
           "originalText": "SEMrush",
-          "source": "<td>SEMrush</td>"
+          "source": "<td>SEMrush</td>",
+          "sourceOffset": 7985
         },
         {
           "tag": "td",
           "text": "43T+ links",
           "originalText": "43T+ links",
-          "source": "<td>43T+ links</td>"
+          "source": "<td>43T+ links</td>",
+          "sourceOffset": 8001
         },
         {
           "tag": "td",
           "text": "Daily",
           "originalText": "Daily",
-          "source": "<td>Daily</td>"
+          "source": "<td>Daily</td>",
+          "sourceOffset": 8020
         },
         {
           "tag": "td",
           "text": "Competitor comparison",
           "originalText": "Competitor comparison",
-          "source": "<td>Competitor comparison</td>"
+          "source": "<td>Competitor comparison</td>",
+          "sourceOffset": 8034
         },
         {
           "tag": "td",
           "text": "High",
           "originalText": "High",
-          "source": "<td>High</td>"
+          "source": "<td>High</td>",
+          "sourceOffset": 8064
         },
         {
           "tag": "td",
           "text": "Moz Pro",
           "originalText": "Moz Pro",
-          "source": "<td>Moz Pro</td>"
+          "source": "<td>Moz Pro</td>",
+          "sourceOffset": 8086
         },
         {
           "tag": "td",
           "text": "40T+ links",
           "originalText": "40T+ links",
-          "source": "<td>40T+ links</td>"
+          "source": "<td>40T+ links</td>",
+          "sourceOffset": 8102
         },
         {
           "tag": "td",
           "text": "Weekly",
           "originalText": "Weekly",
-          "source": "<td>Weekly</td>"
+          "source": "<td>Weekly</td>",
+          "sourceOffset": 8121
         },
         {
           "tag": "td",
           "text": "DA/PA scoring",
           "originalText": "DA/PA scoring",
-          "source": "<td>DA/PA scoring</td>"
+          "source": "<td>DA/PA scoring</td>",
+          "sourceOffset": 8136
         },
         {
           "tag": "td",
           "text": "Medium-High",
           "originalText": "Medium-High",
-          "source": "<td>Medium-High</td>"
+          "source": "<td>Medium-High</td>",
+          "sourceOffset": 8158
         }
-      ]
+      ],
+      "sourceOffset": 6507
     },
     {
       "heading": "How Do You Find Link Building Opportunities?",
@@ -1410,171 +1443,200 @@
           "tag": "p",
           "text": "Use Ahrefs Content Explorer to find linkable content in your niche, SEMrush to identify broken link opportunities, and analyze competitor guest posts to discover sites that accept contributed content. Content Explorer in Ahrefs reveals which content types earn the most backlinks in your niche.",
           "originalText": "Use Ahrefs Content Explorer to find linkable content in your niche, SEMrush to identify broken link opportunities, and analyze competitor guest posts to discover sites that accept contributed content. Content Explorer in Ahrefs reveals which content types earn the most backlinks in your niche.",
-          "source": "<p class=\"answer-snippet\">Use Ahrefs Content Explorer to find linkable content in your niche, SEMrush to identify broken link opportunities, and analyze competitor guest posts to discover sites that accept contributed content. Content Explorer in Ahrefs reveals which content types earn the most backlinks in your niche.</p>"
+          "source": "<p class=\"answer-snippet\">Use Ahrefs Content Explorer to find linkable content in your niche, SEMrush to identify broken link opportunities, and analyze competitor guest posts to discover sites that accept contributed content. Content Explorer in Ahrefs reveals which content types earn the most backlinks in your niche.</p>",
+          "sourceOffset": 8596
         },
         {
           "tag": "p",
           "text": "Search for your topic, sort by referring domains, and analyze what makes top-performing content linkable. Create similar or better content to attract natural backlinks through the same channels. Broken link building is highly effective using SEMrush&#x27;s Backlink Audit tool combined with Ahrefs.",
           "originalText": "Search for your topic, sort by referring domains, and analyze what makes top-performing content linkable. Create similar or better content to attract natural backlinks through the same channels. Broken link building is highly effective using SEMrush&#x27;s Backlink Audit tool combined with Ahrefs.",
-          "source": "<p>Search for your topic, sort by referring domains, and analyze what makes top-performing content linkable. Create similar or better content to attract natural backlinks through the same channels. Broken link building is highly effective using SEMrush&#x27;s Backlink Audit tool combined with Ahrefs.</p>"
+          "source": "<p>Search for your topic, sort by referring domains, and analyze what makes top-performing content linkable. Create similar or better content to attract natural backlinks through the same channels. Broken link building is highly effective using SEMrush&#x27;s Backlink Audit tool combined with Ahrefs.</p>",
+          "sourceOffset": 8920
         },
         {
           "tag": "p",
           "text": "Find authoritative pages linking to 404 pages in your niche, then create replacement content and reach out to the linking sites. This technique converts dead links into live links pointing to your content. Guest posting opportunities can be discovered by analyzing where your competitors have published guest articles.",
           "originalText": "Find authoritative pages linking to 404 pages in your niche, then create replacement content and reach out to the linking sites. This technique converts dead links into live links pointing to your content. Guest posting opportunities can be discovered by analyzing where your competitors have published guest articles.",
-          "source": "<p>Find authoritative pages linking to 404 pages in your niche, then create replacement content and reach out to the linking sites. This technique converts dead links into live links pointing to your content. Guest posting opportunities can be discovered by analyzing where your competitors have published guest articles.</p>"
+          "source": "<p>Find authoritative pages linking to 404 pages in your niche, then create replacement content and reach out to the linking sites. This technique converts dead links into live links pointing to your content. Guest posting opportunities can be discovered by analyzing where your competitors have published guest articles.</p>",
+          "sourceOffset": 9225
         },
         {
           "tag": "p",
           "text": "In Ahrefs, check the referring domains report for blog-style domains with author bios. These sites clearly accept contributed content and represent warm outreach opportunities for your own guest posts.",
           "originalText": "In Ahrefs, check the referring domains report for blog-style domains with author bios. These sites clearly accept contributed content and represent warm outreach opportunities for your own guest posts.",
-          "source": "<p>In Ahrefs, check the referring domains report for blog-style domains with author bios. These sites clearly accept contributed content and represent warm outreach opportunities for your own guest posts.</p>"
+          "source": "<p>In Ahrefs, check the referring domains report for blog-style domains with author bios. These sites clearly accept contributed content and represent warm outreach opportunities for your own guest posts.</p>",
+          "sourceOffset": 9550
         },
         {
           "tag": "th",
           "text": "Step",
           "originalText": "Step",
-          "source": "<th>Step</th>"
+          "source": "<th>Step</th>",
+          "sourceOffset": 9819
         },
         {
           "tag": "th",
           "text": "Action",
           "originalText": "Action",
-          "source": "<th>Action</th>"
+          "source": "<th>Action</th>",
+          "sourceOffset": 9832
         },
         {
           "tag": "th",
           "text": "Tool Feature",
           "originalText": "Tool Feature",
-          "source": "<th>Tool Feature</th>"
+          "source": "<th>Tool Feature</th>",
+          "sourceOffset": 9847
         },
         {
           "tag": "th",
           "text": "Output",
           "originalText": "Output",
-          "source": "<th>Output</th>"
+          "source": "<th>Output</th>",
+          "sourceOffset": 9868
         },
         {
           "tag": "td",
           "text": "1",
           "originalText": "1",
-          "source": "<td>1</td>"
+          "source": "<td>1</td>",
+          "sourceOffset": 9907
         },
         {
           "tag": "td",
           "text": "Identify competitors",
           "originalText": "Identify competitors",
-          "source": "<td>Identify competitors</td>"
+          "source": "<td>Identify competitors</td>",
+          "sourceOffset": 9917
         },
         {
           "tag": "td",
           "text": "SEMrush Organic Research",
           "originalText": "SEMrush Organic Research",
-          "source": "<td>SEMrush Organic Research</td>"
+          "source": "<td>SEMrush Organic Research</td>",
+          "sourceOffset": 9946
         },
         {
           "tag": "td",
           "text": "Competitor domain list",
           "originalText": "Competitor domain list",
-          "source": "<td>Competitor domain list</td>"
+          "source": "<td>Competitor domain list</td>",
+          "sourceOffset": 9979
         },
         {
           "tag": "td",
           "text": "2",
           "originalText": "2",
-          "source": "<td>2</td>"
+          "source": "<td>2</td>",
+          "sourceOffset": 10019
         },
         {
           "tag": "td",
           "text": "Analyze backlink profile",
           "originalText": "Analyze backlink profile",
-          "source": "<td>Analyze backlink profile</td>"
+          "source": "<td>Analyze backlink profile</td>",
+          "sourceOffset": 10029
         },
         {
           "tag": "td",
           "text": "Ahrefs Site Explorer",
           "originalText": "Ahrefs Site Explorer",
-          "source": "<td>Ahrefs Site Explorer</td>"
+          "source": "<td>Ahrefs Site Explorer</td>",
+          "sourceOffset": 10062
         },
         {
           "tag": "td",
           "text": "Full link profile",
           "originalText": "Full link profile",
-          "source": "<td>Full link profile</td>"
+          "source": "<td>Full link profile</td>",
+          "sourceOffset": 10091
         },
         {
           "tag": "td",
           "text": "3",
           "originalText": "3",
-          "source": "<td>3</td>"
+          "source": "<td>3</td>",
+          "sourceOffset": 10126
         },
         {
           "tag": "td",
           "text": "Find top referring domains",
           "originalText": "Find top referring domains",
-          "source": "<td>Find top referring domains</td>"
+          "source": "<td>Find top referring domains</td>",
+          "sourceOffset": 10136
         },
         {
           "tag": "td",
           "text": "Referring Domains report",
           "originalText": "Referring Domains report",
-          "source": "<td>Referring Domains report</td>"
+          "source": "<td>Referring Domains report</td>",
+          "sourceOffset": 10171
         },
         {
           "tag": "td",
           "text": "High-DR link sources",
           "originalText": "High-DR link sources",
-          "source": "<td>High-DR link sources</td>"
+          "source": "<td>High-DR link sources</td>",
+          "sourceOffset": 10204
         },
         {
           "tag": "td",
           "text": "4",
           "originalText": "4",
-          "source": "<td>4</td>"
+          "source": "<td>4</td>",
+          "sourceOffset": 10242
         },
         {
           "tag": "td",
           "text": "Analyze anchor text",
           "originalText": "Analyze anchor text",
-          "source": "<td>Analyze anchor text</td>"
+          "source": "<td>Analyze anchor text</td>",
+          "sourceOffset": 10252
         },
         {
           "tag": "td",
           "text": "Anchor Text report",
           "originalText": "Anchor Text report",
-          "source": "<td>Anchor Text report</td>"
+          "source": "<td>Anchor Text report</td>",
+          "sourceOffset": 10280
         },
         {
           "tag": "td",
           "text": "Link strategy patterns",
           "originalText": "Link strategy patterns",
-          "source": "<td>Link strategy patterns</td>"
+          "source": "<td>Link strategy patterns</td>",
+          "sourceOffset": 10307
         },
         {
           "tag": "td",
           "text": "5",
           "originalText": "5",
-          "source": "<td>5</td>"
+          "source": "<td>5</td>",
+          "sourceOffset": 10347
         },
         {
           "tag": "td",
           "text": "Find shared link sources",
           "originalText": "Find shared link sources",
-          "source": "<td>Find shared link sources</td>"
+          "source": "<td>Find shared link sources</td>",
+          "sourceOffset": 10357
         },
         {
           "tag": "td",
           "text": "Link Intersect tool",
           "originalText": "Link Intersect tool",
-          "source": "<td>Link Intersect tool</td>"
+          "source": "<td>Link Intersect tool</td>",
+          "sourceOffset": 10390
         },
         {
           "tag": "td",
           "text": "Priority outreach list",
           "originalText": "Priority outreach list",
-          "source": "<td>Priority outreach list</td>"
+          "source": "<td>Priority outreach list</td>",
+          "sourceOffset": 10418
         }
-      ]
+      ],
+      "sourceOffset": 8543
     },
     {
       "heading": "What Metrics Should You Track?",
@@ -1585,171 +1647,200 @@
           "tag": "p",
           "text": "Track referring domain growth, Domain Rating/Authority changes, anchor text diversity ratio, dofollow vs nofollow ratio, and link acquisition velocity to measure the health and progress of your backlink profile. Referring domain growth is the single most important backlink metric.",
           "originalText": "Track referring domain growth, Domain Rating/Authority changes, anchor text diversity ratio, dofollow vs nofollow ratio, and link acquisition velocity to measure the health and progress of your backlink profile. Referring domain growth is the single most important backlink metric.",
-          "source": "<p class=\"answer-snippet\">Track referring domain growth, Domain Rating/Authority changes, anchor text diversity ratio, dofollow vs nofollow ratio, and link acquisition velocity to measure the health and progress of your backlink profile. Referring domain growth is the single most important backlink metric.</p>"
+          "source": "<p class=\"answer-snippet\">Track referring domain growth, Domain Rating/Authority changes, anchor text diversity ratio, dofollow vs nofollow ratio, and link acquisition velocity to measure the health and progress of your backlink profile. Referring domain growth is the single most important backlink metric.</p>",
+          "sourceOffset": 10839
         },
         {
           "tag": "p",
           "text": "Track the number of unique domains linking to your site monthly using Ahrefs or SEMrush. Quality matters more than quantity, so also monitor the average Domain Rating of new referring domains to ensure you are attracting authoritative links. Anchor text diversity prevents over-optimization penalties.",
           "originalText": "Track the number of unique domains linking to your site monthly using Ahrefs or SEMrush. Quality matters more than quantity, so also monitor the average Domain Rating of new referring domains to ensure you are attracting authoritative links. Anchor text diversity prevents over-optimization penalties.",
-          "source": "<p>Track the number of unique domains linking to your site monthly using Ahrefs or SEMrush. Quality matters more than quantity, so also monitor the average Domain Rating of new referring domains to ensure you are attracting authoritative links. Anchor text diversity prevents over-optimization penalties.</p>"
+          "source": "<p>Track the number of unique domains linking to your site monthly using Ahrefs or SEMrush. Quality matters more than quantity, so also monitor the average Domain Rating of new referring domains to ensure you are attracting authoritative links. Anchor text diversity prevents over-optimization penalties.</p>",
+          "sourceOffset": 11150
         },
         {
           "tag": "p",
           "text": "Your anchor text profile should contain a natural mix of branded terms, partial match keywords, exact match keywords, and generic anchors. Use Ahrefs anchor text report to ensure no single anchor type exceeds 30% of your total profile.",
           "originalText": "Your anchor text profile should contain a natural mix of branded terms, partial match keywords, exact match keywords, and generic anchors. Use Ahrefs anchor text report to ensure no single anchor type exceeds 30% of your total profile.",
-          "source": "<p>Your anchor text profile should contain a natural mix of branded terms, partial match keywords, exact match keywords, and generic anchors. Use Ahrefs anchor text report to ensure no single anchor type exceeds 30% of your total profile.</p>"
+          "source": "<p>Your anchor text profile should contain a natural mix of branded terms, partial match keywords, exact match keywords, and generic anchors. Use Ahrefs anchor text report to ensure no single anchor type exceeds 30% of your total profile.</p>",
+          "sourceOffset": 11458
         },
         {
           "tag": "p",
           "text": "Link acquisition velocity measures how quickly you are earning new links compared to losing existing ones. A positive net growth rate indicates healthy link building. Track this monthly to identify seasonal patterns, campaign effectiveness, and potential negative SEO attacks that cause sudden link loss.",
           "originalText": "Link acquisition velocity measures how quickly you are earning new links compared to losing existing ones. A positive net growth rate indicates healthy link building. Track this monthly to identify seasonal patterns, campaign effectiveness, and potential negative SEO attacks that cause sudden link loss.",
-          "source": "<p>Link acquisition velocity measures how quickly you are earning new links compared to losing existing ones. A positive net growth rate indicates healthy link building. Track this monthly to identify seasonal patterns, campaign effectiveness, and potential negative SEO attacks that cause sudden link loss.</p>"
+          "source": "<p>Link acquisition velocity measures how quickly you are earning new links compared to losing existing ones. A positive net growth rate indicates healthy link building. Track this monthly to identify seasonal patterns, campaign effectiveness, and potential negative SEO attacks that cause sudden link loss.</p>",
+          "sourceOffset": 11700
         },
         {
           "tag": "th",
           "text": "Strategy",
           "originalText": "Strategy",
-          "source": "<th>Strategy</th>"
+          "source": "<th>Strategy</th>",
+          "sourceOffset": 12072
         },
         {
           "tag": "th",
           "text": "Tool Used",
           "originalText": "Tool Used",
-          "source": "<th>Tool Used</th>"
+          "source": "<th>Tool Used</th>",
+          "sourceOffset": 12089
         },
         {
           "tag": "th",
           "text": "Technique",
           "originalText": "Technique",
-          "source": "<th>Technique</th>"
+          "source": "<th>Technique</th>",
+          "sourceOffset": 12107
         },
         {
           "tag": "th",
           "text": "Expected Results",
           "originalText": "Expected Results",
-          "source": "<th>Expected Results</th>"
+          "source": "<th>Expected Results</th>",
+          "sourceOffset": 12125
         },
         {
           "tag": "td",
           "text": "Skyscraper",
           "originalText": "Skyscraper",
-          "source": "<td>Skyscraper</td>"
+          "source": "<td>Skyscraper</td>",
+          "sourceOffset": 12174
         },
         {
           "tag": "td",
           "text": "Ahrefs Content Explorer",
           "originalText": "Ahrefs Content Explorer",
-          "source": "<td>Ahrefs Content Explorer</td>"
+          "source": "<td>Ahrefs Content Explorer</td>",
+          "sourceOffset": 12193
         },
         {
           "tag": "td",
           "text": "Find + improve top content",
           "originalText": "Find + improve top content",
-          "source": "<td>Find + improve top content</td>"
+          "source": "<td>Find + improve top content</td>",
+          "sourceOffset": 12225
         },
         {
           "tag": "td",
           "text": "5–15 links/month",
           "originalText": "5–15 links/month",
-          "source": "<td>5–15 links/month</td>"
+          "source": "<td>5–15 links/month</td>",
+          "sourceOffset": 12260
         },
         {
           "tag": "td",
           "text": "Broken Link Building",
           "originalText": "Broken Link Building",
-          "source": "<td>Broken Link Building</td>"
+          "source": "<td>Broken Link Building</td>",
+          "sourceOffset": 12294
         },
         {
           "tag": "td",
           "text": "SEMrush + Ahrefs",
           "originalText": "SEMrush + Ahrefs",
-          "source": "<td>SEMrush + Ahrefs</td>"
+          "source": "<td>SEMrush + Ahrefs</td>",
+          "sourceOffset": 12323
         },
         {
           "tag": "td",
           "text": "Replace dead links",
           "originalText": "Replace dead links",
-          "source": "<td>Replace dead links</td>"
+          "source": "<td>Replace dead links</td>",
+          "sourceOffset": 12348
         },
         {
           "tag": "td",
           "text": "3–10 links/month",
           "originalText": "3–10 links/month",
-          "source": "<td>3–10 links/month</td>"
+          "source": "<td>3–10 links/month</td>",
+          "sourceOffset": 12375
         },
         {
           "tag": "td",
           "text": "Guest Posting",
           "originalText": "Guest Posting",
-          "source": "<td>Guest Posting</td>"
+          "source": "<td>Guest Posting</td>",
+          "sourceOffset": 12409
         },
         {
           "tag": "td",
           "text": "Ahrefs Referring Domains",
           "originalText": "Ahrefs Referring Domains",
-          "source": "<td>Ahrefs Referring Domains</td>"
+          "source": "<td>Ahrefs Referring Domains</td>",
+          "sourceOffset": 12431
         },
         {
           "tag": "td",
           "text": "Find contributor-friendly sites",
           "originalText": "Find contributor-friendly sites",
-          "source": "<td>Find contributor-friendly sites</td>"
+          "source": "<td>Find contributor-friendly sites</td>",
+          "sourceOffset": 12464
         },
         {
           "tag": "td",
           "text": "4–8 links/month",
           "originalText": "4–8 links/month",
-          "source": "<td>4–8 links/month</td>"
+          "source": "<td>4–8 links/month</td>",
+          "sourceOffset": 12504
         },
         {
           "tag": "td",
           "text": "Resource Page Links",
           "originalText": "Resource Page Links",
-          "source": "<td>Resource Page Links</td>"
+          "source": "<td>Resource Page Links</td>",
+          "sourceOffset": 12537
         },
         {
           "tag": "td",
           "text": "SEMrush Backlink Analytics",
           "originalText": "SEMrush Backlink Analytics",
-          "source": "<td>SEMrush Backlink Analytics</td>"
+          "source": "<td>SEMrush Backlink Analytics</td>",
+          "sourceOffset": 12565
         },
         {
           "tag": "td",
           "text": "Find resource lists",
           "originalText": "Find resource lists",
-          "source": "<td>Find resource lists</td>"
+          "source": "<td>Find resource lists</td>",
+          "sourceOffset": 12600
         },
         {
           "tag": "td",
           "text": "2–6 links/month",
           "originalText": "2–6 links/month",
-          "source": "<td>2–6 links/month</td>"
+          "source": "<td>2–6 links/month</td>",
+          "sourceOffset": 12628
         },
         {
           "tag": "td",
           "text": "HARO/Quoted",
           "originalText": "HARO/Quoted",
-          "source": "<td>HARO/Quoted</td>"
+          "source": "<td>HARO/Quoted</td>",
+          "sourceOffset": 12661
         },
         {
           "tag": "td",
           "text": "Ahrefs + Google Alerts",
           "originalText": "Ahrefs + Google Alerts",
-          "source": "<td>Ahrefs + Google Alerts</td>"
+          "source": "<td>Ahrefs + Google Alerts</td>",
+          "sourceOffset": 12681
         },
         {
           "tag": "td",
           "text": "Expert commentary",
           "originalText": "Expert commentary",
-          "source": "<td>Expert commentary</td>"
+          "source": "<td>Expert commentary</td>",
+          "sourceOffset": 12712
         },
         {
           "tag": "td",
           "text": "1–5 links/month",
           "originalText": "1–5 links/month",
-          "source": "<td>1–5 links/month</td>"
+          "source": "<td>1–5 links/month</td>",
+          "sourceOffset": 12738
         }
-      ]
+      ],
+      "sourceOffset": 10800
     },
     {
       "heading": "What Are the References for This Page?",
@@ -1760,33 +1851,39 @@
           "tag": "li",
           "text": "Ahrefs Backlink Analysis Guide",
           "originalText": "Ahrefs Backlink Analysis Guide",
-          "source": "<li><a href=\"https://ahrefs.com/blog/backlink-analysis\" rel=\"noopener\">Ahrefs Backlink Analysis Guide</a></li>"
+          "source": "<li><a href=\"https://ahrefs.com/blog/backlink-analysis\" rel=\"noopener\">Ahrefs Backlink Analysis Guide</a></li>",
+          "sourceOffset": 13215
         },
         {
           "tag": "li",
           "text": "SEMrush Backlink Analytics Documentation",
           "originalText": "SEMrush Backlink Analytics Documentation",
-          "source": "<li><a href=\"https://semrush.com/backlinks\" rel=\"noopener\">SEMrush Backlink Analytics Documentation</a></li>"
+          "source": "<li><a href=\"https://semrush.com/backlinks\" rel=\"noopener\">SEMrush Backlink Analytics Documentation</a></li>",
+          "sourceOffset": 13325
         },
         {
           "tag": "li",
           "text": "Moz Link Explorer Guide",
           "originalText": "Moz Link Explorer Guide",
-          "source": "<li><a href=\"https://moz.com/link-explorer\" rel=\"noopener\">Moz Link Explorer Guide</a></li>"
+          "source": "<li><a href=\"https://moz.com/link-explorer\" rel=\"noopener\">Moz Link Explorer Guide</a></li>",
+          "sourceOffset": 13433
         },
         {
           "tag": "li",
           "text": "Google Search Quality Guidelines",
           "originalText": "Google Search Quality Guidelines",
-          "source": "<li><a href=\"https://support.google.com/webmasters\" rel=\"noopener\">Google Search Quality Guidelines</a></li>"
+          "source": "<li><a href=\"https://support.google.com/webmasters\" rel=\"noopener\">Google Search Quality Guidelines</a></li>",
+          "sourceOffset": 13524
         },
         {
           "tag": "li",
           "text": "SEO Group Buy Tools Backlink Workflow",
           "originalText": "SEO Group Buy Tools Backlink Workflow",
-          "source": "<li><a href=\"https://seogroupsbuytools.com/guides\" rel=\"noopener\">SEO Group Buy Tools Backlink Workflow</a></li>"
+          "source": "<li><a href=\"https://seogroupsbuytools.com/guides\" rel=\"noopener\">SEO Group Buy Tools Backlink Workflow</a></li>",
+          "sourceOffset": 13632
         }
-      ]
+      ],
+      "sourceOffset": 13140
     }
   ],
   "buttons": [
@@ -1795,203 +1892,232 @@
       "originalText": "Ahrefs Group Buy",
       "url": "../../seo-tools/ahrefs/",
       "originalUrl": "../../seo-tools/ahrefs/",
-      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 6195
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../../seo-tools/moz-pro/",
       "originalUrl": "../../seo-tools/moz-pro/",
-      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 6251
     },
     {
       "text": "Serpstat Group Buy",
       "originalText": "Serpstat Group Buy",
       "url": "../../seo-tools/majestic-seo/",
       "originalUrl": "../../seo-tools/majestic-seo/",
-      "source": "<a href=\"../../seo-tools/majestic-seo/\">Serpstat Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/majestic-seo/\">Serpstat Group Buy</a>",
+      "sourceOffset": 6309
     },
     {
       "text": "SEO Tools",
       "originalText": "SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>",
+      "sourceOffset": 6373
     },
     {
       "text": "Ahrefs Group Buy",
       "originalText": "Ahrefs Group Buy",
       "url": "../../seo-tools/ahrefs/",
       "originalUrl": "../../seo-tools/ahrefs/",
-      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 8227
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../../seo-tools/moz-pro/",
       "originalUrl": "../../seo-tools/moz-pro/",
-      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 8283
     },
     {
       "text": "Serpstat Group Buy",
       "originalText": "Serpstat Group Buy",
       "url": "../../seo-tools/majestic-seo/",
       "originalUrl": "../../seo-tools/majestic-seo/",
-      "source": "<a href=\"../../seo-tools/majestic-seo/\">Serpstat Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/majestic-seo/\">Serpstat Group Buy</a>",
+      "sourceOffset": 8341
     },
     {
       "text": "SEO Tools",
       "originalText": "SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>",
+      "sourceOffset": 8405
     },
     {
       "text": "Ahrefs Group Buy",
       "originalText": "Ahrefs Group Buy",
       "url": "../../seo-tools/ahrefs/",
       "originalUrl": "../../seo-tools/ahrefs/",
-      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 10498
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../../seo-tools/moz-pro/",
       "originalUrl": "../../seo-tools/moz-pro/",
-      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 10554
     },
     {
       "text": "Serpstat Group Buy",
       "originalText": "Serpstat Group Buy",
       "url": "../../seo-tools/majestic-seo/",
       "originalUrl": "../../seo-tools/majestic-seo/",
-      "source": "<a href=\"../../seo-tools/majestic-seo/\">Serpstat Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/majestic-seo/\">Serpstat Group Buy</a>",
+      "sourceOffset": 10612
     },
     {
       "text": "SEO Tools",
       "originalText": "SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>",
+      "sourceOffset": 10676
     },
     {
       "text": "Ahrefs Group Buy",
       "originalText": "Ahrefs Group Buy",
       "url": "../../seo-tools/ahrefs/",
       "originalUrl": "../../seo-tools/ahrefs/",
-      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 12811
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../../seo-tools/moz-pro/",
       "originalUrl": "../../seo-tools/moz-pro/",
-      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 12867
     },
     {
       "text": "Serpstat Group Buy",
       "originalText": "Serpstat Group Buy",
       "url": "../../seo-tools/majestic-seo/",
       "originalUrl": "../../seo-tools/majestic-seo/",
-      "source": "<a href=\"../../seo-tools/majestic-seo/\">Serpstat Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/majestic-seo/\">Serpstat Group Buy</a>",
+      "sourceOffset": 12925
     },
     {
       "text": "SEO Tools",
       "originalText": "SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>",
+      "sourceOffset": 12989
     },
     {
       "text": "Ahrefs Backlink Analysis Guide",
       "originalText": "Ahrefs Backlink Analysis Guide",
       "url": "https://ahrefs.com/blog/backlink-analysis",
       "originalUrl": "https://ahrefs.com/blog/backlink-analysis",
-      "source": "<a href=\"https://ahrefs.com/blog/backlink-analysis\" rel=\"noopener\">Ahrefs Backlink Analysis Guide</a>"
+      "source": "<a href=\"https://ahrefs.com/blog/backlink-analysis\" rel=\"noopener\">Ahrefs Backlink Analysis Guide</a>",
+      "sourceOffset": 13219
     },
     {
       "text": "SEMrush Backlink Analytics Documentation",
       "originalText": "SEMrush Backlink Analytics Documentation",
       "url": "https://semrush.com/backlinks",
       "originalUrl": "https://semrush.com/backlinks",
-      "source": "<a href=\"https://semrush.com/backlinks\" rel=\"noopener\">SEMrush Backlink Analytics Documentation</a>"
+      "source": "<a href=\"https://semrush.com/backlinks\" rel=\"noopener\">SEMrush Backlink Analytics Documentation</a>",
+      "sourceOffset": 13329
     },
     {
       "text": "Moz Link Explorer Guide",
       "originalText": "Moz Link Explorer Guide",
       "url": "https://moz.com/link-explorer",
       "originalUrl": "https://moz.com/link-explorer",
-      "source": "<a href=\"https://moz.com/link-explorer\" rel=\"noopener\">Moz Link Explorer Guide</a>"
+      "source": "<a href=\"https://moz.com/link-explorer\" rel=\"noopener\">Moz Link Explorer Guide</a>",
+      "sourceOffset": 13437
     },
     {
       "text": "Google Search Quality Guidelines",
       "originalText": "Google Search Quality Guidelines",
       "url": "https://support.google.com/webmasters",
       "originalUrl": "https://support.google.com/webmasters",
-      "source": "<a href=\"https://support.google.com/webmasters\" rel=\"noopener\">Google Search Quality Guidelines</a>"
+      "source": "<a href=\"https://support.google.com/webmasters\" rel=\"noopener\">Google Search Quality Guidelines</a>",
+      "sourceOffset": 13528
     },
     {
       "text": "SEO Group Buy Tools Backlink Workflow",
       "originalText": "SEO Group Buy Tools Backlink Workflow",
       "url": "https://seogroupsbuytools.com/guides",
       "originalUrl": "https://seogroupsbuytools.com/guides",
-      "source": "<a href=\"https://seogroupsbuytools.com/guides\" rel=\"noopener\">SEO Group Buy Tools Backlink Workflow</a>"
+      "source": "<a href=\"https://seogroupsbuytools.com/guides\" rel=\"noopener\">SEO Group Buy Tools Backlink Workflow</a>",
+      "sourceOffset": 13636
     },
     {
       "text": "💬 WhatsApp Us",
       "originalText": "💬 WhatsApp Us",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>",
+      "sourceOffset": 13916
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>"
+      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>",
+      "sourceOffset": 14157
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../../seo-tools/semrush/",
       "originalUrl": "../../seo-tools/semrush/",
-      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 15247
     },
     {
       "text": "Surfer SEO Group Buy",
       "originalText": "Surfer SEO Group Buy",
       "url": "../../seo-tools/surfer-seo/",
       "originalUrl": "../../seo-tools/surfer-seo/",
-      "source": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>"
+      "source": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
+      "sourceOffset": 15440
     },
     {
       "text": "Canva Pro Group Buy",
       "originalText": "Canva Pro Group Buy",
       "url": "../../design-tools/canva-pro/",
       "originalUrl": "../../design-tools/canva-pro/",
-      "source": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>"
+      "source": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
+      "sourceOffset": 15511
     },
     {
       "text": "Quillbot Group Buy",
       "originalText": "Quillbot Group Buy",
       "url": "../../ai-writing-tools/quillbot/",
       "originalUrl": "../../ai-writing-tools/quillbot/",
-      "source": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>"
+      "source": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
+      "sourceOffset": 15583
     },
     {
       "text": "💬 WhatsApp Us Now",
       "originalText": "💬 WhatsApp Us Now",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>",
+      "sourceOffset": 16205
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
       "originalUrl": "../../pricing/",
-      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>"
+      "source": "<a href=\"../../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>",
+      "sourceOffset": 16447
     }
   ],
   "mediaImages": [],
@@ -2004,49 +2130,57 @@
       "label": "🔍 SEO Tools",
       "url": "../../seo-tools/",
       "originalUrl": "../../seo-tools/",
-      "source": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>"
+      "source": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>",
+      "sourceOffset": 14312
     },
     {
       "label": "🎨 Design Tools",
       "url": "../../design-tools/",
       "originalUrl": "../../design-tools/",
-      "source": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>"
+      "source": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>",
+      "sourceOffset": 14424
     },
     {
       "label": "🕵️ Spy & Ad Intelligence",
       "url": "../../spy-tools/",
       "originalUrl": "../../spy-tools/",
-      "source": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>"
+      "source": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>",
+      "sourceOffset": 14541
     },
     {
       "label": "✍️ AI Writing Tools",
       "url": "../../ai-writing-tools/",
       "originalUrl": "../../ai-writing-tools/",
-      "source": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>"
+      "source": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>",
+      "sourceOffset": 14665
     },
     {
       "label": "🛒 E-commerce Tools",
       "url": "../../ecommerce-tools/",
       "originalUrl": "../../ecommerce-tools/",
-      "source": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>"
+      "source": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>",
+      "sourceOffset": 14790
     },
     {
       "label": "📱 Social Media Tools",
       "url": "../../social-media-tools/",
       "originalUrl": "../../social-media-tools/",
-      "source": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>"
+      "source": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>",
+      "sourceOffset": 14914
     },
     {
       "label": "🎓 Education Tools",
       "url": "../../education-tools/",
       "originalUrl": "../../education-tools/",
-      "source": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>"
+      "source": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>",
+      "sourceOffset": 15043
     },
     {
       "label": "Card",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>",
+      "sourceOffset": 19006
     }
   ],
   "outsideGroups": [
@@ -2054,7 +2188,8 @@
       "heading": "Competitor Analysis with Group Buy Tools",
       "originalHeading": "Competitor Analysis with Group Buy Tools",
       "headingSource": "<h1>Competitor Analysis with Group Buy Tools</h1>",
-      "items": []
+      "items": [],
+      "sourceOffset": 3942
     },
     {
       "heading": "Get Started Today",
@@ -2065,9 +2200,11 @@
           "text": "Access 50+ premium SEO tools from $5/month",
           "originalText": "Access 50+ premium SEO tools from $5/month",
           "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 13849
         }
-      ]
+      ],
+      "sourceOffset": 13822
     },
     {
       "heading": "Tool Categories",
@@ -2078,45 +2215,53 @@
           "text": "🔍 SEO Tools 12",
           "originalText": "🔍 SEO Tools 12",
           "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14308
         },
         {
           "text": "🎨 Design Tools 5",
           "originalText": "🎨 Design Tools 5",
           "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14420
         },
         {
           "text": "🕵️ Spy & Ad Intelligence 5",
           "originalText": "🕵️ Spy & Ad Intelligence 5",
           "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14537
         },
         {
           "text": "✍️ AI Writing Tools 4",
           "originalText": "✍️ AI Writing Tools 4",
           "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14661
         },
         {
           "text": "🛒 E-commerce Tools 4",
           "originalText": "🛒 E-commerce Tools 4",
           "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14786
         },
         {
           "text": "📱 Social Media Tools 3",
           "originalText": "📱 Social Media Tools 3",
           "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 14910
         },
         {
           "text": "🎓 Education Tools 3",
           "originalText": "🎓 Education Tools 3",
           "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15039
         }
-      ]
+      ],
+      "sourceOffset": 14261
     },
     {
       "heading": "Popular Tools",
@@ -2127,39 +2272,46 @@
           "text": "SEMrush Group Buy",
           "originalText": "SEMrush Group Buy",
           "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15243
         },
         {
           "text": "Ahrefs Group Buy",
           "originalText": "Ahrefs Group Buy",
           "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15308
         },
         {
           "text": "Moz Pro Group Buy",
           "originalText": "Moz Pro Group Buy",
           "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15371
         },
         {
           "text": "Surfer SEO Group Buy",
           "originalText": "Surfer SEO Group Buy",
           "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15436
         },
         {
           "text": "Canva Pro Group Buy",
           "originalText": "Canva Pro Group Buy",
           "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15507
         },
         {
           "text": "Quillbot Group Buy",
           "originalText": "Quillbot Group Buy",
           "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15579
         }
-      ]
+      ],
+      "sourceOffset": 15197
     },
     {
       "heading": "Why Choose Us",
@@ -2170,33 +2322,39 @@
           "text": "✓ 50+ Premium Tools",
           "originalText": "✓ 50+ Premium Tools",
           "source": "<li>✓ 50+ Premium Tools</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15748
         },
         {
           "text": "✓ 90%+ Uptime Guaranteed",
           "originalText": "✓ 90%+ Uptime Guaranteed",
           "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15777
         },
         {
           "text": "✓ Instant Access Setup",
           "originalText": "✓ Instant Access Setup",
           "source": "<li>✓ Instant Access Setup</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15811
         },
         {
           "text": "✓ 24/7 Support",
           "originalText": "✓ 24/7 Support",
           "source": "<li>✓ 24/7 Support</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15843
         },
         {
           "text": "✓ Secure Payments",
           "originalText": "✓ Secure Payments",
           "source": "<li>✓ Secure Payments</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15867
         }
-      ]
+      ],
+      "sourceOffset": 15701
     },
     {
       "heading": "Ready to Get Started?",
@@ -2207,9 +2365,11 @@
           "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 16035
         }
-      ]
+      ],
+      "sourceOffset": 16004
     }
   ],
   "labelTexts": []

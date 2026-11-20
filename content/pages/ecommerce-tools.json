@@ -1460,15 +1460,18 @@
           "tag": "p",
           "text": "SEO Group Buy Tools offer shared access to premium e-commerce platforms that help Amazon sellers and online retailers find profitable products, track keyword rankings, and optimize product listings.",
           "originalText": "SEO Group Buy Tools offer shared access to premium e-commerce platforms that help Amazon sellers and online retailers find profitable products, track keyword rankings, and optimize product listings.",
-          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools offer shared access to premium e-commerce platforms that help Amazon sellers and online retailers find profitable products, track keyword rankings, and optimize product listings.</p>"
+          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools offer shared access to premium e-commerce platforms that help Amazon sellers and online retailers find profitable products, track keyword rankings, and optimize product listings.</p>",
+          "sourceOffset": 4321
         },
         {
           "tag": "p",
           "text": "Individual e-commerce tool subscriptions cost $39–$89 per month, while group buy access reduces these costs to $5–$20 per month, making professional seller tools accessible to new Amazon FBA sellers and dropshippers who are still establishing their revenue streams.",
           "originalText": "Individual e-commerce tool subscriptions cost $39–$89 per month, while group buy access reduces these costs to $5–$20 per month, making professional seller tools accessible to new Amazon FBA sellers and dropshippers who are still establishing their revenue streams.",
-          "source": "<p>Individual e-commerce tool subscriptions cost $39–$89 per month, while group buy access reduces these costs to $5–$20 per month, making professional seller tools accessible to new Amazon FBA sellers and dropshippers who are still establishing their revenue streams.</p>"
+          "source": "<p>Individual e-commerce tool subscriptions cost $39–$89 per month, while group buy access reduces these costs to $5–$20 per month, making professional seller tools accessible to new Amazon FBA sellers and dropshippers who are still establishing their revenue streams.</p>",
+          "sourceOffset": 4549
         }
-      ]
+      ],
+      "sourceOffset": 4248
     },
     {
       "heading": "What e-commerce tools are available in SEO Group Buy Tools?",
@@ -1479,45 +1482,53 @@
           "tag": "p",
           "text": "SEO Group Buy Tools provide access to Helium 10 for Amazon all-in-one management, Jungle Scout for product research, ZonGuru for seller analytics, and Merch Informer for Merch by Amazon design research.",
           "originalText": "SEO Group Buy Tools provide access to Helium 10 for Amazon all-in-one management, Jungle Scout for product research, ZonGuru for seller analytics, and Merch Informer for Merch by Amazon design research.",
-          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide access to Helium 10 for Amazon all-in-one management, Jungle Scout for product research, ZonGuru for seller analytics, and Merch Informer for Merch by Amazon design research.</p>"
+          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide access to Helium 10 for Amazon all-in-one management, Jungle Scout for product research, ZonGuru for seller analytics, and Merch Informer for Merch by Amazon design research.</p>",
+          "sourceOffset": 4996
         },
         {
           "tag": "p",
           "text": "The e-commerce tools category within SEO Group Buy Tools includes four primary platforms focused on Amazon selling, which represents the largest marketplace for online retail.",
           "originalText": "The e-commerce tools category within SEO Group Buy Tools includes four primary platforms focused on Amazon selling, which represents the largest marketplace for online retail.",
-          "source": "<p>The e-commerce tools category within SEO Group Buy Tools includes four primary platforms focused on Amazon selling, which represents the largest marketplace for online retail.</p>"
+          "source": "<p>The e-commerce tools category within SEO Group Buy Tools includes four primary platforms focused on Amazon selling, which represents the largest marketplace for online retail.</p>",
+          "sourceOffset": 5228
         },
         {
           "tag": "p",
           "text": "These tools cover the complete Amazon seller workflow from product research and keyword analysis to listing optimization and performance tracking.",
           "originalText": "These tools cover the complete Amazon seller workflow from product research and keyword analysis to listing optimization and performance tracking.",
-          "source": "<p>These tools cover the complete Amazon seller workflow from product research and keyword analysis to listing optimization and performance tracking.</p>"
+          "source": "<p>These tools cover the complete Amazon seller workflow from product research and keyword analysis to listing optimization and performance tracking.</p>",
+          "sourceOffset": 5410
         },
         {
           "tag": "p",
           "text": "Helium 10 serves as the comprehensive all-in-one platform with over 30 tools for Amazon sellers, including product research, keyword tracking, listing optimization, and refund management.",
           "originalText": "Helium 10 serves as the comprehensive all-in-one platform with over 30 tools for Amazon sellers, including product research, keyword tracking, listing optimization, and refund management.",
-          "source": "<p>Helium 10 serves as the comprehensive all-in-one platform with over 30 tools for Amazon sellers, including product research, keyword tracking, listing optimization, and refund management.</p>"
+          "source": "<p>Helium 10 serves as the comprehensive all-in-one platform with over 30 tools for Amazon sellers, including product research, keyword tracking, listing optimization, and refund management.</p>",
+          "sourceOffset": 5563
         },
         {
           "tag": "p",
           "text": "Jungle Scout specializes in product discovery and validation, helping sellers identify profitable items before investing in inventory. ZonGuru provides Amazon seller analytics and listing optimization tools with a focus on data-driven decision making.",
           "originalText": "Jungle Scout specializes in product discovery and validation, helping sellers identify profitable items before investing in inventory. ZonGuru provides Amazon seller analytics and listing optimization tools with a focus on data-driven decision making.",
-          "source": "<p>Jungle Scout specializes in product discovery and validation, helping sellers identify profitable items before investing in inventory. ZonGuru provides Amazon seller analytics and listing optimization tools with a focus on data-driven decision making.</p>"
+          "source": "<p>Jungle Scout specializes in product discovery and validation, helping sellers identify profitable items before investing in inventory. ZonGuru provides Amazon seller analytics and listing optimization tools with a focus on data-driven decision making.</p>",
+          "sourceOffset": 5757
         },
         {
           "tag": "p",
           "text": "Merch Informer targets a specific Amazon niche—Merch by Amazon—helping print-on-demand sellers research trending designs, analyze competition, and track their product rankings.",
           "originalText": "Merch Informer targets a specific Amazon niche—Merch by Amazon—helping print-on-demand sellers research trending designs, analyze competition, and track their product rankings.",
-          "source": "<p>Merch Informer targets a specific Amazon niche—Merch by Amazon—helping print-on-demand sellers research trending designs, analyze competition, and track their product rankings.</p>"
+          "source": "<p>Merch Informer targets a specific Amazon niche—Merch by Amazon—helping print-on-demand sellers research trending designs, analyze competition, and track their product rankings.</p>",
+          "sourceOffset": 6015
         },
         {
           "tag": "p",
           "text": "This specialization makes it particularly valuable for designers and content creators who sell custom merchandise through Amazon's platform.",
           "originalText": "This specialization makes it particularly valuable for designers and content creators who sell custom merchandise through Amazon's platform.",
-          "source": "<p>This specialization makes it particularly valuable for designers and content creators who sell custom merchandise through Amazon's platform.</p>"
+          "source": "<p>This specialization makes it particularly valuable for designers and content creators who sell custom merchandise through Amazon's platform.</p>",
+          "sourceOffset": 6198
         }
-      ]
+      ],
+      "sourceOffset": 4928
     },
     {
       "heading": "Which e-commerce tool in SEO Group Buy Tools is best for Amazon FBA?",
@@ -1528,45 +1539,53 @@
           "tag": "p",
           "text": "For Amazon FBA sellers using SEO Group Buy Tools, Helium 10 provides the most comprehensive toolset including product research and keyword tracking, while Jungle Scout excels specifically at product discovery and validation.",
           "originalText": "For Amazon FBA sellers using SEO Group Buy Tools, Helium 10 provides the most comprehensive toolset including product research and keyword tracking, while Jungle Scout excels specifically at product discovery and validation.",
-          "source": "<p class=\"answer-snippet\">For Amazon FBA sellers using SEO Group Buy Tools, Helium 10 provides the most comprehensive toolset including product research and keyword tracking, while Jungle Scout excels specifically at product discovery and validation.</p>"
+          "source": "<p class=\"answer-snippet\">For Amazon FBA sellers using SEO Group Buy Tools, Helium 10 provides the most comprehensive toolset including product research and keyword tracking, while Jungle Scout excels specifically at product discovery and validation.</p>",
+          "sourceOffset": 6703
         },
         {
           "tag": "p",
           "text": "Amazon FBA sellers require tools that cover multiple aspects of the selling process, and Helium 10 within SEO Group Buy Tools delivers the broadest feature set. Its Black Box product research tool filters the entire Amazon catalog by revenue, review count, and competition level.",
           "originalText": "Amazon FBA sellers require tools that cover multiple aspects of the selling process, and Helium 10 within SEO Group Buy Tools delivers the broadest feature set. Its Black Box product research tool filters the entire Amazon catalog by revenue, review count, and competition level.",
-          "source": "<p>Amazon FBA sellers require tools that cover multiple aspects of the selling process, and Helium 10 within SEO Group Buy Tools delivers the broadest feature set. Its Black Box product research tool filters the entire Amazon catalog by revenue, review count, and competition level.</p>"
+          "source": "<p>Amazon FBA sellers require tools that cover multiple aspects of the selling process, and Helium 10 within SEO Group Buy Tools delivers the broadest feature set. Its Black Box product research tool filters the entire Amazon catalog by revenue, review count, and competition level.</p>",
+          "sourceOffset": 6957
         },
         {
           "tag": "p",
           "text": "Cerebro provides reverse ASIN lookup to discover which keywords competitors rank for. Listing Builder optimizes product titles, bullets, and descriptions with keyword integration.",
           "originalText": "Cerebro provides reverse ASIN lookup to discover which keywords competitors rank for. Listing Builder optimizes product titles, bullets, and descriptions with keyword integration.",
-          "source": "<p>Cerebro provides reverse ASIN lookup to discover which keywords competitors rank for. Listing Builder optimizes product titles, bullets, and descriptions with keyword integration.</p>"
+          "source": "<p>Cerebro provides reverse ASIN lookup to discover which keywords competitors rank for. Listing Builder optimizes product titles, bullets, and descriptions with keyword integration.</p>",
+          "sourceOffset": 7243
         },
         {
           "tag": "p",
           "text": "Jungle Scout complements Helium 10 with its own product database and opportunity finder that some sellers prefer for its simpler interface and more focused product validation metrics. The Product Tracker monitors specific ASINs over time, showing sales estimates, price changes, and review growth.",
           "originalText": "Jungle Scout complements Helium 10 with its own product database and opportunity finder that some sellers prefer for its simpler interface and more focused product validation metrics. The Product Tracker monitors specific ASINs over time, showing sales estimates, price changes, and review growth.",
-          "source": "<p>Jungle Scout complements Helium 10 with its own product database and opportunity finder that some sellers prefer for its simpler interface and more focused product validation metrics. The Product Tracker monitors specific ASINs over time, showing sales estimates, price changes, and review growth.</p>"
+          "source": "<p>Jungle Scout complements Helium 10 with its own product database and opportunity finder that some sellers prefer for its simpler interface and more focused product validation metrics. The Product Tracker monitors specific ASINs over time, showing sales estimates, price changes, and review growth.</p>",
+          "sourceOffset": 7429
         },
         {
           "tag": "p",
           "text": "For sellers who want a streamlined product research workflow without Helium 10's broader toolset, Jungle Scout provides a focused alternative.",
           "originalText": "For sellers who want a streamlined product research workflow without Helium 10's broader toolset, Jungle Scout provides a focused alternative.",
-          "source": "<p>For sellers who want a streamlined product research workflow without Helium 10's broader toolset, Jungle Scout provides a focused alternative.</p>"
+          "source": "<p>For sellers who want a streamlined product research workflow without Helium 10's broader toolset, Jungle Scout provides a focused alternative.</p>",
+          "sourceOffset": 7733
         },
         {
           "tag": "p",
           "text": "The most effective approach for FBA sellers within SEO Group Buy Tools combines Helium 10's keyword and listing tools with Jungle Scout's product validation data.",
           "originalText": "The most effective approach for FBA sellers within SEO Group Buy Tools combines Helium 10's keyword and listing tools with Jungle Scout's product validation data.",
-          "source": "<p>The most effective approach for FBA sellers within SEO Group Buy Tools combines Helium 10's keyword and listing tools with Jungle Scout's product validation data.</p>"
+          "source": "<p>The most effective approach for FBA sellers within SEO Group Buy Tools combines Helium 10's keyword and listing tools with Jungle Scout's product validation data.</p>",
+          "sourceOffset": 7882
         },
         {
           "tag": "p",
           "text": "Cross-referencing both tools' product estimates provides higher confidence in product selection decisions than relying on either tool alone, reducing the risk of investing in unprofitable inventory.",
           "originalText": "Cross-referencing both tools' product estimates provides higher confidence in product selection decisions than relying on either tool alone, reducing the risk of investing in unprofitable inventory.",
-          "source": "<p>Cross-referencing both tools' product estimates provides higher confidence in product selection decisions than relying on either tool alone, reducing the risk of investing in unprofitable inventory.</p>"
+          "source": "<p>Cross-referencing both tools' product estimates provides higher confidence in product selection decisions than relying on either tool alone, reducing the risk of investing in unprofitable inventory.</p>",
+          "sourceOffset": 8051
         }
-      ]
+      ],
+      "sourceOffset": 6626
     },
     {
       "heading": "Which e-commerce tool in SEO Group Buy Tools is best for dropshipping?",
@@ -1577,45 +1596,53 @@
           "tag": "p",
           "text": "For dropshipping research in SEO Group Buy Tools, combining e-commerce tools like Helium 10 with spy tools like AdSpy and Dropispy provides the most complete product validation, covering both Amazon data and social media trends.",
           "originalText": "For dropshipping research in SEO Group Buy Tools, combining e-commerce tools like Helium 10 with spy tools like AdSpy and Dropispy provides the most complete product validation, covering both Amazon data and social media trends.",
-          "source": "<p class=\"answer-snippet\">For dropshipping research in SEO Group Buy Tools, combining e-commerce tools like Helium 10 with spy tools like AdSpy and Dropispy provides the most complete product validation, covering both Amazon data and social media trends.</p>"
+          "source": "<p class=\"answer-snippet\">For dropshipping research in SEO Group Buy Tools, combining e-commerce tools like Helium 10 with spy tools like AdSpy and Dropispy provides the most complete product validation, covering both Amazon data and social media trends.</p>",
+          "sourceOffset": 8635
         },
         {
           "tag": "p",
           "text": "Dropshipping success requires identifying products that are both selling well on Amazon and trending on social media advertising platforms.",
           "originalText": "Dropshipping success requires identifying products that are both selling well on Amazon and trending on social media advertising platforms.",
-          "source": "<p>Dropshipping success requires identifying products that are both selling well on Amazon and trending on social media advertising platforms.</p>"
+          "source": "<p>Dropshipping success requires identifying products that are both selling well on Amazon and trending on social media advertising platforms.</p>",
+          "sourceOffset": 8893
         },
         {
           "tag": "p",
           "text": "Within SEO Group Buy Tools, the most effective dropshipping research workflow combines e-commerce tools with spy tools to validate products from multiple data sources before investing in test orders and ad spend.",
           "originalText": "Within SEO Group Buy Tools, the most effective dropshipping research workflow combines e-commerce tools with spy tools to validate products from multiple data sources before investing in test orders and ad spend.",
-          "source": "<p>Within SEO Group Buy Tools, the most effective dropshipping research workflow combines e-commerce tools with spy tools to validate products from multiple data sources before investing in test orders and ad spend.</p>"
+          "source": "<p>Within SEO Group Buy Tools, the most effective dropshipping research workflow combines e-commerce tools with spy tools to validate products from multiple data sources before investing in test orders and ad spend.</p>",
+          "sourceOffset": 9039
         },
         {
           "tag": "p",
           "text": "The recommended validation process starts with Jungle Scout or Helium 10 to identify products with strong Amazon sales velocity and manageable competition levels.",
           "originalText": "The recommended validation process starts with Jungle Scout or Helium 10 to identify products with strong Amazon sales velocity and manageable competition levels.",
-          "source": "<p>The recommended validation process starts with Jungle Scout or Helium 10 to identify products with strong Amazon sales velocity and manageable competition levels.</p>"
+          "source": "<p>The recommended validation process starts with Jungle Scout or Helium 10 to identify products with strong Amazon sales velocity and manageable competition levels.</p>",
+          "sourceOffset": 9258
         },
         {
           "tag": "p",
           "text": "Next, AdSpy and Dropispy reveal whether these products are being actively promoted on Facebook and through Shopify stores, confirming market demand beyond Amazon. Finally, PipiAds shows whether TikTok advertisers are running campaigns for similar products, indicating emerging trends.",
           "originalText": "Next, AdSpy and Dropispy reveal whether these products are being actively promoted on Facebook and through Shopify stores, confirming market demand beyond Amazon. Finally, PipiAds shows whether TikTok advertisers are running campaigns for similar products, indicating emerging trends.",
-          "source": "<p>Next, AdSpy and Dropispy reveal whether these products are being actively promoted on Facebook and through Shopify stores, confirming market demand beyond Amazon. Finally, PipiAds shows whether TikTok advertisers are running campaigns for similar products, indicating emerging trends.</p>"
+          "source": "<p>Next, AdSpy and Dropispy reveal whether these products are being actively promoted on Facebook and through Shopify stores, confirming market demand beyond Amazon. Finally, PipiAds shows whether TikTok advertisers are running campaigns for similar products, indicating emerging trends.</p>",
+          "sourceOffset": 9427
         },
         {
           "tag": "p",
           "text": "This multi-tool approach within SEO Group Buy Tools provides three independent data points for each product candidate, significantly reducing the risk of selecting products that appear profitable on one platform but fail across others.",
           "originalText": "This multi-tool approach within SEO Group Buy Tools provides three independent data points for each product candidate, significantly reducing the risk of selecting products that appear profitable on one platform but fail across others.",
-          "source": "<p>This multi-tool approach within SEO Group Buy Tools provides three independent data points for each product candidate, significantly reducing the risk of selecting products that appear profitable on one platform but fail across others.</p>"
+          "source": "<p>This multi-tool approach within SEO Group Buy Tools provides three independent data points for each product candidate, significantly reducing the risk of selecting products that appear profitable on one platform but fail across others.</p>",
+          "sourceOffset": 9718
         },
         {
           "tag": "p",
           "text": "The combined monthly cost of accessing e-commerce and spy tools through group buy remains far below individual subscription pricing.",
           "originalText": "The combined monthly cost of accessing e-commerce and spy tools through group buy remains far below individual subscription pricing.",
-          "source": "<p>The combined monthly cost of accessing e-commerce and spy tools through group buy remains far below individual subscription pricing.</p>"
+          "source": "<p>The combined monthly cost of accessing e-commerce and spy tools through group buy remains far below individual subscription pricing.</p>",
+          "sourceOffset": 9960
         }
-      ]
+      ],
+      "sourceOffset": 8556
     },
     {
       "heading": "How reliable are e-commerce tools in SEO Group Buy Tools?",
@@ -1626,321 +1653,375 @@
           "tag": "p",
           "text": "E-commerce tools in SEO Group Buy Tools have moderate reliability due to their credit-based systems, with ZonGuru and Merch Informer being more stable than Helium 10, which has stricter usage tracking and account monitoring.",
           "originalText": "E-commerce tools in SEO Group Buy Tools have moderate reliability due to their credit-based systems, with ZonGuru and Merch Informer being more stable than Helium 10, which has stricter usage tracking and account monitoring.",
-          "source": "<p class=\"answer-snippet\">E-commerce tools in SEO Group Buy Tools have moderate reliability due to their credit-based systems, with ZonGuru and Merch Informer being more stable than Helium 10, which has stricter usage tracking and account monitoring.</p>"
+          "source": "<p class=\"answer-snippet\">E-commerce tools in SEO Group Buy Tools have moderate reliability due to their credit-based systems, with ZonGuru and Merch Informer being more stable than Helium 10, which has stricter usage tracking and account monitoring.</p>",
+          "sourceOffset": 10479
         },
         {
           "tag": "p",
           "text": "E-commerce tools within SEO Group Buy Tools face reliability challenges similar to SEO tools because platforms like Helium 10 and Jungle Scout track API usage and query volumes per account.",
           "originalText": "E-commerce tools within SEO Group Buy Tools face reliability challenges similar to SEO tools because platforms like Helium 10 and Jungle Scout track API usage and query volumes per account.",
-          "source": "<p>E-commerce tools within SEO Group Buy Tools face reliability challenges similar to SEO tools because platforms like Helium 10 and Jungle Scout track API usage and query volumes per account.</p>"
+          "source": "<p>E-commerce tools within SEO Group Buy Tools face reliability challenges similar to SEO tools because platforms like Helium 10 and Jungle Scout track API usage and query volumes per account.</p>",
+          "sourceOffset": 10733
         },
         {
           "tag": "p",
           "text": "When multiple users run product research simultaneously on a shared Helium 10 account, the combined query volume can trigger rate limits that temporarily restrict access for all users on that account.",
           "originalText": "When multiple users run product research simultaneously on a shared Helium 10 account, the combined query volume can trigger rate limits that temporarily restrict access for all users on that account.",
-          "source": "<p>When multiple users run product research simultaneously on a shared Helium 10 account, the combined query volume can trigger rate limits that temporarily restrict access for all users on that account.</p>"
+          "source": "<p>When multiple users run product research simultaneously on a shared Helium 10 account, the combined query volume can trigger rate limits that temporarily restrict access for all users on that account.</p>",
+          "sourceOffset": 10929
         },
         {
           "tag": "p",
           "text": "ZonGuru and Merch Informer tend to be more reliable in SEO Group Buy Tools because their lower individual subscription costs allow providers to maintain a better user-to-account ratio, and their tools generate fewer API-intensive queries per session.",
           "originalText": "ZonGuru and Merch Informer tend to be more reliable in SEO Group Buy Tools because their lower individual subscription costs allow providers to maintain a better user-to-account ratio, and their tools generate fewer API-intensive queries per session.",
-          "source": "<p>ZonGuru and Merch Informer tend to be more reliable in SEO Group Buy Tools because their lower individual subscription costs allow providers to maintain a better user-to-account ratio, and their tools generate fewer API-intensive queries per session.</p>"
+          "source": "<p>ZonGuru and Merch Informer tend to be more reliable in SEO Group Buy Tools because their lower individual subscription costs allow providers to maintain a better user-to-account ratio, and their tools generate fewer API-intensive queries per session.</p>",
+          "sourceOffset": 11136
         },
         {
           "tag": "p",
           "text": "Merch Informer's focus on design research rather than real-time sales data means it requires less frequent account activity, reducing the chance of detection by the platform's monitoring systems.",
           "originalText": "Merch Informer's focus on design research rather than real-time sales data means it requires less frequent account activity, reducing the chance of detection by the platform's monitoring systems.",
-          "source": "<p>Merch Informer's focus on design research rather than real-time sales data means it requires less frequent account activity, reducing the chance of detection by the platform's monitoring systems.</p>"
+          "source": "<p>Merch Informer's focus on design research rather than real-time sales data means it requires less frequent account activity, reducing the chance of detection by the platform's monitoring systems.</p>",
+          "sourceOffset": 11393
         },
         {
           "tag": "p",
           "text": "Users should plan their e-commerce tool usage strategically, spreading intensive research tasks across different times of day and saving critical keyword tracking and listing optimization for periods when the tools are most responsive.",
           "originalText": "Users should plan their e-commerce tool usage strategically, spreading intensive research tasks across different times of day and saving critical keyword tracking and listing optimization for periods when the tools are most responsive.",
-          "source": "<p>Users should plan their e-commerce tool usage strategically, spreading intensive research tasks across different times of day and saving critical keyword tracking and listing optimization for periods when the tools are most responsive.</p>"
+          "source": "<p>Users should plan their e-commerce tool usage strategically, spreading intensive research tasks across different times of day and saving critical keyword tracking and listing optimization for periods when the tools are most responsive.</p>",
+          "sourceOffset": 11595
         },
         {
           "tag": "p",
           "text": "Starting with one primary tool and adding a second as a backup ensures continuous productivity even when one platform experiences temporary downtime through SEO Group Buy Tools.",
           "originalText": "Starting with one primary tool and adding a second as a backup ensures continuous productivity even when one platform experiences temporary downtime through SEO Group Buy Tools.",
-          "source": "<p>Starting with one primary tool and adding a second as a backup ensures continuous productivity even when one platform experiences temporary downtime through SEO Group Buy Tools.</p>"
+          "source": "<p>Starting with one primary tool and adding a second as a backup ensures continuous productivity even when one platform experiences temporary downtime through SEO Group Buy Tools.</p>",
+          "sourceOffset": 11837
         },
         {
           "tag": "th",
           "text": "Tool",
           "originalText": "Tool",
-          "source": "<th>Tool</th>"
+          "source": "<th>Tool</th>",
+          "sourceOffset": 12331
         },
         {
           "tag": "th",
           "text": "Primary Platform",
           "originalText": "Primary Platform",
-          "source": "<th>Primary Platform</th>"
+          "source": "<th>Primary Platform</th>",
+          "sourceOffset": 12344
         },
         {
           "tag": "th",
           "text": "Key Features",
           "originalText": "Key Features",
-          "source": "<th>Key Features</th>"
+          "source": "<th>Key Features</th>",
+          "sourceOffset": 12369
         },
         {
           "tag": "th",
           "text": "Official Price/Month",
           "originalText": "Official Price/Month",
-          "source": "<th>Official Price/Month</th>"
+          "source": "<th>Official Price/Month</th>",
+          "sourceOffset": 12390
         },
         {
           "tag": "th",
           "text": "Group Buy Price/Month",
           "originalText": "Group Buy Price/Month",
-          "source": "<th>Group Buy Price/Month</th>"
+          "source": "<th>Group Buy Price/Month</th>",
+          "sourceOffset": 12419
         },
         {
           "tag": "td",
           "text": "Helium 10",
           "originalText": "Helium 10",
-          "source": "<td>Helium 10</td>"
+          "source": "<td>Helium 10</td>",
+          "sourceOffset": 12473
         },
         {
           "tag": "td",
           "text": "Amazon",
           "originalText": "Amazon",
-          "source": "<td>Amazon</td>"
+          "source": "<td>Amazon</td>",
+          "sourceOffset": 12491
         },
         {
           "tag": "td",
           "text": "30+ tools, keywords, listings",
           "originalText": "30+ tools, keywords, listings",
-          "source": "<td>30+ tools, keywords, listings</td>"
+          "source": "<td>30+ tools, keywords, listings</td>",
+          "sourceOffset": 12506
         },
         {
           "tag": "td",
           "text": "$89",
           "originalText": "$89",
-          "source": "<td>$89</td>"
+          "source": "<td>$89</td>",
+          "sourceOffset": 12544
         },
         {
           "tag": "td",
           "text": "$10–$20",
           "originalText": "$10–$20",
-          "source": "<td>$10–$20</td>"
+          "source": "<td>$10–$20</td>",
+          "sourceOffset": 12556
         },
         {
           "tag": "td",
           "text": "Jungle Scout",
           "originalText": "Jungle Scout",
-          "source": "<td>Jungle Scout</td>"
+          "source": "<td>Jungle Scout</td>",
+          "sourceOffset": 12581
         },
         {
           "tag": "td",
           "text": "Amazon",
           "originalText": "Amazon",
-          "source": "<td>Amazon</td>"
+          "source": "<td>Amazon</td>",
+          "sourceOffset": 12602
         },
         {
           "tag": "td",
           "text": "Product finder, database",
           "originalText": "Product finder, database",
-          "source": "<td>Product finder, database</td>"
+          "source": "<td>Product finder, database</td>",
+          "sourceOffset": 12617
         },
         {
           "tag": "td",
           "text": "$49",
           "originalText": "$49",
-          "source": "<td>$49</td>"
+          "source": "<td>$49</td>",
+          "sourceOffset": 12650
         },
         {
           "tag": "td",
           "text": "$8–$15",
           "originalText": "$8–$15",
-          "source": "<td>$8–$15</td>"
+          "source": "<td>$8–$15</td>",
+          "sourceOffset": 12662
         },
         {
           "tag": "td",
           "text": "ZonGuru",
           "originalText": "ZonGuru",
-          "source": "<td>ZonGuru</td>"
+          "source": "<td>ZonGuru</td>",
+          "sourceOffset": 12686
         },
         {
           "tag": "td",
           "text": "Amazon",
           "originalText": "Amazon",
-          "source": "<td>Amazon</td>"
+          "source": "<td>Amazon</td>",
+          "sourceOffset": 12702
         },
         {
           "tag": "td",
           "text": "Analytics, optimization",
           "originalText": "Analytics, optimization",
-          "source": "<td>Analytics, optimization</td>"
+          "source": "<td>Analytics, optimization</td>",
+          "sourceOffset": 12717
         },
         {
           "tag": "td",
           "text": "$39",
           "originalText": "$39",
-          "source": "<td>$39</td>"
+          "source": "<td>$39</td>",
+          "sourceOffset": 12749
         },
         {
           "tag": "td",
           "text": "$5–$10",
           "originalText": "$5–$10",
-          "source": "<td>$5–$10</td>"
+          "source": "<td>$5–$10</td>",
+          "sourceOffset": 12761
         },
         {
           "tag": "td",
           "text": "Merch Informer",
           "originalText": "Merch Informer",
-          "source": "<td>Merch Informer</td>"
+          "source": "<td>Merch Informer</td>",
+          "sourceOffset": 12785
         },
         {
           "tag": "td",
           "text": "Merch by Amazon",
           "originalText": "Merch by Amazon",
-          "source": "<td>Merch by Amazon</td>"
+          "source": "<td>Merch by Amazon</td>",
+          "sourceOffset": 12808
         },
         {
           "tag": "td",
           "text": "Design research, tracking",
           "originalText": "Design research, tracking",
-          "source": "<td>Design research, tracking</td>"
+          "source": "<td>Design research, tracking</td>",
+          "sourceOffset": 12832
         },
         {
           "tag": "td",
           "text": "$30",
           "originalText": "$30",
-          "source": "<td>$30</td>"
+          "source": "<td>$30</td>",
+          "sourceOffset": 12866
         },
         {
           "tag": "td",
           "text": "$5–$10",
           "originalText": "$5–$10",
-          "source": "<td>$5–$10</td>"
+          "source": "<td>$5–$10</td>",
+          "sourceOffset": 12878
         },
         {
           "tag": "td",
           "text": "Feature",
           "originalText": "Feature",
-          "source": "<td>Feature</td>"
+          "source": "<td>Feature</td>",
+          "sourceOffset": 12902
         },
         {
           "tag": "td",
           "text": "Helium 10",
           "originalText": "Helium 10",
-          "source": "<td>Helium 10</td>"
+          "source": "<td>Helium 10</td>",
+          "sourceOffset": 12918
         },
         {
           "tag": "td",
           "text": "Jungle Scout",
           "originalText": "Jungle Scout",
-          "source": "<td>Jungle Scout</td>"
+          "source": "<td>Jungle Scout</td>",
+          "sourceOffset": 12936
         },
         {
           "tag": "td",
           "text": "Product research",
           "originalText": "Product research",
-          "source": "<td>Product research</td>"
+          "source": "<td>Product research</td>",
+          "sourceOffset": 12966
         },
         {
           "tag": "td",
           "text": "Black Box (advanced filters)",
           "originalText": "Black Box (advanced filters)",
-          "source": "<td>Black Box (advanced filters)</td>"
+          "source": "<td>Black Box (advanced filters)</td>",
+          "sourceOffset": 12991
         },
         {
           "tag": "td",
           "text": "Product Database (simpler)",
           "originalText": "Product Database (simpler)",
-          "source": "<td>Product Database (simpler)</td>"
+          "source": "<td>Product Database (simpler)</td>",
+          "sourceOffset": 13028
         },
         {
           "tag": "td",
           "text": "Keyword research",
           "originalText": "Keyword research",
-          "source": "<td>Keyword research</td>"
+          "source": "<td>Keyword research</td>",
+          "sourceOffset": 13072
         },
         {
           "tag": "td",
           "text": "Cerebro (reverse ASIN)",
           "originalText": "Cerebro (reverse ASIN)",
-          "source": "<td>Cerebro (reverse ASIN)</td>"
+          "source": "<td>Cerebro (reverse ASIN)</td>",
+          "sourceOffset": 13097
         },
         {
           "tag": "td",
           "text": "Keyword Scout",
           "originalText": "Keyword Scout",
-          "source": "<td>Keyword Scout</td>"
+          "source": "<td>Keyword Scout</td>",
+          "sourceOffset": 13128
         },
         {
           "tag": "td",
           "text": "Listing optimization",
           "originalText": "Listing optimization",
-          "source": "<td>Listing optimization</td>"
+          "source": "<td>Listing optimization</td>",
+          "sourceOffset": 13159
         },
         {
           "tag": "td",
           "text": "Listing Builder",
           "originalText": "Listing Builder",
-          "source": "<td>Listing Builder</td>"
+          "source": "<td>Listing Builder</td>",
+          "sourceOffset": 13188
         },
         {
           "tag": "td",
           "text": "Listing Builder",
           "originalText": "Listing Builder",
-          "source": "<td>Listing Builder</td>"
+          "source": "<td>Listing Builder</td>",
+          "sourceOffset": 13212
         },
         {
           "tag": "td",
           "text": "Sales estimates",
           "originalText": "Sales estimates",
-          "source": "<td>Sales estimates</td>"
+          "source": "<td>Sales estimates</td>",
+          "sourceOffset": 13245
         },
         {
           "tag": "td",
           "text": "Xray extension",
           "originalText": "Xray extension",
-          "source": "<td>Xray extension</td>"
+          "source": "<td>Xray extension</td>",
+          "sourceOffset": 13269
         },
         {
           "tag": "td",
           "text": "Product Tracker",
           "originalText": "Product Tracker",
-          "source": "<td>Product Tracker</td>"
+          "source": "<td>Product Tracker</td>",
+          "sourceOffset": 13292
         },
         {
           "tag": "td",
           "text": "Tool count",
           "originalText": "Tool count",
-          "source": "<td>Tool count</td>"
+          "source": "<td>Tool count</td>",
+          "sourceOffset": 13325
         },
         {
           "tag": "td",
           "text": "30+ tools",
           "originalText": "30+ tools",
-          "source": "<td>30+ tools</td>"
+          "source": "<td>30+ tools</td>",
+          "sourceOffset": 13344
         },
         {
           "tag": "td",
           "text": "10 tools",
           "originalText": "10 tools",
-          "source": "<td>10 tools</td>"
+          "source": "<td>10 tools</td>",
+          "sourceOffset": 13362
         },
         {
           "tag": "td",
           "text": "Group buy reliability",
           "originalText": "Group buy reliability",
-          "source": "<td>Group buy reliability</td>"
+          "source": "<td>Group buy reliability</td>",
+          "sourceOffset": 13388
         },
         {
           "tag": "td",
           "text": "Medium",
           "originalText": "Medium",
-          "source": "<td>Medium</td>"
+          "source": "<td>Medium</td>",
+          "sourceOffset": 13418
         },
         {
           "tag": "td",
           "text": "Medium-High",
           "originalText": "Medium-High",
-          "source": "<td>Medium-High</td>"
+          "source": "<td>Medium-High</td>",
+          "sourceOffset": 13433
         }
-      ]
+      ],
+      "sourceOffset": 10413
     },
     {
       "heading": "Available E-commerce Tools in Group Buy",
@@ -1951,51 +2032,60 @@
           "tag": "h4",
           "text": "Helium 10 Group Buy",
           "originalText": "Helium 10 Group Buy",
-          "source": "<h4>Helium 10 Group Buy</h4>"
+          "source": "<h4>Helium 10 Group Buy</h4>",
+          "sourceOffset": 13836
         },
         {
           "tag": "p",
           "text": "Access Helium 10 group buy through SEO Group Buy Tools for Black Box product research, Cerebro keyword research, Magnet,...",
           "originalText": "Access Helium 10 group buy through SEO Group Buy Tools for Black Box product research, Cerebro keyword research, Magnet,...",
-          "source": "<p>Access Helium 10 group buy through SEO Group Buy Tools for Black Box product research, Cerebro keyword research, Magnet,...</p>"
+          "source": "<p>Access Helium 10 group buy through SEO Group Buy Tools for Black Box product research, Cerebro keyword research, Magnet,...</p>",
+          "sourceOffset": 13901
         },
         {
           "tag": "h4",
           "text": "Jungle Scout Group Buy",
           "originalText": "Jungle Scout Group Buy",
-          "source": "<h4>Jungle Scout Group Buy</h4>"
+          "source": "<h4>Jungle Scout Group Buy</h4>",
+          "sourceOffset": 14316
         },
         {
           "tag": "p",
           "text": "Access Jungle Scout group buy through SEO Group Buy Tools for Amazon product research, keyword scouting, supplier databa...",
           "originalText": "Access Jungle Scout group buy through SEO Group Buy Tools for Amazon product research, keyword scouting, supplier databa...",
-          "source": "<p>Access Jungle Scout group buy through SEO Group Buy Tools for Amazon product research, keyword scouting, supplier databa...</p>"
+          "source": "<p>Access Jungle Scout group buy through SEO Group Buy Tools for Amazon product research, keyword scouting, supplier databa...</p>",
+          "sourceOffset": 14384
         },
         {
           "tag": "h4",
           "text": "ZonGuru Group Buy",
           "originalText": "ZonGuru Group Buy",
-          "source": "<h4>ZonGuru Group Buy</h4>"
+          "source": "<h4>ZonGuru Group Buy</h4>",
+          "sourceOffset": 14785
         },
         {
           "tag": "p",
           "text": "Access ZonGuru group buy through SEO Group Buy Tools for Amazon niche finding, keyword optimization, listing optimizatio...",
           "originalText": "Access ZonGuru group buy through SEO Group Buy Tools for Amazon niche finding, keyword optimization, listing optimizatio...",
-          "source": "<p>Access ZonGuru group buy through SEO Group Buy Tools for Amazon niche finding, keyword optimization, listing optimizatio...</p>"
+          "source": "<p>Access ZonGuru group buy through SEO Group Buy Tools for Amazon niche finding, keyword optimization, listing optimizatio...</p>",
+          "sourceOffset": 14848
         },
         {
           "tag": "h4",
           "text": "Merch Informer Group Buy",
           "originalText": "Merch Informer Group Buy",
-          "source": "<h4>Merch Informer Group Buy</h4>"
+          "source": "<h4>Merch Informer Group Buy</h4>",
+          "sourceOffset": 15269
         },
         {
           "tag": "p",
           "text": "Access VidIQ group buy through SEO Group Buy Tools for YouTube keyword research, competitor analysis, thumbnail grading,...",
           "originalText": "Access VidIQ group buy through SEO Group Buy Tools for YouTube keyword research, competitor analysis, thumbnail grading,...",
-          "source": "<p>Access VidIQ group buy through SEO Group Buy Tools for YouTube keyword research, competitor analysis, thumbnail grading,...</p>"
+          "source": "<p>Access VidIQ group buy through SEO Group Buy Tools for YouTube keyword research, competitor analysis, thumbnail grading,...</p>",
+          "sourceOffset": 15339
         }
-      ]
+      ],
+      "sourceOffset": 13542
     },
     {
       "heading": "References",
@@ -2006,21 +2096,25 @@
           "tag": "li",
           "text": "Helium 10 plans and pricing — helium10.com/pricing — Verified June 2026",
           "originalText": "Helium 10 plans and pricing — helium10.com/pricing — Verified June 2026",
-          "source": "<li>Helium 10 plans and pricing — helium10.com/pricing — Verified June 2026</li>"
+          "source": "<li>Helium 10 plans and pricing — helium10.com/pricing — Verified June 2026</li>",
+          "sourceOffset": 15638
         },
         {
           "tag": "li",
           "text": "Jungle Scout official pricing — junglescout.com/pricing — Verified June 2026",
           "originalText": "Jungle Scout official pricing — junglescout.com/pricing — Verified June 2026",
-          "source": "<li>Jungle Scout official pricing — junglescout.com/pricing — Verified June 2026</li>"
+          "source": "<li>Jungle Scout official pricing — junglescout.com/pricing — Verified June 2026</li>",
+          "sourceOffset": 15718
         },
         {
           "tag": "li",
           "text": "ZonGuru features — zonguru.com — Verified June 2026",
           "originalText": "ZonGuru features — zonguru.com — Verified June 2026",
-          "source": "<li>ZonGuru features — zonguru.com — Verified June 2026</li>"
+          "source": "<li>ZonGuru features — zonguru.com — Verified June 2026</li>",
+          "sourceOffset": 15803
         }
-      ]
+      ],
+      "sourceOffset": 15591
     }
   ],
   "buttons": [
@@ -2029,154 +2123,176 @@
       "originalText": "What Is SEO Group Buy Tools?",
       "url": "../",
       "originalUrl": "../",
-      "source": "<a href=\"../\">What Is SEO Group Buy Tools?</a>"
+      "source": "<a href=\"../\">What Is SEO Group Buy Tools?</a>",
+      "sourceOffset": 6367
     },
     {
       "text": "Helium 10 Group Buy",
       "originalText": "Helium 10 Group Buy",
       "url": "helium-10/",
       "originalUrl": "helium-10/",
-      "source": "<a href=\"helium-10/\">Helium 10 Group Buy</a>"
+      "source": "<a href=\"helium-10/\">Helium 10 Group Buy</a>",
+      "sourceOffset": 6415
     },
     {
       "text": "Jungle Scout Group Buy",
       "originalText": "Jungle Scout Group Buy",
       "url": "jungle-scout/",
       "originalUrl": "jungle-scout/",
-      "source": "<a href=\"jungle-scout/\">Jungle Scout Group Buy</a>"
+      "source": "<a href=\"jungle-scout/\">Jungle Scout Group Buy</a>",
+      "sourceOffset": 6461
     },
     {
       "text": "Helium 10 Group Buy",
       "originalText": "Helium 10 Group Buy",
       "url": "helium-10/",
       "originalUrl": "helium-10/",
-      "source": "<a href=\"helium-10/\">Helium 10 Group Buy</a>"
+      "source": "<a href=\"helium-10/\">Helium 10 Group Buy</a>",
+      "sourceOffset": 8278
     },
     {
       "text": "Jungle Scout Group Buy",
       "originalText": "Jungle Scout Group Buy",
       "url": "jungle-scout/",
       "originalUrl": "jungle-scout/",
-      "source": "<a href=\"jungle-scout/\">Jungle Scout Group Buy</a>"
+      "source": "<a href=\"jungle-scout/\">Jungle Scout Group Buy</a>",
+      "sourceOffset": 8324
     },
     {
       "text": "How Does SEO Group Buy Tools Work?",
       "originalText": "How Does SEO Group Buy Tools Work?",
       "url": "../how-it-works/",
       "originalUrl": "../how-it-works/",
-      "source": "<a href=\"../how-it-works/\">How Does SEO Group Buy Tools Work?</a>"
+      "source": "<a href=\"../how-it-works/\">How Does SEO Group Buy Tools Work?</a>",
+      "sourceOffset": 8376
     },
     {
       "text": "Spy & Ad Intelligence Tools Group Buy",
       "originalText": "Spy & Ad Intelligence Tools Group Buy",
       "url": "../spy-tools/",
       "originalUrl": "../spy-tools/",
-      "source": "<a href=\"../spy-tools/\">Spy &amp; Ad Intelligence Tools Group Buy</a>"
+      "source": "<a href=\"../spy-tools/\">Spy &amp; Ad Intelligence Tools Group Buy</a>",
+      "sourceOffset": 10121
     },
     {
       "text": "Dropispy Group Buy",
       "originalText": "Dropispy Group Buy",
       "url": "../spy-tools/dropispy/",
       "originalUrl": "../spy-tools/dropispy/",
-      "source": "<a href=\"../spy-tools/dropispy/\">Dropispy Group Buy</a>"
+      "source": "<a href=\"../spy-tools/dropispy/\">Dropispy Group Buy</a>",
+      "sourceOffset": 10192
     },
     {
       "text": "SEO Group Buy Tools Pricing",
       "originalText": "SEO Group Buy Tools Pricing",
       "url": "../pricing/",
       "originalUrl": "../pricing/",
-      "source": "<a href=\"../pricing/\">SEO Group Buy Tools Pricing</a>"
+      "source": "<a href=\"../pricing/\">SEO Group Buy Tools Pricing</a>",
+      "sourceOffset": 10249
     },
     {
       "text": "Is SEO Group Buy Tools Safe?",
       "originalText": "Is SEO Group Buy Tools Safe?",
       "url": "../is-it-safe/",
       "originalUrl": "../is-it-safe/",
-      "source": "<a href=\"../is-it-safe/\">Is SEO Group Buy Tools Safe?</a>"
+      "source": "<a href=\"../is-it-safe/\">Is SEO Group Buy Tools Safe?</a>",
+      "sourceOffset": 12043
     },
     {
       "text": "ZonGuru Group Buy",
       "originalText": "ZonGuru Group Buy",
       "url": "zonguru/",
       "originalUrl": "zonguru/",
-      "source": "<a href=\"zonguru/\">ZonGuru Group Buy</a>"
+      "source": "<a href=\"zonguru/\">ZonGuru Group Buy</a>",
+      "sourceOffset": 12102
     },
     {
       "text": "SEO Group Buy Tools Providers",
       "originalText": "SEO Group Buy Tools Providers",
       "url": "../best-providers/",
       "originalUrl": "../best-providers/",
-      "source": "<a href=\"../best-providers/\">SEO Group Buy Tools Providers</a>"
+      "source": "<a href=\"../best-providers/\">SEO Group Buy Tools Providers</a>",
+      "sourceOffset": 12144
     },
     {
       "text": "💬 WhatsApp Us",
       "originalText": "💬 WhatsApp Us",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>",
+      "sourceOffset": 16035
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../pricing/",
       "originalUrl": "../pricing/",
-      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>"
+      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>",
+      "sourceOffset": 16276
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../seo-tools/semrush/",
       "originalUrl": "../seo-tools/semrush/",
-      "source": "<a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 17325
     },
     {
       "text": "Ahrefs Group Buy",
       "originalText": "Ahrefs Group Buy",
       "url": "../seo-tools/ahrefs/",
       "originalUrl": "../seo-tools/ahrefs/",
-      "source": "<a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 17387
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../seo-tools/moz-pro/",
       "originalUrl": "../seo-tools/moz-pro/",
-      "source": "<a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 17447
     },
     {
       "text": "Surfer SEO Group Buy",
       "originalText": "Surfer SEO Group Buy",
       "url": "../seo-tools/surfer-seo/",
       "originalUrl": "../seo-tools/surfer-seo/",
-      "source": "<a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>"
+      "source": "<a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
+      "sourceOffset": 17509
     },
     {
       "text": "Canva Pro Group Buy",
       "originalText": "Canva Pro Group Buy",
       "url": "../design-tools/canva-pro/",
       "originalUrl": "../design-tools/canva-pro/",
-      "source": "<a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a>"
+      "source": "<a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
+      "sourceOffset": 17577
     },
     {
       "text": "Quillbot Group Buy",
       "originalText": "Quillbot Group Buy",
       "url": "../ai-writing-tools/quillbot/",
       "originalUrl": "../ai-writing-tools/quillbot/",
-      "source": "<a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>"
+      "source": "<a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
+      "sourceOffset": 17646
     },
     {
       "text": "💬 WhatsApp Us Now",
       "originalText": "💬 WhatsApp Us Now",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>",
+      "sourceOffset": 18265
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../pricing/",
       "originalUrl": "../pricing/",
-      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>"
+      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>",
+      "sourceOffset": 18507
     }
   ],
   "mediaImages": [
@@ -2185,50 +2301,58 @@
       "originalSrc": "../assets/images/tools/helium10-com.png",
       "alt": "Helium 10 logo",
       "originalAlt": "Helium 10 logo",
-      "source": "<img src=\"../assets/images/tools/helium10-com.png\" alt=\"Helium 10 logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../assets/images/tools/helium10-com.png\" alt=\"Helium 10 logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 13685
     },
     {
       "src": "../assets/images/tools/junglescout-com.png",
       "originalSrc": "../assets/images/tools/junglescout-com.png",
       "alt": "Jungle Scout logo",
       "originalAlt": "Jungle Scout logo",
-      "source": "<img src=\"../assets/images/tools/junglescout-com.png\" alt=\"Jungle Scout logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../assets/images/tools/junglescout-com.png\" alt=\"Jungle Scout logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 14159
     },
     {
       "src": "../assets/images/tools/zonguru-com.png",
       "originalSrc": "../assets/images/tools/zonguru-com.png",
       "alt": "ZonGuru logo",
       "originalAlt": "ZonGuru logo",
-      "source": "<img src=\"../assets/images/tools/zonguru-com.png\" alt=\"ZonGuru logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../assets/images/tools/zonguru-com.png\" alt=\"ZonGuru logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 14637
     },
     {
       "src": "../assets/images/tools/merchinformer-com.png",
       "originalSrc": "../assets/images/tools/merchinformer-com.png",
       "alt": "Merch Informer logo",
       "originalAlt": "Merch Informer logo",
-      "source": "<img src=\"../assets/images/tools/merchinformer-com.png\" alt=\"Merch Informer logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+      "source": "<img src=\"../assets/images/tools/merchinformer-com.png\" alt=\"Merch Informer logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "sourceOffset": 15108
     }
   ],
   "priceValues": [
     {
       "value": "From $6/mo",
       "originalValue": "From $6/mo",
-      "source": "<span class=\"price-tag\">From $6/mo</span>"
+      "source": "<span class=\"price-tag\">From $6/mo</span>",
+      "sourceOffset": 14032
     },
     {
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
-      "source": "<span class=\"price-tag\">From $5/mo</span>"
+      "source": "<span class=\"price-tag\">From $5/mo</span>",
+      "sourceOffset": 14515
     },
     {
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
-      "source": "<span class=\"price-tag\">From $5/mo</span>"
+      "source": "<span class=\"price-tag\">From $5/mo</span>",
+      "sourceOffset": 14979
     },
     {
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
-      "source": "<span class=\"price-tag\">From $5/mo</span>"
+      "source": "<span class=\"price-tag\">From $5/mo</span>",
+      "sourceOffset": 15470
     }
   ],
   "originalPageTitle": "E-commerce Tools Group Buy — Helium 10, Jungle Scout | SEO Group Buy Tools",
@@ -2239,73 +2363,85 @@
       "label": "Helium 10 Group Buy",
       "url": "helium-10/",
       "originalUrl": "helium-10/",
-      "source": "<a href=\"helium-10/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../assets/images/tools/helium10-com.png\" alt=\"Helium 10 logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Helium 10 Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Helium 10 group buy through SEO Group Buy Tools for Black Box product research, Cerebro keyword research, Magnet,...</p> <span class=\"price-tag\">From $6/mo</span> </div>\n</a>"
+      "source": "<a href=\"helium-10/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../assets/images/tools/helium10-com.png\" alt=\"Helium 10 logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Helium 10 Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Helium 10 group buy through SEO Group Buy Tools for Black Box product research, Cerebro keyword research, Magnet,...</p> <span class=\"price-tag\">From $6/mo</span> </div>\n</a>",
+      "sourceOffset": 13614
     },
     {
       "label": "Jungle Scout Group Buy",
       "url": "jungle-scout/",
       "originalUrl": "jungle-scout/",
-      "source": "<a href=\"jungle-scout/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../assets/images/tools/junglescout-com.png\" alt=\"Jungle Scout logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Jungle Scout Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Jungle Scout group buy through SEO Group Buy Tools for Amazon product research, keyword scouting, supplier databa...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>"
+      "source": "<a href=\"jungle-scout/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../assets/images/tools/junglescout-com.png\" alt=\"Jungle Scout logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Jungle Scout Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access Jungle Scout group buy through SEO Group Buy Tools for Amazon product research, keyword scouting, supplier databa...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>",
+      "sourceOffset": 14085
     },
     {
       "label": "ZonGuru Group Buy",
       "url": "zonguru/",
       "originalUrl": "zonguru/",
-      "source": "<a href=\"zonguru/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../assets/images/tools/zonguru-com.png\" alt=\"ZonGuru logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>ZonGuru Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access ZonGuru group buy through SEO Group Buy Tools for Amazon niche finding, keyword optimization, listing optimizatio...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>"
+      "source": "<a href=\"zonguru/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../assets/images/tools/zonguru-com.png\" alt=\"ZonGuru logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>ZonGuru Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access ZonGuru group buy through SEO Group Buy Tools for Amazon niche finding, keyword optimization, listing optimizatio...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>",
+      "sourceOffset": 14568
     },
     {
       "label": "Merch Informer Group Buy",
       "url": "merch-informer/",
       "originalUrl": "merch-informer/",
-      "source": "<a href=\"merch-informer/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../assets/images/tools/merchinformer-com.png\" alt=\"Merch Informer logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Merch Informer Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access VidIQ group buy through SEO Group Buy Tools for YouTube keyword research, competitor analysis, thumbnail grading,...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>"
+      "source": "<a href=\"merch-informer/\" class=\"tool-card\"> <div class=\"tool-card-header\"> <img src=\"../assets/images/tools/merchinformer-com.png\" alt=\"Merch Informer logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\"> <h4>Merch Informer Group Buy</h4> </div> <div class=\"tool-card-body\"> <p>Access VidIQ group buy through SEO Group Buy Tools for YouTube keyword research, competitor analysis, thumbnail grading,...</p> <span class=\"price-tag\">From $5/mo</span> </div>\n</a>",
+      "sourceOffset": 15032
     },
     {
       "label": "🔍 SEO Tools",
       "url": "../seo-tools/",
       "originalUrl": "../seo-tools/",
-      "source": "<a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>"
+      "source": "<a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>",
+      "sourceOffset": 16428
     },
     {
       "label": "🎨 Design Tools",
       "url": "../design-tools/",
       "originalUrl": "../design-tools/",
-      "source": "<a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>"
+      "source": "<a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>",
+      "sourceOffset": 16537
     },
     {
       "label": "🕵️ Spy & Ad Intelligence",
       "url": "../spy-tools/",
       "originalUrl": "../spy-tools/",
-      "source": "<a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>"
+      "source": "<a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>",
+      "sourceOffset": 16651
     },
     {
       "label": "✍️ AI Writing Tools",
       "url": "../ai-writing-tools/",
       "originalUrl": "../ai-writing-tools/",
-      "source": "<a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>"
+      "source": "<a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>",
+      "sourceOffset": 16772
     },
     {
       "label": "🛒 E-commerce Tools",
       "url": "./",
       "originalUrl": "./",
-      "source": "<a href=\"./\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>"
+      "source": "<a href=\"./\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>",
+      "sourceOffset": 16894
     },
     {
       "label": "📱 Social Media Tools",
       "url": "../social-media-tools/",
       "originalUrl": "../social-media-tools/",
-      "source": "<a href=\"../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>"
+      "source": "<a href=\"../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>",
+      "sourceOffset": 16998
     },
     {
       "label": "🎓 Education Tools",
       "url": "../education-tools/",
       "originalUrl": "../education-tools/",
-      "source": "<a href=\"../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>"
+      "source": "<a href=\"../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>",
+      "sourceOffset": 17124
     },
     {
       "label": "Card",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>",
+      "sourceOffset": 21025
     }
   ],
   "outsideGroups": [
@@ -2313,7 +2449,8 @@
       "heading": "E-commerce Tools Group Buy",
       "originalHeading": "E-commerce Tools Group Buy",
       "headingSource": "<h1>E-commerce Tools Group Buy</h1>",
-      "items": []
+      "items": [],
+      "sourceOffset": 3994
     },
     {
       "heading": "Get Started Today",
@@ -2324,9 +2461,11 @@
           "text": "Access 50+ premium SEO tools from $5/month",
           "originalText": "Access 50+ premium SEO tools from $5/month",
           "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 15968
         }
-      ]
+      ],
+      "sourceOffset": 15941
     },
     {
       "heading": "Tool Categories",
@@ -2337,45 +2476,53 @@
           "text": "🔍 SEO Tools 12",
           "originalText": "🔍 SEO Tools 12",
           "source": "<li><a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16424
         },
         {
           "text": "🎨 Design Tools 5",
           "originalText": "🎨 Design Tools 5",
           "source": "<li><a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16533
         },
         {
           "text": "🕵️ Spy & Ad Intelligence 5",
           "originalText": "🕵️ Spy & Ad Intelligence 5",
           "source": "<li><a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16647
         },
         {
           "text": "✍️ AI Writing Tools 4",
           "originalText": "✍️ AI Writing Tools 4",
           "source": "<li><a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16768
         },
         {
           "text": "🛒 E-commerce Tools 4",
           "originalText": "🛒 E-commerce Tools 4",
           "source": "<li><a href=\"./\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16890
         },
         {
           "text": "📱 Social Media Tools 3",
           "originalText": "📱 Social Media Tools 3",
           "source": "<li><a href=\"../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16994
         },
         {
           "text": "🎓 Education Tools 3",
           "originalText": "🎓 Education Tools 3",
           "source": "<li><a href=\"../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17120
         }
-      ]
+      ],
+      "sourceOffset": 16377
     },
     {
       "heading": "Popular Tools",
@@ -2386,39 +2533,46 @@
           "text": "SEMrush Group Buy",
           "originalText": "SEMrush Group Buy",
           "source": "<li><a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17321
         },
         {
           "text": "Ahrefs Group Buy",
           "originalText": "Ahrefs Group Buy",
           "source": "<li><a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17383
         },
         {
           "text": "Moz Pro Group Buy",
           "originalText": "Moz Pro Group Buy",
           "source": "<li><a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17443
         },
         {
           "text": "Surfer SEO Group Buy",
           "originalText": "Surfer SEO Group Buy",
           "source": "<li><a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17505
         },
         {
           "text": "Canva Pro Group Buy",
           "originalText": "Canva Pro Group Buy",
           "source": "<li><a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17573
         },
         {
           "text": "Quillbot Group Buy",
           "originalText": "Quillbot Group Buy",
           "source": "<li><a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17642
         }
-      ]
+      ],
+      "sourceOffset": 17275
     },
     {
       "heading": "Why Choose Us",
@@ -2429,33 +2583,39 @@
           "text": "✓ 50+ Premium Tools",
           "originalText": "✓ 50+ Premium Tools",
           "source": "<li>✓ 50+ Premium Tools</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17808
         },
         {
           "text": "✓ 90%+ Uptime Guaranteed",
           "originalText": "✓ 90%+ Uptime Guaranteed",
           "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17837
         },
         {
           "text": "✓ Instant Access Setup",
           "originalText": "✓ Instant Access Setup",
           "source": "<li>✓ Instant Access Setup</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17871
         },
         {
           "text": "✓ 24/7 Support",
           "originalText": "✓ 24/7 Support",
           "source": "<li>✓ 24/7 Support</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17903
         },
         {
           "text": "✓ Secure Payments",
           "originalText": "✓ Secure Payments",
           "source": "<li>✓ Secure Payments</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 17927
         }
-      ]
+      ],
+      "sourceOffset": 17761
     },
     {
       "heading": "Ready to Get Started?",
@@ -2466,9 +2626,11 @@
           "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 18095
         }
-      ]
+      ],
+      "sourceOffset": 18064
     }
   ],
   "labelTexts": []

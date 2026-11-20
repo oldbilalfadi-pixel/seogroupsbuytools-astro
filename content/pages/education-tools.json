@@ -1311,15 +1311,18 @@
           "tag": "p",
           "text": "SEO Group Buy Tools extend beyond marketing and design software to include education and learning platforms that provide access to thousands of courses covering coding, design, marketing, and business skills.",
           "originalText": "SEO Group Buy Tools extend beyond marketing and design software to include education and learning platforms that provide access to thousands of courses covering coding, design, marketing, and business skills.",
-          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools extend beyond marketing and design software to include education and learning platforms that provide access to thousands of courses covering coding, design, marketing, and business skills.</p>"
+          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools extend beyond marketing and design software to include education and learning platforms that provide access to thousands of courses covering coding, design, marketing, and business skills.</p>",
+          "sourceOffset": 4385
         },
         {
           "tag": "p",
           "text": "Individual learning platform subscriptions cost $10–$40 per month, while group buy access reduces these costs to $3–$10 per month, making continuous skill development affordable for students, career changers, and professionals who want to expand their expertise without paying full subscription prices.",
           "originalText": "Individual learning platform subscriptions cost $10–$40 per month, while group buy access reduces these costs to $3–$10 per month, making continuous skill development affordable for students, career changers, and professionals who want to expand their expertise without paying full subscription prices.",
-          "source": "<p>Individual learning platform subscriptions cost $10–$40 per month, while group buy access reduces these costs to $3–$10 per month, making continuous skill development affordable for students, career changers, and professionals who want to expand their expertise without paying full subscription prices.</p>"
+          "source": "<p>Individual learning platform subscriptions cost $10–$40 per month, while group buy access reduces these costs to $3–$10 per month, making continuous skill development affordable for students, career changers, and professionals who want to expand their expertise without paying full subscription prices.</p>",
+          "sourceOffset": 4623
         }
-      ]
+      ],
+      "sourceOffset": 4300
     },
     {
       "heading": "What education tools are available in SEO Group Buy Tools?",
@@ -1330,45 +1333,53 @@
           "tag": "p",
           "text": "SEO Group Buy Tools provide access to Udemy for practical courses, Coursera for university programs, Skillshare for creative skills, LinkedIn Learning for professional development, Scribd for documents, and Chegg for academic help.",
           "originalText": "SEO Group Buy Tools provide access to Udemy for practical courses, Coursera for university programs, Skillshare for creative skills, LinkedIn Learning for professional development, Scribd for documents, and Chegg for academic help.",
-          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide access to Udemy for practical courses, Coursera for university programs, Skillshare for creative skills, LinkedIn Learning for professional development, Scribd for documents, and Chegg for academic help.</p>"
+          "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide access to Udemy for practical courses, Coursera for university programs, Skillshare for creative skills, LinkedIn Learning for professional development, Scribd for documents, and Chegg for academic help.</p>",
+          "sourceOffset": 5105
         },
         {
           "tag": "p",
           "text": "The education and learning tools category within SEO Group Buy Tools includes six platforms spanning different learning formats, from video courses and interactive programs to document libraries and academic assistance.",
           "originalText": "The education and learning tools category within SEO Group Buy Tools includes six platforms spanning different learning formats, from video courses and interactive programs to document libraries and academic assistance.",
-          "source": "<p>The education and learning tools category within SEO Group Buy Tools includes six platforms spanning different learning formats, from video courses and interactive programs to document libraries and academic assistance.</p>"
+          "source": "<p>The education and learning tools category within SEO Group Buy Tools includes six platforms spanning different learning formats, from video courses and interactive programs to document libraries and academic assistance.</p>",
+          "sourceOffset": 5366
         },
         {
           "tag": "p",
           "text": "These tools help users develop professional skills that complement the marketing, design, and analytics tools available in other categories of SEO Group Buy Tools.",
           "originalText": "These tools help users develop professional skills that complement the marketing, design, and analytics tools available in other categories of SEO Group Buy Tools.",
-          "source": "<p>These tools help users develop professional skills that complement the marketing, design, and analytics tools available in other categories of SEO Group Buy Tools.</p>"
+          "source": "<p>These tools help users develop professional skills that complement the marketing, design, and analytics tools available in other categories of SEO Group Buy Tools.</p>",
+          "sourceOffset": 5592
         },
         {
           "tag": "p",
           "text": "Udemy offers the largest course library with over 200,000 courses on practical topics including SEO, web development, graphic design, and digital marketing. Coursera partners with universities to provide structured programs and professional certificates that carry academic credibility.",
           "originalText": "Udemy offers the largest course library with over 200,000 courses on practical topics including SEO, web development, graphic design, and digital marketing. Coursera partners with universities to provide structured programs and professional certificates that carry academic credibility.",
-          "source": "<p>Udemy offers the largest course library with over 200,000 courses on practical topics including SEO, web development, graphic design, and digital marketing. Coursera partners with universities to provide structured programs and professional certificates that carry academic credibility.</p>"
+          "source": "<p>Udemy offers the largest course library with over 200,000 courses on practical topics including SEO, web development, graphic design, and digital marketing. Coursera partners with universities to provide structured programs and professional certificates that carry academic credibility.</p>",
+          "sourceOffset": 5762
         },
         {
           "tag": "p",
           "text": "Skillshare focuses on creative skills with shorter, project-based classes in illustration, photography, and design.",
           "originalText": "Skillshare focuses on creative skills with shorter, project-based classes in illustration, photography, and design.",
-          "source": "<p>Skillshare focuses on creative skills with shorter, project-based classes in illustration, photography, and design.</p>"
+          "source": "<p>Skillshare focuses on creative skills with shorter, project-based classes in illustration, photography, and design.</p>",
+          "sourceOffset": 6055
         },
         {
           "tag": "p",
           "text": "LinkedIn Learning (formerly Lynda.com) provides professional development courses with a business and technology focus, and completion certificates that integrate directly with LinkedIn profiles.",
           "originalText": "LinkedIn Learning (formerly Lynda.com) provides professional development courses with a business and technology focus, and completion certificates that integrate directly with LinkedIn profiles.",
-          "source": "<p>LinkedIn Learning (formerly Lynda.com) provides professional development courses with a business and technology focus, and completion certificates that integrate directly with LinkedIn profiles.</p>"
+          "source": "<p>LinkedIn Learning (formerly Lynda.com) provides professional development courses with a business and technology focus, and completion certificates that integrate directly with LinkedIn profiles.</p>",
+          "sourceOffset": 6177
         },
         {
           "tag": "p",
           "text": "Scribd offers access to millions of books, audiobooks, and documents including marketing textbooks and industry reports. Chegg provides textbook solutions, homework help, and writing assistance primarily for students.",
           "originalText": "Scribd offers access to millions of books, audiobooks, and documents including marketing textbooks and industry reports. Chegg provides textbook solutions, homework help, and writing assistance primarily for students.",
-          "source": "<p>Scribd offers access to millions of books, audiobooks, and documents including marketing textbooks and industry reports. Chegg provides textbook solutions, homework help, and writing assistance primarily for students.</p>"
+          "source": "<p>Scribd offers access to millions of books, audiobooks, and documents including marketing textbooks and industry reports. Chegg provides textbook solutions, homework help, and writing assistance primarily for students.</p>",
+          "sourceOffset": 6378
         }
-      ]
+      ],
+      "sourceOffset": 5038
     },
     {
       "heading": "Which education tool in SEO Group Buy Tools is best for learning SEO and marketing?",
@@ -1379,45 +1390,53 @@
           "tag": "p",
           "text": "For learning SEO and marketing in SEO Group Buy Tools, Udemy provides the most practical and diverse course selection, while Coursera offers structured programs with university-level depth and professional certificate credibility.",
           "originalText": "For learning SEO and marketing in SEO Group Buy Tools, Udemy provides the most practical and diverse course selection, while Coursera offers structured programs with university-level depth and professional certificate credibility.",
-          "source": "<p class=\"answer-snippet\">For learning SEO and marketing in SEO Group Buy Tools, Udemy provides the most practical and diverse course selection, while Coursera offers structured programs with university-level depth and professional certificate credibility.</p>"
+          "source": "<p class=\"answer-snippet\">For learning SEO and marketing in SEO Group Buy Tools, Udemy provides the most practical and diverse course selection, while Coursera offers structured programs with university-level depth and professional certificate credibility.</p>",
+          "sourceOffset": 6981
         },
         {
           "tag": "p",
           "text": "Learning SEO and digital marketing through SEO Group Buy Tools provides a practical advantage: users can study the theory on learning platforms while applying it immediately on the SEO tools available in the same group buy subscription.",
           "originalText": "Learning SEO and digital marketing through SEO Group Buy Tools provides a practical advantage: users can study the theory on learning platforms while applying it immediately on the SEO tools available in the same group buy subscription.",
-          "source": "<p>Learning SEO and digital marketing through SEO Group Buy Tools provides a practical advantage: users can study the theory on learning platforms while applying it immediately on the SEO tools available in the same group buy subscription.</p>"
+          "source": "<p>Learning SEO and digital marketing through SEO Group Buy Tools provides a practical advantage: users can study the theory on learning platforms while applying it immediately on the SEO tools available in the same group buy subscription.</p>",
+          "sourceOffset": 7241
         },
         {
           "tag": "p",
           "text": "Udemy offers the broadest selection of SEO courses, ranging from beginner overviews to advanced technical SEO and link building strategies.",
           "originalText": "Udemy offers the broadest selection of SEO courses, ranging from beginner overviews to advanced technical SEO and link building strategies.",
-          "source": "<p>Udemy offers the broadest selection of SEO courses, ranging from beginner overviews to advanced technical SEO and link building strategies.</p>"
+          "source": "<p>Udemy offers the broadest selection of SEO courses, ranging from beginner overviews to advanced technical SEO and link building strategies.</p>",
+          "sourceOffset": 7484
         },
         {
           "tag": "p",
           "text": "Coursera complements Udemy with structured programs from universities like the University of California and the University of Illinois that provide comprehensive digital marketing curricula.",
           "originalText": "Coursera complements Udemy with structured programs from universities like the University of California and the University of Illinois that provide comprehensive digital marketing curricula.",
-          "source": "<p>Coursera complements Udemy with structured programs from universities like the University of California and the University of Illinois that provide comprehensive digital marketing curricula.</p>"
+          "source": "<p>Coursera complements Udemy with structured programs from universities like the University of California and the University of Illinois that provide comprehensive digital marketing curricula.</p>",
+          "sourceOffset": 7630
         },
         {
           "tag": "p",
           "text": "These programs include graded assignments, peer reviews, and capstone projects that develop practical skills alongside theoretical knowledge. The professional certificates from Coursera carry weight in job applications that Udemy certificates typically do not.",
           "originalText": "These programs include graded assignments, peer reviews, and capstone projects that develop practical skills alongside theoretical knowledge. The professional certificates from Coursera carry weight in job applications that Udemy certificates typically do not.",
-          "source": "<p>These programs include graded assignments, peer reviews, and capstone projects that develop practical skills alongside theoretical knowledge. The professional certificates from Coursera carry weight in job applications that Udemy certificates typically do not.</p>"
+          "source": "<p>These programs include graded assignments, peer reviews, and capstone projects that develop practical skills alongside theoretical knowledge. The professional certificates from Coursera carry weight in job applications that Udemy certificates typically do not.</p>",
+          "sourceOffset": 7827
         },
         {
           "tag": "p",
           "text": "Skillshare serves marketers who want to develop complementary creative skills like graphic design for social media posts, video editing for YouTube content, and copywriting for ad campaigns.",
           "originalText": "Skillshare serves marketers who want to develop complementary creative skills like graphic design for social media posts, video editing for YouTube content, and copywriting for ad campaigns.",
-          "source": "<p>Skillshare serves marketers who want to develop complementary creative skills like graphic design for social media posts, video editing for YouTube content, and copywriting for ad campaigns.</p>"
+          "source": "<p>Skillshare serves marketers who want to develop complementary creative skills like graphic design for social media posts, video editing for YouTube content, and copywriting for ad campaigns.</p>",
+          "sourceOffset": 8094
         },
         {
           "tag": "p",
           "text": "The combination of Udemy for marketing theory, Coursera for structured programs, and Skillshare for creative execution creates a comprehensive learning pathway accessible through SEO Group Buy Tools at a fraction of individual subscription costs.",
           "originalText": "The combination of Udemy for marketing theory, Coursera for structured programs, and Skillshare for creative execution creates a comprehensive learning pathway accessible through SEO Group Buy Tools at a fraction of individual subscription costs.",
-          "source": "<p>The combination of Udemy for marketing theory, Coursera for structured programs, and Skillshare for creative execution creates a comprehensive learning pathway accessible through SEO Group Buy Tools at a fraction of individual subscription costs.</p>"
+          "source": "<p>The combination of Udemy for marketing theory, Coursera for structured programs, and Skillshare for creative execution creates a comprehensive learning pathway accessible through SEO Group Buy Tools at a fraction of individual subscription costs.</p>",
+          "sourceOffset": 8291
         }
-      ]
+      ],
+      "sourceOffset": 6889
     },
     {
       "heading": "Are education group buys in SEO Group Buy Tools worth it?",
@@ -1428,51 +1447,60 @@
           "tag": "p",
           "text": "Education tools in SEO Group Buy Tools offer strong value for learning content but have limitations with progress tracking, certificates, and personalized features, making them best for knowledge acquisition rather than credential building.",
           "originalText": "Education tools in SEO Group Buy Tools offer strong value for learning content but have limitations with progress tracking, certificates, and personalized features, making them best for knowledge acquisition rather than credential building.",
-          "source": "<p class=\"answer-snippet\">Education tools in SEO Group Buy Tools offer strong value for learning content but have limitations with progress tracking, certificates, and personalized features, making them best for knowledge acquisition rather than credential building.</p>"
+          "source": "<p class=\"answer-snippet\">Education tools in SEO Group Buy Tools offer strong value for learning content but have limitations with progress tracking, certificates, and personalized features, making them best for knowledge acquisition rather than credential building.</p>",
+          "sourceOffset": 8901
         },
         {
           "tag": "p",
           "text": "Education tools represent one of the most reliable categories within SEO Group Buy Tools because most learning platforms use subscription-based access without credit systems or query limits.",
           "originalText": "Education tools represent one of the most reliable categories within SEO Group Buy Tools because most learning platforms use subscription-based access without credit systems or query limits.",
-          "source": "<p>Education tools represent one of the most reliable categories within SEO Group Buy Tools because most learning platforms use subscription-based access without credit systems or query limits.</p>"
+          "source": "<p>Education tools represent one of the most reliable categories within SEO Group Buy Tools because most learning platforms use subscription-based access without credit systems or query limits.</p>",
+          "sourceOffset": 9171
         },
         {
           "tag": "p",
           "text": "Multiple users can watch courses simultaneously on a shared account without depleting a finite resource, unlike SEO tools where query counts create usage conflicts. This structural advantage makes education tools consistently available with minimal downtime.",
           "originalText": "Multiple users can watch courses simultaneously on a shared account without depleting a finite resource, unlike SEO tools where query counts create usage conflicts. This structural advantage makes education tools consistently available with minimal downtime.",
-          "source": "<p>Multiple users can watch courses simultaneously on a shared account without depleting a finite resource, unlike SEO tools where query counts create usage conflicts. This structural advantage makes education tools consistently available with minimal downtime.</p>"
+          "source": "<p>Multiple users can watch courses simultaneously on a shared account without depleting a finite resource, unlike SEO tools where query counts create usage conflicts. This structural advantage makes education tools consistently available with minimal downtime.</p>",
+          "sourceOffset": 9368
         },
         {
           "tag": "p",
           "text": "However, shared access introduces specific limitations that users should understand before subscribing. Progress tracking typically does not work correctly because multiple users contribute to the same viewing history and course completion records.",
           "originalText": "However, shared access introduces specific limitations that users should understand before subscribing. Progress tracking typically does not work correctly because multiple users contribute to the same viewing history and course completion records.",
-          "source": "<p>However, shared access introduces specific limitations that users should understand before subscribing. Progress tracking typically does not work correctly because multiple users contribute to the same viewing history and course completion records.</p>"
+          "source": "<p>However, shared access introduces specific limitations that users should understand before subscribing. Progress tracking typically does not work correctly because multiple users contribute to the same viewing history and course completion records.</p>",
+          "sourceOffset": 9633
         },
         {
           "tag": "p",
           "text": "Certificates of completion bear the account holder's name rather than the individual learner's name, making them unusable for professional credentials. Personalized recommendations become unreliable because the algorithm cannot distinguish between different users' interests.",
           "originalText": "Certificates of completion bear the account holder's name rather than the individual learner's name, making them unusable for professional credentials. Personalized recommendations become unreliable because the algorithm cannot distinguish between different users' interests.",
-          "source": "<p>Certificates of completion bear the account holder's name rather than the individual learner's name, making them unusable for professional credentials. Personalized recommendations become unreliable because the algorithm cannot distinguish between different users' interests.</p>"
+          "source": "<p>Certificates of completion bear the account holder's name rather than the individual learner's name, making them unusable for professional credentials. Personalized recommendations become unreliable because the algorithm cannot distinguish between different users' interests.</p>",
+          "sourceOffset": 9888
         },
         {
           "tag": "p",
           "text": "Despite these limitations, education tools in SEO Group Buy Tools provide genuine value for knowledge acquisition.",
           "originalText": "Despite these limitations, education tools in SEO Group Buy Tools provide genuine value for knowledge acquisition.",
-          "source": "<p>Despite these limitations, education tools in SEO Group Buy Tools provide genuine value for knowledge acquisition.</p>"
+          "source": "<p>Despite these limitations, education tools in SEO Group Buy Tools provide genuine value for knowledge acquisition.</p>",
+          "sourceOffset": 10170
         },
         {
           "tag": "p",
           "text": "Users who want to learn new skills for practical application rather than formal credentials gain access to the same instructional content as individual subscribers at significantly lower cost.",
           "originalText": "Users who want to learn new skills for practical application rather than formal credentials gain access to the same instructional content as individual subscribers at significantly lower cost.",
-          "source": "<p>Users who want to learn new skills for practical application rather than formal credentials gain access to the same instructional content as individual subscribers at significantly lower cost.</p>"
+          "source": "<p>Users who want to learn new skills for practical application rather than formal credentials gain access to the same instructional content as individual subscribers at significantly lower cost.</p>",
+          "sourceOffset": 10291
         },
         {
           "tag": "p",
           "text": "The savings are particularly meaningful for students and professionals in developing countries where subscription prices represent a larger proportion of income.",
           "originalText": "The savings are particularly meaningful for students and professionals in developing countries where subscription prices represent a larger proportion of income.",
-          "source": "<p>The savings are particularly meaningful for students and professionals in developing countries where subscription prices represent a larger proportion of income.</p>"
+          "source": "<p>The savings are particularly meaningful for students and professionals in developing countries where subscription prices represent a larger proportion of income.</p>",
+          "sourceOffset": 10490
         }
-      ]
+      ],
+      "sourceOffset": 8835
     },
     {
       "heading": "What limitations should you consider with education tools in SEO Group Buy Tools?",
@@ -1483,417 +1511,487 @@
           "tag": "p",
           "text": "Education tools in SEO Group Buy Tools have limitations including broken progress tracking, unusable certificates, mixed personalization, and potential session conflicts during live or interactive course features.",
           "originalText": "Education tools in SEO Group Buy Tools have limitations including broken progress tracking, unusable certificates, mixed personalization, and potential session conflicts during live or interactive course features.",
-          "source": "<p class=\"answer-snippet\">Education tools in SEO Group Buy Tools have limitations including broken progress tracking, unusable certificates, mixed personalization, and potential session conflicts during live or interactive course features.</p>"
+          "source": "<p class=\"answer-snippet\">Education tools in SEO Group Buy Tools have limitations including broken progress tracking, unusable certificates, mixed personalization, and potential session conflicts during live or interactive course features.</p>",
+          "sourceOffset": 11064
         },
         {
           "tag": "p",
           "text": "Users considering education tools within SEO Group Buy Tools should weigh three primary limitations against the significant cost savings. First, progress tracking and completion records reflect the aggregate activity of all shared users rather than individual learning paths.",
           "originalText": "Users considering education tools within SEO Group Buy Tools should weigh three primary limitations against the significant cost savings. First, progress tracking and completion records reflect the aggregate activity of all shared users rather than individual learning paths.",
-          "source": "<p>Users considering education tools within SEO Group Buy Tools should weigh three primary limitations against the significant cost savings. First, progress tracking and completion records reflect the aggregate activity of all shared users rather than individual learning paths.</p>"
+          "source": "<p>Users considering education tools within SEO Group Buy Tools should weigh three primary limitations against the significant cost savings. First, progress tracking and completion records reflect the aggregate activity of all shared users rather than individual learning paths.</p>",
+          "sourceOffset": 11307
         },
         {
           "tag": "p",
           "text": "This means course progress bars, bookmarks, and resume-watching features will not accurately represent your personal advancement through the material. Second, certificates of completion display the account holder's registered name and cannot be customized for individual learners.",
           "originalText": "This means course progress bars, bookmarks, and resume-watching features will not accurately represent your personal advancement through the material. Second, certificates of completion display the account holder's registered name and cannot be customized for individual learners.",
-          "source": "<p>This means course progress bars, bookmarks, and resume-watching features will not accurately represent your personal advancement through the material. Second, certificates of completion display the account holder's registered name and cannot be customized for individual learners.</p>"
+          "source": "<p>This means course progress bars, bookmarks, and resume-watching features will not accurately represent your personal advancement through the material. Second, certificates of completion display the account holder's registered name and cannot be customized for individual learners.</p>",
+          "sourceOffset": 11589
         },
         {
           "tag": "p",
           "text": "If you need verifiable credentials for employment or academic purposes, the group buy access cannot fulfill that requirement.",
           "originalText": "If you need verifiable credentials for employment or academic purposes, the group buy access cannot fulfill that requirement.",
-          "source": "<p>If you need verifiable credentials for employment or academic purposes, the group buy access cannot fulfill that requirement.</p>"
+          "source": "<p>If you need verifiable credentials for employment or academic purposes, the group buy access cannot fulfill that requirement.</p>",
+          "sourceOffset": 11876
         },
         {
           "tag": "p",
           "text": "Third, interactive features like discussion forums, peer reviews, and assignment submissions may not function correctly because the shared account cannot represent multiple distinct participants.",
           "originalText": "Third, interactive features like discussion forums, peer reviews, and assignment submissions may not function correctly because the shared account cannot represent multiple distinct participants.",
-          "source": "<p>Third, interactive features like discussion forums, peer reviews, and assignment submissions may not function correctly because the shared account cannot represent multiple distinct participants.</p>"
+          "source": "<p>Third, interactive features like discussion forums, peer reviews, and assignment submissions may not function correctly because the shared account cannot represent multiple distinct participants.</p>",
+          "sourceOffset": 12008
         },
         {
           "tag": "p",
           "text": "For users whose primary goal is acquiring knowledge and practical skills rather than earning credentials, these limitations are acceptable trade-offs for the 60–80% cost reduction.",
           "originalText": "For users whose primary goal is acquiring knowledge and practical skills rather than earning credentials, these limitations are acceptable trade-offs for the 60–80% cost reduction.",
-          "source": "<p>For users whose primary goal is acquiring knowledge and practical skills rather than earning credentials, these limitations are acceptable trade-offs for the 60–80% cost reduction.</p>"
+          "source": "<p>For users whose primary goal is acquiring knowledge and practical skills rather than earning credentials, these limitations are acceptable trade-offs for the 60–80% cost reduction.</p>",
+          "sourceOffset": 12210
         },
         {
           "tag": "p",
           "text": "Education tools in SEO Group Buy Tools deliver the same instructional content, video quality, and course materials as individual subscriptions, making them an effective and affordable learning solution for self-directed learners who measure progress by skill development rather than certificate accumulation.",
           "originalText": "Education tools in SEO Group Buy Tools deliver the same instructional content, video quality, and course materials as individual subscriptions, making them an effective and affordable learning solution for self-directed learners who measure progress by skill development rather than certificate accumulation.",
-          "source": "<p>Education tools in SEO Group Buy Tools deliver the same instructional content, video quality, and course materials as individual subscriptions, making them an effective and affordable learning solution for self-directed learners who measure progress by skill development rather than certificate accumulation.</p>"
+          "source": "<p>Education tools in SEO Group Buy Tools deliver the same instructional content, video quality, and course materials as individual subscriptions, making them an effective and affordable learning solution for self-directed learners who measure progress by skill development rather than certificate accumulation.</p>",
+          "sourceOffset": 12397
         },
         {
           "tag": "th",
           "text": "Tool",
           "originalText": "Tool",
-          "source": "<th>Tool</th>"
+          "source": "<th>Tool</th>",
+          "sourceOffset": 13042
         },
         {
           "tag": "th",
           "text": "Content Focus",
           "originalText": "Content Focus",
-          "source": "<th>Content Focus</th>"
+          "source": "<th>Content Focus</th>",
+          "sourceOffset": 13055
         },
         {
           "tag": "th",
           "text": "Course Count",
           "originalText": "Course Count",
-          "source": "<th>Course Count</th>"
+          "source": "<th>Course Count</th>",
+          "sourceOffset": 13077
         },
         {
           "tag": "th",
           "text": "Official Price/Month",
           "originalText": "Official Price/Month",
-          "source": "<th>Official Price/Month</th>"
+          "source": "<th>Official Price/Month</th>",
+          "sourceOffset": 13098
         },
         {
           "tag": "th",
           "text": "Group Buy Price/Month",
           "originalText": "Group Buy Price/Month",
-          "source": "<th>Group Buy Price/Month</th>"
+          "source": "<th>Group Buy Price/Month</th>",
+          "sourceOffset": 13127
         },
         {
           "tag": "td",
           "text": "Udemy",
           "originalText": "Udemy",
-          "source": "<td>Udemy</td>"
+          "source": "<td>Udemy</td>",
+          "sourceOffset": 13181
         },
         {
           "tag": "td",
           "text": "Practical courses",
           "originalText": "Practical courses",
-          "source": "<td>Practical courses</td>"
+          "source": "<td>Practical courses</td>",
+          "sourceOffset": 13195
         },
         {
           "tag": "td",
           "text": "200,000+",
           "originalText": "200,000+",
-          "source": "<td>200,000+</td>"
+          "source": "<td>200,000+</td>",
+          "sourceOffset": 13221
         },
         {
           "tag": "td",
           "text": "$10–$20/course",
           "originalText": "$10–$20/course",
-          "source": "<td>$10–$20/course</td>"
+          "source": "<td>$10–$20/course</td>",
+          "sourceOffset": 13238
         },
         {
           "tag": "td",
           "text": "$3–$5",
           "originalText": "$3–$5",
-          "source": "<td>$3–$5</td>"
+          "source": "<td>$3–$5</td>",
+          "sourceOffset": 13261
         },
         {
           "tag": "td",
           "text": "Coursera",
           "originalText": "Coursera",
-          "source": "<td>Coursera</td>"
+          "source": "<td>Coursera</td>",
+          "sourceOffset": 13284
         },
         {
           "tag": "td",
           "text": "University programs",
           "originalText": "University programs",
-          "source": "<td>University programs</td>"
+          "source": "<td>University programs</td>",
+          "sourceOffset": 13301
         },
         {
           "tag": "td",
           "text": "7,000+",
           "originalText": "7,000+",
-          "source": "<td>7,000+</td>"
+          "source": "<td>7,000+</td>",
+          "sourceOffset": 13329
         },
         {
           "tag": "td",
           "text": "$39–$59",
           "originalText": "$39–$59",
-          "source": "<td>$39–$59</td>"
+          "source": "<td>$39–$59</td>",
+          "sourceOffset": 13344
         },
         {
           "tag": "td",
           "text": "$5–$10",
           "originalText": "$5–$10",
-          "source": "<td>$5–$10</td>"
+          "source": "<td>$5–$10</td>",
+          "sourceOffset": 13360
         },
         {
           "tag": "td",
           "text": "Skillshare",
           "originalText": "Skillshare",
-          "source": "<td>Skillshare</td>"
+          "source": "<td>Skillshare</td>",
+          "sourceOffset": 13384
         },
         {
           "tag": "td",
           "text": "Creative skills",
           "originalText": "Creative skills",
-          "source": "<td>Creative skills</td>"
+          "source": "<td>Creative skills</td>",
+          "sourceOffset": 13403
         },
         {
           "tag": "td",
           "text": "30,000+",
           "originalText": "30,000+",
-          "source": "<td>30,000+</td>"
+          "source": "<td>30,000+</td>",
+          "sourceOffset": 13427
         },
         {
           "tag": "td",
           "text": "$14",
           "originalText": "$14",
-          "source": "<td>$14</td>"
+          "source": "<td>$14</td>",
+          "sourceOffset": 13443
         },
         {
           "tag": "td",
           "text": "$3–$5",
           "originalText": "$3–$5",
-          "source": "<td>$3–$5</td>"
+          "source": "<td>$3–$5</td>",
+          "sourceOffset": 13455
         },
         {
           "tag": "td",
           "text": "LinkedIn Learning",
           "originalText": "LinkedIn Learning",
-          "source": "<td>LinkedIn Learning</td>"
+          "source": "<td>LinkedIn Learning</td>",
+          "sourceOffset": 13478
         },
         {
           "tag": "td",
           "text": "Professional dev",
           "originalText": "Professional dev",
-          "source": "<td>Professional dev</td>"
+          "source": "<td>Professional dev</td>",
+          "sourceOffset": 13504
         },
         {
           "tag": "td",
           "text": "16,000+",
           "originalText": "16,000+",
-          "source": "<td>16,000+</td>"
+          "source": "<td>16,000+</td>",
+          "sourceOffset": 13529
         },
         {
           "tag": "td",
           "text": "$30",
           "originalText": "$30",
-          "source": "<td>$30</td>"
+          "source": "<td>$30</td>",
+          "sourceOffset": 13545
         },
         {
           "tag": "td",
           "text": "$5–$8",
           "originalText": "$5–$8",
-          "source": "<td>$5–$8</td>"
+          "source": "<td>$5–$8</td>",
+          "sourceOffset": 13557
         },
         {
           "tag": "td",
           "text": "Scribd",
           "originalText": "Scribd",
-          "source": "<td>Scribd</td>"
+          "source": "<td>Scribd</td>",
+          "sourceOffset": 13580
         },
         {
           "tag": "td",
           "text": "Books/documents",
           "originalText": "Books/documents",
-          "source": "<td>Books/documents</td>"
+          "source": "<td>Books/documents</td>",
+          "sourceOffset": 13595
         },
         {
           "tag": "td",
           "text": "1M+ titles",
           "originalText": "1M+ titles",
-          "source": "<td>1M+ titles</td>"
+          "source": "<td>1M+ titles</td>",
+          "sourceOffset": 13619
         },
         {
           "tag": "td",
           "text": "$12",
           "originalText": "$12",
-          "source": "<td>$12</td>"
+          "source": "<td>$12</td>",
+          "sourceOffset": 13638
         },
         {
           "tag": "td",
           "text": "$3–$5",
           "originalText": "$3–$5",
-          "source": "<td>$3–$5</td>"
+          "source": "<td>$3–$5</td>",
+          "sourceOffset": 13650
         },
         {
           "tag": "td",
           "text": "Chegg",
           "originalText": "Chegg",
-          "source": "<td>Chegg</td>"
+          "source": "<td>Chegg</td>",
+          "sourceOffset": 13673
         },
         {
           "tag": "td",
           "text": "Academic help",
           "originalText": "Academic help",
-          "source": "<td>Academic help</td>"
+          "source": "<td>Academic help</td>",
+          "sourceOffset": 13687
         },
         {
           "tag": "td",
           "text": "Textbook solutions",
           "originalText": "Textbook solutions",
-          "source": "<td>Textbook solutions</td>"
+          "source": "<td>Textbook solutions</td>",
+          "sourceOffset": 13709
         },
         {
           "tag": "td",
           "text": "$15–$20",
           "originalText": "$15–$20",
-          "source": "<td>$15–$20</td>"
+          "source": "<td>$15–$20</td>",
+          "sourceOffset": 13736
         },
         {
           "tag": "td",
           "text": "$3–$8",
           "originalText": "$3–$8",
-          "source": "<td>$3–$8</td>"
+          "source": "<td>$3–$8</td>",
+          "sourceOffset": 13752
         },
         {
           "tag": "td",
           "text": "Factor",
           "originalText": "Factor",
-          "source": "<td>Factor</td>"
+          "source": "<td>Factor</td>",
+          "sourceOffset": 13775
         },
         {
           "tag": "td",
           "text": "Individual Subscription",
           "originalText": "Individual Subscription",
-          "source": "<td>Individual Subscription</td>"
+          "source": "<td>Individual Subscription</td>",
+          "sourceOffset": 13790
         },
         {
           "tag": "td",
           "text": "SEO Group Buy Tools",
           "originalText": "SEO Group Buy Tools",
-          "source": "<td>SEO Group Buy Tools</td>"
+          "source": "<td>SEO Group Buy Tools</td>",
+          "sourceOffset": 13822
         },
         {
           "tag": "td",
           "text": "Monthly cost",
           "originalText": "Monthly cost",
-          "source": "<td>Monthly cost</td>"
+          "source": "<td>Monthly cost</td>",
+          "sourceOffset": 13859
         },
         {
           "tag": "td",
           "text": "$10–$59",
           "originalText": "$10–$59",
-          "source": "<td>$10–$59</td>"
+          "source": "<td>$10–$59</td>",
+          "sourceOffset": 13880
         },
         {
           "tag": "td",
           "text": "$3–$10",
           "originalText": "$3–$10",
-          "source": "<td>$3–$10</td>"
+          "source": "<td>$3–$10</td>",
+          "sourceOffset": 13896
         },
         {
           "tag": "td",
           "text": "Content access",
           "originalText": "Content access",
-          "source": "<td>Content access</td>"
+          "source": "<td>Content access</td>",
+          "sourceOffset": 13920
         },
         {
           "tag": "td",
           "text": "Full",
           "originalText": "Full",
-          "source": "<td>Full</td>"
+          "source": "<td>Full</td>",
+          "sourceOffset": 13943
         },
         {
           "tag": "td",
           "text": "Full",
           "originalText": "Full",
-          "source": "<td>Full</td>"
+          "source": "<td>Full</td>",
+          "sourceOffset": 13956
         },
         {
           "tag": "td",
           "text": "Progress tracking",
           "originalText": "Progress tracking",
-          "source": "<td>Progress tracking</td>"
+          "source": "<td>Progress tracking</td>",
+          "sourceOffset": 13978
         },
         {
           "tag": "td",
           "text": "Personalized",
           "originalText": "Personalized",
-          "source": "<td>Personalized</td>"
+          "source": "<td>Personalized</td>",
+          "sourceOffset": 14004
         },
         {
           "tag": "td",
           "text": "Shared/unreliable",
           "originalText": "Shared/unreliable",
-          "source": "<td>Shared/unreliable</td>"
+          "source": "<td>Shared/unreliable</td>",
+          "sourceOffset": 14025
         },
         {
           "tag": "td",
           "text": "Certificates",
           "originalText": "Certificates",
-          "source": "<td>Certificates</td>"
+          "source": "<td>Certificates</td>",
+          "sourceOffset": 14060
         },
         {
           "tag": "td",
           "text": "Your name",
           "originalText": "Your name",
-          "source": "<td>Your name</td>"
+          "source": "<td>Your name</td>",
+          "sourceOffset": 14081
         },
         {
           "tag": "td",
           "text": "Account holder name",
           "originalText": "Account holder name",
-          "source": "<td>Account holder name</td>"
+          "source": "<td>Account holder name</td>",
+          "sourceOffset": 14099
         },
         {
           "tag": "td",
           "text": "Recommendations",
           "originalText": "Recommendations",
-          "source": "<td>Recommendations</td>"
+          "source": "<td>Recommendations</td>",
+          "sourceOffset": 14136
         },
         {
           "tag": "td",
           "text": "Personalized",
           "originalText": "Personalized",
-          "source": "<td>Personalized</td>"
+          "source": "<td>Personalized</td>",
+          "sourceOffset": 14160
         },
         {
           "tag": "td",
           "text": "Mixed",
           "originalText": "Mixed",
-          "source": "<td>Mixed</td>"
+          "source": "<td>Mixed</td>",
+          "sourceOffset": 14181
         },
         {
           "tag": "td",
           "text": "Reliability",
           "originalText": "Reliability",
-          "source": "<td>Reliability</td>"
+          "source": "<td>Reliability</td>",
+          "sourceOffset": 14204
         },
         {
           "tag": "td",
           "text": "100%",
           "originalText": "100%",
-          "source": "<td>100%</td>"
+          "source": "<td>100%</td>",
+          "sourceOffset": 14224
         },
         {
           "tag": "td",
           "text": "90–98%",
           "originalText": "90–98%",
-          "source": "<td>90–98%</td>"
+          "source": "<td>90–98%</td>",
+          "sourceOffset": 14237
         },
         {
           "tag": "td",
           "text": "Value for learning",
           "originalText": "Value for learning",
-          "source": "<td>Value for learning</td>"
+          "source": "<td>Value for learning</td>",
+          "sourceOffset": 14261
         },
         {
           "tag": "td",
           "text": "High",
           "originalText": "High",
-          "source": "<td>High</td>"
+          "source": "<td>High</td>",
+          "sourceOffset": 14288
         },
         {
           "tag": "td",
           "text": "High",
           "originalText": "High",
-          "source": "<td>High</td>"
+          "source": "<td>High</td>",
+          "sourceOffset": 14301
         },
         {
           "tag": "td",
           "text": "Value for credentials",
           "originalText": "Value for credentials",
-          "source": "<td>Value for credentials</td>"
+          "source": "<td>Value for credentials</td>",
+          "sourceOffset": 14323
         },
         {
           "tag": "td",
           "text": "High",
           "originalText": "High",
-          "source": "<td>High</td>"
+          "source": "<td>High</td>",
+          "sourceOffset": 14353
         },
         {
           "tag": "td",
           "text": "Low",
           "originalText": "Low",
-          "source": "<td>Low</td>"
+          "source": "<td>Low</td>",
+          "sourceOffset": 14366
         }
-      ]
+      ],
+      "sourceOffset": 10974
     },
     {
       "heading": "References",
@@ -1904,21 +2002,25 @@
           "tag": "li",
           "text": "Udemy course catalog — udemy.com — Verified June 2026",
           "originalText": "Udemy course catalog — udemy.com — Verified June 2026",
-          "source": "<li>Udemy course catalog — udemy.com — Verified June 2026</li>"
+          "source": "<li>Udemy course catalog — udemy.com — Verified June 2026</li>",
+          "sourceOffset": 14514
         },
         {
           "tag": "li",
           "text": "Coursera pricing — coursera.org/pricing — Verified June 2026",
           "originalText": "Coursera pricing — coursera.org/pricing — Verified June 2026",
-          "source": "<li>Coursera pricing — coursera.org/pricing — Verified June 2026</li>"
+          "source": "<li>Coursera pricing — coursera.org/pricing — Verified June 2026</li>",
+          "sourceOffset": 14576
         },
         {
           "tag": "li",
           "text": "Skillshare plans — skillshare.com/membership — Verified June 2026",
           "originalText": "Skillshare plans — skillshare.com/membership — Verified June 2026",
-          "source": "<li>Skillshare plans — skillshare.com/membership — Verified June 2026</li>"
+          "source": "<li>Skillshare plans — skillshare.com/membership — Verified June 2026</li>",
+          "sourceOffset": 14645
         }
-      ]
+      ],
+      "sourceOffset": 14467
     }
   ],
   "buttons": [
@@ -1927,154 +2029,176 @@
       "originalText": "What Is SEO Group Buy Tools?",
       "url": "../",
       "originalUrl": "../",
-      "source": "<a href=\"../\">What Is SEO Group Buy Tools?</a>"
+      "source": "<a href=\"../\">What Is SEO Group Buy Tools?</a>",
+      "sourceOffset": 6624
     },
     {
       "text": "SEO Tools Group Buy",
       "originalText": "SEO Tools Group Buy",
       "url": "../seo-tools/",
       "originalUrl": "../seo-tools/",
-      "source": "<a href=\"../seo-tools/\">SEO Tools Group Buy</a>"
+      "source": "<a href=\"../seo-tools/\">SEO Tools Group Buy</a>",
+      "sourceOffset": 6672
     },
     {
       "text": "Design Tools Group Buy",
       "originalText": "Design Tools Group Buy",
       "url": "../design-tools/",
       "originalUrl": "../design-tools/",
-      "source": "<a href=\"../design-tools/\">Design Tools Group Buy</a>"
+      "source": "<a href=\"../design-tools/\">Design Tools Group Buy</a>",
+      "sourceOffset": 6721
     },
     {
       "text": "SEO Tools Group Buy",
       "originalText": "SEO Tools Group Buy",
       "url": "../seo-tools/",
       "originalUrl": "../seo-tools/",
-      "source": "<a href=\"../seo-tools/\">SEO Tools Group Buy</a>"
+      "source": "<a href=\"../seo-tools/\">SEO Tools Group Buy</a>",
+      "sourceOffset": 8566
     },
     {
       "text": "What Is SEO Group Buy Tools?",
       "originalText": "What Is SEO Group Buy Tools?",
       "url": "../",
       "originalUrl": "../",
-      "source": "<a href=\"../\">What Is SEO Group Buy Tools?</a>"
+      "source": "<a href=\"../\">What Is SEO Group Buy Tools?</a>",
+      "sourceOffset": 8615
     },
     {
       "text": "AI Writing Tools Group Buy",
       "originalText": "AI Writing Tools Group Buy",
       "url": "../ai-writing-tools/",
       "originalUrl": "../ai-writing-tools/",
-      "source": "<a href=\"../ai-writing-tools/\">AI Writing Tools Group Buy</a>"
+      "source": "<a href=\"../ai-writing-tools/\">AI Writing Tools Group Buy</a>",
+      "sourceOffset": 8663
     },
     {
       "text": "Is SEO Group Buy Tools Safe?",
       "originalText": "Is SEO Group Buy Tools Safe?",
       "url": "../is-it-safe/",
       "originalUrl": "../is-it-safe/",
-      "source": "<a href=\"../is-it-safe/\">Is SEO Group Buy Tools Safe?</a>"
+      "source": "<a href=\"../is-it-safe/\">Is SEO Group Buy Tools Safe?</a>",
+      "sourceOffset": 10680
     },
     {
       "text": "How Does SEO Group Buy Tools Work?",
       "originalText": "How Does SEO Group Buy Tools Work?",
       "url": "../how-it-works/",
       "originalUrl": "../how-it-works/",
-      "source": "<a href=\"../how-it-works/\">How Does SEO Group Buy Tools Work?</a>"
+      "source": "<a href=\"../how-it-works/\">How Does SEO Group Buy Tools Work?</a>",
+      "sourceOffset": 10739
     },
     {
       "text": "SEO Group Buy Tools Pricing",
       "originalText": "SEO Group Buy Tools Pricing",
       "url": "../pricing/",
       "originalUrl": "../pricing/",
-      "source": "<a href=\"../pricing/\">SEO Group Buy Tools Pricing</a>"
+      "source": "<a href=\"../pricing/\">SEO Group Buy Tools Pricing</a>",
+      "sourceOffset": 10806
     },
     {
       "text": "Is SEO Group Buy Tools Safe?",
       "originalText": "Is SEO Group Buy Tools Safe?",
       "url": "../is-it-safe/",
       "originalUrl": "../is-it-safe/",
-      "source": "<a href=\"../is-it-safe/\">Is SEO Group Buy Tools Safe?</a>"
+      "source": "<a href=\"../is-it-safe/\">Is SEO Group Buy Tools Safe?</a>",
+      "sourceOffset": 12734
     },
     {
       "text": "How Does SEO Group Buy Tools Work?",
       "originalText": "How Does SEO Group Buy Tools Work?",
       "url": "../how-it-works/",
       "originalUrl": "../how-it-works/",
-      "source": "<a href=\"../how-it-works/\">How Does SEO Group Buy Tools Work?</a>"
+      "source": "<a href=\"../how-it-works/\">How Does SEO Group Buy Tools Work?</a>",
+      "sourceOffset": 12793
     },
     {
       "text": "Education & Learning Tools Group Buy",
       "originalText": "Education & Learning Tools Group Buy",
       "url": "./",
       "originalUrl": "./",
-      "source": "<a href=\"./\">Education &amp; Learning Tools Group Buy</a>"
+      "source": "<a href=\"./\">Education &amp; Learning Tools Group Buy</a>",
+      "sourceOffset": 12860
     },
     {
       "text": "💬 WhatsApp Us",
       "originalText": "💬 WhatsApp Us",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>",
+      "sourceOffset": 14891
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../pricing/",
       "originalUrl": "../pricing/",
-      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>"
+      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>",
+      "sourceOffset": 15132
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../seo-tools/semrush/",
       "originalUrl": "../seo-tools/semrush/",
-      "source": "<a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 16181
     },
     {
       "text": "Ahrefs Group Buy",
       "originalText": "Ahrefs Group Buy",
       "url": "../seo-tools/ahrefs/",
       "originalUrl": "../seo-tools/ahrefs/",
-      "source": "<a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 16243
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../seo-tools/moz-pro/",
       "originalUrl": "../seo-tools/moz-pro/",
-      "source": "<a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 16303
     },
     {
       "text": "Surfer SEO Group Buy",
       "originalText": "Surfer SEO Group Buy",
       "url": "../seo-tools/surfer-seo/",
       "originalUrl": "../seo-tools/surfer-seo/",
-      "source": "<a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>"
+      "source": "<a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
+      "sourceOffset": 16365
     },
     {
       "text": "Canva Pro Group Buy",
       "originalText": "Canva Pro Group Buy",
       "url": "../design-tools/canva-pro/",
       "originalUrl": "../design-tools/canva-pro/",
-      "source": "<a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a>"
+      "source": "<a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
+      "sourceOffset": 16433
     },
     {
       "text": "Quillbot Group Buy",
       "originalText": "Quillbot Group Buy",
       "url": "../ai-writing-tools/quillbot/",
       "originalUrl": "../ai-writing-tools/quillbot/",
-      "source": "<a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>"
+      "source": "<a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
+      "sourceOffset": 16502
     },
     {
       "text": "💬 WhatsApp Us Now",
       "originalText": "💬 WhatsApp Us Now",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>",
+      "sourceOffset": 17121
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../pricing/",
       "originalUrl": "../pricing/",
-      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>"
+      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>",
+      "sourceOffset": 17363
     }
   ],
   "mediaImages": [],
@@ -2087,49 +2211,57 @@
       "label": "🔍 SEO Tools",
       "url": "../seo-tools/",
       "originalUrl": "../seo-tools/",
-      "source": "<a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>"
+      "source": "<a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>",
+      "sourceOffset": 15284
     },
     {
       "label": "🎨 Design Tools",
       "url": "../design-tools/",
       "originalUrl": "../design-tools/",
-      "source": "<a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>"
+      "source": "<a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>",
+      "sourceOffset": 15393
     },
     {
       "label": "🕵️ Spy & Ad Intelligence",
       "url": "../spy-tools/",
       "originalUrl": "../spy-tools/",
-      "source": "<a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>"
+      "source": "<a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>",
+      "sourceOffset": 15507
     },
     {
       "label": "✍️ AI Writing Tools",
       "url": "../ai-writing-tools/",
       "originalUrl": "../ai-writing-tools/",
-      "source": "<a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>"
+      "source": "<a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>",
+      "sourceOffset": 15628
     },
     {
       "label": "🛒 E-commerce Tools",
       "url": "../ecommerce-tools/",
       "originalUrl": "../ecommerce-tools/",
-      "source": "<a href=\"../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>"
+      "source": "<a href=\"../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>",
+      "sourceOffset": 15750
     },
     {
       "label": "📱 Social Media Tools",
       "url": "../social-media-tools/",
       "originalUrl": "../social-media-tools/",
-      "source": "<a href=\"../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>"
+      "source": "<a href=\"../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>",
+      "sourceOffset": 15871
     },
     {
       "label": "🎓 Education Tools",
       "url": "./",
       "originalUrl": "./",
-      "source": "<a href=\"./\"><span class=\"cat-icon\">🎓</span> Education Tools</a>"
+      "source": "<a href=\"./\"><span class=\"cat-icon\">🎓</span> Education Tools</a>",
+      "sourceOffset": 15997
     },
     {
       "label": "Card",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>",
+      "sourceOffset": 19898
     }
   ],
   "outsideGroups": [
@@ -2137,7 +2269,8 @@
       "heading": "Education & Learning Tools Group Buy",
       "originalHeading": "Education & Learning Tools Group Buy",
       "headingSource": "<h1>Education &amp; Learning Tools Group Buy</h1>",
-      "items": []
+      "items": [],
+      "sourceOffset": 4032
     },
     {
       "heading": "Get Started Today",
@@ -2148,9 +2281,11 @@
           "text": "Access 50+ premium SEO tools from $5/month",
           "originalText": "Access 50+ premium SEO tools from $5/month",
           "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 14824
         }
-      ]
+      ],
+      "sourceOffset": 14797
     },
     {
       "heading": "Tool Categories",
@@ -2161,45 +2296,53 @@
           "text": "🔍 SEO Tools 12",
           "originalText": "🔍 SEO Tools 12",
           "source": "<li><a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15280
         },
         {
           "text": "🎨 Design Tools 5",
           "originalText": "🎨 Design Tools 5",
           "source": "<li><a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15389
         },
         {
           "text": "🕵️ Spy & Ad Intelligence 5",
           "originalText": "🕵️ Spy & Ad Intelligence 5",
           "source": "<li><a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15503
         },
         {
           "text": "✍️ AI Writing Tools 4",
           "originalText": "✍️ AI Writing Tools 4",
           "source": "<li><a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15624
         },
         {
           "text": "🛒 E-commerce Tools 4",
           "originalText": "🛒 E-commerce Tools 4",
           "source": "<li><a href=\"../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15746
         },
         {
           "text": "📱 Social Media Tools 3",
           "originalText": "📱 Social Media Tools 3",
           "source": "<li><a href=\"../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15867
         },
         {
           "text": "🎓 Education Tools 3",
           "originalText": "🎓 Education Tools 3",
           "source": "<li><a href=\"./\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 15993
         }
-      ]
+      ],
+      "sourceOffset": 15233
     },
     {
       "heading": "Popular Tools",
@@ -2210,39 +2353,46 @@
           "text": "SEMrush Group Buy",
           "originalText": "SEMrush Group Buy",
           "source": "<li><a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16177
         },
         {
           "text": "Ahrefs Group Buy",
           "originalText": "Ahrefs Group Buy",
           "source": "<li><a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16239
         },
         {
           "text": "Moz Pro Group Buy",
           "originalText": "Moz Pro Group Buy",
           "source": "<li><a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16299
         },
         {
           "text": "Surfer SEO Group Buy",
           "originalText": "Surfer SEO Group Buy",
           "source": "<li><a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16361
         },
         {
           "text": "Canva Pro Group Buy",
           "originalText": "Canva Pro Group Buy",
           "source": "<li><a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16429
         },
         {
           "text": "Quillbot Group Buy",
           "originalText": "Quillbot Group Buy",
           "source": "<li><a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16498
         }
-      ]
+      ],
+      "sourceOffset": 16131
     },
     {
       "heading": "Why Choose Us",
@@ -2253,33 +2403,39 @@
           "text": "✓ 50+ Premium Tools",
           "originalText": "✓ 50+ Premium Tools",
           "source": "<li>✓ 50+ Premium Tools</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16664
         },
         {
           "text": "✓ 90%+ Uptime Guaranteed",
           "originalText": "✓ 90%+ Uptime Guaranteed",
           "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16693
         },
         {
           "text": "✓ Instant Access Setup",
           "originalText": "✓ Instant Access Setup",
           "source": "<li>✓ Instant Access Setup</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16727
         },
         {
           "text": "✓ 24/7 Support",
           "originalText": "✓ 24/7 Support",
           "source": "<li>✓ 24/7 Support</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16759
         },
         {
           "text": "✓ Secure Payments",
           "originalText": "✓ Secure Payments",
           "source": "<li>✓ Secure Payments</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 16783
         }
-      ]
+      ],
+      "sourceOffset": 16617
     },
     {
       "heading": "Ready to Get Started?",
@@ -2290,9 +2446,11 @@
           "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 16951
         }
-      ]
+      ],
+      "sourceOffset": 16920
     }
   ],
   "labelTexts": []

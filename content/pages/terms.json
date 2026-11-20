@@ -911,33 +911,39 @@
           "tag": "p",
           "text": "These Terms of Service govern your use of SEO Group Buy Tools and the shared-access subscription services we provide. By signing up for any plan, you agree to these terms in full.",
           "originalText": "These Terms of Service govern your use of SEO Group Buy Tools and the shared-access subscription services we provide. By signing up for any plan, you agree to these terms in full.",
-          "source": "<p>These Terms of Service govern your use of SEO Group Buy Tools and the shared-access subscription services we provide. By signing up for any plan, you agree to these terms in full.</p>"
+          "source": "<p>These Terms of Service govern your use of SEO Group Buy Tools and the shared-access subscription services we provide. By signing up for any plan, you agree to these terms in full.</p>",
+          "sourceOffset": 3684
         },
         {
           "tag": "p",
           "text": "SEO Group Buy Tools provides shared-access subscriptions to premium SEO and marketing tools. We are an independent service provider and are not affiliated with, endorsed by, or sponsored by any of the tool providers whose products we offer access to.",
           "originalText": "SEO Group Buy Tools provides shared-access subscriptions to premium SEO and marketing tools. We are an independent service provider and are not affiliated with, endorsed by, or sponsored by any of the tool providers whose products we offer access to.",
-          "source": "<p>SEO Group Buy Tools provides shared-access subscriptions to premium SEO and marketing tools. We are an independent service provider and are not affiliated with, endorsed by, or sponsored by any of the tool providers whose products we offer access to.</p>"
+          "source": "<p>SEO Group Buy Tools provides shared-access subscriptions to premium SEO and marketing tools. We are an independent service provider and are not affiliated with, endorsed by, or sponsored by any of the tool providers whose products we offer access to.</p>",
+          "sourceOffset": 3870
         },
         {
           "tag": "p",
           "text": "We provide shared-access subscriptions to premium SEO, design, and marketing tools at significantly reduced costs compared to individual official subscriptions.",
           "originalText": "We provide shared-access subscriptions to premium SEO, design, and marketing tools at significantly reduced costs compared to individual official subscriptions.",
-          "source": "<p class=\"answer-snippet\">We provide shared-access subscriptions to premium SEO, design, and marketing tools at significantly reduced costs compared to individual official subscriptions.</p>"
+          "source": "<p class=\"answer-snippet\">We provide shared-access subscriptions to premium SEO, design, and marketing tools at significantly reduced costs compared to individual official subscriptions.</p>",
+          "sourceOffset": 4230
         },
         {
           "tag": "p",
           "text": "Our service includes access to a curated catalog of 50+ premium tools across SEO, design, ad intelligence, AI writing, e-commerce, social media, and education categories. Access is provided via browser extension, remote desktop connection, or team invitation, depending on the tool and plan tier.",
           "originalText": "Our service includes access to a curated catalog of 50+ premium tools across SEO, design, ad intelligence, AI writing, e-commerce, social media, and education categories. Access is provided via browser extension, remote desktop connection, or team invitation, depending on the tool and plan tier.",
-          "source": "<p>Our service includes access to a curated catalog of 50+ premium tools across SEO, design, ad intelligence, AI writing, e-commerce, social media, and education categories. Access is provided via browser extension, remote desktop connection, or team invitation, depending on the tool and plan tier.</p>"
+          "source": "<p>Our service includes access to a curated catalog of 50+ premium tools across SEO, design, ad intelligence, AI writing, e-commerce, social media, and education categories. Access is provided via browser extension, remote desktop connection, or team invitation, depending on the tool and plan tier.</p>",
+          "sourceOffset": 4420
         },
         {
           "tag": "p",
           "text": "We handle account management, replacement of suspended accounts, technical support, and billing. We do not own or control the underlying tools — we simply provide shared access to subscriptions we purchase.",
           "originalText": "We handle account management, replacement of suspended accounts, technical support, and billing. We do not own or control the underlying tools — we simply provide shared access to subscriptions we purchase.",
-          "source": "<p>We handle account management, replacement of suspended accounts, technical support, and billing. We do not own or control the underlying tools — we simply provide shared access to subscriptions we purchase.</p>"
+          "source": "<p>We handle account management, replacement of suspended accounts, technical support, and billing. We do not own or control the underlying tools — we simply provide shared access to subscriptions we purchase.</p>",
+          "sourceOffset": 4723
         }
-      ]
+      ],
+      "sourceOffset": 4193
     },
     {
       "heading": "What are your responsibilities as a user?",
@@ -948,27 +954,32 @@
           "tag": "p",
           "text": "You must use shared tools responsibly, avoid storing sensitive client data, respect other users on shared accounts, and not abuse or resell access.",
           "originalText": "You must use shared tools responsibly, avoid storing sensitive client data, respect other users on shared accounts, and not abuse or resell access.",
-          "source": "<p class=\"answer-snippet\">You must use shared tools responsibly, avoid storing sensitive client data, respect other users on shared accounts, and not abuse or resell access.</p>"
+          "source": "<p class=\"answer-snippet\">You must use shared tools responsibly, avoid storing sensitive client data, respect other users on shared accounts, and not abuse or resell access.</p>",
+          "sourceOffset": 5075
         },
         {
           "tag": "p",
           "text": "You agree to use the shared-access tools for legitimate personal or business purposes only. Do not store sensitive client data, financial information, or confidential business intelligence in shared tools, as other users on the same account may have visibility into your activity.",
           "originalText": "You agree to use the shared-access tools for legitimate personal or business purposes only. Do not store sensitive client data, financial information, or confidential business intelligence in shared tools, as other users on the same account may have visibility into your activity.",
-          "source": "<p>You agree to use the shared-access tools for legitimate personal or business purposes only. Do not store sensitive client data, financial information, or confidential business intelligence in shared tools, as other users on the same account may have visibility into your activity.</p>"
+          "source": "<p>You agree to use the shared-access tools for legitimate personal or business purposes only. Do not store sensitive client data, financial information, or confidential business intelligence in shared tools, as other users on the same account may have visibility into your activity.</p>",
+          "sourceOffset": 5252
         },
         {
           "tag": "p",
           "text": "Do not share your access credentials with others, attempt to bypass concurrent session limits, or resell access to the tools. Such activities will result in immediate account termination without refund.",
           "originalText": "Do not share your access credentials with others, attempt to bypass concurrent session limits, or resell access to the tools. Such activities will result in immediate account termination without refund.",
-          "source": "<p>Do not share your access credentials with others, attempt to bypass concurrent session limits, or resell access to the tools. Such activities will result in immediate account termination without refund.</p>"
+          "source": "<p>Do not share your access credentials with others, attempt to bypass concurrent session limits, or resell access to the tools. Such activities will result in immediate account termination without refund.</p>",
+          "sourceOffset": 5539
         },
         {
           "tag": "p",
           "text": "You acknowledge that shared-access subscriptions may experience occasional downtime when tool providers detect and suspend shared accounts. We work to minimize this downtime but cannot guarantee 100% uptime.",
           "originalText": "You acknowledge that shared-access subscriptions may experience occasional downtime when tool providers detect and suspend shared accounts. We work to minimize this downtime but cannot guarantee 100% uptime.",
-          "source": "<p>You acknowledge that shared-access subscriptions may experience occasional downtime when tool providers detect and suspend shared accounts. We work to minimize this downtime but cannot guarantee 100% uptime.</p>"
+          "source": "<p>You acknowledge that shared-access subscriptions may experience occasional downtime when tool providers detect and suspend shared accounts. We work to minimize this downtime but cannot guarantee 100% uptime.</p>",
+          "sourceOffset": 5748
         }
-      ]
+      ],
+      "sourceOffset": 5025
     },
     {
       "heading": "What is our refund policy?",
@@ -979,21 +990,25 @@
           "tag": "p",
           "text": "We offer a 7-day money-back guarantee on all new subscriptions. Refunds are processed within 5-7 business days via the original payment method.",
           "originalText": "We offer a 7-day money-back guarantee on all new subscriptions. Refunds are processed within 5-7 business days via the original payment method.",
-          "source": "<p class=\"answer-snippet\">We offer a 7-day money-back guarantee on all new subscriptions. Refunds are processed within 5-7 business days via the original payment method.</p>"
+          "source": "<p class=\"answer-snippet\">We offer a 7-day money-back guarantee on all new subscriptions. Refunds are processed within 5-7 business days via the original payment method.</p>",
+          "sourceOffset": 6071
         },
         {
           "tag": "p",
           "text": "If you are not satisfied with our service within the first 7 days of your subscription, contact us via WhatsApp or email to request a full refund. After the 7-day window, refunds are evaluated on a case-by-case basis.",
           "originalText": "If you are not satisfied with our service within the first 7 days of your subscription, contact us via WhatsApp or email to request a full refund. After the 7-day window, refunds are evaluated on a case-by-case basis.",
-          "source": "<p>If you are not satisfied with our service within the first 7 days of your subscription, contact us via WhatsApp or email to request a full refund. After the 7-day window, refunds are evaluated on a case-by-case basis.</p>"
+          "source": "<p>If you are not satisfied with our service within the first 7 days of your subscription, contact us via WhatsApp or email to request a full refund. After the 7-day window, refunds are evaluated on a case-by-case basis.</p>",
+          "sourceOffset": 6244
         },
         {
           "tag": "p",
           "text": "Refunds are not available for accounts terminated due to violations of these Terms of Service, including credential sharing, abuse, or fraudulent activity.",
           "originalText": "Refunds are not available for accounts terminated due to violations of these Terms of Service, including credential sharing, abuse, or fraudulent activity.",
-          "source": "<p>Refunds are not available for accounts terminated due to violations of these Terms of Service, including credential sharing, abuse, or fraudulent activity.</p>"
+          "source": "<p>Refunds are not available for accounts terminated due to violations of these Terms of Service, including credential sharing, abuse, or fraudulent activity.</p>",
+          "sourceOffset": 6468
         }
-      ]
+      ],
+      "sourceOffset": 6036
     },
     {
       "heading": "How can subscriptions be terminated?",
@@ -1004,21 +1019,25 @@
           "tag": "p",
           "text": "Either party may terminate a subscription at any time. Users can cancel anytime via WhatsApp; we may terminate accounts for violations of these Terms.",
           "originalText": "Either party may terminate a subscription at any time. Users can cancel anytime via WhatsApp; we may terminate accounts for violations of these Terms.",
-          "source": "<p class=\"answer-snippet\">Either party may terminate a subscription at any time. Users can cancel anytime via WhatsApp; we may terminate accounts for violations of these Terms.</p>"
+          "source": "<p class=\"answer-snippet\">Either party may terminate a subscription at any time. Users can cancel anytime via WhatsApp; we may terminate accounts for violations of these Terms.</p>",
+          "sourceOffset": 6759
         },
         {
           "tag": "p",
           "text": "You may cancel your subscription at any time by contacting us via WhatsApp or email. Cancellation takes effect at the end of your current billing period — you retain access until then.",
           "originalText": "You may cancel your subscription at any time by contacting us via WhatsApp or email. Cancellation takes effect at the end of your current billing period — you retain access until then.",
-          "source": "<p>You may cancel your subscription at any time by contacting us via WhatsApp or email. Cancellation takes effect at the end of your current billing period — you retain access until then.</p>"
+          "source": "<p>You may cancel your subscription at any time by contacting us via WhatsApp or email. Cancellation takes effect at the end of your current billing period — you retain access until then.</p>",
+          "sourceOffset": 6939
         },
         {
           "tag": "p",
           "text": "We reserve the right to terminate or suspend accounts that violate these Terms, engage in abusive behavior, or fail to make timely payments. In such cases, refunds are not provided.",
           "originalText": "We reserve the right to terminate or suspend accounts that violate these Terms, engage in abusive behavior, or fail to make timely payments. In such cases, refunds are not provided.",
-          "source": "<p>We reserve the right to terminate or suspend accounts that violate these Terms, engage in abusive behavior, or fail to make timely payments. In such cases, refunds are not provided.</p>"
+          "source": "<p>We reserve the right to terminate or suspend accounts that violate these Terms, engage in abusive behavior, or fail to make timely payments. In such cases, refunds are not provided.</p>",
+          "sourceOffset": 7130
         }
-      ]
+      ],
+      "sourceOffset": 6714
     }
   ],
   "buttons": [
@@ -1027,70 +1046,80 @@
       "originalText": "💬 WhatsApp Us",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary btn-block\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us</a>",
+      "sourceOffset": 7485
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../pricing/",
       "originalUrl": "../pricing/",
-      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>"
+      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-block\">View Pricing</a>",
+      "sourceOffset": 7726
     },
     {
       "text": "SEMrush Group Buy",
       "originalText": "SEMrush Group Buy",
       "url": "../seo-tools/semrush/",
       "originalUrl": "../seo-tools/semrush/",
-      "source": "<a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a>"
+      "source": "<a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a>",
+      "sourceOffset": 8792
     },
     {
       "text": "Ahrefs Group Buy",
       "originalText": "Ahrefs Group Buy",
       "url": "../seo-tools/ahrefs/",
       "originalUrl": "../seo-tools/ahrefs/",
-      "source": "<a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a>"
+      "source": "<a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
+      "sourceOffset": 8854
     },
     {
       "text": "Moz Pro Group Buy",
       "originalText": "Moz Pro Group Buy",
       "url": "../seo-tools/moz-pro/",
       "originalUrl": "../seo-tools/moz-pro/",
-      "source": "<a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a>"
+      "source": "<a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
+      "sourceOffset": 8914
     },
     {
       "text": "Surfer SEO Group Buy",
       "originalText": "Surfer SEO Group Buy",
       "url": "../seo-tools/surfer-seo/",
       "originalUrl": "../seo-tools/surfer-seo/",
-      "source": "<a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>"
+      "source": "<a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
+      "sourceOffset": 8976
     },
     {
       "text": "Canva Pro Group Buy",
       "originalText": "Canva Pro Group Buy",
       "url": "../design-tools/canva-pro/",
       "originalUrl": "../design-tools/canva-pro/",
-      "source": "<a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a>"
+      "source": "<a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
+      "sourceOffset": 9044
     },
     {
       "text": "Quillbot Group Buy",
       "originalText": "Quillbot Group Buy",
       "url": "../ai-writing-tools/quillbot/",
       "originalUrl": "../ai-writing-tools/quillbot/",
-      "source": "<a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>"
+      "source": "<a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
+      "sourceOffset": 9113
     },
     {
       "text": "💬 WhatsApp Us Now",
       "originalText": "💬 WhatsApp Us Now",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>",
+      "sourceOffset": 9732
     },
     {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../pricing/",
       "originalUrl": "../pricing/",
-      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>"
+      "source": "<a href=\"../pricing/\" class=\"btn btn-outline btn-lg\">View Pricing</a>",
+      "sourceOffset": 9974
     }
   ],
   "mediaImages": [],
@@ -1103,49 +1132,57 @@
       "label": "🔍 SEO Tools",
       "url": "../seo-tools/",
       "originalUrl": "../seo-tools/",
-      "source": "<a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>"
+      "source": "<a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a>",
+      "sourceOffset": 7878
     },
     {
       "label": "🎨 Design Tools",
       "url": "../design-tools/",
       "originalUrl": "../design-tools/",
-      "source": "<a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>"
+      "source": "<a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a>",
+      "sourceOffset": 7987
     },
     {
       "label": "🕵️ Spy & Ad Intelligence",
       "url": "../spy-tools/",
       "originalUrl": "../spy-tools/",
-      "source": "<a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>"
+      "source": "<a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a>",
+      "sourceOffset": 8101
     },
     {
       "label": "✍️ AI Writing Tools",
       "url": "../ai-writing-tools/",
       "originalUrl": "../ai-writing-tools/",
-      "source": "<a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>"
+      "source": "<a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a>",
+      "sourceOffset": 8222
     },
     {
       "label": "🛒 E-commerce Tools",
       "url": "../ecommerce-tools/",
       "originalUrl": "../ecommerce-tools/",
-      "source": "<a href=\"../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>"
+      "source": "<a href=\"../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a>",
+      "sourceOffset": 8344
     },
     {
       "label": "📱 Social Media Tools",
       "url": "../social-media-tools/",
       "originalUrl": "../social-media-tools/",
-      "source": "<a href=\"../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>"
+      "source": "<a href=\"../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a>",
+      "sourceOffset": 8465
     },
     {
       "label": "🎓 Education Tools",
       "url": "../education-tools/",
       "originalUrl": "../education-tools/",
-      "source": "<a href=\"../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>"
+      "source": "<a href=\"../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a>",
+      "sourceOffset": 8591
     },
     {
       "label": "Card",
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
-      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>"
+      "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"> <svg viewBox=\"0 0 24 24\" width=\"32\" height=\"32\" fill=\"currentColor\"> <path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.149-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z\"/> </svg> </a>",
+      "sourceOffset": 12502
     }
   ],
   "outsideGroups": [
@@ -1153,7 +1190,8 @@
       "heading": "Terms of Service",
       "originalHeading": "Terms of Service",
       "headingSource": "<h1>Terms of Service</h1>",
-      "items": []
+      "items": [],
+      "sourceOffset": 3539
     },
     {
       "heading": "Get Started Today",
@@ -1164,9 +1202,11 @@
           "text": "Access 50+ premium SEO tools from $5/month",
           "originalText": "Access 50+ premium SEO tools from $5/month",
           "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 7418
         }
-      ]
+      ],
+      "sourceOffset": 7391
     },
     {
       "heading": "Tool Categories",
@@ -1177,45 +1217,53 @@
           "text": "🔍 SEO Tools 12",
           "originalText": "🔍 SEO Tools 12",
           "source": "<li><a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 7874
         },
         {
           "text": "🎨 Design Tools 5",
           "originalText": "🎨 Design Tools 5",
           "source": "<li><a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 7983
         },
         {
           "text": "🕵️ Spy & Ad Intelligence 5",
           "originalText": "🕵️ Spy & Ad Intelligence 5",
           "source": "<li><a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 8097
         },
         {
           "text": "✍️ AI Writing Tools 4",
           "originalText": "✍️ AI Writing Tools 4",
           "source": "<li><a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 8218
         },
         {
           "text": "🛒 E-commerce Tools 4",
           "originalText": "🛒 E-commerce Tools 4",
           "source": "<li><a href=\"../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 8340
         },
         {
           "text": "📱 Social Media Tools 3",
           "originalText": "📱 Social Media Tools 3",
           "source": "<li><a href=\"../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 8461
         },
         {
           "text": "🎓 Education Tools 3",
           "originalText": "🎓 Education Tools 3",
           "source": "<li><a href=\"../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 8587
         }
-      ]
+      ],
+      "sourceOffset": 7827
     },
     {
       "heading": "Popular Tools",
@@ -1226,39 +1274,46 @@
           "text": "SEMrush Group Buy",
           "originalText": "SEMrush Group Buy",
           "source": "<li><a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 8788
         },
         {
           "text": "Ahrefs Group Buy",
           "originalText": "Ahrefs Group Buy",
           "source": "<li><a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 8850
         },
         {
           "text": "Moz Pro Group Buy",
           "originalText": "Moz Pro Group Buy",
           "source": "<li><a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 8910
         },
         {
           "text": "Surfer SEO Group Buy",
           "originalText": "Surfer SEO Group Buy",
           "source": "<li><a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 8972
         },
         {
           "text": "Canva Pro Group Buy",
           "originalText": "Canva Pro Group Buy",
           "source": "<li><a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 9040
         },
         {
           "text": "Quillbot Group Buy",
           "originalText": "Quillbot Group Buy",
           "source": "<li><a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 9109
         }
-      ]
+      ],
+      "sourceOffset": 8742
     },
     {
       "heading": "Why Choose Us",
@@ -1269,33 +1324,39 @@
           "text": "✓ 50+ Premium Tools",
           "originalText": "✓ 50+ Premium Tools",
           "source": "<li>✓ 50+ Premium Tools</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 9275
         },
         {
           "text": "✓ 90%+ Uptime Guaranteed",
           "originalText": "✓ 90%+ Uptime Guaranteed",
           "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 9304
         },
         {
           "text": "✓ Instant Access Setup",
           "originalText": "✓ Instant Access Setup",
           "source": "<li>✓ Instant Access Setup</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 9338
         },
         {
           "text": "✓ 24/7 Support",
           "originalText": "✓ 24/7 Support",
           "source": "<li>✓ 24/7 Support</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 9370
         },
         {
           "text": "✓ Secure Payments",
           "originalText": "✓ Secure Payments",
           "source": "<li>✓ Secure Payments</li>",
-          "tag": "li"
+          "tag": "li",
+          "sourceOffset": 9394
         }
-      ]
+      ],
+      "sourceOffset": 9228
     },
     {
       "heading": "Ready to Get Started?",
@@ -1306,9 +1367,11 @@
           "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
           "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
-          "tag": "p"
+          "tag": "p",
+          "sourceOffset": 9562
         }
-      ]
+      ],
+      "sourceOffset": 9531
     }
   ],
   "labelTexts": []
