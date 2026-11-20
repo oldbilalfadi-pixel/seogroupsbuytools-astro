@@ -136,3 +136,30 @@ content:
       - { name: siteUrl, label: Website URL, type: string }
       - { name: siteName, label: Website name, type: string }
       - { name: previewNoindex, label: Hide preview from Google, type: boolean }
+      - name: siteChrome
+        label: Header and footer
+        type: object
+        fields:
+          - { name: headerLogo, label: Header logo, type: image, options: { media: uploads } }
+          - name: headerLinks
+            label: Main menu
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{text}"
+            fields:
+              - { name: text, label: Menu label, type: string }
+              - { name: url, label: Menu link, type: string }
+          - { name: footerLogo, label: Footer logo, type: image, options: { media: uploads } }
+          - { name: footerText, label: Footer description, type: text }
+          - name: footerLinks
+            label: Footer links
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{text}"
+            fields:
+              - { name: text, label: Link text, type: string }
+              - { name: url, label: Destination, type: string }
