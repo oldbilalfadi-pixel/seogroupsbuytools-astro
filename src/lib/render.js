@@ -74,6 +74,11 @@ export function renderPage(page,settings={}) {
     if(link.text!==link.originalText) updated=innerReplace(updated,link.text);
     html=replaceOriginal(html,link.source,updated);
   }
+  for(const card of page.cardLinks||[]) {
+    if (!card.source || card.url===card.originalUrl) continue;
+    const edited=card.source.replace(/href="[^"]*"/i,'href="'+attr(card.url)+'"');
+    html=replaceOriginal(html,card.source,edited);
+  }
   for(const image of page.mediaImages||[]) {
     if (!image.source || (image.src===image.originalSrc && image.alt===image.originalAlt)) continue;
     let updated=image.source;
