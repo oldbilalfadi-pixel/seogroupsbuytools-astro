@@ -1,0 +1,44 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import renderPage from '../../lib/render.js';
+
+export function getStaticPaths() {
+  const dir=path.resolve(process.cwd(),'content/posts');
+  if(!fs.existsSync(dir))return [];
+  const home=JSON.parse(fs.readFileSync('content/homepage.json','utf8'));
+  const settings=JSON.parse(fs.readFileSync('content/settings.json','utf8'));
+  return fs.readdirSync(dir).filter(name=>name.endsWith('.json')).map(name=>({
+    params:{slug:name.slice(0,-5)},
+    props:{post:JSON.parse(fs.readFileSync(path.join(dir,name),'utf8')),home,settings,slug:name.slice(0,-5)}
+  }));
+}
+const {post,home,settings,slug}=Astro.props;
+const escape=s=>String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const escapeAttr=s=>escape(s).replace(/"/g,'&quot;');
+const title=post.seoTitle||post.title||'Blog post';
+const description=post.seoDescription||post.excerpt||'';
+const canonical=(settings.siteUrl||'https://seogroupsbuytools.com').replace(/\/$/,'')+'/blog/'+encodeURIComponent(slug)+'/';
+const original=home.html;
+let head=original.slice(0,original.indexOf('</head>')+7);
+head=head.replace(/<title>[\s\S]*?<\/title>/i,'<title>'+escape(title)+'</title>')
+  .replace(/(<meta\s+name="description"\s+content=")[^"]*(")/i,(_,a,b)=>a+escapeAttr(description)+b)
+  .replace(/(<link\s+rel="canonical"\s+href=")[^"]*(")/i,(_,a,b)=>a+escapeAttr(canonical)+b)
+  .replace(/(<meta\s+property="og:title"\s+content=")[^"]*(")/i,(_,a,b)=>a+escapeAttr(title)+b)
+  .replace(/(<meta\s+property="og:description"\s+content=")[^"]*(")/i,(_,a,b)=>a+escapeAttr(description)+b)
+  .replace(/(<meta\s+property="og:url"\s+content=")[^"]*(")/i,(_,a,b)=>a+escapeAttr(canonical)+b)
+  .replace(/(<meta\s+name="twitter:title"\s+content=")[^"]*(")/i,(_,a,b)=>a+escapeAttr(title)+b)
+  .replace(/(<meta\s+name="twitter:description"\s+content=")[^"]*(")/i,(_,a,b)=>a+escapeAttr(description)+b)
+  .replace('</head>','<base href="/">\n</head>');
+const header=original.match(/<header\b[^>]*>[\s\S]*?<\/header>/i)?.[0]||'';
+const footer=original.match(/<footer\b[^>]*>[\s\S]*?<\/footer>/i)?.[0]||'';
+const mainScript=original.match(/<script\s+src="assets\/main\.js"[^>]*><\/script>/i)?.[0]||'';
+const feature=post.featuredImage?'<img src="'+escapeAttr(post.featuredImage)+'" alt="'+escapeAttr(post.title)+'" loading="eager" style="width:100%;max-height:450px;object-fit:cover;border-radius:12px;margin-bottom:28px">':'';
+const content=String(post.body||'').replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,'');
+const article='<section class="page-header-section"><div class="container"><h1>'+escape(post.title)+'</h1>'+(post.excerpt?'<p>'+escape(post.excerpt)+'</p>':'')+'</div></section>'
+  +'<div class="container"><div class="content-layout"><main class="main-content content-article" role="main"><article class="content-section">'
+  +feature+content+'</article></main></div></div>';
+const html=head+'<body>'+header+article+footer+mainScript+'</body></html>';
+const renderedHtml=renderPage({html,route:'/blog/'+slug+'/'},settings);
+---
+<Fragment set:html={renderedHtml} />
