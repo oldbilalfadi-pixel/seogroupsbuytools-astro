@@ -26,6 +26,12 @@ content:
           - { name: headingHighlight, label: Highlighted heading, type: string }
           - { name: headingAfter, label: Heading ending, type: string }
           - { name: description, label: Description, type: text }
+      - name: editorContent
+        label: Website text
+        type: object
+        list: true
+        fields:
+          - { name: text, label: Text, type: text }
       - name: links
         label: Buttons and links
         type: object
@@ -49,6 +55,12 @@ content:
     view: { primary: title, fields: [title, route] }
     operations: { rename: false, delete: false }
     fields: &page_fields
+      - name: editorContent
+        label: Website text
+        type: object
+        list: true
+        fields:
+          - { name: text, label: Text, type: text }
       - { name: title, label: Product title, type: string }
       - { name: description, label: Product description, type: text }
       - { name: seoTitle, label: SEO title, type: string }
