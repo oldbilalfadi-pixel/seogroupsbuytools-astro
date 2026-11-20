@@ -13,45 +13,53 @@ content:
     type: file
     path: content/homepage.json
     format: json
-    fields: &fields
+    fields:
+      - { name: title, label: Page title, type: string }
+      - { name: description, label: Page description, type: text }
       - { name: seoTitle, label: SEO title, type: string }
       - { name: seoDescription, label: SEO description, type: text }
       - name: hero
-        label: Homepage hero
+        label: Hero content
         type: object
         fields:
           - { name: headingBefore, label: Heading start, type: string }
-          - { name: headingHighlight, label: Highlighted words, type: string }
-          - { name: headingAfter, label: Heading end, type: string }
-          - { name: description, label: Hero description, type: text }
+          - { name: headingHighlight, label: Highlighted heading, type: string }
+          - { name: headingAfter, label: Heading ending, type: string }
+          - { name: description, label: Description, type: text }
       - name: sections
-        label: Editable content sections
+        label: Page content
         type: object
         list: true
         fields:
-          - { name: key, label: Section ID, type: string, readonly: true }
-          - { name: label, label: Section name, type: string, readonly: true }
-          - { name: text, label: Section text (no HTML), type: text }
-          - { name: originalText, label: Original text, type: text, readonly: true, hidden: true }
-
+          - { name: text, label: Content, type: text }
   - name: products
     label: Products
     type: collection
     path: content/products
     format: json
     filename: "{slug}.json"
-    view: { primary: seoTitle, fields: [seoTitle, route] }
+    view: { primary: title, fields: [title, route] }
     operations: { rename: false, delete: false }
-    fields: *fields
+    fields: &page_fields
+      - { name: title, label: Product title, type: string }
+      - { name: description, label: Product description, type: text }
+      - { name: seoTitle, label: SEO title, type: string }
+      - { name: seoDescription, label: SEO description, type: text }
+      - name: sections
+        label: Product content
+        type: object
+        list: true
+        fields:
+          - { name: text, label: Content, type: text }
   - name: pages
     label: Pages and guides
     type: collection
     path: content/pages
     format: json
     filename: "{slug}.json"
-    view: { primary: seoTitle, fields: [seoTitle, route] }
+    view: { primary: title, fields: [title, route] }
     operations: { rename: false, delete: false }
-    fields: *fields
+    fields: *page_fields
   - name: settings
     label: Site settings
     type: file
