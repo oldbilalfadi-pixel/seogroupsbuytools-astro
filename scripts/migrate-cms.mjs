@@ -52,6 +52,43 @@ function build(page) {
     .filter(x=>x.value && x.value.length<100 && !/<[a-z]/i.test(x.source.replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')));
 }
 
+
+function addProductHero(page) {
+  if (page.productHero) return;
+  const html=page.html;
+  const sourceTag = re => html.match(re)?.[0] || '';
+  const nameSource=sourceTag(/<h1\b[^>]*>[\s\S]*?<\/h1>/i);
+  const descriptionSource=sourceTag(/<p\b[^>]*class="[^"]*\bproduct-hero-tagline\b[^"]*"[^>]*>[\s\S]*?<\/p>/i);
+  const priceSource=sourceTag(/<span\b[^>]*class="[^"]*\bproduct-hero-price\b[^"]*"[^>]*>[^<]+/i);
+  const imgSource=[...html.matchAll(/<img\b[^>]*>/gi)].map(x=>x[0]).find(x=>/\bclass="[^"]*\bproduct-hero-image\b/i.test(x))||'';
+  const buttonSource=[...html.matchAll(/<a\b[^>]*>[\s\S]*?<\/a>/gi)].map(x=>x[0]).find(x=>/\bclass="[^"]*\bproduct-buy-btn\b/i.test(x))||'';
+  const name=plain(nameSource),description=plain(descriptionSource);
+  const price=plain(priceSource.replace(/^<[^>]*>/,''));
+  const image=imgSource.match(/\bsrc="([^"]*)"/i)?.[1]||'';
+  const imageAlt=imgSource.match(/\balt="([^"]*)"/i)?.[1]||'';
+  const buttonLabel=plain(buttonSource),buttonUrl=buttonSource.match(/\bhref="([^"]*)"/i)?.[1]||'';
+  const featureHtml=html.match(/<ul\b[^>]*class="[^"]*\bproduct-hero-trust\b[^"]*"[^>]*>([\s\S]*?)<\/ul>/i)?.[1]||'';
+  const features=[...featureHtml.matchAll(/<li\b[^>]*>[\s\S]*?<\/li>/gi)].map(m=>({text:plain(m[0]),originalText:plain(m[0]),source:m[0]}));
+  page.productHero={
+    name,originalName:name,nameSource,
+    description,originalDescription:description,descriptionSource,
+    price,originalPrice:price,priceSource,
+    image,originalImage:image,imageAlt,originalImageAlt:imageAlt,imageSource:imgSource,
+    buttonLabel,originalButtonLabel:buttonLabel,buttonUrl,originalButtonUrl:buttonUrl,buttonSource,
+    features
+  };
+  const remove=new Set([nameSource,descriptionSource,...features.map(x=>x.source)].filter(Boolean));
+  page.outsideGroups=page.outsideGroups.map(g=>({
+    ...g,
+    headingSource:remove.has(g.headingSource) && g.heading===g.originalHeading ? '' : g.headingSource,
+    heading:remove.has(g.headingSource) && g.heading===g.originalHeading ? '' : g.heading,
+    items:g.items.filter(x=>!remove.has(x.source)||x.text!==x.originalText)
+  })).filter(g=>g.heading || g.items.length);
+  if(buttonSource)page.buttons=page.buttons.filter(x=>x.source!==buttonSource);
+  if(imgSource)page.mediaImages=page.mediaImages.filter(x=>x.source!==imgSource);
+  if(priceSource)page.priceValues=page.priceValues.filter(x=>x.source!==priceSource);
+}
+
 function addOutsideContent(page) {
   const body=page.html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i)?.[1] || page.html;
   const core=body.replace(/<header\b[^>]*>[\s\S]*?<\/header>/gi,'')
@@ -138,6 +175,7 @@ for (const file of files) {
       });
   }
   addOutsideContent(page);
+  if(file.startsWith('content/products/')) addProductHero(page);
   for(const group of [...page.contentGroups,...page.outsideGroups]) {
     if (group.headingSource) assert.ok(page.html.includes(group.headingSource),file+' heading');
     for(const entry of group.items) assert.ok(page.html.includes(entry.source),file+' entry');
