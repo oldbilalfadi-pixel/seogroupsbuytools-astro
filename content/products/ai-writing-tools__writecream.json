@@ -2123,6 +2123,13 @@
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+    },
+    {
+      "text": "💬 Buy Now on WhatsApp",
+      "originalText": "💬 Buy Now on WhatsApp",
+      "url": "https://seogroupsbuy.com/users/signup",
+      "originalUrl": "https://seogroupsbuy.com/users/signup",
+      "source": "<a href=\"https://seogroupsbuy.com/users/signup\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
     }
   ],
   "mediaImages": [
@@ -2146,6 +2153,13 @@
       "alt": "WordAI logo",
       "originalAlt": "WordAI logo",
       "source": "<img src=\"../../assets/images/tools/wordai-com.png\" alt=\"WordAI logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "../../assets/images/tools/writecream-com.png",
+      "originalSrc": "../../assets/images/tools/writecream-com.png",
+      "alt": "Writecream logo",
+      "originalAlt": "Writecream logo",
+      "source": "<img src=\"../../assets/images/tools/writecream-com.png\" alt=\"Writecream logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2163,6 +2177,12 @@
       "value": "From $4/mo",
       "originalValue": "From $4/mo",
       "source": "<span class=\"price-tag\">From $4/mo</span>"
+    },
+    {
+      "value": "$4",
+      "originalValue": "$4",
+      "source": "<span class=\"product-hero-price\">$4",
+      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Writecream Group Buy — AI Content & Cold Email Tool from $4/month | SEO Group Buy Tools",

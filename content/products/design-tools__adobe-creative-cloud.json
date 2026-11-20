@@ -1971,6 +1971,13 @@
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+    },
+    {
+      "text": "💬 Buy Now on WhatsApp",
+      "originalText": "💬 Buy Now on WhatsApp",
+      "url": "https://seogroupsbuy.com/users/cart/index/product/id/119/c/",
+      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/119/c/",
+      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/119/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
     }
   ],
   "mediaImages": [
@@ -2001,6 +2008,13 @@
       "alt": "Stencil logo",
       "originalAlt": "Stencil logo",
       "source": "<img src=\"../../assets/images/tools/stencil-com.png\" alt=\"Stencil logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "../../assets/images/tools/adobe-com.png",
+      "originalSrc": "../../assets/images/tools/adobe-com.png",
+      "alt": "Adobe Creative Cloud logo",
+      "originalAlt": "Adobe Creative Cloud logo",
+      "source": "<img src=\"../../assets/images/tools/adobe-com.png\" alt=\"Adobe Creative Cloud logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2023,6 +2037,12 @@
       "value": "From $2-$5/month/mo",
       "originalValue": "From $2-$5/month/mo",
       "source": "<span class=\"price-tag\">From $2-$5/month/mo</span>"
+    },
+    {
+      "value": "$5",
+      "originalValue": "$5",
+      "source": "<span class=\"product-hero-price\">$5",
+      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Adobe Creative Cloud Group Buy — Professional Design Tools | SEO Group Buy Tools",

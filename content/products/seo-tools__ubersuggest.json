@@ -2401,6 +2401,13 @@
       "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
       "source": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-success btn-lg\" target=\"_blank\" rel=\"noopener\">💬 WhatsApp Us Now</a>"
+    },
+    {
+      "text": "💬 Buy Now on WhatsApp",
+      "originalText": "💬 Buy Now on WhatsApp",
+      "url": "https://seogroupsbuy.com/users/cart/index/product/id/70/c/",
+      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/70/c/",
+      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/70/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
     }
   ],
   "mediaImages": [
@@ -2480,6 +2487,13 @@
       "alt": "Crazy Egg logo",
       "originalAlt": "Crazy Egg logo",
       "source": "<img src=\"../../assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
+    },
+    {
+      "src": "../../assets/images/tools/neilpatel-com.png",
+      "originalSrc": "../../assets/images/tools/neilpatel-com.png",
+      "alt": "Ubersuggest logo",
+      "originalAlt": "Ubersuggest logo",
+      "source": "<img src=\"../../assets/images/tools/neilpatel-com.png\" alt=\"Ubersuggest logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2537,6 +2551,12 @@
       "value": "From $3-$8/month/mo",
       "originalValue": "From $3-$8/month/mo",
       "source": "<span class=\"price-tag\">From $3-$8/month/mo</span>"
+    },
+    {
+      "value": "$3",
+      "originalValue": "$3",
+      "source": "<span class=\"product-hero-price\">$3",
+      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Ubersuggest Group Buy — Keyword & Content Ideas Tool from $3/month | SEO Group Buy Tools",
