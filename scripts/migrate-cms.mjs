@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
 const root='content';
+const plain=(s)=>String(s||'').replace(/<[^>]*>/g,' ').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/\s+/g,' ').trim();
 const esc=(s)=>String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 let changed=0, sections=0;
 for(const group of ['products','pages']){
@@ -26,6 +27,7 @@ for(const group of ['products','pages']){
         page.sections.push({key:tag+'-'+n,label:tag.toUpperCase()+' '+n,content:inner,original:inner,source:m[0]});
       }
     }
+    for(const s of page.sections){s.originalText ??= plain(s.original||s.content);s.text ??= s.originalText;}
     sections+=page.sections.length;
     fs.writeFileSync(file,JSON.stringify(page,null,2)+'\n');
     changed++;
@@ -46,5 +48,6 @@ if(!home.sections.length){
     if(inner.trim()&&!/<(script|style|svg|iframe)\b/i.test(inner))home.sections.push({key:tag+'-'+n,label:tag.toUpperCase()+' '+n,content:inner,original:inner,source:m[0]});
   }
 }
+for(const s of home.sections){s.originalText ??= plain(s.original||s.content);s.text ??= s.originalText;}
 fs.writeFileSync(homeFile,JSON.stringify(home,null,2)+'\n');
 console.log(JSON.stringify({pages:changed+1,sections:sections+home.sections.length}));
