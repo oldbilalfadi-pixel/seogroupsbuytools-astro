@@ -51,6 +51,51 @@ function build(page) {
     .map(m=>({value:plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')),originalValue:plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')),source:m[0]}))
     .filter(x=>x.value && x.value.length<100 && !/<[a-z]/i.test(x.source.replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')));
 }
+
+function addOutsideContent(page) {
+  const body=page.html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i)?.[1] || page.html;
+  const core=body.replace(/<header\b[^>]*>[\s\S]*?<\/header>/gi,'')
+    .replace(/<footer\b[^>]*>[\s\S]*?<\/footer>/gi,'')
+    .replace(/<main\b[^>]*>[\s\S]*?<\/main>/gi,'')
+    .replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1>/gi,'');
+  if(!Array.isArray(page.outsideGroups)) {
+    let group=null;
+    page.outsideGroups=[];
+    for(const m of core.matchAll(/<(h[1-6]|p|li|button|td|th)\b[^>]*>[\s\S]*?<\/\1>/gi)) {
+      const source=m[0],tag=m[1].toLowerCase(),inner=source.slice(source.indexOf('>')+1,source.lastIndexOf('</'));
+      const value=plain(inner);
+      if(!value || value.length>5000 || /<(script|style|svg|iframe|form)\b/i.test(inner))continue;
+      if(/^h[1-3]$/.test(tag)) {
+        if(tag==='h1' && page.route==='/' && page.hero) continue; // managed by dedicated hero fields
+        group={heading:value,originalHeading:value,headingSource:source,items:[]};
+        page.outsideGroups.push(group);
+      } else {
+        if(!group) {group={heading:'',originalHeading:'',headingSource:'',items:[]};page.outsideGroups.push(group);}
+        group.items.push({text:value,originalText:value,source,tag});
+      }
+    }
+    page.outsideGroups=page.outsideGroups.filter(g=>g.heading||g.items.length);
+  }
+  page.buttons ??=[];
+  for(const m of core.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)) {
+    if(!plain(m[2])||/<(img|svg|div|ul|li|span)\b/i.test(m[2]))continue;
+    if(!page.buttons.some(b=>b.source===m[0]))
+      page.buttons.push({text:plain(m[2]),originalText:plain(m[2]),url:m[1],originalUrl:m[1],source:m[0]});
+  }
+  page.mediaImages ??=[];
+  for(const m of core.matchAll(/<img\b[^>]*>/gi)) {
+    if(page.mediaImages.some(img=>img.source===m[0]))continue;
+    const src=m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',alt=m[0].match(/\balt="([^"]*)"/i)?.[1]||'';
+    page.mediaImages.push({src,originalSrc:src,alt,originalAlt:alt,source:m[0]});
+  }
+  page.cardLinks ??=[];
+  for(const m of core.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)) {
+    if(!/<(img|svg|div|span|h[2-6])\b/i.test(m[2])||m[0].length>20000||page.cardLinks.some(card=>card.source===m[0]))continue;
+    const label=plain(m[2].match(/<h[2-6]\b[^>]*>([\s\S]*?)<\/h[2-6]>/i)?.[1]||m[2].match(/<img\b[^>]*alt="([^"]*)"/i)?.[1]||m[2]).slice(0,100);
+    page.cardLinks.push({label:label||'Card',url:m[1],originalUrl:m[1],source:m[0]});
+  }
+}
+
 let groups=0, items=0, images=0, buttons=0, prices=0;
 for (const file of files) {
   const page=JSON.parse(fs.readFileSync(file,'utf8'));
@@ -70,7 +115,7 @@ for (const file of files) {
   }
   // Price amounts inside designed cards and product hero blocks have nested markup.
   // Edit only the amount text so currency, /month suffix, and CSS remain untouched.
-  const mainPrices=page.html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i)?.[1]||page.html;
+  const mainPrices=page.html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i)?.[1]||page.html;
   page.priceValues ??= [];
   for(const m of mainPrices.matchAll(/<span\b[^>]*class="[^"]*\bamount\b[^"]*"[^>]*>[^<]*<\/span>/gi)) {
     const value=plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/span>$/,''));
@@ -92,12 +137,13 @@ for (const file of files) {
         return {label:title||'Card link',url:m[1],originalUrl:m[1],source:m[0]};
       });
   }
-  for(const group of page.contentGroups) {
+  addOutsideContent(page);
+  for(const group of [...page.contentGroups,...page.outsideGroups]) {
     if (group.headingSource) assert.ok(page.html.includes(group.headingSource),file+' heading');
     for(const entry of group.items) assert.ok(page.html.includes(entry.source),file+' entry');
   }
-  groups+=page.contentGroups.length;
-  items+=page.contentGroups.reduce((n,g)=>n+g.items.length,0);
+  groups+=page.contentGroups.length+page.outsideGroups.length;
+  items+=[...page.contentGroups,...page.outsideGroups].reduce((n,g)=>n+g.items.length,0);
   images+=page.mediaImages?.length||0;
   buttons+=page.buttons?.length||0;
   prices+=page.priceValues?.length||0;
