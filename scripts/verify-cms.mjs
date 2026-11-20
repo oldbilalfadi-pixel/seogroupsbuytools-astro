@@ -13,8 +13,9 @@ for (const file of files) {
   for (const group of [...page.contentGroups,...page.outsideGroups]) {
     if(group.headingSource) {
       const edited=structuredClone(page);
-      const index=edited.contentGroups.indexOf(edited.contentGroups.find(g=>g.headingSource===group.headingSource));
-      edited.contentGroups[index].heading='CMS HEADING VALIDATION';
+      const target=[...edited.contentGroups,...edited.outsideGroups].find(g=>g.headingSource===group.headingSource);
+      assert.ok(target,file+' missing heading');
+      target.heading='CMS HEADING VALIDATION';
       assert.ok(renderPage(edited).includes('CMS HEADING VALIDATION'),file+' heading edit');
     }
     for (const item of group.items) {
