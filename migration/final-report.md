@@ -18,3 +18,19 @@
 - Pages CMS is a structured form editor, not Elementor or a drag-and-drop website designer.
 - This validation is based on repository files, generated output and automated workflow checks; an authenticated Pages CMS save-and-reload test in the hosted CMS is not included.
 - No manual Cloudflare deployment was performed by these scripts; hosting deployment triggers configured elsewhere may act automatically.
+
+## Final automated results (commit 3605b4f4)
+
+- CMS JSON migration: **passed**, covering all **72 source records**.
+- CMS field verification: **passed**, covering **910 grouped sections**, **7,965 editable heading/text values**, **1,686 button links**, **822 visual card links**, **291 images**, **250 prices**, and **138 badges or small text labels**.
+- Original HTML parity: **72/72 exact** when CMS fields are unchanged.
+- Duplicate and nested content mapping: **54 duplicate cases**, **36 nested cases**, **70 inline formatting cases** checked.
+- Existing local media assets: **321 field paths** checked.
+- CMS UI data validation: **30 labeled list-editor configurations**, no empty visible text items; 30 product hero records validated.
+- New blog post rendering: temporary blog creation, image, rich text, title and SEO checks passed.
+- Astro production build: **passed**; site renders the original 71 public routes and the original 404 output.
+- Browser visual workflow: **passed** (capture completed; the workflow is not a strict pixel equality gate).
+
+### Remaining external verification
+
+Hosted Pages CMS's authenticated **edit → save → reload** UI could not be tested by these GitHub Actions tests. Also, the informational live-vs-preview audit identified **71 external script differences** and a **/404/ HTTP status difference**, although its job exits successfully. Those differences should not be presented as verified exact deployed parity.
