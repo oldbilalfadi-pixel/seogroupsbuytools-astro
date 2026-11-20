@@ -1,5 +1,9 @@
 name: Convert existing JSON pages to editable CMS fields
 on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/migrate-cms.yml
   workflow_dispatch:
 permissions:
   contents: write
