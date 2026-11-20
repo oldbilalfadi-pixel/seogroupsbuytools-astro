@@ -50,97 +50,128 @@ function renderChrome(html, settings) {
   return html;
 }
 
+// Resolve all edits against the immutable source positions. Parent links and
+// their child images may be edited together, while repeated cards stay distinct.
+function applyOperations(html,operations) {
+  const valid=operations.filter(op=>Number.isInteger(op.at)&&op.at>=0&&html.slice(op.at,op.at+op.source.length)===op.source)
+    .map(op=>({...op,end:op.at+op.source.length,children:[]}));
+  valid.sort((a,b)=>a.at-b.at||b.end-a.end);
+  const roots=[],stack=[];
+  for(const op of valid) {
+    while(stack.length && op.at>=stack[stack.length-1].end)stack.pop();
+    const parent=stack[stack.length-1];
+    if(parent && op.end<=parent.end)parent.children.push(op);
+    else if(!parent)roots.push(op);
+    else throw new Error('Overlapping CMS editing fields at '+op.at);
+    stack.push(op);
+  }
+  const resolve = op => {
+    let source=op.source;
+    for(const child of [...op.children].sort((a,b)=>b.at-a.at)) {
+      const relative=child.at-op.at;
+      source=source.slice(0,relative)+resolve(child)+source.slice(relative+child.source.length);
+    }
+    return op.edit(source);
+  };
+  for(const op of roots.sort((a,b)=>b.at-a.at))
+    html=html.slice(0,op.at)+resolve(op)+html.slice(op.end);
+  return html;
+}
 export function renderPage(page,settings={}) {
   let html=page.html;
-  // Replace labelled text at its exact original HTML offset, in reverse document order.
-  // This prevents identical badges in different cards changing together.
-  for(const label of [...(page.labelTexts||[])].sort((a,b)=>(b.sourceOffset??-1)-(a.sourceOffset??-1))) {
-    if (!label.source || typeof label.text!=='string' || label.text===label.originalText) continue;
-    const at=label.sourceOffset;
-    if(typeof at!=='number' || html.slice(at,at+label.source.length)!==label.source)continue;
-    html=html.slice(0,at)+innerReplace(label.source,label.text)+html.slice(at+label.source.length);
-  }
-  if (typeof page.title === 'string' && page.originalPageTitle !== undefined && page.title!==page.originalPageTitle) {
-    html=html.replace(/<h1\b[^>]*>[\s\S]*?<\/h1>/i,m=>innerReplace(m,page.title));
+  const ops=[];
+  const add=(source,at,edit)=>{
+    if(!source)return;
+    if(!Number.isInteger(at)||page.html.slice(at,at+source.length)!==source) {
+      const first=page.html.indexOf(source);
+      if(first<0 || page.html.indexOf(source,first+1)!==-1)return;
+      at=first;
+    }
+    ops.push({source,at,edit});
+  };
+  if(typeof page.title==='string' && page.originalPageTitle!==undefined && page.title!==page.originalPageTitle) {
+    const source=page.html.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/i)?.[0];
+    if(source)add(source,page.html.indexOf(source),s=>innerReplace(s,page.title));
   }
   for(const group of [...(page.contentGroups||[]),...(page.outsideGroups||[])]) {
-    if (group.headingSource && typeof group.heading==='string' && group.heading!==group.originalHeading)
-      html=replaceOriginal(html,group.headingSource,innerReplace(group.headingSource,group.heading));
-    for(const item of group.items||[]) {
-      if (!item.source || typeof item.text!=='string' || item.text===item.originalText) continue;
-      html=replaceOriginal(html,item.source,innerReplace(item.source,item.text));
-    }
+    if(group.headingSource && typeof group.heading==='string' && group.heading!==group.originalHeading)
+      add(group.headingSource,group.sourceOffset,s=>innerReplace(s,group.heading));
+    for(const item of group.items||[])
+      if(item.source && typeof item.text==='string' && item.text!==item.originalText)
+        add(item.source,item.sourceOffset,s=>innerReplace(s,item.text));
   }
-  for(const price of page.priceValues||[]) {
-    if (!price.source || price.value===price.originalValue) continue;
-    html=replaceOriginal(html,price.source,price.mode==='prefix' ? price.source.replace(price.originalValue,text(price.value)) : innerReplace(price.source,price.value));
+  for(const label of page.labelTexts||[])
+    if(label.source && typeof label.text==='string' && label.text!==label.originalText)
+      add(label.source,label.sourceOffset,s=>innerReplace(s,label.text));
+  for(const price of page.priceValues||[])
+    if(price.source && price.value!==price.originalValue)
+      add(price.source,price.sourceOffset,s=>price.mode==='prefix'
+        ?s.replace(price.originalValue,text(price.value)):innerReplace(s,price.value));
+  for(const button of page.buttons||[]) {
+    if(!button.source || (button.text===button.originalText&&button.url===button.originalUrl))continue;
+    add(button.source,button.sourceOffset,s=>{
+      if(button.url!==button.originalUrl)s=s.replace(/href="[^"]*"/i,'href="'+attr(button.url)+'"');
+      if(button.text!==button.originalText)s=innerReplace(s,button.text);
+      return s;
+    });
   }
-  for(const link of page.buttons||[]) {
-    if (!link.source || (link.text===link.originalText && link.url===link.originalUrl)) continue;
-    let updated=link.source;
-    if(link.url!==link.originalUrl) updated=updated.replace('href="'+link.originalUrl+'"','href="'+attr(link.url)+'"');
-    if(link.text!==link.originalText) updated=innerReplace(updated,link.text);
-    html=replaceOriginal(html,link.source,updated);
-  }
-  for(const card of page.cardLinks||[]) {
-    if (!card.source || card.url===card.originalUrl) continue;
-    const edited=card.source.replace(/href="[^"]*"/i,'href="'+attr(card.url)+'"');
-    html=replaceOriginal(html,card.source,edited);
-  }
+  for(const card of page.cardLinks||[])
+    if(card.source && card.url!==card.originalUrl)
+      add(card.source,card.sourceOffset,s=>s.replace(/href="[^"]*"/i,'href="'+attr(card.url)+'"'));
   for(const image of page.mediaImages||[]) {
-    if (!image.source || (image.src===image.originalSrc && image.alt===image.originalAlt)) continue;
-    let updated=image.source;
-    if(image.src!==image.originalSrc) updated=updated.replace('src="'+image.originalSrc+'"','src="'+attr(image.src)+'"');
-    if(image.alt!==image.originalAlt) {
-      if(updated.includes('alt="')) updated=updated.replace('alt="'+image.originalAlt+'"','alt="'+attr(image.alt)+'"');
-      else updated=updated.replace(/\/?>$/,m=>' alt="'+attr(image.alt)+'"'+m);
-    }
-    html=replaceOriginal(html,image.source,updated);
+    if(!image.source || (image.src===image.originalSrc&&image.alt===image.originalAlt))continue;
+    add(image.source,image.sourceOffset,s=>{
+      if(image.src!==image.originalSrc)s=s.replace(/src="[^"]*"/i,'src="'+attr(image.src)+'"');
+      if(image.alt!==image.originalAlt){
+        if(s.includes('alt="'))s=s.replace(/alt="[^"]*"/i,'alt="'+attr(image.alt)+'"');
+        else s=s.replace(/\/?>$/,m=>' alt="'+attr(image.alt)+'"'+m);
+      }
+      return s;
+    });
   }
   if(page.productHero) {
     const h=page.productHero;
-    if(h.nameSource && h.name!==h.originalName)
-      html=replaceOriginal(html,h.nameSource,innerReplace(h.nameSource,h.name));
-    if(h.descriptionSource && h.description!==h.originalDescription)
-      html=replaceOriginal(html,h.descriptionSource,innerReplace(h.descriptionSource,h.description));
-    if(h.priceSource && h.price!==h.originalPrice)
-      html=replaceOriginal(html,h.priceSource,h.priceSource.replace(h.originalPrice,text(h.price)));
-    if(h.imageSource && (h.image!==h.originalImage || h.imageAlt!==h.originalImageAlt)) {
-      let updated=h.imageSource;
-      if(h.image!==h.originalImage)updated=updated.replace(/src="[^"]*"/i,'src="'+attr(h.image)+'"');
-      if(h.imageAlt!==h.originalImageAlt)updated=updated.replace(/alt="[^"]*"/i,'alt="'+attr(h.imageAlt)+'"');
-      html=replaceOriginal(html,h.imageSource,updated);
-    }
-    if(h.buttonSource && (h.buttonLabel!==h.originalButtonLabel || h.buttonUrl!==h.originalButtonUrl)) {
-      let updated=h.buttonSource;
-      if(h.buttonUrl!==h.originalButtonUrl)updated=updated.replace(/href="[^"]*"/i,'href="'+attr(h.buttonUrl)+'"');
-      if(h.buttonLabel!==h.originalButtonLabel)updated=innerReplace(updated,h.buttonLabel);
-      html=replaceOriginal(html,h.buttonSource,updated);
-    }
-    for(const feature of h.features||[]) {
+    if(h.name!==h.originalName)add(h.nameSource,h.nameOffset,s=>innerReplace(s,h.name));
+    if(h.description!==h.originalDescription)add(h.descriptionSource,h.descriptionOffset,s=>innerReplace(s,h.description));
+    if(h.price!==h.originalPrice)add(h.priceSource,h.priceOffset,s=>s.replace(h.originalPrice,text(h.price)));
+    if(h.image!==h.originalImage || h.imageAlt!==h.originalImageAlt)
+      add(h.imageSource,h.imageOffset,s=>{
+        if(h.image!==h.originalImage)s=s.replace(/src="[^"]*"/i,'src="'+attr(h.image)+'"');
+        if(h.imageAlt!==h.originalImageAlt)s=s.replace(/alt="[^"]*"/i,'alt="'+attr(h.imageAlt)+'"');
+        return s;
+      });
+    if(h.buttonLabel!==h.originalButtonLabel || h.buttonUrl!==h.originalButtonUrl)
+      add(h.buttonSource,h.buttonOffset,s=>{
+        if(h.buttonUrl!==h.originalButtonUrl)s=s.replace(/href="[^"]*"/i,'href="'+attr(h.buttonUrl)+'"');
+        if(h.buttonLabel!==h.originalButtonLabel)s=innerReplace(s,h.buttonLabel);
+        return s;
+      });
+    for(const feature of h.features||[])
       if(feature.source && feature.text!==feature.originalText)
-        html=replaceOriginal(html,feature.source,innerReplace(feature.source,feature.text));
+        add(feature.source,feature.sourceOffset,s=>innerReplace(s,feature.text));
+  }
+  if(page.route==='/' && page.hero && page.originalHero) {
+    const h=page.hero,o=page.originalHero;
+    if(h.headingBefore!==o.headingBefore||h.headingHighlight!==o.headingHighlight||h.headingAfter!==o.headingAfter) {
+      const source=page.html.match(/<h1>[\s\S]*?<\/h1>/i)?.[0];
+      const heading=text(h.headingBefore)+'<span class="hero-highlight">'+text(h.headingHighlight)+'</span>'+text(h.headingAfter);
+      if(source)add(source,page.html.indexOf(source),s=>s.replace(/(<h1>)[\s\S]*?(<\/h1>)/i,(_,a,b)=>a+heading+b));
+    }
+    if(h.description!==o.description) {
+      const source=page.html.match(/<p class="hero-live-desc">[\s\S]*?<\/p>/i)?.[0];
+      if(source)add(source,page.html.indexOf(source),s=>innerReplace(s,h.description));
     }
   }
-  if (page.seoTitle && page.seoTitle!==page.originalSeoTitle) {
+  html=applyOperations(html,ops);
+  if(page.seoTitle && page.seoTitle!==page.originalSeoTitle) {
     html=html.replace(/<title>[\s\S]*?<\/title>/i,'<title>'+text(page.seoTitle)+'</title>');
     html=seoMeta(html,'og:title',page.seoTitle,'property');
     html=seoMeta(html,'twitter:title',page.seoTitle);
   }
-  if (page.seoDescription && page.seoDescription!==page.originalSeoDescription) {
+  if(page.seoDescription && page.seoDescription!==page.originalSeoDescription) {
     html=seoMeta(html,'description',page.seoDescription);
     html=seoMeta(html,'og:description',page.seoDescription,'property');
     html=seoMeta(html,'twitter:description',page.seoDescription);
-  }
-  if (page.route==='/' && page.hero) {
-    const original=page.originalHero||{};
-    const hero=page.hero;
-    const changed=Object.keys(hero).some(key=>hero[key]!==original[key]);
-    if(changed && Object.keys(original).length) {
-      const heading=text(hero.headingBefore)+'<span class="hero-highlight">'+text(hero.headingHighlight)+'</span>'+text(hero.headingAfter);
-      html=html.replace(/(<h1>)[\s\S]*?(<\/h1>)/i,(_,a,b)=>a+heading+b);
-      html=html.replace(/(<p class="hero-live-desc">)[\s\S]*?(<\/p>)/i,(_,a,b)=>a+text(hero.description)+b);
-    }
   }
   return renderChrome(html,settings);
 }
