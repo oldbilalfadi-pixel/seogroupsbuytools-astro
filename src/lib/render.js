@@ -89,12 +89,12 @@ export function renderPage(page,settings={}) {
     }
     html=replaceOriginal(html,image.source,updated);
   }
-  if (page.seoTitle && page.seoTitle!==page.originalSeoTitle && page.seoTitle!==page.title) {
+  if (page.seoTitle && page.seoTitle!==page.originalSeoTitle) {
     html=html.replace(/<title>[\s\S]*?<\/title>/i,'<title>'+text(page.seoTitle)+'</title>');
     html=seoMeta(html,'og:title',page.seoTitle,'property');
     html=seoMeta(html,'twitter:title',page.seoTitle);
   }
-  if (page.seoDescription && page.seoDescription!==page.originalSeoDescription && page.seoDescription!==page.description) {
+  if (page.seoDescription && page.seoDescription!==page.originalSeoDescription) {
     html=seoMeta(html,'description',page.seoDescription);
     html=seoMeta(html,'og:description',page.seoDescription,'property');
     html=seoMeta(html,'twitter:description',page.seoDescription);
