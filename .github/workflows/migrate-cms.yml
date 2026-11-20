@@ -1,0 +1,52 @@
+name: Convert existing JSON pages to editable CMS fields
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Generate editable fields from existing page HTML
+        run: node scripts/migrate-cms.mjs
+      - name: Check unchanged source markup and CMS editing behavior
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          let count=0,changed=0;
+          for(const file of ['content/homepage.json',...['products','pages'].flatMap(dir=>fs.readdirSync('content/'+dir).filter(x=>x.endsWith('.json')).map(x=>'content/'+dir+'/'+x))]){
+            const page=JSON.parse(fs.readFileSync(file,'utf8'));
+            assert.ok(page.html && Array.isArray(page.sections),file);
+            for(const s of page.sections){
+              assert.ok(page.html.includes(s.source),file+' '+s.key);
+              assert.ok(s.source.includes(s.original),file+' '+s.key);
+              const mutated=page.html.replace(s.source,s.source.replace(s.original,'CMS_TEST_CHANGE'));
+              assert.ok(mutated.includes('CMS_TEST_CHANGE'),file+' '+s.key);
+              changed++;
+            }
+            count++;
+          }
+          assert.equal(count,72);
+          assert.ok(changed>100);
+          console.log('Verified '+count+' pages, '+changed+' editable sections; source HTML unchanged.');
+          JS
+      - name: Install and build Astro
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+      - name: Commit editable content directly to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/
+          if ! git diff --cached --quiet; then
+            git commit -m "Convert all existing pages to editable CMS JSON sections"
+            git push
+          fi
