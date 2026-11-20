@@ -2,49 +2,33 @@ media:
   input: public/assets/images
   output: /assets/images
 
+settings:
+  content:
+    merge: true
+
 content:
   - name: homepage
     label: Homepage
     type: file
     path: content/homepage.json
     format: json
-    operations:
-      delete: false
-    fields: &page_fields
+    fields:
       - name: hero
-        label: Homepage hero (editable content)
+        label: Homepage hero
         type: object
         fields:
           - {name: headingBefore, label: Heading start, type: string}
           - {name: headingHighlight, label: Highlighted words, type: string}
           - {name: headingAfter, label: Heading ending, type: string}
           - {name: description, label: Hero description, type: text}
-      - name: route
-        label: Page URL path
-        type: string
-        required: true
-        readonly: true
-      - name: title
-        label: SEO title (metadata)
-        type: string
-        description: The original HTML also contains a title tag; update both for consistent output.
-      - name: description
-        label: SEO description (metadata)
-        type: text
-        description: The original HTML also contains a meta description; update both for consistent output.
-      - name: html
-        label: Full page HTML (source of truth)
-        type: code
-        required: true
-        options:
-          format: html
-      - name: sourceFile
-        label: Original source file
-        type: string
-        readonly: true
+      - {name: title, label: SEO title, type: string}
+      - {name: description, label: SEO description, type: text}
+      - {name: route, label: URL path, type: string, readonly: true}
+      - {name: html, label: Legacy HTML source, type: code, readonly: true, options: {format: html}}
+      - {name: sourceFile, label: Source file, type: string, readonly: true}
 
   - name: products
-    label: Products (30)
+    label: Products
     type: collection
     path: content/products
     format: json
@@ -53,12 +37,15 @@ content:
       fields: [title, route]
       primary: title
       search: [title, route]
-    operations:
-      delete: false
-    fields: *page_fields
+    fields: &page_fields
+      - {name: title, label: SEO title, type: string}
+      - {name: description, label: SEO description, type: text}
+      - {name: route, label: URL path, type: string, readonly: true}
+      - {name: html, label: Legacy HTML source, type: code, readonly: true, options: {format: html}}
+      - {name: sourceFile, label: Source file, type: string, readonly: true}
 
   - name: pages
-    label: Pages and guides (41)
+    label: Pages and guides
     type: collection
     path: content/pages
     format: json
@@ -67,8 +54,6 @@ content:
       fields: [title, route]
       primary: title
       search: [title, route]
-    operations:
-      delete: false
     fields: *page_fields
 
   - name: settings
@@ -76,19 +61,7 @@ content:
     type: file
     path: content/settings.json
     format: json
-    operations:
-      delete: false
     fields:
-      - name: siteUrl
-        label: Production URL
-        type: string
-      - name: siteName
-        label: Site name
-        type: string
-      - name: previewNoindex
-        label: Preview noindex
-        type: boolean
-
-settings:
-  content:
-    merge: true
+      - {name: siteUrl, label: Production URL, type: string}
+      - {name: siteName, label: Site name, type: string}
+      - {name: previewNoindex, label: Preview noindex, type: boolean}
