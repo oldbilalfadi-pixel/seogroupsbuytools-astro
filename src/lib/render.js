@@ -89,6 +89,31 @@ export function renderPage(page,settings={}) {
     }
     html=replaceOriginal(html,image.source,updated);
   }
+  if(page.productHero) {
+    const h=page.productHero;
+    if(h.nameSource && h.name!==h.originalName)
+      html=replaceOriginal(html,h.nameSource,innerReplace(h.nameSource,h.name));
+    if(h.descriptionSource && h.description!==h.originalDescription)
+      html=replaceOriginal(html,h.descriptionSource,innerReplace(h.descriptionSource,h.description));
+    if(h.priceSource && h.price!==h.originalPrice)
+      html=replaceOriginal(html,h.priceSource,h.priceSource.replace(h.originalPrice,text(h.price)));
+    if(h.imageSource && (h.image!==h.originalImage || h.imageAlt!==h.originalImageAlt)) {
+      let updated=h.imageSource;
+      if(h.image!==h.originalImage)updated=updated.replace(/src="[^"]*"/i,'src="'+attr(h.image)+'"');
+      if(h.imageAlt!==h.originalImageAlt)updated=updated.replace(/alt="[^"]*"/i,'alt="'+attr(h.imageAlt)+'"');
+      html=replaceOriginal(html,h.imageSource,updated);
+    }
+    if(h.buttonSource && (h.buttonLabel!==h.originalButtonLabel || h.buttonUrl!==h.originalButtonUrl)) {
+      let updated=h.buttonSource;
+      if(h.buttonUrl!==h.originalButtonUrl)updated=updated.replace(/href="[^"]*"/i,'href="'+attr(h.buttonUrl)+'"');
+      if(h.buttonLabel!==h.originalButtonLabel)updated=innerReplace(updated,h.buttonLabel);
+      html=replaceOriginal(html,h.buttonSource,updated);
+    }
+    for(const feature of h.features||[]) {
+      if(feature.source && feature.text!==feature.originalText)
+        html=replaceOriginal(html,feature.source,innerReplace(feature.source,feature.text));
+    }
+  }
   if (page.seoTitle && page.seoTitle!==page.originalSeoTitle) {
     html=html.replace(/<title>[\s\S]*?<\/title>/i,'<title>'+text(page.seoTitle)+'</title>');
     html=seoMeta(html,'og:title',page.seoTitle,'property');
