@@ -107,6 +107,29 @@ function mergeUnlabelledGroups(groups) {
 }
 
 
+function mediaPath(url) {
+  const value=String(url||'');
+  const normalized=value.replace(/^(?:\.\.\/|\.\/)*assets\/images\//,'/assets/images/');
+  return normalized;
+}
+function normalizeMediaFields(page) {
+  for(const image of page.mediaImages||[]) {
+    if(image.src===image.originalSrc) {
+      const normalized=mediaPath(image.src);
+      image.src=normalized;
+      image.originalSrc=normalized;
+    }
+  }
+  if(page.productHero) {
+    const h=page.productHero;
+    if(h.image===h.originalImage) {
+      const normalized=mediaPath(h.image);
+      h.image=normalized;
+      h.originalImage=normalized;
+    }
+  }
+}
+
 function assignSourceOffsets(page) {
   const html=page.html;
   const mask = source => source.replace(/<header\b[^>]*>[\s\S]*?<\/header>/gi,m=>' '.repeat(m.length))
@@ -272,6 +295,7 @@ for (const file of files) {
   page.outsideGroups=mergeUnlabelledGroups(page.outsideGroups);
   addVisibleLabels(page);
   assignSourceOffsets(page);
+  normalizeMediaFields(page);
   for(const group of [...page.contentGroups,...page.outsideGroups]) {
     if (group.headingSource) assert.ok(page.html.includes(group.headingSource),file+' heading');
     for(const entry of group.items) assert.ok(page.html.includes(entry.source),file+' entry');
@@ -301,6 +325,15 @@ if(!settings.siteChrome) {
     footerLogo:logo(footer),originalFooterLogo:logo(footer),
     footerText,originalFooterText:footerText
   };
+}
+if(settings.siteChrome) {
+  for(const [key,original] of [['headerLogo','originalHeaderLogo'],['footerLogo','originalFooterLogo']]) {
+    if(settings.siteChrome[key]===settings.siteChrome[original]) {
+      const normalized=mediaPath(settings.siteChrome[key]);
+      settings.siteChrome[key]=normalized;
+      settings.siteChrome[original]=normalized;
+    }
+  }
 }
 settings.originalSiteName ??= settings.siteName;
 fs.writeFileSync(settingsFile,JSON.stringify(settings,null,2)+'\n');
