@@ -1,0 +1,38 @@
+name: Import complete Astro project
+on:
+  push:
+    branches: [main]
+    paths:
+      - project.zip
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Extract project archive
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          with ZipFile('project.zip') as archive:
+              for member in archive.infolist():
+                  dest = Path(member.filename)
+                  if dest.is_absolute() or '..' in dest.parts or member.filename.startswith('.git/'):
+                      raise SystemExit('Unsafe path in ZIP: ' + member.filename)
+              archive.extractall('.')
+          PY
+          rm project.zip
+      - name: Commit complete website
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Import complete Astro website project"
+            git push
+          fi
