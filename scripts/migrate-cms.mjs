@@ -90,6 +90,22 @@ function addProductHero(page) {
 }
 
 
+function mergeUnlabelledGroups(groups) {
+  // An introductory paragraph belongs to the following named section.
+  // This avoids blank collapsed CMS cards without moving or changing source HTML.
+  const result=[];
+  for(const group of groups||[]) {
+    if(!group.heading && group.items?.length && result.length) {
+      result[result.length-1].items.push(...group.items);
+    } else result.push(group);
+  }
+  if(result.length>1 && !result[0].heading) {
+    const first=result.shift();
+    result[0].items.unshift(...first.items);
+  }
+  return result;
+}
+
 function addVisibleLabels(page) {
   const previous=Array.isArray(page.labelTexts)?page.labelTexts:[];
   const bodyMatch=page.html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i);
@@ -206,6 +222,8 @@ for (const file of files) {
   }
   addOutsideContent(page);
   if(file.startsWith('content/products/')) addProductHero(page);
+  page.contentGroups=mergeUnlabelledGroups(page.contentGroups);
+  page.outsideGroups=mergeUnlabelledGroups(page.outsideGroups);
   addVisibleLabels(page);
   for(const group of [...page.contentGroups,...page.outsideGroups]) {
     if (group.headingSource) assert.ok(page.html.includes(group.headingSource),file+' heading');
