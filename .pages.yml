@@ -79,6 +79,20 @@ content:
       - { name: description, label: Product description, type: text }
       - { name: seoTitle, label: SEO title, type: string }
       - { name: seoDescription, label: SEO description, type: text }
+      - name: links
+        label: Buttons and links
+        type: object
+        list: true
+        fields:
+          - { name: text, label: Button text, type: string }
+          - { name: url, label: Destination URL, type: string }
+      - name: images
+        label: Images
+        type: object
+        list: true
+        fields:
+          - { name: src, label: Image, type: image, options: { media: uploads } }
+          - { name: alt, label: Image description, type: string }
   - name: pages
     label: Pages and guides
     type: collection
