@@ -1,5 +1,252 @@
 {
   "siteUrl": "https://seogroupsbuytools.com",
   "siteName": "SEO Group Buy Tools",
-  "previewNoindex": true
+  "previewNoindex": true,
+  "siteChrome": {
+    "headerLinks": [
+      {
+        "text": "Home",
+        "originalText": "Home",
+        "url": "./",
+        "originalUrl": "./"
+      },
+      {
+        "text": "Tools ▾",
+        "originalText": "Tools ▾",
+        "url": "seo-tools/",
+        "originalUrl": "seo-tools/"
+      },
+      {
+        "text": "SEO Tools",
+        "originalText": "SEO Tools",
+        "url": "seo-tools/",
+        "originalUrl": "seo-tools/"
+      },
+      {
+        "text": "Design Tools",
+        "originalText": "Design Tools",
+        "url": "design-tools/",
+        "originalUrl": "design-tools/"
+      },
+      {
+        "text": "Spy & Ad Intelligence",
+        "originalText": "Spy & Ad Intelligence",
+        "url": "spy-tools/",
+        "originalUrl": "spy-tools/"
+      },
+      {
+        "text": "AI Writing Tools",
+        "originalText": "AI Writing Tools",
+        "url": "ai-writing-tools/",
+        "originalUrl": "ai-writing-tools/"
+      },
+      {
+        "text": "E-commerce Tools",
+        "originalText": "E-commerce Tools",
+        "url": "ecommerce-tools/",
+        "originalUrl": "ecommerce-tools/"
+      },
+      {
+        "text": "Social Media",
+        "originalText": "Social Media",
+        "url": "social-media-tools/",
+        "originalUrl": "social-media-tools/"
+      },
+      {
+        "text": "Education",
+        "originalText": "Education",
+        "url": "education-tools/",
+        "originalUrl": "education-tools/"
+      },
+      {
+        "text": "Pricing",
+        "originalText": "Pricing",
+        "url": "pricing/",
+        "originalUrl": "pricing/"
+      },
+      {
+        "text": "Providers",
+        "originalText": "Providers",
+        "url": "best-providers/",
+        "originalUrl": "best-providers/"
+      },
+      {
+        "text": "FAQ",
+        "originalText": "FAQ",
+        "url": "faq/",
+        "originalUrl": "faq/"
+      },
+      {
+        "text": "Get Started",
+        "originalText": "Get Started",
+        "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
+        "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans."
+      }
+    ],
+    "footerLinks": [
+      {
+        "text": "💬 Chat on WhatsApp",
+        "originalText": "💬 Chat on WhatsApp",
+        "url": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.",
+        "originalUrl": "https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans."
+      },
+      {
+        "text": "SEO Tools",
+        "originalText": "SEO Tools",
+        "url": "seo-tools/",
+        "originalUrl": "seo-tools/"
+      },
+      {
+        "text": "Design Tools",
+        "originalText": "Design Tools",
+        "url": "design-tools/",
+        "originalUrl": "design-tools/"
+      },
+      {
+        "text": "Spy & Ad Tools",
+        "originalText": "Spy & Ad Tools",
+        "url": "spy-tools/",
+        "originalUrl": "spy-tools/"
+      },
+      {
+        "text": "AI Writing",
+        "originalText": "AI Writing",
+        "url": "ai-writing-tools/",
+        "originalUrl": "ai-writing-tools/"
+      },
+      {
+        "text": "E-commerce",
+        "originalText": "E-commerce",
+        "url": "ecommerce-tools/",
+        "originalUrl": "ecommerce-tools/"
+      },
+      {
+        "text": "Social Media",
+        "originalText": "Social Media",
+        "url": "social-media-tools/",
+        "originalUrl": "social-media-tools/"
+      },
+      {
+        "text": "How It Works",
+        "originalText": "How It Works",
+        "url": "how-it-works/",
+        "originalUrl": "how-it-works/"
+      },
+      {
+        "text": "Is It Safe?",
+        "originalText": "Is It Safe?",
+        "url": "is-it-safe/",
+        "originalUrl": "is-it-safe/"
+      },
+      {
+        "text": "Is It Legal?",
+        "originalText": "Is It Legal?",
+        "url": "is-it-legal/",
+        "originalUrl": "is-it-legal/"
+      },
+      {
+        "text": "FAQ",
+        "originalText": "FAQ",
+        "url": "faq/",
+        "originalUrl": "faq/"
+      },
+      {
+        "text": "Best Providers",
+        "originalText": "Best Providers",
+        "url": "best-providers/",
+        "originalUrl": "best-providers/"
+      },
+      {
+        "text": "Pricing",
+        "originalText": "Pricing",
+        "url": "pricing/",
+        "originalUrl": "pricing/"
+      },
+      {
+        "text": "Keyword Research",
+        "originalText": "Keyword Research",
+        "url": "guides/keyword-research/",
+        "originalUrl": "guides/keyword-research/"
+      },
+      {
+        "text": "Backlink Analysis",
+        "originalText": "Backlink Analysis",
+        "url": "guides/backlink-analysis/",
+        "originalUrl": "guides/backlink-analysis/"
+      },
+      {
+        "text": "Technical SEO Audit",
+        "originalText": "Technical SEO Audit",
+        "url": "guides/technical-seo-audit/",
+        "originalUrl": "guides/technical-seo-audit/"
+      },
+      {
+        "text": "Content Optimization",
+        "originalText": "Content Optimization",
+        "url": "guides/content-optimization/",
+        "originalUrl": "guides/content-optimization/"
+      },
+      {
+        "text": "PPC Research",
+        "originalText": "PPC Research",
+        "url": "guides/ppc-ad-spy-research/",
+        "originalUrl": "guides/ppc-ad-spy-research/"
+      },
+      {
+        "text": "Amazon Selling",
+        "originalText": "Amazon Selling",
+        "url": "guides/ecommerce-product-research/",
+        "originalUrl": "guides/ecommerce-product-research/"
+      },
+      {
+        "text": "Are They Legitimate?",
+        "originalText": "Are They Legitimate?",
+        "url": "trust/why-seo-tools-expensive/",
+        "originalUrl": "trust/why-seo-tools-expensive/"
+      },
+      {
+        "text": "Choose Provider",
+        "originalText": "Choose Provider",
+        "url": "trust/choose-provider/",
+        "originalUrl": "trust/choose-provider/"
+      },
+      {
+        "text": "Avoid Scams",
+        "originalText": "Avoid Scams",
+        "url": "trust/scams-to-avoid/",
+        "originalUrl": "trust/scams-to-avoid/"
+      },
+      {
+        "text": "Tool Downtime",
+        "originalText": "Tool Downtime",
+        "url": "trust/tool-downtime/",
+        "originalUrl": "trust/tool-downtime/"
+      },
+      {
+        "text": "Countries",
+        "originalText": "Countries",
+        "url": "trust/countries/",
+        "originalUrl": "trust/countries/"
+      },
+      {
+        "text": "Privacy Policy",
+        "originalText": "Privacy Policy",
+        "url": "privacy-policy/",
+        "originalUrl": "privacy-policy/"
+      },
+      {
+        "text": "Terms",
+        "originalText": "Terms",
+        "url": "terms/",
+        "originalUrl": "terms/"
+      }
+    ],
+    "headerLogo": "assets/images/logo-header.png",
+    "originalHeaderLogo": "assets/images/logo-header.png",
+    "footerLogo": "assets/images/logo-header.png",
+    "originalFooterLogo": "assets/images/logo-header.png",
+    "footerText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
+    "originalFooterText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
+  },
+  "originalSiteName": "SEO Group Buy Tools"
 }
