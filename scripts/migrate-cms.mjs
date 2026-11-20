@@ -79,5 +79,27 @@ for (const file of files) {
   prices+=page.priceValues?.length||0;
   fs.writeFileSync(file,JSON.stringify(page,null,2)+'\n');
 }
+
+const settingsFile='content/settings.json';
+const settings=JSON.parse(fs.readFileSync(settingsFile,'utf8'));
+if(!settings.siteChrome) {
+  const html=JSON.parse(fs.readFileSync('content/homepage.json','utf8')).html;
+  const region = name => html.match(new RegExp('<'+name+'\\b[^>]*>[\\s\\S]*?<\\/'+name+'>','i'))?.[0]||'';
+  const header=region('header'),footer=region('footer');
+  const links = source => [...source.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)]
+    .filter(m=>plain(m[2]) && !/<(img|svg|div|ul|li|span)\b/i.test(m[2]))
+    .map(m=>({text:plain(m[2]),originalText:plain(m[2]),url:m[1],originalUrl:m[1]}));
+  const logo = source => source.match(/<img\b[^>]*src="([^"]*)"[^>]*>/i)?.[1]||'';
+  const footerText = plain(footer.match(/<p\b[^>]*>([\s\S]*?)<\/p>/i)?.[1]||'');
+  settings.siteChrome={
+    headerLinks:links(header),footerLinks:links(footer),
+    headerLogo:logo(header),originalHeaderLogo:logo(header),
+    footerLogo:logo(footer),originalFooterLogo:logo(footer),
+    footerText,originalFooterText:footerText
+  };
+}
+settings.originalSiteName ??= settings.siteName;
+fs.writeFileSync(settingsFile,JSON.stringify(settings,null,2)+'\n');
+
 assert.equal(files.length,72);
 console.log(JSON.stringify({pages:files.length,groups,items,images,buttons,prices,originalMarkupPreserved:true}));
