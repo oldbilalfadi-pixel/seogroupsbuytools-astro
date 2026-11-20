@@ -6,6 +6,9 @@ on:
       - .github/workflows/migrate-cms.yml
       - scripts/migrate-cms.mjs
   workflow_dispatch:
+concurrency:
+  group: cms-content-migration-main
+  cancel-in-progress: false
 permissions:
   contents: write
 jobs:
@@ -42,6 +45,8 @@ jobs:
           assert.ok(changed>100);
           console.log('Verified '+count+' pages, '+changed+' editable sections; source HTML unchanged.');
           JS
+      - name: Validate all website sections, pricing, images, cards and global navigation
+        run: node scripts/verify-cms.mjs
       - name: Install and build Astro
         run: |
           npm install --no-audit --no-fund
@@ -52,6 +57,12 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add content/
           if ! git diff --cached --quiet; then
-            git commit -m "Convert all existing pages to editable CMS JSON sections"
-            git push
+            git commit -m "Complete all website editable CMS content"
+            for attempt in 1 2 3 4 5; do
+              if git push origin HEAD:main; then exit 0; fi
+              git fetch origin main
+              git rebase origin/main
+            done
+            echo "Could not push migration after 5 retries"
+            exit 1
           fi
