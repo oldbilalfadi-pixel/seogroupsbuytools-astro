@@ -21,7 +21,17 @@ export async function getStaticPaths() {
 const { page } = Astro.props;
 let renderedHtml = page.html;
 for (const section of page.sections || []) {
-  if (typeof section.content !== 'string' || section.content === section.original || !section.source) continue;
+  if (!section.source) continue;
+  if (typeof section.text === 'string' && section.text !== section.originalText) {
+    const openTag = section.source.match(/^<[^>]+>/)?.[0];
+    const closeTag = section.source.match(/<\\/[^>]+>$/)?.[0];
+    if (openTag && closeTag) {
+      const safe = section.text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      renderedHtml = renderedHtml.replace(section.source, openTag + safe + closeTag);
+    }
+    continue;
+  }
+  if (typeof section.content !== 'string' || section.content === section.original) continue;
   const open = section.source.match(/^<[^>]+>/)?.[0];
   const close = section.source.match(/<\/[^>]+>$/)?.[0];
   if (!open || !close) continue;
