@@ -5,6 +5,7 @@ on:
     paths:
       - .github/workflows/migrate-cms.yml
       - scripts/migrate-cms.mjs
+      - scripts/verify-cms.mjs
   workflow_dispatch:
 concurrency:
   group: cms-content-migration-main
