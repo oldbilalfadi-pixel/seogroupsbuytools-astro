@@ -1,5 +1,6 @@
 ---
 import renderPage from '../lib/render.js';
+import renderBlog from '../lib/blog.js';
 export async function getStaticPaths() {
   const fs = await import('node:fs');
   const path = await import('node:path');
@@ -9,11 +10,19 @@ export async function getStaticPaths() {
       const file = path.join(dir, entry.name);
       if (entry.isDirectory()) return allPages(file);
       if (!entry.name.endsWith('.json') || entry.name === 'settings.json') return [];
+      if(file.startsWith(path.join(root,'posts')+path.sep))return [];
       return [JSON.parse(fs.readFileSync(file, 'utf8'))];
     });
   }
   const settings=JSON.parse(fs.readFileSync(path.join(root,'settings.json'),'utf8'));
-  return allPages(root)
+  const postsDir=path.join(root,'posts');
+  const template=JSON.parse(fs.readFileSync(path.join(root,'pages','guides__keyword-research.json'),'utf8')).html;
+  const posts=fs.existsSync(postsDir)?fs.readdirSync(postsDir).filter(name=>name.endsWith('.json')).map(name=>{
+    const slug=name.slice(0,-5);
+    const post=JSON.parse(fs.readFileSync(path.join(postsDir,name),'utf8'));
+    return renderBlog(post,slug,template,settings.siteUrl);
+  }):[];
+  return [...allPages(root),...posts]
     .filter(page => typeof page.route === 'string' && typeof page.html === 'string' && page.route !== '/404/')
     .map(page => ({
       params: { slug: page.route === '/' ? undefined : page.route.replace(/^\/|\/$/g, '') },
