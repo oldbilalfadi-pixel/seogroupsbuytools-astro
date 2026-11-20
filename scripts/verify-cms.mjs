@@ -4,7 +4,7 @@ import path from 'node:path';
 import renderPage from '../src/lib/render.js';
 const files=['content/homepage.json',...['products','pages'].flatMap(dir=>fs.readdirSync('content/'+dir).filter(x=>x.endsWith('.json')).map(f=>'content/'+dir+'/'+f))];
 const site=JSON.parse(fs.readFileSync('content/settings.json','utf8'));
-const totals={pages:0,groups:0,outsideGroups:0,editableText:0,buttons:0,cards:0,images:0,prices:0,seo:0,hero:0,global:0};
+const totals={pages:0,groups:0,outsideGroups:0,editableText:0,buttons:0,cards:0,images:0,prices:0,seo:0,hero:0,global:0,products:0,productFields:0};
 for (const file of files) {
   const page=JSON.parse(fs.readFileSync(file,'utf8'));
   assert.equal(renderPage(page,site),page.html,'Unedited page HTML changed: '+file);
@@ -27,6 +27,23 @@ for (const file of files) {
     const edit=structuredClone(page);
     [...edit.contentGroups,...edit.outsideGroups].flatMap(g=>g.items).find(e=>e.source===item.source).text='CMS PARAGRAPH VALIDATION';
     assert.ok(renderPage(edit).includes('CMS PARAGRAPH VALIDATION'),file+' text edit');
+  }
+  if(file.startsWith('content/products/')) {
+    const h=page.productHero;
+    assert.ok(h&&h.name&&h.description&&h.buttonUrl, file+' missing product details');
+    for(const [field,marker] of [['name','CMS PRODUCT NAME'],['description','CMS PRODUCT SUMMARY'],['price','CMS PRODUCT PRICE'],['buttonLabel','CMS BUY BUTTON'],['buttonUrl','/cms-product-checkout/'],['image','/assets/images/cms-product.png']]){
+      const edit=structuredClone(page);
+      edit.productHero[field]=marker;
+      assert.ok(renderPage(edit,site).includes(marker),file+' '+field+' edit');
+      totals.productFields++;
+    }
+    if(h.features?.length){
+      const edit=structuredClone(page);
+      edit.productHero.features[0].text='CMS FEATURE VALIDATION';
+      assert.ok(renderPage(edit,site).includes('CMS FEATURE VALIDATION'),file+' feature edit');
+      totals.productFields++;
+    }
+    totals.products++;
   }
   if (page.buttons?.length) {
     const edit=structuredClone(page);
@@ -81,6 +98,8 @@ for (const file of files) {
   totals.editableText+=[...page.contentGroups,...page.outsideGroups].reduce((n,g)=>n+g.items.length+(g.headingSource?1:0),0);
 }
 assert.equal(totals.pages,72);
+assert.equal(totals.products,30);
+assert.ok(totals.productFields>=180);
 assert.ok(totals.groups>100 && totals.outsideGroups>20 && totals.editableText>500 && totals.buttons>100 && totals.cards>50 && totals.images>50 && totals.prices>10);
 assert.ok(site.siteChrome?.headerLinks.length>5 && site.siteChrome?.footerLinks.length>5);
 for(const file of ['content/homepage.json','content/pages/pricing.json','content/products/seo-tools__ahrefs.json']){
@@ -88,5 +107,5 @@ for(const file of ['content/homepage.json','content/pages/pricing.json','content
 }
 const cms=fs.readFileSync('.pages.yml','utf8');
 assert.ok(!cms.includes('Section ID')&&!cms.includes('Original HTML')&&!cms.includes('editorContent'));
-assert.ok(cms.includes('summary: "{heading}"') && cms.includes('name: priceValues') && cms.includes('name: cardLinks') && cms.includes('name: outsideGroups'));
+assert.ok(cms.includes('summary: "{heading}"') && cms.includes('name: priceValues') && cms.includes('name: cardLinks') && cms.includes('name: outsideGroups') && cms.includes('name: productHero'));
 console.log('CMS validated:',JSON.stringify(totals));
