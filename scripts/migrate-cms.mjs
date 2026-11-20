@@ -28,6 +28,8 @@ for(const group of ['products','pages']){
       }
     }
     for(const s of page.sections){s.originalText ??= plain(s.original||s.content);s.text ??= s.originalText;}
+    page.links ??= [...page.html.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)].filter(m=>!/<[a-z]/i.test(m[2])).map((m,i)=>({url:m[1],originalUrl:m[1],text:plain(m[2]),originalText:plain(m[2]),source:m[0]}));
+    page.images ??= [...page.html.matchAll(/<img\b[^>]*>/gi)].map(m=>({source:m[0],src:m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',originalSrc:m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',alt:m[0].match(/\balt="([^"]*)"/i)?.[1]||'',originalAlt:m[0].match(/\balt="([^"]*)"/i)?.[1]||''}));
     sections+=page.sections.length;
     fs.writeFileSync(file,JSON.stringify(page,null,2)+'\n');
     changed++;
@@ -49,5 +51,7 @@ if(!home.sections.length){
   }
 }
 for(const s of home.sections){s.originalText ??= plain(s.original||s.content);s.text ??= s.originalText;}
+home.links ??= [...home.html.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)].filter(m=>!/<[a-z]/i.test(m[2])).map(m=>({url:m[1],originalUrl:m[1],text:plain(m[2]),originalText:plain(m[2]),source:m[0]}));
+home.images ??= [...home.html.matchAll(/<img\b[^>]*>/gi)].map(m=>({source:m[0],src:m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',originalSrc:m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',alt:m[0].match(/\balt="([^"]*)"/i)?.[1]||'',originalAlt:m[0].match(/\balt="([^"]*)"/i)?.[1]||''}));
 fs.writeFileSync(homeFile,JSON.stringify(home,null,2)+'\n');
 console.log(JSON.stringify({pages:changed+1,sections:sections+home.sections.length}));
