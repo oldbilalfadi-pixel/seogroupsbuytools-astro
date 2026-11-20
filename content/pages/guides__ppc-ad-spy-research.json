@@ -13,721 +13,1302 @@
       "label": "LI 1",
       "content": "<a href=\"../../\">Home</a>",
       "original": "<a href=\"../../\">Home</a>",
-      "source": "<li><a href=\"../../\">Home</a></li>"
+      "source": "<li><a href=\"../../\">Home</a></li>",
+      "originalText": "Home",
+      "text": "Home"
     },
     {
       "key": "li-2",
       "label": "LI 2",
       "content": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "Tools ▾ SEO Tools",
+      "text": "Tools ▾ SEO Tools"
     },
     {
       "key": "li-3",
       "label": "LI 3",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-4",
       "label": "LI 4",
       "content": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
       "original": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>",
+      "originalText": "Spy & Ad Intelligence",
+      "text": "Spy & Ad Intelligence"
     },
     {
       "key": "li-5",
       "label": "LI 5",
       "content": "<a href=\"../../ai-writing-tools/\">AI Writing Tools</a>",
       "original": "<a href=\"../../ai-writing-tools/\">AI Writing Tools</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing Tools</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing Tools</a></li>",
+      "originalText": "AI Writing Tools",
+      "text": "AI Writing Tools"
     },
     {
       "key": "li-6",
       "label": "LI 6",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>",
+      "originalText": "E-commerce Tools",
+      "text": "E-commerce Tools"
     },
     {
       "key": "li-7",
       "label": "LI 7",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "li-8",
       "label": "LI 8",
       "content": "<a href=\"../../education-tools/\">Education</a>",
       "original": "<a href=\"../../education-tools/\">Education</a>",
-      "source": "<li><a href=\"../../education-tools/\">Education</a></li>"
+      "source": "<li><a href=\"../../education-tools/\">Education</a></li>",
+      "originalText": "Education",
+      "text": "Education"
     },
     {
       "key": "li-9",
       "label": "LI 9",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "li-10",
       "label": "LI 10",
       "content": "<a href=\"../../best-providers/\">Providers</a>",
       "original": "<a href=\"../../best-providers/\">Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>",
+      "originalText": "Providers",
+      "text": "Providers"
     },
     {
       "key": "li-11",
       "label": "LI 11",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-12",
       "label": "LI 12",
       "content": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
       "original": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
-      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>"
+      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>",
+      "originalText": "Get Started",
+      "text": "Get Started"
     },
     {
       "key": "h1-1",
       "label": "H1 1",
       "content": "PPC &amp; Ad Spy Research with Group Buy Tools",
       "original": "PPC &amp; Ad Spy Research with Group Buy Tools",
-      "source": "<h1>PPC &amp; Ad Spy Research with Group Buy Tools</h1>"
+      "source": "<h1>PPC &amp; Ad Spy Research with Group Buy Tools</h1>",
+      "originalText": "PPC & Ad Spy Research with Group Buy Tools",
+      "text": "PPC & Ad Spy Research with Group Buy Tools"
     },
     {
       "key": "h2-1",
       "label": "H2 1",
       "content": "How Do You Use SEO Group Buy Tools for PPC Research?",
       "original": "How Do You Use SEO Group Buy Tools for PPC Research?",
-      "source": "<h2>How Do You Use SEO Group Buy Tools for PPC Research?</h2>"
+      "source": "<h2>How Do You Use SEO Group Buy Tools for PPC Research?</h2>",
+      "originalText": "How Do You Use SEO Group Buy Tools for PPC Research?",
+      "text": "How Do You Use SEO Group Buy Tools for PPC Research?"
     },
     {
       "key": "p-1",
       "label": "P 1",
       "content": "PPC research and paid advertising benefit enormously from premium competitive intelligence tools, and SEO Group Buy Tools make these expensive platforms accessible. This guide covers how to use group buy tools for PPC keyword research, competitor ad analysis, and bid optimization strategies.",
       "original": "PPC research and paid advertising benefit enormously from premium competitive intelligence tools, and SEO Group Buy Tools make these expensive platforms accessible. This guide covers how to use group buy tools for PPC keyword research, competitor ad analysis, and bid optimization strategies.",
-      "source": "<p class=\"answer-snippet\">PPC research and paid advertising benefit enormously from premium competitive intelligence tools, and SEO Group Buy Tools make these expensive platforms accessible. This guide covers how to use group buy tools for PPC keyword research, competitor ad analysis, and bid optimization strategies.</p>"
+      "source": "<p class=\"answer-snippet\">PPC research and paid advertising benefit enormously from premium competitive intelligence tools, and SEO Group Buy Tools make these expensive platforms accessible. This guide covers how to use group buy tools for PPC keyword research, competitor ad analysis, and bid optimization strategies.</p>",
+      "originalText": "PPC research and paid advertising benefit enormously from premium competitive intelligence tools, and SEO Group Buy Tools make these expensive platforms accessible. This guide covers how to use group buy tools for PPC keyword research, competitor ad analysis, and bid optimization strategies.",
+      "text": "PPC research and paid advertising benefit enormously from premium competitive intelligence tools, and SEO Group Buy Tools make these expensive platforms accessible. This guide covers how to use group buy tools for PPC keyword research, competitor ad analysis, and bid optimization strategies."
     },
     {
       "key": "h2-2",
       "label": "H2 2",
       "content": "Which Tools Help with PPC Research?",
       "original": "Which Tools Help with PPC Research?",
-      "source": "<h2>Which Tools Help with PPC Research?</h2>"
+      "source": "<h2>Which Tools Help with PPC Research?</h2>",
+      "originalText": "Which Tools Help with PPC Research?",
+      "text": "Which Tools Help with PPC Research?"
     },
     {
       "key": "p-2",
       "label": "P 2",
       "content": "SpyFu specializes in competitor PPC intelligence, SEMrush Advertising Research reveals competitor ad strategies and budgets, and Ahrefs provides keyword data that informs both SEO and PPC bid decisions. SpyFu is the premier tool for PPC competitive intelligence.",
       "original": "SpyFu specializes in competitor PPC intelligence, SEMrush Advertising Research reveals competitor ad strategies and budgets, and Ahrefs provides keyword data that informs both SEO and PPC bid decisions. SpyFu is the premier tool for PPC competitive intelligence.",
-      "source": "<p class=\"answer-snippet\">SpyFu specializes in competitor PPC intelligence, SEMrush Advertising Research reveals competitor ad strategies and budgets, and Ahrefs provides keyword data that informs both SEO and PPC bid decisions. SpyFu is the premier tool for PPC competitive intelligence.</p>"
+      "source": "<p class=\"answer-snippet\">SpyFu specializes in competitor PPC intelligence, SEMrush Advertising Research reveals competitor ad strategies and budgets, and Ahrefs provides keyword data that informs both SEO and PPC bid decisions. SpyFu is the premier tool for PPC competitive intelligence.</p>",
+      "originalText": "SpyFu specializes in competitor PPC intelligence, SEMrush Advertising Research reveals competitor ad strategies and budgets, and Ahrefs provides keyword data that informs both SEO and PPC bid decisions. SpyFu is the premier tool for PPC competitive intelligence.",
+      "text": "SpyFu specializes in competitor PPC intelligence, SEMrush Advertising Research reveals competitor ad strategies and budgets, and Ahrefs provides keyword data that informs both SEO and PPC bid decisions. SpyFu is the premier tool for PPC competitive intelligence."
     },
     {
       "key": "p-3",
       "label": "P 3",
       "content": "It reveals every keyword your competitors have bid on historically, their ad copy variations, estimated monthly ad spend, and landing page strategies. This historical data spans years, showing which keywords competitors invest in consistently versus test briefly.",
       "original": "It reveals every keyword your competitors have bid on historically, their ad copy variations, estimated monthly ad spend, and landing page strategies. This historical data spans years, showing which keywords competitors invest in consistently versus test briefly.",
-      "source": "<p>It reveals every keyword your competitors have bid on historically, their ad copy variations, estimated monthly ad spend, and landing page strategies. This historical data spans years, showing which keywords competitors invest in consistently versus test briefly.</p>"
+      "source": "<p>It reveals every keyword your competitors have bid on historically, their ad copy variations, estimated monthly ad spend, and landing page strategies. This historical data spans years, showing which keywords competitors invest in consistently versus test briefly.</p>",
+      "originalText": "It reveals every keyword your competitors have bid on historically, their ad copy variations, estimated monthly ad spend, and landing page strategies. This historical data spans years, showing which keywords competitors invest in consistently versus test briefly.",
+      "text": "It reveals every keyword your competitors have bid on historically, their ad copy variations, estimated monthly ad spend, and landing page strategies. This historical data spans years, showing which keywords competitors invest in consistently versus test briefly."
     },
     {
       "key": "p-4",
       "label": "P 4",
       "content": "SEMrush&#x27;s Advertising Research toolkit provides real-time competitor ad analysis, including display ads, PLA data, and ad copy performance. Its Keyword Magic Tool includes CPC and competitive density metrics essential for PPC planning.",
       "original": "SEMrush&#x27;s Advertising Research toolkit provides real-time competitor ad analysis, including display ads, PLA data, and ad copy performance. Its Keyword Magic Tool includes CPC and competitive density metrics essential for PPC planning.",
-      "source": "<p>SEMrush&#x27;s Advertising Research toolkit provides real-time competitor ad analysis, including display ads, PLA data, and ad copy performance. Its Keyword Magic Tool includes CPC and competitive density metrics essential for PPC planning.</p>"
+      "source": "<p>SEMrush&#x27;s Advertising Research toolkit provides real-time competitor ad analysis, including display ads, PLA data, and ad copy performance. Its Keyword Magic Tool includes CPC and competitive density metrics essential for PPC planning.</p>",
+      "originalText": "SEMrush&#x27;s Advertising Research toolkit provides real-time competitor ad analysis, including display ads, PLA data, and ad copy performance. Its Keyword Magic Tool includes CPC and competitive density metrics essential for PPC planning.",
+      "text": "SEMrush&#x27;s Advertising Research toolkit provides real-time competitor ad analysis, including display ads, PLA data, and ad copy performance. Its Keyword Magic Tool includes CPC and competitive density metrics essential for PPC planning."
     },
     {
       "key": "p-5",
       "label": "P 5",
       "content": "The Advertising Research report shows which keywords drive the most traffic to competitors. Ahrefs contributes keyword difficulty and click data that informs PPC decisions. Keywords with high organic difficulty but moderate CPC represent prime PPC opportunities.",
       "original": "The Advertising Research report shows which keywords drive the most traffic to competitors. Ahrefs contributes keyword difficulty and click data that informs PPC decisions. Keywords with high organic difficulty but moderate CPC represent prime PPC opportunities.",
-      "source": "<p>The Advertising Research report shows which keywords drive the most traffic to competitors. Ahrefs contributes keyword difficulty and click data that informs PPC decisions. Keywords with high organic difficulty but moderate CPC represent prime PPC opportunities.</p>"
+      "source": "<p>The Advertising Research report shows which keywords drive the most traffic to competitors. Ahrefs contributes keyword difficulty and click data that informs PPC decisions. Keywords with high organic difficulty but moderate CPC represent prime PPC opportunities.</p>",
+      "originalText": "The Advertising Research report shows which keywords drive the most traffic to competitors. Ahrefs contributes keyword difficulty and click data that informs PPC decisions. Keywords with high organic difficulty but moderate CPC represent prime PPC opportunities.",
+      "text": "The Advertising Research report shows which keywords drive the most traffic to competitors. Ahrefs contributes keyword difficulty and click data that informs PPC decisions. Keywords with high organic difficulty but moderate CPC represent prime PPC opportunities."
     },
     {
       "key": "p-6",
       "label": "P 6",
       "content": "The click distribution data shows whether users actually click on ads for specific queries or skip to organic results.",
       "original": "The click distribution data shows whether users actually click on ads for specific queries or skip to organic results.",
-      "source": "<p>The click distribution data shows whether users actually click on ads for specific queries or skip to organic results.</p>"
+      "source": "<p>The click distribution data shows whether users actually click on ads for specific queries or skip to organic results.</p>",
+      "originalText": "The click distribution data shows whether users actually click on ads for specific queries or skip to organic results.",
+      "text": "The click distribution data shows whether users actually click on ads for specific queries or skip to organic results."
     },
     {
       "key": "p-7",
       "label": "P 7",
       "content": "Tool PPC Feature Data Type Group Buy Access SpyFu Competitor ad history Keywords + ad copy Good SEMrush Advertising Research Spend + keywords Reliable Ahrefs Click data + CPC Keyword value Good iSpionage Landing page analysis Ad + landing page Moderate SEMrush PLA Shopping ad data Product listings Reliable",
       "original": "Tool PPC Feature Data Type Group Buy Access SpyFu Competitor ad history Keywords + ad copy Good SEMrush Advertising Research Spend + keywords Reliable Ahrefs Click data + CPC Keyword value Good iSpionage Landing page analysis Ad + landing page Moderate SEMrush PLA Shopping ad data Product listings Reliable",
-      "source": "<p>Tool PPC Feature Data Type Group Buy Access SpyFu Competitor ad history Keywords + ad copy Good SEMrush Advertising Research Spend + keywords Reliable Ahrefs Click data + CPC Keyword value Good iSpionage Landing page analysis Ad + landing page Moderate SEMrush PLA Shopping ad data Product listings Reliable</p>"
+      "source": "<p>Tool PPC Feature Data Type Group Buy Access SpyFu Competitor ad history Keywords + ad copy Good SEMrush Advertising Research Spend + keywords Reliable Ahrefs Click data + CPC Keyword value Good iSpionage Landing page analysis Ad + landing page Moderate SEMrush PLA Shopping ad data Product listings Reliable</p>",
+      "originalText": "Tool PPC Feature Data Type Group Buy Access SpyFu Competitor ad history Keywords + ad copy Good SEMrush Advertising Research Spend + keywords Reliable Ahrefs Click data + CPC Keyword value Good iSpionage Landing page analysis Ad + landing page Moderate SEMrush PLA Shopping ad data Product listings Reliable",
+      "text": "Tool PPC Feature Data Type Group Buy Access SpyFu Competitor ad history Keywords + ad copy Good SEMrush Advertising Research Spend + keywords Reliable Ahrefs Click data + CPC Keyword value Good iSpionage Landing page analysis Ad + landing page Moderate SEMrush PLA Shopping ad data Product listings Reliable"
     },
     {
       "key": "h2-3",
       "label": "H2 3",
       "content": "How Do You Spy on Competitor Ads?",
       "original": "How Do You Spy on Competitor Ads?",
-      "source": "<h2>How Do You Spy on Competitor Ads?</h2>"
+      "source": "<h2>How Do You Spy on Competitor Ads?</h2>",
+      "originalText": "How Do You Spy on Competitor Ads?",
+      "text": "How Do You Spy on Competitor Ads?"
     },
     {
       "key": "p-8",
       "label": "P 8",
       "content": "Enter competitor domains in SpyFu to see their full PPC keyword history, ad copy variations, estimated spend, and landing pages, then use SEMrush Advertising Research to validate and expand the findings. Start with SpyFu by entering your top 3–5 competitor domains.",
       "original": "Enter competitor domains in SpyFu to see their full PPC keyword history, ad copy variations, estimated spend, and landing pages, then use SEMrush Advertising Research to validate and expand the findings. Start with SpyFu by entering your top 3–5 competitor domains.",
-      "source": "<p class=\"answer-snippet\">Enter competitor domains in SpyFu to see their full PPC keyword history, ad copy variations, estimated spend, and landing pages, then use SEMrush Advertising Research to validate and expand the findings. Start with SpyFu by entering your top 3–5 competitor domains.</p>"
+      "source": "<p class=\"answer-snippet\">Enter competitor domains in SpyFu to see their full PPC keyword history, ad copy variations, estimated spend, and landing pages, then use SEMrush Advertising Research to validate and expand the findings. Start with SpyFu by entering your top 3–5 competitor domains.</p>",
+      "originalText": "Enter competitor domains in SpyFu to see their full PPC keyword history, ad copy variations, estimated spend, and landing pages, then use SEMrush Advertising Research to validate and expand the findings. Start with SpyFu by entering your top 3–5 competitor domains.",
+      "text": "Enter competitor domains in SpyFu to see their full PPC keyword history, ad copy variations, estimated spend, and landing pages, then use SEMrush Advertising Research to validate and expand the findings. Start with SpyFu by entering your top 3–5 competitor domains."
     },
     {
       "key": "p-9",
       "label": "P 9",
       "content": "The Kombat tool shows shared and unique keywords across competitors. The Ad History feature displays every ad variation they have tested over months or years, revealing which messaging approaches perform best. Study the longest-running ads as they indicate proven performers.",
       "original": "The Kombat tool shows shared and unique keywords across competitors. The Ad History feature displays every ad variation they have tested over months or years, revealing which messaging approaches perform best. Study the longest-running ads as they indicate proven performers.",
-      "source": "<p>The Kombat tool shows shared and unique keywords across competitors. The Ad History feature displays every ad variation they have tested over months or years, revealing which messaging approaches perform best. Study the longest-running ads as they indicate proven performers.</p>"
+      "source": "<p>The Kombat tool shows shared and unique keywords across competitors. The Ad History feature displays every ad variation they have tested over months or years, revealing which messaging approaches perform best. Study the longest-running ads as they indicate proven performers.</p>",
+      "originalText": "The Kombat tool shows shared and unique keywords across competitors. The Ad History feature displays every ad variation they have tested over months or years, revealing which messaging approaches perform best. Study the longest-running ads as they indicate proven performers.",
+      "text": "The Kombat tool shows shared and unique keywords across competitors. The Ad History feature displays every ad variation they have tested over months or years, revealing which messaging approaches perform best. Study the longest-running ads as they indicate proven performers."
     },
     {
       "key": "p-10",
       "label": "P 10",
       "content": "Cross-reference SpyFu data with SEMrush&#x27;s Advertising Research report. Enter the same competitor domains and compare the keyword lists for consistency. SEMrush shows the estimated monthly ad spend, traffic cost, and current ad positions.",
       "original": "Cross-reference SpyFu data with SEMrush&#x27;s Advertising Research report. Enter the same competitor domains and compare the keyword lists for consistency. SEMrush shows the estimated monthly ad spend, traffic cost, and current ad positions.",
-      "source": "<p>Cross-reference SpyFu data with SEMrush&#x27;s Advertising Research report. Enter the same competitor domains and compare the keyword lists for consistency. SEMrush shows the estimated monthly ad spend, traffic cost, and current ad positions.</p>"
+      "source": "<p>Cross-reference SpyFu data with SEMrush&#x27;s Advertising Research report. Enter the same competitor domains and compare the keyword lists for consistency. SEMrush shows the estimated monthly ad spend, traffic cost, and current ad positions.</p>",
+      "originalText": "Cross-reference SpyFu data with SEMrush&#x27;s Advertising Research report. Enter the same competitor domains and compare the keyword lists for consistency. SEMrush shows the estimated monthly ad spend, traffic cost, and current ad positions.",
+      "text": "Cross-reference SpyFu data with SEMrush&#x27;s Advertising Research report. Enter the same competitor domains and compare the keyword lists for consistency. SEMrush shows the estimated monthly ad spend, traffic cost, and current ad positions."
     },
     {
       "key": "p-11",
       "label": "P 11",
       "content": "Discrepancies between tools help identify keywords where competitors are increasing or decreasing investment. Analyze competitor landing pages by clicking through their current ads. Document the offer structure, call-to-action language, trust elements, and conversion mechanisms.",
       "original": "Discrepancies between tools help identify keywords where competitors are increasing or decreasing investment. Analyze competitor landing pages by clicking through their current ads. Document the offer structure, call-to-action language, trust elements, and conversion mechanisms.",
-      "source": "<p>Discrepancies between tools help identify keywords where competitors are increasing or decreasing investment. Analyze competitor landing pages by clicking through their current ads. Document the offer structure, call-to-action language, trust elements, and conversion mechanisms.</p>"
+      "source": "<p>Discrepancies between tools help identify keywords where competitors are increasing or decreasing investment. Analyze competitor landing pages by clicking through their current ads. Document the offer structure, call-to-action language, trust elements, and conversion mechanisms.</p>",
+      "originalText": "Discrepancies between tools help identify keywords where competitors are increasing or decreasing investment. Analyze competitor landing pages by clicking through their current ads. Document the offer structure, call-to-action language, trust elements, and conversion mechanisms.",
+      "text": "Discrepancies between tools help identify keywords where competitors are increasing or decreasing investment. Analyze competitor landing pages by clicking through their current ads. Document the offer structure, call-to-action language, trust elements, and conversion mechanisms."
     },
     {
       "key": "p-12",
       "label": "P 12",
       "content": "The best ad copy in the world fails with a weak landing page. Understanding the full competitor funnel from keyword to conversion gives you a complete competitive picture.",
       "original": "The best ad copy in the world fails with a weak landing page. Understanding the full competitor funnel from keyword to conversion gives you a complete competitive picture.",
-      "source": "<p>The best ad copy in the world fails with a weak landing page. Understanding the full competitor funnel from keyword to conversion gives you a complete competitive picture.</p>"
+      "source": "<p>The best ad copy in the world fails with a weak landing page. Understanding the full competitor funnel from keyword to conversion gives you a complete competitive picture.</p>",
+      "originalText": "The best ad copy in the world fails with a weak landing page. Understanding the full competitor funnel from keyword to conversion gives you a complete competitive picture.",
+      "text": "The best ad copy in the world fails with a weak landing page. Understanding the full competitor funnel from keyword to conversion gives you a complete competitive picture."
     },
     {
       "key": "p-13",
       "label": "P 13",
       "content": "Intelligence Type Tool What You Learn Action to Take Keyword Targets SpyFu Kombat Which keywords they bid on Add to your campaign Ad Copy SpyFu Ad History Winning messaging Test similar angles Ad Spend SEMrush Ads Research Estimated budget Budget benchmarking Landing Pages Manual + SpyFu Conversion strategy Improve your pages Shared Keywords SpyFu Kombat Competitive overlap Identify battlegrounds",
       "original": "Intelligence Type Tool What You Learn Action to Take Keyword Targets SpyFu Kombat Which keywords they bid on Add to your campaign Ad Copy SpyFu Ad History Winning messaging Test similar angles Ad Spend SEMrush Ads Research Estimated budget Budget benchmarking Landing Pages Manual + SpyFu Conversion strategy Improve your pages Shared Keywords SpyFu Kombat Competitive overlap Identify battlegrounds",
-      "source": "<p>Intelligence Type Tool What You Learn Action to Take Keyword Targets SpyFu Kombat Which keywords they bid on Add to your campaign Ad Copy SpyFu Ad History Winning messaging Test similar angles Ad Spend SEMrush Ads Research Estimated budget Budget benchmarking Landing Pages Manual + SpyFu Conversion strategy Improve your pages Shared Keywords SpyFu Kombat Competitive overlap Identify battlegrounds</p>"
+      "source": "<p>Intelligence Type Tool What You Learn Action to Take Keyword Targets SpyFu Kombat Which keywords they bid on Add to your campaign Ad Copy SpyFu Ad History Winning messaging Test similar angles Ad Spend SEMrush Ads Research Estimated budget Budget benchmarking Landing Pages Manual + SpyFu Conversion strategy Improve your pages Shared Keywords SpyFu Kombat Competitive overlap Identify battlegrounds</p>",
+      "originalText": "Intelligence Type Tool What You Learn Action to Take Keyword Targets SpyFu Kombat Which keywords they bid on Add to your campaign Ad Copy SpyFu Ad History Winning messaging Test similar angles Ad Spend SEMrush Ads Research Estimated budget Budget benchmarking Landing Pages Manual + SpyFu Conversion strategy Improve your pages Shared Keywords SpyFu Kombat Competitive overlap Identify battlegrounds",
+      "text": "Intelligence Type Tool What You Learn Action to Take Keyword Targets SpyFu Kombat Which keywords they bid on Add to your campaign Ad Copy SpyFu Ad History Winning messaging Test similar angles Ad Spend SEMrush Ads Research Estimated budget Budget benchmarking Landing Pages Manual + SpyFu Conversion strategy Improve your pages Shared Keywords SpyFu Kombat Competitive overlap Identify battlegrounds"
     },
     {
       "key": "h2-4",
       "label": "H2 4",
       "content": "How Do You Find Profitable Keywords for PPC?",
       "original": "How Do You Find Profitable Keywords for PPC?",
-      "source": "<h2>How Do You Find Profitable Keywords for PPC?</h2>"
+      "source": "<h2>How Do You Find Profitable Keywords for PPC?</h2>",
+      "originalText": "How Do You Find Profitable Keywords for PPC?",
+      "text": "How Do You Find Profitable Keywords for PPC?"
     },
     {
       "key": "p-14",
       "label": "P 14",
       "content": "Find profitable PPC keywords by using SpyFu to discover proven competitor keywords, SEMrush to filter by CPC and search volume, and Ahrefs to identify keywords with high ad click rates indicating commercial intent. The most profitable PPC keywords are those your competitors consistently bid on over time.",
       "original": "Find profitable PPC keywords by using SpyFu to discover proven competitor keywords, SEMrush to filter by CPC and search volume, and Ahrefs to identify keywords with high ad click rates indicating commercial intent. The most profitable PPC keywords are those your competitors consistently bid on over time.",
-      "source": "<p class=\"answer-snippet\">Find profitable PPC keywords by using SpyFu to discover proven competitor keywords, SEMrush to filter by CPC and search volume, and Ahrefs to identify keywords with high ad click rates indicating commercial intent. The most profitable PPC keywords are those your competitors consistently bid on over time.</p>"
+      "source": "<p class=\"answer-snippet\">Find profitable PPC keywords by using SpyFu to discover proven competitor keywords, SEMrush to filter by CPC and search volume, and Ahrefs to identify keywords with high ad click rates indicating commercial intent. The most profitable PPC keywords are those your competitors consistently bid on over time.</p>",
+      "originalText": "Find profitable PPC keywords by using SpyFu to discover proven competitor keywords, SEMrush to filter by CPC and search volume, and Ahrefs to identify keywords with high ad click rates indicating commercial intent. The most profitable PPC keywords are those your competitors consistently bid on over time.",
+      "text": "Find profitable PPC keywords by using SpyFu to discover proven competitor keywords, SEMrush to filter by CPC and search volume, and Ahrefs to identify keywords with high ad click rates indicating commercial intent. The most profitable PPC keywords are those your competitors consistently bid on over time."
     },
     {
       "key": "p-15",
       "label": "P 15",
       "content": "In SpyFu, look at keyword history spanning 6+ months rather than recent additions. Long-term investment signals profitability. Keywords competitors test briefly and abandon are likely unprofitable and should be approached cautiously.",
       "original": "In SpyFu, look at keyword history spanning 6+ months rather than recent additions. Long-term investment signals profitability. Keywords competitors test briefly and abandon are likely unprofitable and should be approached cautiously.",
-      "source": "<p>In SpyFu, look at keyword history spanning 6+ months rather than recent additions. Long-term investment signals profitability. Keywords competitors test briefly and abandon are likely unprofitable and should be approached cautiously.</p>"
+      "source": "<p>In SpyFu, look at keyword history spanning 6+ months rather than recent additions. Long-term investment signals profitability. Keywords competitors test briefly and abandon are likely unprofitable and should be approached cautiously.</p>",
+      "originalText": "In SpyFu, look at keyword history spanning 6+ months rather than recent additions. Long-term investment signals profitability. Keywords competitors test briefly and abandon are likely unprofitable and should be approached cautiously.",
+      "text": "In SpyFu, look at keyword history spanning 6+ months rather than recent additions. Long-term investment signals profitability. Keywords competitors test briefly and abandon are likely unprofitable and should be approached cautiously."
     },
     {
       "key": "p-16",
       "label": "P 16",
       "content": "Use SEMrush&#x27;s Keyword Magic Tool with CPC and competitive density filters to find commercial-intent keywords you might have missed. Sort by CPC from highest to lowest as a proxy for commercial value. Keywords with CPC above $5 and search volume above 500 represent strong PPC opportunities worth testing.",
       "original": "Use SEMrush&#x27;s Keyword Magic Tool with CPC and competitive density filters to find commercial-intent keywords you might have missed. Sort by CPC from highest to lowest as a proxy for commercial value. Keywords with CPC above $5 and search volume above 500 represent strong PPC opportunities worth testing.",
-      "source": "<p>Use SEMrush&#x27;s Keyword Magic Tool with CPC and competitive density filters to find commercial-intent keywords you might have missed. Sort by CPC from highest to lowest as a proxy for commercial value. Keywords with CPC above $5 and search volume above 500 represent strong PPC opportunities worth testing.</p>"
+      "source": "<p>Use SEMrush&#x27;s Keyword Magic Tool with CPC and competitive density filters to find commercial-intent keywords you might have missed. Sort by CPC from highest to lowest as a proxy for commercial value. Keywords with CPC above $5 and search volume above 500 represent strong PPC opportunities worth testing.</p>",
+      "originalText": "Use SEMrush&#x27;s Keyword Magic Tool with CPC and competitive density filters to find commercial-intent keywords you might have missed. Sort by CPC from highest to lowest as a proxy for commercial value. Keywords with CPC above $5 and search volume above 500 represent strong PPC opportunities worth testing.",
+      "text": "Use SEMrush&#x27;s Keyword Magic Tool with CPC and competitive density filters to find commercial-intent keywords you might have missed. Sort by CPC from highest to lowest as a proxy for commercial value. Keywords with CPC above $5 and search volume above 500 represent strong PPC opportunities worth testing."
     },
     {
       "key": "p-17",
       "label": "P 17",
       "content": "Ahrefs&#x27; click data reveals which keywords generate actual ad clicks versus impressions. Some keywords show high search volume but low ad click rates, meaning users prefer organic results. Focus your budget on keywords where ad click rates exceed 15%, indicating users actively engage with paid results.",
       "original": "Ahrefs&#x27; click data reveals which keywords generate actual ad clicks versus impressions. Some keywords show high search volume but low ad click rates, meaning users prefer organic results. Focus your budget on keywords where ad click rates exceed 15%, indicating users actively engage with paid results.",
-      "source": "<p>Ahrefs&#x27; click data reveals which keywords generate actual ad clicks versus impressions. Some keywords show high search volume but low ad click rates, meaning users prefer organic results. Focus your budget on keywords where ad click rates exceed 15%, indicating users actively engage with paid results.</p>"
+      "source": "<p>Ahrefs&#x27; click data reveals which keywords generate actual ad clicks versus impressions. Some keywords show high search volume but low ad click rates, meaning users prefer organic results. Focus your budget on keywords where ad click rates exceed 15%, indicating users actively engage with paid results.</p>",
+      "originalText": "Ahrefs&#x27; click data reveals which keywords generate actual ad clicks versus impressions. Some keywords show high search volume but low ad click rates, meaning users prefer organic results. Focus your budget on keywords where ad click rates exceed 15%, indicating users actively engage with paid results.",
+      "text": "Ahrefs&#x27; click data reveals which keywords generate actual ad clicks versus impressions. Some keywords show high search volume but low ad click rates, meaning users prefer organic results. Focus your budget on keywords where ad click rates exceed 15%, indicating users actively engage with paid results."
     },
     {
       "key": "p-18",
       "label": "P 18",
       "content": "Keyword Signal Tool Indicator Profitability Long-term competitor bid SpyFu 6+ months active High High CPC ($5+) SEMrush Commercial value High Ad click rate &gt;15% Ahrefs User engagement High Recent competitor addition SpyFu Testing phase Uncertain Low organic CTR SEMrush Ads get clicks Medium-High Seasonal spikes Google Trends Timing-dependent Variable",
       "original": "Keyword Signal Tool Indicator Profitability Long-term competitor bid SpyFu 6+ months active High High CPC ($5+) SEMrush Commercial value High Ad click rate &gt;15% Ahrefs User engagement High Recent competitor addition SpyFu Testing phase Uncertain Low organic CTR SEMrush Ads get clicks Medium-High Seasonal spikes Google Trends Timing-dependent Variable",
-      "source": "<p>Keyword Signal Tool Indicator Profitability Long-term competitor bid SpyFu 6+ months active High High CPC ($5+) SEMrush Commercial value High Ad click rate &gt;15% Ahrefs User engagement High Recent competitor addition SpyFu Testing phase Uncertain Low organic CTR SEMrush Ads get clicks Medium-High Seasonal spikes Google Trends Timing-dependent Variable</p>"
+      "source": "<p>Keyword Signal Tool Indicator Profitability Long-term competitor bid SpyFu 6+ months active High High CPC ($5+) SEMrush Commercial value High Ad click rate &gt;15% Ahrefs User engagement High Recent competitor addition SpyFu Testing phase Uncertain Low organic CTR SEMrush Ads get clicks Medium-High Seasonal spikes Google Trends Timing-dependent Variable</p>",
+      "originalText": "Keyword Signal Tool Indicator Profitability Long-term competitor bid SpyFu 6+ months active High High CPC ($5+) SEMrush Commercial value High Ad click rate >15% Ahrefs User engagement High Recent competitor addition SpyFu Testing phase Uncertain Low organic CTR SEMrush Ads get clicks Medium-High Seasonal spikes Google Trends Timing-dependent Variable",
+      "text": "Keyword Signal Tool Indicator Profitability Long-term competitor bid SpyFu 6+ months active High High CPC ($5+) SEMrush Commercial value High Ad click rate >15% Ahrefs User engagement High Recent competitor addition SpyFu Testing phase Uncertain Low organic CTR SEMrush Ads get clicks Medium-High Seasonal spikes Google Trends Timing-dependent Variable"
     },
     {
       "key": "h2-5",
       "label": "H2 5",
       "content": "Is the PPC Research Workflow?",
       "original": "Is the PPC Research Workflow?",
-      "source": "<h2>Is the PPC Research Workflow?</h2>"
+      "source": "<h2>Is the PPC Research Workflow?</h2>",
+      "originalText": "Is the PPC Research Workflow?",
+      "text": "Is the PPC Research Workflow?"
     },
     {
       "key": "p-19",
       "label": "P 19",
       "content": "The PPC research workflow follows four phases: competitor discovery in SpyFu, keyword validation in SEMrush, bid strategy development using CPC and click data, and campaign launch with ongoing optimization based on performance data.",
       "original": "The PPC research workflow follows four phases: competitor discovery in SpyFu, keyword validation in SEMrush, bid strategy development using CPC and click data, and campaign launch with ongoing optimization based on performance data.",
-      "source": "<p class=\"answer-snippet\">The PPC research workflow follows four phases: competitor discovery in SpyFu, keyword validation in SEMrush, bid strategy development using CPC and click data, and campaign launch with ongoing optimization based on performance data.</p>"
+      "source": "<p class=\"answer-snippet\">The PPC research workflow follows four phases: competitor discovery in SpyFu, keyword validation in SEMrush, bid strategy development using CPC and click data, and campaign launch with ongoing optimization based on performance data.</p>",
+      "originalText": "The PPC research workflow follows four phases: competitor discovery in SpyFu, keyword validation in SEMrush, bid strategy development using CPC and click data, and campaign launch with ongoing optimization based on performance data.",
+      "text": "The PPC research workflow follows four phases: competitor discovery in SpyFu, keyword validation in SEMrush, bid strategy development using CPC and click data, and campaign launch with ongoing optimization based on performance data."
     },
     {
       "key": "p-20",
       "label": "P 20",
       "content": "Phase one: Identify 3–5 direct competitors using Google searches for your target keywords. Enter each into SpyFu to extract their complete PPC keyword lists, ad copy library, and estimated spend. Export all data to a spreadsheet for cross-competitor analysis.",
       "original": "Phase one: Identify 3–5 direct competitors using Google searches for your target keywords. Enter each into SpyFu to extract their complete PPC keyword lists, ad copy library, and estimated spend. Export all data to a spreadsheet for cross-competitor analysis.",
-      "source": "<p>Phase one: Identify 3–5 direct competitors using Google searches for your target keywords. Enter each into SpyFu to extract their complete PPC keyword lists, ad copy library, and estimated spend. Export all data to a spreadsheet for cross-competitor analysis.</p>"
+      "source": "<p>Phase one: Identify 3–5 direct competitors using Google searches for your target keywords. Enter each into SpyFu to extract their complete PPC keyword lists, ad copy library, and estimated spend. Export all data to a spreadsheet for cross-competitor analysis.</p>",
+      "originalText": "Phase one: Identify 3–5 direct competitors using Google searches for your target keywords. Enter each into SpyFu to extract their complete PPC keyword lists, ad copy library, and estimated spend. Export all data to a spreadsheet for cross-competitor analysis.",
+      "text": "Phase one: Identify 3–5 direct competitors using Google searches for your target keywords. Enter each into SpyFu to extract their complete PPC keyword lists, ad copy library, and estimated spend. Export all data to a spreadsheet for cross-competitor analysis."
     },
     {
       "key": "p-21",
       "label": "P 21",
       "content": "Look for keywords shared by multiple competitors as these are proven performers. Phase two: Validate your keyword list in SEMrush by checking search volume, CPC, competitive density, and trend data.",
       "original": "Look for keywords shared by multiple competitors as these are proven performers. Phase two: Validate your keyword list in SEMrush by checking search volume, CPC, competitive density, and trend data.",
-      "source": "<p>Look for keywords shared by multiple competitors as these are proven performers. Phase two: Validate your keyword list in SEMrush by checking search volume, CPC, competitive density, and trend data.</p>"
+      "source": "<p>Look for keywords shared by multiple competitors as these are proven performers. Phase two: Validate your keyword list in SEMrush by checking search volume, CPC, competitive density, and trend data.</p>",
+      "originalText": "Look for keywords shared by multiple competitors as these are proven performers. Phase two: Validate your keyword list in SEMrush by checking search volume, CPC, competitive density, and trend data.",
+      "text": "Look for keywords shared by multiple competitors as these are proven performers. Phase two: Validate your keyword list in SEMrush by checking search volume, CPC, competitive density, and trend data."
     },
     {
       "key": "p-22",
       "label": "P 22",
       "content": "Remove keywords with declining search volume, unusually low CPC that may indicate low commercial intent, or extremely high competition that makes entry cost-prohibitive. Phase three: Develop your bid strategy by grouping keywords into tiers based on commercial value and competition.",
       "original": "Remove keywords with declining search volume, unusually low CPC that may indicate low commercial intent, or extremely high competition that makes entry cost-prohibitive. Phase three: Develop your bid strategy by grouping keywords into tiers based on commercial value and competition.",
-      "source": "<p>Remove keywords with declining search volume, unusually low CPC that may indicate low commercial intent, or extremely high competition that makes entry cost-prohibitive. Phase three: Develop your bid strategy by grouping keywords into tiers based on commercial value and competition.</p>"
+      "source": "<p>Remove keywords with declining search volume, unusually low CPC that may indicate low commercial intent, or extremely high competition that makes entry cost-prohibitive. Phase three: Develop your bid strategy by grouping keywords into tiers based on commercial value and competition.</p>",
+      "originalText": "Remove keywords with declining search volume, unusually low CPC that may indicate low commercial intent, or extremely high competition that makes entry cost-prohibitive. Phase three: Develop your bid strategy by grouping keywords into tiers based on commercial value and competition.",
+      "text": "Remove keywords with declining search volume, unusually low CPC that may indicate low commercial intent, or extremely high competition that makes entry cost-prohibitive. Phase three: Develop your bid strategy by grouping keywords into tiers based on commercial value and competition."
     },
     {
       "key": "p-23",
       "label": "P 23",
       "content": "Phase four: Launch campaigns with A/B tested ad copy inspired by competitor messaging. Monitor results daily for the first two weeks, pausing underperforming keywords and increasing bids on winners.",
       "original": "Phase four: Launch campaigns with A/B tested ad copy inspired by competitor messaging. Monitor results daily for the first two weeks, pausing underperforming keywords and increasing bids on winners.",
-      "source": "<p>Phase four: Launch campaigns with A/B tested ad copy inspired by competitor messaging. Monitor results daily for the first two weeks, pausing underperforming keywords and increasing bids on winners.</p>"
+      "source": "<p>Phase four: Launch campaigns with A/B tested ad copy inspired by competitor messaging. Monitor results daily for the first two weeks, pausing underperforming keywords and increasing bids on winners.</p>",
+      "originalText": "Phase four: Launch campaigns with A/B tested ad copy inspired by competitor messaging. Monitor results daily for the first two weeks, pausing underperforming keywords and increasing bids on winners.",
+      "text": "Phase four: Launch campaigns with A/B tested ad copy inspired by competitor messaging. Monitor results daily for the first two weeks, pausing underperforming keywords and increasing bids on winners."
     },
     {
       "key": "p-24",
       "label": "P 24",
       "content": "Phase Duration Key Activities Tools Used Output 1: Discovery 2–3 days Competitor analysis SpyFu Keyword + ad copy database 2: Validation 1–2 days Volume + CPC check SEMrush Validated keyword list 3: Strategy 1 day Bid tier planning Ahrefs + SEMrush Bid strategy document 4: Launch + Optimize Ongoing Campaign management Google Ads Optimized campaigns",
       "original": "Phase Duration Key Activities Tools Used Output 1: Discovery 2–3 days Competitor analysis SpyFu Keyword + ad copy database 2: Validation 1–2 days Volume + CPC check SEMrush Validated keyword list 3: Strategy 1 day Bid tier planning Ahrefs + SEMrush Bid strategy document 4: Launch + Optimize Ongoing Campaign management Google Ads Optimized campaigns",
-      "source": "<p>Phase Duration Key Activities Tools Used Output 1: Discovery 2–3 days Competitor analysis SpyFu Keyword + ad copy database 2: Validation 1–2 days Volume + CPC check SEMrush Validated keyword list 3: Strategy 1 day Bid tier planning Ahrefs + SEMrush Bid strategy document 4: Launch + Optimize Ongoing Campaign management Google Ads Optimized campaigns</p>"
+      "source": "<p>Phase Duration Key Activities Tools Used Output 1: Discovery 2–3 days Competitor analysis SpyFu Keyword + ad copy database 2: Validation 1–2 days Volume + CPC check SEMrush Validated keyword list 3: Strategy 1 day Bid tier planning Ahrefs + SEMrush Bid strategy document 4: Launch + Optimize Ongoing Campaign management Google Ads Optimized campaigns</p>",
+      "originalText": "Phase Duration Key Activities Tools Used Output 1: Discovery 2–3 days Competitor analysis SpyFu Keyword + ad copy database 2: Validation 1–2 days Volume + CPC check SEMrush Validated keyword list 3: Strategy 1 day Bid tier planning Ahrefs + SEMrush Bid strategy document 4: Launch + Optimize Ongoing Campaign management Google Ads Optimized campaigns",
+      "text": "Phase Duration Key Activities Tools Used Output 1: Discovery 2–3 days Competitor analysis SpyFu Keyword + ad copy database 2: Validation 1–2 days Volume + CPC check SEMrush Validated keyword list 3: Strategy 1 day Bid tier planning Ahrefs + SEMrush Bid strategy document 4: Launch + Optimize Ongoing Campaign management Google Ads Optimized campaigns"
     },
     {
       "key": "h2-6",
       "label": "H2 6",
       "content": "What Are the References for This Page?",
       "original": "What Are the References for This Page?",
-      "source": "<h2>What Are the References for This Page?</h2>"
+      "source": "<h2>What Are the References for This Page?</h2>",
+      "originalText": "What Are the References for This Page?",
+      "text": "What Are the References for This Page?"
     },
     {
       "key": "li-13",
       "label": "LI 13",
       "content": "<a href=\"https://spyfu.com/blog\" rel=\"noopener\">SpyFu PPC Research Guide</a>",
       "original": "<a href=\"https://spyfu.com/blog\" rel=\"noopener\">SpyFu PPC Research Guide</a>",
-      "source": "<li><a href=\"https://spyfu.com/blog\" rel=\"noopener\">SpyFu PPC Research Guide</a></li>"
+      "source": "<li><a href=\"https://spyfu.com/blog\" rel=\"noopener\">SpyFu PPC Research Guide</a></li>",
+      "originalText": "SpyFu PPC Research Guide",
+      "text": "SpyFu PPC Research Guide"
     },
     {
       "key": "li-14",
       "label": "LI 14",
       "content": "<a href=\"https://semrush.com/advertising\" rel=\"noopener\">SEMrush Advertising Research Documentation</a>",
       "original": "<a href=\"https://semrush.com/advertising\" rel=\"noopener\">SEMrush Advertising Research Documentation</a>",
-      "source": "<li><a href=\"https://semrush.com/advertising\" rel=\"noopener\">SEMrush Advertising Research Documentation</a></li>"
+      "source": "<li><a href=\"https://semrush.com/advertising\" rel=\"noopener\">SEMrush Advertising Research Documentation</a></li>",
+      "originalText": "SEMrush Advertising Research Documentation",
+      "text": "SEMrush Advertising Research Documentation"
     },
     {
       "key": "li-15",
       "label": "LI 15",
       "content": "<a href=\"https://support.google.com/google-ads\" rel=\"noopener\">Google Ads Keyword Planning Guide</a>",
       "original": "<a href=\"https://support.google.com/google-ads\" rel=\"noopener\">Google Ads Keyword Planning Guide</a>",
-      "source": "<li><a href=\"https://support.google.com/google-ads\" rel=\"noopener\">Google Ads Keyword Planning Guide</a></li>"
+      "source": "<li><a href=\"https://support.google.com/google-ads\" rel=\"noopener\">Google Ads Keyword Planning Guide</a></li>",
+      "originalText": "Google Ads Keyword Planning Guide",
+      "text": "Google Ads Keyword Planning Guide"
     },
     {
       "key": "li-16",
       "label": "LI 16",
       "content": "<a href=\"https://wordstream.com\" rel=\"noopener\">PPC Competitive Analysis Best Practices</a>",
       "original": "<a href=\"https://wordstream.com\" rel=\"noopener\">PPC Competitive Analysis Best Practices</a>",
-      "source": "<li><a href=\"https://wordstream.com\" rel=\"noopener\">PPC Competitive Analysis Best Practices</a></li>"
+      "source": "<li><a href=\"https://wordstream.com\" rel=\"noopener\">PPC Competitive Analysis Best Practices</a></li>",
+      "originalText": "PPC Competitive Analysis Best Practices",
+      "text": "PPC Competitive Analysis Best Practices"
     },
     {
       "key": "li-17",
       "label": "LI 17",
       "content": "<a href=\"https://seogroupsbuytools.com/ppc\" rel=\"noopener\">SEO Group Buy PPC Tools</a>",
       "original": "<a href=\"https://seogroupsbuytools.com/ppc\" rel=\"noopener\">SEO Group Buy PPC Tools</a>",
-      "source": "<li><a href=\"https://seogroupsbuytools.com/ppc\" rel=\"noopener\">SEO Group Buy PPC Tools</a></li>"
+      "source": "<li><a href=\"https://seogroupsbuytools.com/ppc\" rel=\"noopener\">SEO Group Buy PPC Tools</a></li>",
+      "originalText": "SEO Group Buy PPC Tools",
+      "text": "SEO Group Buy PPC Tools"
     },
     {
       "key": "li-18",
       "label": "LI 18",
       "content": "<a href=\"https://driven\" rel=\"noopener\">PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data</a>",
       "original": "<a href=\"https://driven\" rel=\"noopener\">PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data</a>",
-      "source": "<li><a href=\"https://driven\" rel=\"noopener\">PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data</a></li>"
+      "source": "<li><a href=\"https://driven\" rel=\"noopener\">PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data</a></li>",
+      "originalText": "PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data",
+      "text": "PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data"
     },
     {
       "key": "h3-1",
       "label": "H3 1",
       "content": "Get Started Today",
       "original": "Get Started Today",
-      "source": "<h3>Get Started Today</h3>"
+      "source": "<h3>Get Started Today</h3>",
+      "originalText": "Get Started Today",
+      "text": "Get Started Today"
     },
     {
       "key": "p-25",
       "label": "P 25",
       "content": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
       "original": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
-      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>"
+      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
+      "originalText": "Access 50+ premium SEO tools from $5/month",
+      "text": "Access 50+ premium SEO tools from $5/month"
     },
     {
       "key": "h3-2",
       "label": "H3 2",
       "content": "Tool Categories",
       "original": "Tool Categories",
-      "source": "<h3>Tool Categories</h3>"
+      "source": "<h3>Tool Categories</h3>",
+      "originalText": "Tool Categories",
+      "text": "Tool Categories"
     },
     {
       "key": "li-19",
       "label": "LI 19",
       "content": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
       "original": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
-      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>"
+      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
+      "originalText": "🔍 SEO Tools 12",
+      "text": "🔍 SEO Tools 12"
     },
     {
       "key": "li-20",
       "label": "LI 20",
       "content": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
+      "originalText": "🎨 Design Tools 5",
+      "text": "🎨 Design Tools 5"
     },
     {
       "key": "li-21",
       "label": "LI 21",
       "content": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
+      "originalText": "🕵️ Spy & Ad Intelligence 5",
+      "text": "🕵️ Spy & Ad Intelligence 5"
     },
     {
       "key": "li-22",
       "label": "LI 22",
       "content": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "✍️ AI Writing Tools 4",
+      "text": "✍️ AI Writing Tools 4"
     },
     {
       "key": "li-23",
       "label": "LI 23",
       "content": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "🛒 E-commerce Tools 4",
+      "text": "🛒 E-commerce Tools 4"
     },
     {
       "key": "li-24",
       "label": "LI 24",
       "content": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "📱 Social Media Tools 3",
+      "text": "📱 Social Media Tools 3"
     },
     {
       "key": "li-25",
       "label": "LI 25",
       "content": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "🎓 Education Tools 3",
+      "text": "🎓 Education Tools 3"
     },
     {
       "key": "h3-3",
       "label": "H3 3",
       "content": "Popular Tools",
       "original": "Popular Tools",
-      "source": "<h3>Popular Tools</h3>"
+      "source": "<h3>Popular Tools</h3>",
+      "originalText": "Popular Tools",
+      "text": "Popular Tools"
     },
     {
       "key": "li-26",
       "label": "LI 26",
       "content": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
       "original": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
+      "originalText": "SEMrush Group Buy",
+      "text": "SEMrush Group Buy"
     },
     {
       "key": "li-27",
       "label": "LI 27",
       "content": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
       "original": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
+      "originalText": "Ahrefs Group Buy",
+      "text": "Ahrefs Group Buy"
     },
     {
       "key": "li-28",
       "label": "LI 28",
       "content": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
       "original": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
+      "originalText": "Moz Pro Group Buy",
+      "text": "Moz Pro Group Buy"
     },
     {
       "key": "li-29",
       "label": "LI 29",
       "content": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
       "original": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
+      "originalText": "Surfer SEO Group Buy",
+      "text": "Surfer SEO Group Buy"
     },
     {
       "key": "li-30",
       "label": "LI 30",
       "content": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
       "original": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
-      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
+      "originalText": "Canva Pro Group Buy",
+      "text": "Canva Pro Group Buy"
     },
     {
       "key": "li-31",
       "label": "LI 31",
       "content": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
       "original": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "h3-4",
       "label": "H3 4",
       "content": "Why Choose Us",
       "original": "Why Choose Us",
-      "source": "<h3>Why Choose Us</h3>"
+      "source": "<h3>Why Choose Us</h3>",
+      "originalText": "Why Choose Us",
+      "text": "Why Choose Us"
     },
     {
       "key": "li-32",
       "label": "LI 32",
       "content": "✓ 50+ Premium Tools",
       "original": "✓ 50+ Premium Tools",
-      "source": "<li>✓ 50+ Premium Tools</li>"
+      "source": "<li>✓ 50+ Premium Tools</li>",
+      "originalText": "✓ 50+ Premium Tools",
+      "text": "✓ 50+ Premium Tools"
     },
     {
       "key": "li-33",
       "label": "LI 33",
       "content": "✓ 90%+ Uptime Guaranteed",
       "original": "✓ 90%+ Uptime Guaranteed",
-      "source": "<li>✓ 90%+ Uptime Guaranteed</li>"
+      "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
+      "originalText": "✓ 90%+ Uptime Guaranteed",
+      "text": "✓ 90%+ Uptime Guaranteed"
     },
     {
       "key": "li-34",
       "label": "LI 34",
       "content": "✓ Instant Access Setup",
       "original": "✓ Instant Access Setup",
-      "source": "<li>✓ Instant Access Setup</li>"
+      "source": "<li>✓ Instant Access Setup</li>",
+      "originalText": "✓ Instant Access Setup",
+      "text": "✓ Instant Access Setup"
     },
     {
       "key": "li-35",
       "label": "LI 35",
       "content": "✓ 24/7 Support",
       "original": "✓ 24/7 Support",
-      "source": "<li>✓ 24/7 Support</li>"
+      "source": "<li>✓ 24/7 Support</li>",
+      "originalText": "✓ 24/7 Support",
+      "text": "✓ 24/7 Support"
     },
     {
       "key": "li-36",
       "label": "LI 36",
       "content": "✓ Secure Payments",
       "original": "✓ Secure Payments",
-      "source": "<li>✓ Secure Payments</li>"
+      "source": "<li>✓ Secure Payments</li>",
+      "originalText": "✓ Secure Payments",
+      "text": "✓ Secure Payments"
     },
     {
       "key": "h2-7",
       "label": "H2 7",
       "content": "Ready to Get Started?",
       "original": "Ready to Get Started?",
-      "source": "<h2>Ready to Get Started?</h2>"
+      "source": "<h2>Ready to Get Started?</h2>",
+      "originalText": "Ready to Get Started?",
+      "text": "Ready to Get Started?"
     },
     {
       "key": "p-26",
       "label": "P 26",
       "content": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
       "original": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
-      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>"
+      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
+      "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+      "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee."
     },
     {
       "key": "p-27",
       "label": "P 27",
       "content": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
       "original": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
-      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>"
+      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>",
+      "originalText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
+      "text": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
     },
     {
       "key": "h4-1",
       "label": "H4 1",
       "content": "Categories",
       "original": "Categories",
-      "source": "<h4>Categories</h4>"
+      "source": "<h4>Categories</h4>",
+      "originalText": "Categories",
+      "text": "Categories"
     },
     {
       "key": "li-37",
       "label": "LI 37",
       "content": "<a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": "<a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "SEO Tools",
+      "text": "SEO Tools"
     },
     {
       "key": "li-38",
       "label": "LI 38",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-39",
       "label": "LI 39",
       "content": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
       "original": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>",
+      "originalText": "Spy & Ad Tools",
+      "text": "Spy & Ad Tools"
     },
     {
       "key": "li-40",
       "label": "LI 40",
       "content": "<a href=\"../../ai-writing-tools/\">AI Writing</a>",
       "original": "<a href=\"../../ai-writing-tools/\">AI Writing</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing</a></li>",
+      "originalText": "AI Writing",
+      "text": "AI Writing"
     },
     {
       "key": "li-41",
       "label": "LI 41",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>",
+      "originalText": "E-commerce",
+      "text": "E-commerce"
     },
     {
       "key": "li-42",
       "label": "LI 42",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "h4-2",
       "label": "H4 2",
       "content": "Resources",
       "original": "Resources",
-      "source": "<h4>Resources</h4>"
+      "source": "<h4>Resources</h4>",
+      "originalText": "Resources",
+      "text": "Resources"
     },
     {
       "key": "li-43",
       "label": "LI 43",
       "content": "<a href=\"../../how-it-works/\">How It Works</a>",
       "original": "<a href=\"../../how-it-works/\">How It Works</a>",
-      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>"
+      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>",
+      "originalText": "How It Works",
+      "text": "How It Works"
     },
     {
       "key": "li-44",
       "label": "LI 44",
       "content": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
       "original": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
-      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>"
+      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>",
+      "originalText": "Is It Safe?",
+      "text": "Is It Safe?"
     },
     {
       "key": "li-45",
       "label": "LI 45",
       "content": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
       "original": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
-      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>"
+      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>",
+      "originalText": "Is It Legal?",
+      "text": "Is It Legal?"
     },
     {
       "key": "li-46",
       "label": "LI 46",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-47",
       "label": "LI 47",
       "content": "<a href=\"../../best-providers/\">Best Providers</a>",
       "original": "<a href=\"../../best-providers/\">Best Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>",
+      "originalText": "Best Providers",
+      "text": "Best Providers"
     },
     {
       "key": "li-48",
       "label": "LI 48",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "h4-3",
       "label": "H4 3",
       "content": "Guides",
       "original": "Guides",
-      "source": "<h4>Guides</h4>"
+      "source": "<h4>Guides</h4>",
+      "originalText": "Guides",
+      "text": "Guides"
     },
     {
       "key": "li-49",
       "label": "LI 49",
       "content": "<a href=\"../keyword-research/\">Keyword Research</a>",
       "original": "<a href=\"../keyword-research/\">Keyword Research</a>",
-      "source": "<li><a href=\"../keyword-research/\">Keyword Research</a></li>"
+      "source": "<li><a href=\"../keyword-research/\">Keyword Research</a></li>",
+      "originalText": "Keyword Research",
+      "text": "Keyword Research"
     },
     {
       "key": "li-50",
       "label": "LI 50",
       "content": "<a href=\"../backlink-analysis/\">Backlink Analysis</a>",
       "original": "<a href=\"../backlink-analysis/\">Backlink Analysis</a>",
-      "source": "<li><a href=\"../backlink-analysis/\">Backlink Analysis</a></li>"
+      "source": "<li><a href=\"../backlink-analysis/\">Backlink Analysis</a></li>",
+      "originalText": "Backlink Analysis",
+      "text": "Backlink Analysis"
     },
     {
       "key": "li-51",
       "label": "LI 51",
       "content": "<a href=\"../technical-seo-audit/\">Technical SEO Audit</a>",
       "original": "<a href=\"../technical-seo-audit/\">Technical SEO Audit</a>",
-      "source": "<li><a href=\"../technical-seo-audit/\">Technical SEO Audit</a></li>"
+      "source": "<li><a href=\"../technical-seo-audit/\">Technical SEO Audit</a></li>",
+      "originalText": "Technical SEO Audit",
+      "text": "Technical SEO Audit"
     },
     {
       "key": "li-52",
       "label": "LI 52",
       "content": "<a href=\"../content-optimization/\">Content Optimization</a>",
       "original": "<a href=\"../content-optimization/\">Content Optimization</a>",
-      "source": "<li><a href=\"../content-optimization/\">Content Optimization</a></li>"
+      "source": "<li><a href=\"../content-optimization/\">Content Optimization</a></li>",
+      "originalText": "Content Optimization",
+      "text": "Content Optimization"
     },
     {
       "key": "li-53",
       "label": "LI 53",
       "content": "<a href=\"./\">PPC Research</a>",
       "original": "<a href=\"./\">PPC Research</a>",
-      "source": "<li><a href=\"./\">PPC Research</a></li>"
+      "source": "<li><a href=\"./\">PPC Research</a></li>",
+      "originalText": "PPC Research",
+      "text": "PPC Research"
     },
     {
       "key": "li-54",
       "label": "LI 54",
       "content": "<a href=\"../ecommerce-product-research/\">Amazon Selling</a>",
       "original": "<a href=\"../ecommerce-product-research/\">Amazon Selling</a>",
-      "source": "<li><a href=\"../ecommerce-product-research/\">Amazon Selling</a></li>"
+      "source": "<li><a href=\"../ecommerce-product-research/\">Amazon Selling</a></li>",
+      "originalText": "Amazon Selling",
+      "text": "Amazon Selling"
     },
     {
       "key": "h4-4",
       "label": "H4 4",
       "content": "Trust & Safety",
       "original": "Trust & Safety",
-      "source": "<h4>Trust & Safety</h4>"
+      "source": "<h4>Trust & Safety</h4>",
+      "originalText": "Trust & Safety",
+      "text": "Trust & Safety"
     },
     {
       "key": "li-55",
       "label": "LI 55",
       "content": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
       "original": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
-      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>"
+      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>",
+      "originalText": "Are They Legitimate?",
+      "text": "Are They Legitimate?"
     },
     {
       "key": "li-56",
       "label": "LI 56",
       "content": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
       "original": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
-      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>"
+      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>",
+      "originalText": "Choose Provider",
+      "text": "Choose Provider"
     },
     {
       "key": "li-57",
       "label": "LI 57",
       "content": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
       "original": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
-      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>"
+      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>",
+      "originalText": "Avoid Scams",
+      "text": "Avoid Scams"
     },
     {
       "key": "li-58",
       "label": "LI 58",
       "content": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
       "original": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
-      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>"
+      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>",
+      "originalText": "Tool Downtime",
+      "text": "Tool Downtime"
     },
     {
       "key": "li-59",
       "label": "LI 59",
       "content": "<a href=\"../../trust/countries/\">Countries</a>",
       "original": "<a href=\"../../trust/countries/\">Countries</a>",
-      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>"
+      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>",
+      "originalText": "Countries",
+      "text": "Countries"
     },
     {
       "key": "p-28",
       "label": "P 28",
       "content": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
       "original": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
-      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>"
+      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>",
+      "originalText": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms",
+      "text": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms"
+    }
+  ],
+  "links": [
+    {
+      "url": "../../seo-tools/spyfu/",
+      "originalUrl": "../../seo-tools/spyfu/",
+      "text": "Majestic SEO Group Buy",
+      "originalText": "Majestic SEO Group Buy",
+      "source": "<a href=\"../../seo-tools/spyfu/\">Majestic SEO Group Buy</a>"
+    },
+    {
+      "url": "../../spy-tools/adspy/",
+      "originalUrl": "../../spy-tools/adspy/",
+      "text": "Canva Pro Group Buy",
+      "originalText": "Canva Pro Group Buy",
+      "source": "<a href=\"../../spy-tools/adspy/\">Canva Pro Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/similarweb/",
+      "originalUrl": "../../seo-tools/similarweb/",
+      "text": "BuzzSumo Group Buy",
+      "originalText": "BuzzSumo Group Buy",
+      "source": "<a href=\"../../seo-tools/similarweb/\">BuzzSumo Group Buy</a>"
+    },
+    {
+      "url": "../../spy-tools/",
+      "originalUrl": "../../spy-tools/",
+      "text": "Spy Tools",
+      "originalText": "Spy Tools",
+      "source": "<a href=\"../../spy-tools/\">Spy Tools</a>"
+    },
+    {
+      "url": "../../seo-tools/spyfu/",
+      "originalUrl": "../../seo-tools/spyfu/",
+      "text": "Majestic SEO Group Buy",
+      "originalText": "Majestic SEO Group Buy",
+      "source": "<a href=\"../../seo-tools/spyfu/\">Majestic SEO Group Buy</a>"
+    },
+    {
+      "url": "../../spy-tools/adspy/",
+      "originalUrl": "../../spy-tools/adspy/",
+      "text": "Canva Pro Group Buy",
+      "originalText": "Canva Pro Group Buy",
+      "source": "<a href=\"../../spy-tools/adspy/\">Canva Pro Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/similarweb/",
+      "originalUrl": "../../seo-tools/similarweb/",
+      "text": "BuzzSumo Group Buy",
+      "originalText": "BuzzSumo Group Buy",
+      "source": "<a href=\"../../seo-tools/similarweb/\">BuzzSumo Group Buy</a>"
+    },
+    {
+      "url": "../../spy-tools/",
+      "originalUrl": "../../spy-tools/",
+      "text": "Spy Tools",
+      "originalText": "Spy Tools",
+      "source": "<a href=\"../../spy-tools/\">Spy Tools</a>"
+    },
+    {
+      "url": "../../seo-tools/spyfu/",
+      "originalUrl": "../../seo-tools/spyfu/",
+      "text": "Majestic SEO Group Buy",
+      "originalText": "Majestic SEO Group Buy",
+      "source": "<a href=\"../../seo-tools/spyfu/\">Majestic SEO Group Buy</a>"
+    },
+    {
+      "url": "../../spy-tools/adspy/",
+      "originalUrl": "../../spy-tools/adspy/",
+      "text": "Canva Pro Group Buy",
+      "originalText": "Canva Pro Group Buy",
+      "source": "<a href=\"../../spy-tools/adspy/\">Canva Pro Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/similarweb/",
+      "originalUrl": "../../seo-tools/similarweb/",
+      "text": "BuzzSumo Group Buy",
+      "originalText": "BuzzSumo Group Buy",
+      "source": "<a href=\"../../seo-tools/similarweb/\">BuzzSumo Group Buy</a>"
+    },
+    {
+      "url": "../../spy-tools/",
+      "originalUrl": "../../spy-tools/",
+      "text": "Spy Tools",
+      "originalText": "Spy Tools",
+      "source": "<a href=\"../../spy-tools/\">Spy Tools</a>"
+    },
+    {
+      "url": "../../seo-tools/spyfu/",
+      "originalUrl": "../../seo-tools/spyfu/",
+      "text": "Majestic SEO Group Buy",
+      "originalText": "Majestic SEO Group Buy",
+      "source": "<a href=\"../../seo-tools/spyfu/\">Majestic SEO Group Buy</a>"
+    },
+    {
+      "url": "../../spy-tools/adspy/",
+      "originalUrl": "../../spy-tools/adspy/",
+      "text": "Canva Pro Group Buy",
+      "originalText": "Canva Pro Group Buy",
+      "source": "<a href=\"../../spy-tools/adspy/\">Canva Pro Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/similarweb/",
+      "originalUrl": "../../seo-tools/similarweb/",
+      "text": "BuzzSumo Group Buy",
+      "originalText": "BuzzSumo Group Buy",
+      "source": "<a href=\"../../seo-tools/similarweb/\">BuzzSumo Group Buy</a>"
+    },
+    {
+      "url": "../../spy-tools/",
+      "originalUrl": "../../spy-tools/",
+      "text": "Spy Tools",
+      "originalText": "Spy Tools",
+      "source": "<a href=\"../../spy-tools/\">Spy Tools</a>"
+    },
+    {
+      "url": "https://spyfu.com/blog",
+      "originalUrl": "https://spyfu.com/blog",
+      "text": "SpyFu PPC Research Guide",
+      "originalText": "SpyFu PPC Research Guide",
+      "source": "<a href=\"https://spyfu.com/blog\" rel=\"noopener\">SpyFu PPC Research Guide</a>"
+    },
+    {
+      "url": "https://semrush.com/advertising",
+      "originalUrl": "https://semrush.com/advertising",
+      "text": "SEMrush Advertising Research Documentation",
+      "originalText": "SEMrush Advertising Research Documentation",
+      "source": "<a href=\"https://semrush.com/advertising\" rel=\"noopener\">SEMrush Advertising Research Documentation</a>"
+    },
+    {
+      "url": "https://support.google.com/google-ads",
+      "originalUrl": "https://support.google.com/google-ads",
+      "text": "Google Ads Keyword Planning Guide",
+      "originalText": "Google Ads Keyword Planning Guide",
+      "source": "<a href=\"https://support.google.com/google-ads\" rel=\"noopener\">Google Ads Keyword Planning Guide</a>"
+    },
+    {
+      "url": "https://wordstream.com",
+      "originalUrl": "https://wordstream.com",
+      "text": "PPC Competitive Analysis Best Practices",
+      "originalText": "PPC Competitive Analysis Best Practices",
+      "source": "<a href=\"https://wordstream.com\" rel=\"noopener\">PPC Competitive Analysis Best Practices</a>"
+    },
+    {
+      "url": "https://seogroupsbuytools.com/ppc",
+      "originalUrl": "https://seogroupsbuytools.com/ppc",
+      "text": "SEO Group Buy PPC Tools",
+      "originalText": "SEO Group Buy PPC Tools",
+      "source": "<a href=\"https://seogroupsbuytools.com/ppc\" rel=\"noopener\">SEO Group Buy PPC Tools</a>"
+    },
+    {
+      "url": "https://driven",
+      "originalUrl": "https://driven",
+      "text": "PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data",
+      "originalText": "PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data",
+      "source": "<a href=\"https://driven\" rel=\"noopener\">PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data</a>"
+    }
+  ],
+  "images": [],
+  "editorContent": [
+    {
+      "text": "How Do You Use SEO Group Buy Tools for PPC Research?",
+      "originalText": "How Do You Use SEO Group Buy Tools for PPC Research?",
+      "source": "<h2>How Do You Use SEO Group Buy Tools for PPC Research?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "PPC research and paid advertising benefit enormously from premium competitive intelligence tools, and SEO Group Buy Tools make these expensive platforms accessible. This guide covers how to use group buy tools for PPC keyword research, competitor ad analysis, and bid optimization strategies.",
+      "originalText": "PPC research and paid advertising benefit enormously from premium competitive intelligence tools, and SEO Group Buy Tools make these expensive platforms accessible. This guide covers how to use group buy tools for PPC keyword research, competitor ad analysis, and bid optimization strategies.",
+      "source": "<p class=\"answer-snippet\">PPC research and paid advertising benefit enormously from premium competitive intelligence tools, and SEO Group Buy Tools make these expensive platforms accessible. This guide covers how to use group buy tools for PPC keyword research, competitor ad analysis, and bid optimization strategies.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Which Tools Help with PPC Research?",
+      "originalText": "Which Tools Help with PPC Research?",
+      "source": "<h2>Which Tools Help with PPC Research?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "SpyFu specializes in competitor PPC intelligence, SEMrush Advertising Research reveals competitor ad strategies and budgets, and Ahrefs provides keyword data that informs both SEO and PPC bid decisions. SpyFu is the premier tool for PPC competitive intelligence.",
+      "originalText": "SpyFu specializes in competitor PPC intelligence, SEMrush Advertising Research reveals competitor ad strategies and budgets, and Ahrefs provides keyword data that informs both SEO and PPC bid decisions. SpyFu is the premier tool for PPC competitive intelligence.",
+      "source": "<p class=\"answer-snippet\">SpyFu specializes in competitor PPC intelligence, SEMrush Advertising Research reveals competitor ad strategies and budgets, and Ahrefs provides keyword data that informs both SEO and PPC bid decisions. SpyFu is the premier tool for PPC competitive intelligence.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "It reveals every keyword your competitors have bid on historically, their ad copy variations, estimated monthly ad spend, and landing page strategies. This historical data spans years, showing which keywords competitors invest in consistently versus test briefly.",
+      "originalText": "It reveals every keyword your competitors have bid on historically, their ad copy variations, estimated monthly ad spend, and landing page strategies. This historical data spans years, showing which keywords competitors invest in consistently versus test briefly.",
+      "source": "<p>It reveals every keyword your competitors have bid on historically, their ad copy variations, estimated monthly ad spend, and landing page strategies. This historical data spans years, showing which keywords competitors invest in consistently versus test briefly.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "SEMrush&#x27;s Advertising Research toolkit provides real-time competitor ad analysis, including display ads, PLA data, and ad copy performance. Its Keyword Magic Tool includes CPC and competitive density metrics essential for PPC planning.",
+      "originalText": "SEMrush&#x27;s Advertising Research toolkit provides real-time competitor ad analysis, including display ads, PLA data, and ad copy performance. Its Keyword Magic Tool includes CPC and competitive density metrics essential for PPC planning.",
+      "source": "<p>SEMrush&#x27;s Advertising Research toolkit provides real-time competitor ad analysis, including display ads, PLA data, and ad copy performance. Its Keyword Magic Tool includes CPC and competitive density metrics essential for PPC planning.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The Advertising Research report shows which keywords drive the most traffic to competitors. Ahrefs contributes keyword difficulty and click data that informs PPC decisions. Keywords with high organic difficulty but moderate CPC represent prime PPC opportunities.",
+      "originalText": "The Advertising Research report shows which keywords drive the most traffic to competitors. Ahrefs contributes keyword difficulty and click data that informs PPC decisions. Keywords with high organic difficulty but moderate CPC represent prime PPC opportunities.",
+      "source": "<p>The Advertising Research report shows which keywords drive the most traffic to competitors. Ahrefs contributes keyword difficulty and click data that informs PPC decisions. Keywords with high organic difficulty but moderate CPC represent prime PPC opportunities.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The click distribution data shows whether users actually click on ads for specific queries or skip to organic results.",
+      "originalText": "The click distribution data shows whether users actually click on ads for specific queries or skip to organic results.",
+      "source": "<p>The click distribution data shows whether users actually click on ads for specific queries or skip to organic results.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Tool PPC Feature Data Type Group Buy Access SpyFu Competitor ad history Keywords + ad copy Good SEMrush Advertising Research Spend + keywords Reliable Ahrefs Click data + CPC Keyword value Good iSpionage Landing page analysis Ad + landing page Moderate SEMrush PLA Shopping ad data Product listings Reliable",
+      "originalText": "Tool PPC Feature Data Type Group Buy Access SpyFu Competitor ad history Keywords + ad copy Good SEMrush Advertising Research Spend + keywords Reliable Ahrefs Click data + CPC Keyword value Good iSpionage Landing page analysis Ad + landing page Moderate SEMrush PLA Shopping ad data Product listings Reliable",
+      "source": "<p>Tool PPC Feature Data Type Group Buy Access SpyFu Competitor ad history Keywords + ad copy Good SEMrush Advertising Research Spend + keywords Reliable Ahrefs Click data + CPC Keyword value Good iSpionage Landing page analysis Ad + landing page Moderate SEMrush PLA Shopping ad data Product listings Reliable</p>",
+      "tag": "p"
+    },
+    {
+      "text": "How Do You Spy on Competitor Ads?",
+      "originalText": "How Do You Spy on Competitor Ads?",
+      "source": "<h2>How Do You Spy on Competitor Ads?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Enter competitor domains in SpyFu to see their full PPC keyword history, ad copy variations, estimated spend, and landing pages, then use SEMrush Advertising Research to validate and expand the findings. Start with SpyFu by entering your top 3–5 competitor domains.",
+      "originalText": "Enter competitor domains in SpyFu to see their full PPC keyword history, ad copy variations, estimated spend, and landing pages, then use SEMrush Advertising Research to validate and expand the findings. Start with SpyFu by entering your top 3–5 competitor domains.",
+      "source": "<p class=\"answer-snippet\">Enter competitor domains in SpyFu to see their full PPC keyword history, ad copy variations, estimated spend, and landing pages, then use SEMrush Advertising Research to validate and expand the findings. Start with SpyFu by entering your top 3–5 competitor domains.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The Kombat tool shows shared and unique keywords across competitors. The Ad History feature displays every ad variation they have tested over months or years, revealing which messaging approaches perform best. Study the longest-running ads as they indicate proven performers.",
+      "originalText": "The Kombat tool shows shared and unique keywords across competitors. The Ad History feature displays every ad variation they have tested over months or years, revealing which messaging approaches perform best. Study the longest-running ads as they indicate proven performers.",
+      "source": "<p>The Kombat tool shows shared and unique keywords across competitors. The Ad History feature displays every ad variation they have tested over months or years, revealing which messaging approaches perform best. Study the longest-running ads as they indicate proven performers.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Cross-reference SpyFu data with SEMrush&#x27;s Advertising Research report. Enter the same competitor domains and compare the keyword lists for consistency. SEMrush shows the estimated monthly ad spend, traffic cost, and current ad positions.",
+      "originalText": "Cross-reference SpyFu data with SEMrush&#x27;s Advertising Research report. Enter the same competitor domains and compare the keyword lists for consistency. SEMrush shows the estimated monthly ad spend, traffic cost, and current ad positions.",
+      "source": "<p>Cross-reference SpyFu data with SEMrush&#x27;s Advertising Research report. Enter the same competitor domains and compare the keyword lists for consistency. SEMrush shows the estimated monthly ad spend, traffic cost, and current ad positions.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Discrepancies between tools help identify keywords where competitors are increasing or decreasing investment. Analyze competitor landing pages by clicking through their current ads. Document the offer structure, call-to-action language, trust elements, and conversion mechanisms.",
+      "originalText": "Discrepancies between tools help identify keywords where competitors are increasing or decreasing investment. Analyze competitor landing pages by clicking through their current ads. Document the offer structure, call-to-action language, trust elements, and conversion mechanisms.",
+      "source": "<p>Discrepancies between tools help identify keywords where competitors are increasing or decreasing investment. Analyze competitor landing pages by clicking through their current ads. Document the offer structure, call-to-action language, trust elements, and conversion mechanisms.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The best ad copy in the world fails with a weak landing page. Understanding the full competitor funnel from keyword to conversion gives you a complete competitive picture.",
+      "originalText": "The best ad copy in the world fails with a weak landing page. Understanding the full competitor funnel from keyword to conversion gives you a complete competitive picture.",
+      "source": "<p>The best ad copy in the world fails with a weak landing page. Understanding the full competitor funnel from keyword to conversion gives you a complete competitive picture.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Intelligence Type Tool What You Learn Action to Take Keyword Targets SpyFu Kombat Which keywords they bid on Add to your campaign Ad Copy SpyFu Ad History Winning messaging Test similar angles Ad Spend SEMrush Ads Research Estimated budget Budget benchmarking Landing Pages Manual + SpyFu Conversion strategy Improve your pages Shared Keywords SpyFu Kombat Competitive overlap Identify battlegrounds",
+      "originalText": "Intelligence Type Tool What You Learn Action to Take Keyword Targets SpyFu Kombat Which keywords they bid on Add to your campaign Ad Copy SpyFu Ad History Winning messaging Test similar angles Ad Spend SEMrush Ads Research Estimated budget Budget benchmarking Landing Pages Manual + SpyFu Conversion strategy Improve your pages Shared Keywords SpyFu Kombat Competitive overlap Identify battlegrounds",
+      "source": "<p>Intelligence Type Tool What You Learn Action to Take Keyword Targets SpyFu Kombat Which keywords they bid on Add to your campaign Ad Copy SpyFu Ad History Winning messaging Test similar angles Ad Spend SEMrush Ads Research Estimated budget Budget benchmarking Landing Pages Manual + SpyFu Conversion strategy Improve your pages Shared Keywords SpyFu Kombat Competitive overlap Identify battlegrounds</p>",
+      "tag": "p"
+    },
+    {
+      "text": "How Do You Find Profitable Keywords for PPC?",
+      "originalText": "How Do You Find Profitable Keywords for PPC?",
+      "source": "<h2>How Do You Find Profitable Keywords for PPC?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Find profitable PPC keywords by using SpyFu to discover proven competitor keywords, SEMrush to filter by CPC and search volume, and Ahrefs to identify keywords with high ad click rates indicating commercial intent. The most profitable PPC keywords are those your competitors consistently bid on over time.",
+      "originalText": "Find profitable PPC keywords by using SpyFu to discover proven competitor keywords, SEMrush to filter by CPC and search volume, and Ahrefs to identify keywords with high ad click rates indicating commercial intent. The most profitable PPC keywords are those your competitors consistently bid on over time.",
+      "source": "<p class=\"answer-snippet\">Find profitable PPC keywords by using SpyFu to discover proven competitor keywords, SEMrush to filter by CPC and search volume, and Ahrefs to identify keywords with high ad click rates indicating commercial intent. The most profitable PPC keywords are those your competitors consistently bid on over time.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "In SpyFu, look at keyword history spanning 6+ months rather than recent additions. Long-term investment signals profitability. Keywords competitors test briefly and abandon are likely unprofitable and should be approached cautiously.",
+      "originalText": "In SpyFu, look at keyword history spanning 6+ months rather than recent additions. Long-term investment signals profitability. Keywords competitors test briefly and abandon are likely unprofitable and should be approached cautiously.",
+      "source": "<p>In SpyFu, look at keyword history spanning 6+ months rather than recent additions. Long-term investment signals profitability. Keywords competitors test briefly and abandon are likely unprofitable and should be approached cautiously.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Use SEMrush&#x27;s Keyword Magic Tool with CPC and competitive density filters to find commercial-intent keywords you might have missed. Sort by CPC from highest to lowest as a proxy for commercial value. Keywords with CPC above $5 and search volume above 500 represent strong PPC opportunities worth testing.",
+      "originalText": "Use SEMrush&#x27;s Keyword Magic Tool with CPC and competitive density filters to find commercial-intent keywords you might have missed. Sort by CPC from highest to lowest as a proxy for commercial value. Keywords with CPC above $5 and search volume above 500 represent strong PPC opportunities worth testing.",
+      "source": "<p>Use SEMrush&#x27;s Keyword Magic Tool with CPC and competitive density filters to find commercial-intent keywords you might have missed. Sort by CPC from highest to lowest as a proxy for commercial value. Keywords with CPC above $5 and search volume above 500 represent strong PPC opportunities worth testing.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Ahrefs&#x27; click data reveals which keywords generate actual ad clicks versus impressions. Some keywords show high search volume but low ad click rates, meaning users prefer organic results. Focus your budget on keywords where ad click rates exceed 15%, indicating users actively engage with paid results.",
+      "originalText": "Ahrefs&#x27; click data reveals which keywords generate actual ad clicks versus impressions. Some keywords show high search volume but low ad click rates, meaning users prefer organic results. Focus your budget on keywords where ad click rates exceed 15%, indicating users actively engage with paid results.",
+      "source": "<p>Ahrefs&#x27; click data reveals which keywords generate actual ad clicks versus impressions. Some keywords show high search volume but low ad click rates, meaning users prefer organic results. Focus your budget on keywords where ad click rates exceed 15%, indicating users actively engage with paid results.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Keyword Signal Tool Indicator Profitability Long-term competitor bid SpyFu 6+ months active High High CPC ($5+) SEMrush Commercial value High Ad click rate >15% Ahrefs User engagement High Recent competitor addition SpyFu Testing phase Uncertain Low organic CTR SEMrush Ads get clicks Medium-High Seasonal spikes Google Trends Timing-dependent Variable",
+      "originalText": "Keyword Signal Tool Indicator Profitability Long-term competitor bid SpyFu 6+ months active High High CPC ($5+) SEMrush Commercial value High Ad click rate >15% Ahrefs User engagement High Recent competitor addition SpyFu Testing phase Uncertain Low organic CTR SEMrush Ads get clicks Medium-High Seasonal spikes Google Trends Timing-dependent Variable",
+      "source": "<p>Keyword Signal Tool Indicator Profitability Long-term competitor bid SpyFu 6+ months active High High CPC ($5+) SEMrush Commercial value High Ad click rate &gt;15% Ahrefs User engagement High Recent competitor addition SpyFu Testing phase Uncertain Low organic CTR SEMrush Ads get clicks Medium-High Seasonal spikes Google Trends Timing-dependent Variable</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Is the PPC Research Workflow?",
+      "originalText": "Is the PPC Research Workflow?",
+      "source": "<h2>Is the PPC Research Workflow?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "The PPC research workflow follows four phases: competitor discovery in SpyFu, keyword validation in SEMrush, bid strategy development using CPC and click data, and campaign launch with ongoing optimization based on performance data.",
+      "originalText": "The PPC research workflow follows four phases: competitor discovery in SpyFu, keyword validation in SEMrush, bid strategy development using CPC and click data, and campaign launch with ongoing optimization based on performance data.",
+      "source": "<p class=\"answer-snippet\">The PPC research workflow follows four phases: competitor discovery in SpyFu, keyword validation in SEMrush, bid strategy development using CPC and click data, and campaign launch with ongoing optimization based on performance data.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Phase one: Identify 3–5 direct competitors using Google searches for your target keywords. Enter each into SpyFu to extract their complete PPC keyword lists, ad copy library, and estimated spend. Export all data to a spreadsheet for cross-competitor analysis.",
+      "originalText": "Phase one: Identify 3–5 direct competitors using Google searches for your target keywords. Enter each into SpyFu to extract their complete PPC keyword lists, ad copy library, and estimated spend. Export all data to a spreadsheet for cross-competitor analysis.",
+      "source": "<p>Phase one: Identify 3–5 direct competitors using Google searches for your target keywords. Enter each into SpyFu to extract their complete PPC keyword lists, ad copy library, and estimated spend. Export all data to a spreadsheet for cross-competitor analysis.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Look for keywords shared by multiple competitors as these are proven performers. Phase two: Validate your keyword list in SEMrush by checking search volume, CPC, competitive density, and trend data.",
+      "originalText": "Look for keywords shared by multiple competitors as these are proven performers. Phase two: Validate your keyword list in SEMrush by checking search volume, CPC, competitive density, and trend data.",
+      "source": "<p>Look for keywords shared by multiple competitors as these are proven performers. Phase two: Validate your keyword list in SEMrush by checking search volume, CPC, competitive density, and trend data.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Remove keywords with declining search volume, unusually low CPC that may indicate low commercial intent, or extremely high competition that makes entry cost-prohibitive. Phase three: Develop your bid strategy by grouping keywords into tiers based on commercial value and competition.",
+      "originalText": "Remove keywords with declining search volume, unusually low CPC that may indicate low commercial intent, or extremely high competition that makes entry cost-prohibitive. Phase three: Develop your bid strategy by grouping keywords into tiers based on commercial value and competition.",
+      "source": "<p>Remove keywords with declining search volume, unusually low CPC that may indicate low commercial intent, or extremely high competition that makes entry cost-prohibitive. Phase three: Develop your bid strategy by grouping keywords into tiers based on commercial value and competition.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Phase four: Launch campaigns with A/B tested ad copy inspired by competitor messaging. Monitor results daily for the first two weeks, pausing underperforming keywords and increasing bids on winners.",
+      "originalText": "Phase four: Launch campaigns with A/B tested ad copy inspired by competitor messaging. Monitor results daily for the first two weeks, pausing underperforming keywords and increasing bids on winners.",
+      "source": "<p>Phase four: Launch campaigns with A/B tested ad copy inspired by competitor messaging. Monitor results daily for the first two weeks, pausing underperforming keywords and increasing bids on winners.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Phase Duration Key Activities Tools Used Output 1: Discovery 2–3 days Competitor analysis SpyFu Keyword + ad copy database 2: Validation 1–2 days Volume + CPC check SEMrush Validated keyword list 3: Strategy 1 day Bid tier planning Ahrefs + SEMrush Bid strategy document 4: Launch + Optimize Ongoing Campaign management Google Ads Optimized campaigns",
+      "originalText": "Phase Duration Key Activities Tools Used Output 1: Discovery 2–3 days Competitor analysis SpyFu Keyword + ad copy database 2: Validation 1–2 days Volume + CPC check SEMrush Validated keyword list 3: Strategy 1 day Bid tier planning Ahrefs + SEMrush Bid strategy document 4: Launch + Optimize Ongoing Campaign management Google Ads Optimized campaigns",
+      "source": "<p>Phase Duration Key Activities Tools Used Output 1: Discovery 2–3 days Competitor analysis SpyFu Keyword + ad copy database 2: Validation 1–2 days Volume + CPC check SEMrush Validated keyword list 3: Strategy 1 day Bid tier planning Ahrefs + SEMrush Bid strategy document 4: Launch + Optimize Ongoing Campaign management Google Ads Optimized campaigns</p>",
+      "tag": "p"
+    },
+    {
+      "text": "What Are the References for This Page?",
+      "originalText": "What Are the References for This Page?",
+      "source": "<h2>What Are the References for This Page?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "SpyFu PPC Research Guide",
+      "originalText": "SpyFu PPC Research Guide",
+      "source": "<li><a href=\"https://spyfu.com/blog\" rel=\"noopener\">SpyFu PPC Research Guide</a></li>",
+      "tag": "li"
+    },
+    {
+      "text": "SEMrush Advertising Research Documentation",
+      "originalText": "SEMrush Advertising Research Documentation",
+      "source": "<li><a href=\"https://semrush.com/advertising\" rel=\"noopener\">SEMrush Advertising Research Documentation</a></li>",
+      "tag": "li"
+    },
+    {
+      "text": "Google Ads Keyword Planning Guide",
+      "originalText": "Google Ads Keyword Planning Guide",
+      "source": "<li><a href=\"https://support.google.com/google-ads\" rel=\"noopener\">Google Ads Keyword Planning Guide</a></li>",
+      "tag": "li"
+    },
+    {
+      "text": "PPC Competitive Analysis Best Practices",
+      "originalText": "PPC Competitive Analysis Best Practices",
+      "source": "<li><a href=\"https://wordstream.com\" rel=\"noopener\">PPC Competitive Analysis Best Practices</a></li>",
+      "tag": "li"
+    },
+    {
+      "text": "SEO Group Buy PPC Tools",
+      "originalText": "SEO Group Buy PPC Tools",
+      "source": "<li><a href=\"https://seogroupsbuytools.com/ppc\" rel=\"noopener\">SEO Group Buy PPC Tools</a></li>",
+      "tag": "li"
+    },
+    {
+      "text": "PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data",
+      "originalText": "PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data",
+      "source": "<li><a href=\"https://driven\" rel=\"noopener\">PPC research through SEO Group Buy Tools gives you the competitive intelligence that separates profitable campaigns from wasted ad spend. By leveraging SpyFu for competitor analysis, SEMrush for keyword validation, and Ahrefs for click data, you build data</a></li>",
+      "tag": "li"
     }
   ]
 }

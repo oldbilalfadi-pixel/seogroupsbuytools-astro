@@ -13,721 +13,1274 @@
       "label": "LI 1",
       "content": "<a href=\"../../\">Home</a>",
       "original": "<a href=\"../../\">Home</a>",
-      "source": "<li><a href=\"../../\">Home</a></li>"
+      "source": "<li><a href=\"../../\">Home</a></li>",
+      "originalText": "Home",
+      "text": "Home"
     },
     {
       "key": "li-2",
       "label": "LI 2",
       "content": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "Tools ▾ SEO Tools",
+      "text": "Tools ▾ SEO Tools"
     },
     {
       "key": "li-3",
       "label": "LI 3",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-4",
       "label": "LI 4",
       "content": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
       "original": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>",
+      "originalText": "Spy & Ad Intelligence",
+      "text": "Spy & Ad Intelligence"
     },
     {
       "key": "li-5",
       "label": "LI 5",
       "content": "<a href=\"../../ai-writing-tools/\">AI Writing Tools</a>",
       "original": "<a href=\"../../ai-writing-tools/\">AI Writing Tools</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing Tools</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing Tools</a></li>",
+      "originalText": "AI Writing Tools",
+      "text": "AI Writing Tools"
     },
     {
       "key": "li-6",
       "label": "LI 6",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>",
+      "originalText": "E-commerce Tools",
+      "text": "E-commerce Tools"
     },
     {
       "key": "li-7",
       "label": "LI 7",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "li-8",
       "label": "LI 8",
       "content": "<a href=\"../../education-tools/\">Education</a>",
       "original": "<a href=\"../../education-tools/\">Education</a>",
-      "source": "<li><a href=\"../../education-tools/\">Education</a></li>"
+      "source": "<li><a href=\"../../education-tools/\">Education</a></li>",
+      "originalText": "Education",
+      "text": "Education"
     },
     {
       "key": "li-9",
       "label": "LI 9",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "li-10",
       "label": "LI 10",
       "content": "<a href=\"../../best-providers/\">Providers</a>",
       "original": "<a href=\"../../best-providers/\">Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>",
+      "originalText": "Providers",
+      "text": "Providers"
     },
     {
       "key": "li-11",
       "label": "LI 11",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-12",
       "label": "LI 12",
       "content": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
       "original": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
-      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>"
+      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>",
+      "originalText": "Get Started",
+      "text": "Get Started"
     },
     {
       "key": "h1-1",
       "label": "H1 1",
       "content": "E-commerce Product Research with Group Buy Tools",
       "original": "E-commerce Product Research with Group Buy Tools",
-      "source": "<h1>E-commerce Product Research with Group Buy Tools</h1>"
+      "source": "<h1>E-commerce Product Research with Group Buy Tools</h1>",
+      "originalText": "E-commerce Product Research with Group Buy Tools",
+      "text": "E-commerce Product Research with Group Buy Tools"
     },
     {
       "key": "h2-1",
       "label": "H2 1",
       "content": "How Do You Use SEO Group Buy Tools for Amazon Selling?",
       "original": "How Do You Use SEO Group Buy Tools for Amazon Selling?",
-      "source": "<h2>How Do You Use SEO Group Buy Tools for Amazon Selling?</h2>"
+      "source": "<h2>How Do You Use SEO Group Buy Tools for Amazon Selling?</h2>",
+      "originalText": "How Do You Use SEO Group Buy Tools for Amazon Selling?",
+      "text": "How Do You Use SEO Group Buy Tools for Amazon Selling?"
     },
     {
       "key": "p-1",
       "label": "P 1",
       "content": "Amazon selling requires specialized tools for product research, keyword optimization, and listing management, and SEO Group Buy Tools make premium Amazon seller platforms like Helium 10 and Jungle Scout accessible at shared costs. This guide covers the complete Amazon selling research workflow.",
       "original": "Amazon selling requires specialized tools for product research, keyword optimization, and listing management, and SEO Group Buy Tools make premium Amazon seller platforms like Helium 10 and Jungle Scout accessible at shared costs. This guide covers the complete Amazon selling research workflow.",
-      "source": "<p class=\"answer-snippet\">Amazon selling requires specialized tools for product research, keyword optimization, and listing management, and SEO Group Buy Tools make premium Amazon seller platforms like Helium 10 and Jungle Scout accessible at shared costs. This guide covers the complete Amazon selling research workflow.</p>"
+      "source": "<p class=\"answer-snippet\">Amazon selling requires specialized tools for product research, keyword optimization, and listing management, and SEO Group Buy Tools make premium Amazon seller platforms like Helium 10 and Jungle Scout accessible at shared costs. This guide covers the complete Amazon selling research workflow.</p>",
+      "originalText": "Amazon selling requires specialized tools for product research, keyword optimization, and listing management, and SEO Group Buy Tools make premium Amazon seller platforms like Helium 10 and Jungle Scout accessible at shared costs. This guide covers the complete Amazon selling research workflow.",
+      "text": "Amazon selling requires specialized tools for product research, keyword optimization, and listing management, and SEO Group Buy Tools make premium Amazon seller platforms like Helium 10 and Jungle Scout accessible at shared costs. This guide covers the complete Amazon selling research workflow."
     },
     {
       "key": "h2-2",
       "label": "H2 2",
       "content": "Which Tools Help Amazon Sellers?",
       "original": "Which Tools Help Amazon Sellers?",
-      "source": "<h2>Which Tools Help Amazon Sellers?</h2>"
+      "source": "<h2>Which Tools Help Amazon Sellers?</h2>",
+      "originalText": "Which Tools Help Amazon Sellers?",
+      "text": "Which Tools Help Amazon Sellers?"
     },
     {
       "key": "p-2",
       "label": "P 2",
       "content": "Helium 10 is the most comprehensive Amazon seller tool suite with product research, keyword tracking, and listing optimization, while Jungle Scout excels in product discovery and supplier database features for FBA sellers.",
       "original": "Helium 10 is the most comprehensive Amazon seller tool suite with product research, keyword tracking, and listing optimization, while Jungle Scout excels in product discovery and supplier database features for FBA sellers.",
-      "source": "<p class=\"answer-snippet\">Helium 10 is the most comprehensive Amazon seller tool suite with product research, keyword tracking, and listing optimization, while Jungle Scout excels in product discovery and supplier database features for FBA sellers.</p>"
+      "source": "<p class=\"answer-snippet\">Helium 10 is the most comprehensive Amazon seller tool suite with product research, keyword tracking, and listing optimization, while Jungle Scout excels in product discovery and supplier database features for FBA sellers.</p>",
+      "originalText": "Helium 10 is the most comprehensive Amazon seller tool suite with product research, keyword tracking, and listing optimization, while Jungle Scout excels in product discovery and supplier database features for FBA sellers.",
+      "text": "Helium 10 is the most comprehensive Amazon seller tool suite with product research, keyword tracking, and listing optimization, while Jungle Scout excels in product discovery and supplier database features for FBA sellers."
     },
     {
       "key": "p-3",
       "label": "P 3",
       "content": "Helium 10 provides an all-in-one Amazon seller toolkit including Black Box for product research, Cerebro for keyword research, Magnet for keyword discovery, Scribbles for listing optimization, and X-Ray for product analysis.",
       "original": "Helium 10 provides an all-in-one Amazon seller toolkit including Black Box for product research, Cerebro for keyword research, Magnet for keyword discovery, Scribbles for listing optimization, and X-Ray for product analysis.",
-      "source": "<p>Helium 10 provides an all-in-one Amazon seller toolkit including Black Box for product research, Cerebro for keyword research, Magnet for keyword discovery, Scribbles for listing optimization, and X-Ray for product analysis.</p>"
+      "source": "<p>Helium 10 provides an all-in-one Amazon seller toolkit including Black Box for product research, Cerebro for keyword research, Magnet for keyword discovery, Scribbles for listing optimization, and X-Ray for product analysis.</p>",
+      "originalText": "Helium 10 provides an all-in-one Amazon seller toolkit including Black Box for product research, Cerebro for keyword research, Magnet for keyword discovery, Scribbles for listing optimization, and X-Ray for product analysis.",
+      "text": "Helium 10 provides an all-in-one Amazon seller toolkit including Black Box for product research, Cerebro for keyword research, Magnet for keyword discovery, Scribbles for listing optimization, and X-Ray for product analysis."
     },
     {
       "key": "p-4",
       "label": "P 4",
       "content": "Its comprehensive feature set covers the entire Amazon selling workflow from product discovery to listing optimization. Jungle Scout specializes in product research with its Product Database, Supplier Database, and Opportunity Finder. Its Chrome extension provides real-time sales estimates while browsing Amazon.",
       "original": "Its comprehensive feature set covers the entire Amazon selling workflow from product discovery to listing optimization. Jungle Scout specializes in product research with its Product Database, Supplier Database, and Opportunity Finder. Its Chrome extension provides real-time sales estimates while browsing Amazon.",
-      "source": "<p>Its comprehensive feature set covers the entire Amazon selling workflow from product discovery to listing optimization. Jungle Scout specializes in product research with its Product Database, Supplier Database, and Opportunity Finder. Its Chrome extension provides real-time sales estimates while browsing Amazon.</p>"
+      "source": "<p>Its comprehensive feature set covers the entire Amazon selling workflow from product discovery to listing optimization. Jungle Scout specializes in product research with its Product Database, Supplier Database, and Opportunity Finder. Its Chrome extension provides real-time sales estimates while browsing Amazon.</p>",
+      "originalText": "Its comprehensive feature set covers the entire Amazon selling workflow from product discovery to listing optimization. Jungle Scout specializes in product research with its Product Database, Supplier Database, and Opportunity Finder. Its Chrome extension provides real-time sales estimates while browsing Amazon.",
+      "text": "Its comprehensive feature set covers the entire Amazon selling workflow from product discovery to listing optimization. Jungle Scout specializes in product research with its Product Database, Supplier Database, and Opportunity Finder. Its Chrome extension provides real-time sales estimates while browsing Amazon."
     },
     {
       "key": "p-5",
       "label": "P 5",
       "content": "For new Amazon FBA sellers focused on finding their first profitable product, Jungle Scout&#x27;s focused approach is highly effective. Both tools through SEO Group Buy Tools cost a fraction of their individual subscription prices.",
       "original": "For new Amazon FBA sellers focused on finding their first profitable product, Jungle Scout&#x27;s focused approach is highly effective. Both tools through SEO Group Buy Tools cost a fraction of their individual subscription prices.",
-      "source": "<p>For new Amazon FBA sellers focused on finding their first profitable product, Jungle Scout&#x27;s focused approach is highly effective. Both tools through SEO Group Buy Tools cost a fraction of their individual subscription prices.</p>"
+      "source": "<p>For new Amazon FBA sellers focused on finding their first profitable product, Jungle Scout&#x27;s focused approach is highly effective. Both tools through SEO Group Buy Tools cost a fraction of their individual subscription prices.</p>",
+      "originalText": "For new Amazon FBA sellers focused on finding their first profitable product, Jungle Scout&#x27;s focused approach is highly effective. Both tools through SEO Group Buy Tools cost a fraction of their individual subscription prices.",
+      "text": "For new Amazon FBA sellers focused on finding their first profitable product, Jungle Scout&#x27;s focused approach is highly effective. Both tools through SEO Group Buy Tools cost a fraction of their individual subscription prices."
     },
     {
       "key": "p-6",
       "label": "P 6",
       "content": "Helium 10 Platinum costs $79/month individually and Jungle Scout Suite costs $69/month individually. Through group buy, access to both tools together typically costs $10–$20/month, saving over $100/month.",
       "original": "Helium 10 Platinum costs $79/month individually and Jungle Scout Suite costs $69/month individually. Through group buy, access to both tools together typically costs $10–$20/month, saving over $100/month.",
-      "source": "<p>Helium 10 Platinum costs $79/month individually and Jungle Scout Suite costs $69/month individually. Through group buy, access to both tools together typically costs $10–$20/month, saving over $100/month.</p>"
+      "source": "<p>Helium 10 Platinum costs $79/month individually and Jungle Scout Suite costs $69/month individually. Through group buy, access to both tools together typically costs $10–$20/month, saving over $100/month.</p>",
+      "originalText": "Helium 10 Platinum costs $79/month individually and Jungle Scout Suite costs $69/month individually. Through group buy, access to both tools together typically costs $10–$20/month, saving over $100/month.",
+      "text": "Helium 10 Platinum costs $79/month individually and Jungle Scout Suite costs $69/month individually. Through group buy, access to both tools together typically costs $10–$20/month, saving over $100/month."
     },
     {
       "key": "p-7",
       "label": "P 7",
       "content": "Feature Helium 10 Jungle Scout Best For Product Research Black Box Product Database Both strong Keyword Research Cerebro + Magnet Keyword Scout Helium 10 Listing Optimization Scribbles Listing Builder Helium 10 Sales Estimation X-Ray Chrome Extension Jungle Scout Supplier Database Not included Built-in Jungle Scout Profit Calculator Free tool Built-in Both adequate",
       "original": "Feature Helium 10 Jungle Scout Best For Product Research Black Box Product Database Both strong Keyword Research Cerebro + Magnet Keyword Scout Helium 10 Listing Optimization Scribbles Listing Builder Helium 10 Sales Estimation X-Ray Chrome Extension Jungle Scout Supplier Database Not included Built-in Jungle Scout Profit Calculator Free tool Built-in Both adequate",
-      "source": "<p>Feature Helium 10 Jungle Scout Best For Product Research Black Box Product Database Both strong Keyword Research Cerebro + Magnet Keyword Scout Helium 10 Listing Optimization Scribbles Listing Builder Helium 10 Sales Estimation X-Ray Chrome Extension Jungle Scout Supplier Database Not included Built-in Jungle Scout Profit Calculator Free tool Built-in Both adequate</p>"
+      "source": "<p>Feature Helium 10 Jungle Scout Best For Product Research Black Box Product Database Both strong Keyword Research Cerebro + Magnet Keyword Scout Helium 10 Listing Optimization Scribbles Listing Builder Helium 10 Sales Estimation X-Ray Chrome Extension Jungle Scout Supplier Database Not included Built-in Jungle Scout Profit Calculator Free tool Built-in Both adequate</p>",
+      "originalText": "Feature Helium 10 Jungle Scout Best For Product Research Black Box Product Database Both strong Keyword Research Cerebro + Magnet Keyword Scout Helium 10 Listing Optimization Scribbles Listing Builder Helium 10 Sales Estimation X-Ray Chrome Extension Jungle Scout Supplier Database Not included Built-in Jungle Scout Profit Calculator Free tool Built-in Both adequate",
+      "text": "Feature Helium 10 Jungle Scout Best For Product Research Black Box Product Database Both strong Keyword Research Cerebro + Magnet Keyword Scout Helium 10 Listing Optimization Scribbles Listing Builder Helium 10 Sales Estimation X-Ray Chrome Extension Jungle Scout Supplier Database Not included Built-in Jungle Scout Profit Calculator Free tool Built-in Both adequate"
     },
     {
       "key": "h2-3",
       "label": "H2 3",
       "content": "How Do You Find Profitable Products?",
       "original": "How Do You Find Profitable Products?",
-      "source": "<h2>How Do You Find Profitable Products?</h2>"
+      "source": "<h2>How Do You Find Profitable Products?</h2>",
+      "originalText": "How Do You Find Profitable Products?",
+      "text": "How Do You Find Profitable Products?"
     },
     {
       "key": "p-8",
       "label": "P 8",
       "content": "Find profitable Amazon products by using Helium 10 Black Box to filter for items with 300+ monthly sales, under 200 reviews, selling prices of $15–$50, and lightweight dimensions that minimize FBA fees.",
       "original": "Find profitable Amazon products by using Helium 10 Black Box to filter for items with 300+ monthly sales, under 200 reviews, selling prices of $15–$50, and lightweight dimensions that minimize FBA fees.",
-      "source": "<p class=\"answer-snippet\">Find profitable Amazon products by using Helium 10 Black Box to filter for items with 300+ monthly sales, under 200 reviews, selling prices of $15–$50, and lightweight dimensions that minimize FBA fees.</p>"
+      "source": "<p class=\"answer-snippet\">Find profitable Amazon products by using Helium 10 Black Box to filter for items with 300+ monthly sales, under 200 reviews, selling prices of $15–$50, and lightweight dimensions that minimize FBA fees.</p>",
+      "originalText": "Find profitable Amazon products by using Helium 10 Black Box to filter for items with 300+ monthly sales, under 200 reviews, selling prices of $15–$50, and lightweight dimensions that minimize FBA fees.",
+      "text": "Find profitable Amazon products by using Helium 10 Black Box to filter for items with 300+ monthly sales, under 200 reviews, selling prices of $15–$50, and lightweight dimensions that minimize FBA fees."
     },
     {
       "key": "p-9",
       "label": "P 9",
       "content": "Open Helium 10 Black Box and set your product criteria filters: monthly revenue above $3,000, review count below 200 on the top listing, selling price between $15–$50, and product weight under 1 pound. These filters eliminate unprofitable and overly competitive products from consideration.",
       "original": "Open Helium 10 Black Box and set your product criteria filters: monthly revenue above $3,000, review count below 200 on the top listing, selling price between $15–$50, and product weight under 1 pound. These filters eliminate unprofitable and overly competitive products from consideration.",
-      "source": "<p>Open Helium 10 Black Box and set your product criteria filters: monthly revenue above $3,000, review count below 200 on the top listing, selling price between $15–$50, and product weight under 1 pound. These filters eliminate unprofitable and overly competitive products from consideration.</p>"
+      "source": "<p>Open Helium 10 Black Box and set your product criteria filters: monthly revenue above $3,000, review count below 200 on the top listing, selling price between $15–$50, and product weight under 1 pound. These filters eliminate unprofitable and overly competitive products from consideration.</p>",
+      "originalText": "Open Helium 10 Black Box and set your product criteria filters: monthly revenue above $3,000, review count below 200 on the top listing, selling price between $15–$50, and product weight under 1 pound. These filters eliminate unprofitable and overly competitive products from consideration.",
+      "text": "Open Helium 10 Black Box and set your product criteria filters: monthly revenue above $3,000, review count below 200 on the top listing, selling price between $15–$50, and product weight under 1 pound. These filters eliminate unprofitable and overly competitive products from consideration."
     },
     {
       "key": "p-10",
       "label": "P 10",
       "content": "Analyze the search results by examining the top 10 listings for each potential product. Check the review distribution: if one listing dominates with 5,000+ reviews and the 10th listing has under 50, the market has room for new entrants. If all top 10 listings have 500+ reviews, the niche is likely too competitive.",
       "original": "Analyze the search results by examining the top 10 listings for each potential product. Check the review distribution: if one listing dominates with 5,000+ reviews and the 10th listing has under 50, the market has room for new entrants. If all top 10 listings have 500+ reviews, the niche is likely too competitive.",
-      "source": "<p>Analyze the search results by examining the top 10 listings for each potential product. Check the review distribution: if one listing dominates with 5,000+ reviews and the 10th listing has under 50, the market has room for new entrants. If all top 10 listings have 500+ reviews, the niche is likely too competitive.</p>"
+      "source": "<p>Analyze the search results by examining the top 10 listings for each potential product. Check the review distribution: if one listing dominates with 5,000+ reviews and the 10th listing has under 50, the market has room for new entrants. If all top 10 listings have 500+ reviews, the niche is likely too competitive.</p>",
+      "originalText": "Analyze the search results by examining the top 10 listings for each potential product. Check the review distribution: if one listing dominates with 5,000+ reviews and the 10th listing has under 50, the market has room for new entrants. If all top 10 listings have 500+ reviews, the niche is likely too competitive.",
+      "text": "Analyze the search results by examining the top 10 listings for each potential product. Check the review distribution: if one listing dominates with 5,000+ reviews and the 10th listing has under 50, the market has room for new entrants. If all top 10 listings have 500+ reviews, the niche is likely too competitive."
     },
     {
       "key": "p-11",
       "label": "P 11",
       "content": "Validate product ideas using Jungle Scout&#x27;s Opportunity Score, which combines demand, competition, and listing quality data into a single metric. Products scoring 6+ on Jungle Scout&#x27;s 1–10 scale represent solid opportunities. Cross-reference with Helium 10 X-Ray data to confirm sales estimates from both tools.",
       "original": "Validate product ideas using Jungle Scout&#x27;s Opportunity Score, which combines demand, competition, and listing quality data into a single metric. Products scoring 6+ on Jungle Scout&#x27;s 1–10 scale represent solid opportunities. Cross-reference with Helium 10 X-Ray data to confirm sales estimates from both tools.",
-      "source": "<p>Validate product ideas using Jungle Scout&#x27;s Opportunity Score, which combines demand, competition, and listing quality data into a single metric. Products scoring 6+ on Jungle Scout&#x27;s 1–10 scale represent solid opportunities. Cross-reference with Helium 10 X-Ray data to confirm sales estimates from both tools.</p>"
+      "source": "<p>Validate product ideas using Jungle Scout&#x27;s Opportunity Score, which combines demand, competition, and listing quality data into a single metric. Products scoring 6+ on Jungle Scout&#x27;s 1–10 scale represent solid opportunities. Cross-reference with Helium 10 X-Ray data to confirm sales estimates from both tools.</p>",
+      "originalText": "Validate product ideas using Jungle Scout&#x27;s Opportunity Score, which combines demand, competition, and listing quality data into a single metric. Products scoring 6+ on Jungle Scout&#x27;s 1–10 scale represent solid opportunities. Cross-reference with Helium 10 X-Ray data to confirm sales estimates from both tools.",
+      "text": "Validate product ideas using Jungle Scout&#x27;s Opportunity Score, which combines demand, competition, and listing quality data into a single metric. Products scoring 6+ on Jungle Scout&#x27;s 1–10 scale represent solid opportunities. Cross-reference with Helium 10 X-Ray data to confirm sales estimates from both tools."
     },
     {
       "key": "p-12",
       "label": "P 12",
       "content": "Product Criteria Ideal Range Red Flag Why It Matters Monthly Sales 300+ units Under 100 units Sufficient demand Review Count (Top 10 Avg) Under 200 500+ reviews everywhere Entry barrier Selling Price $15–$50 Under $10 or over $100 Profit margin room Product Weight Under 1 lb Heavy or oversized FBA fee impact Number of Sellers 2–5 per listing 10+ sellers per listing Price competition Search Volume 10,000+ monthly Under 1,000 monthly Market size",
       "original": "Product Criteria Ideal Range Red Flag Why It Matters Monthly Sales 300+ units Under 100 units Sufficient demand Review Count (Top 10 Avg) Under 200 500+ reviews everywhere Entry barrier Selling Price $15–$50 Under $10 or over $100 Profit margin room Product Weight Under 1 lb Heavy or oversized FBA fee impact Number of Sellers 2–5 per listing 10+ sellers per listing Price competition Search Volume 10,000+ monthly Under 1,000 monthly Market size",
-      "source": "<p>Product Criteria Ideal Range Red Flag Why It Matters Monthly Sales 300+ units Under 100 units Sufficient demand Review Count (Top 10 Avg) Under 200 500+ reviews everywhere Entry barrier Selling Price $15–$50 Under $10 or over $100 Profit margin room Product Weight Under 1 lb Heavy or oversized FBA fee impact Number of Sellers 2–5 per listing 10+ sellers per listing Price competition Search Volume 10,000+ monthly Under 1,000 monthly Market size</p>"
+      "source": "<p>Product Criteria Ideal Range Red Flag Why It Matters Monthly Sales 300+ units Under 100 units Sufficient demand Review Count (Top 10 Avg) Under 200 500+ reviews everywhere Entry barrier Selling Price $15–$50 Under $10 or over $100 Profit margin room Product Weight Under 1 lb Heavy or oversized FBA fee impact Number of Sellers 2–5 per listing 10+ sellers per listing Price competition Search Volume 10,000+ monthly Under 1,000 monthly Market size</p>",
+      "originalText": "Product Criteria Ideal Range Red Flag Why It Matters Monthly Sales 300+ units Under 100 units Sufficient demand Review Count (Top 10 Avg) Under 200 500+ reviews everywhere Entry barrier Selling Price $15–$50 Under $10 or over $100 Profit margin room Product Weight Under 1 lb Heavy or oversized FBA fee impact Number of Sellers 2–5 per listing 10+ sellers per listing Price competition Search Volume 10,000+ monthly Under 1,000 monthly Market size",
+      "text": "Product Criteria Ideal Range Red Flag Why It Matters Monthly Sales 300+ units Under 100 units Sufficient demand Review Count (Top 10 Avg) Under 200 500+ reviews everywhere Entry barrier Selling Price $15–$50 Under $10 or over $100 Profit margin room Product Weight Under 1 lb Heavy or oversized FBA fee impact Number of Sellers 2–5 per listing 10+ sellers per listing Price competition Search Volume 10,000+ monthly Under 1,000 monthly Market size"
     },
     {
       "key": "h2-4",
       "label": "H2 4",
       "content": "How Do You Optimize Amazon Listings?",
       "original": "How Do You Optimize Amazon Listings?",
-      "source": "<h2>How Do You Optimize Amazon Listings?</h2>"
+      "source": "<h2>How Do You Optimize Amazon Listings?</h2>",
+      "originalText": "How Do You Optimize Amazon Listings?",
+      "text": "How Do You Optimize Amazon Listings?"
     },
     {
       "key": "p-13",
       "label": "P 13",
       "content": "Optimize Amazon listings by using Helium 10 Cerebro to find high-volume search terms, incorporating them into titles, bullets, and descriptions with Scribbles, and monitoring keyword rankings with Keyword Tracker. Start keyword research for your listing using Helium 10 Cerebro.",
       "original": "Optimize Amazon listings by using Helium 10 Cerebro to find high-volume search terms, incorporating them into titles, bullets, and descriptions with Scribbles, and monitoring keyword rankings with Keyword Tracker. Start keyword research for your listing using Helium 10 Cerebro.",
-      "source": "<p class=\"answer-snippet\">Optimize Amazon listings by using Helium 10 Cerebro to find high-volume search terms, incorporating them into titles, bullets, and descriptions with Scribbles, and monitoring keyword rankings with Keyword Tracker. Start keyword research for your listing using Helium 10 Cerebro.</p>"
+      "source": "<p class=\"answer-snippet\">Optimize Amazon listings by using Helium 10 Cerebro to find high-volume search terms, incorporating them into titles, bullets, and descriptions with Scribbles, and monitoring keyword rankings with Keyword Tracker. Start keyword research for your listing using Helium 10 Cerebro.</p>",
+      "originalText": "Optimize Amazon listings by using Helium 10 Cerebro to find high-volume search terms, incorporating them into titles, bullets, and descriptions with Scribbles, and monitoring keyword rankings with Keyword Tracker. Start keyword research for your listing using Helium 10 Cerebro.",
+      "text": "Optimize Amazon listings by using Helium 10 Cerebro to find high-volume search terms, incorporating them into titles, bullets, and descriptions with Scribbles, and monitoring keyword rankings with Keyword Tracker. Start keyword research for your listing using Helium 10 Cerebro."
     },
     {
       "key": "p-14",
       "label": "P 14",
       "content": "Enter competitor ASINs to discover which keywords they rank for and receive search volume data for each term. Export the top 50–100 keywords by search volume and identify 5–10 primary keywords for your title and 20–30 secondary keywords for bullets and description.",
       "original": "Enter competitor ASINs to discover which keywords they rank for and receive search volume data for each term. Export the top 50–100 keywords by search volume and identify 5–10 primary keywords for your title and 20–30 secondary keywords for bullets and description.",
-      "source": "<p>Enter competitor ASINs to discover which keywords they rank for and receive search volume data for each term. Export the top 50–100 keywords by search volume and identify 5–10 primary keywords for your title and 20–30 secondary keywords for bullets and description.</p>"
+      "source": "<p>Enter competitor ASINs to discover which keywords they rank for and receive search volume data for each term. Export the top 50–100 keywords by search volume and identify 5–10 primary keywords for your title and 20–30 secondary keywords for bullets and description.</p>",
+      "originalText": "Enter competitor ASINs to discover which keywords they rank for and receive search volume data for each term. Export the top 50–100 keywords by search volume and identify 5–10 primary keywords for your title and 20–30 secondary keywords for bullets and description.",
+      "text": "Enter competitor ASINs to discover which keywords they rank for and receive search volume data for each term. Export the top 50–100 keywords by search volume and identify 5–10 primary keywords for your title and 20–30 secondary keywords for bullets and description."
     },
     {
       "key": "p-15",
       "label": "P 15",
       "content": "Use Helium 10 Scribbles to craft your listing, inputting your target keywords and writing title, bullet points, and description while tracking keyword usage. Scribbles highlights which keywords you have included and which remain unused. Ensure every target keyword appears at least once across your listing fields.",
       "original": "Use Helium 10 Scribbles to craft your listing, inputting your target keywords and writing title, bullet points, and description while tracking keyword usage. Scribbles highlights which keywords you have included and which remain unused. Ensure every target keyword appears at least once across your listing fields.",
-      "source": "<p>Use Helium 10 Scribbles to craft your listing, inputting your target keywords and writing title, bullet points, and description while tracking keyword usage. Scribbles highlights which keywords you have included and which remain unused. Ensure every target keyword appears at least once across your listing fields.</p>"
+      "source": "<p>Use Helium 10 Scribbles to craft your listing, inputting your target keywords and writing title, bullet points, and description while tracking keyword usage. Scribbles highlights which keywords you have included and which remain unused. Ensure every target keyword appears at least once across your listing fields.</p>",
+      "originalText": "Use Helium 10 Scribbles to craft your listing, inputting your target keywords and writing title, bullet points, and description while tracking keyword usage. Scribbles highlights which keywords you have included and which remain unused. Ensure every target keyword appears at least once across your listing fields.",
+      "text": "Use Helium 10 Scribbles to craft your listing, inputting your target keywords and writing title, bullet points, and description while tracking keyword usage. Scribbles highlights which keywords you have included and which remain unused. Ensure every target keyword appears at least once across your listing fields."
     },
     {
       "key": "p-16",
       "label": "P 16",
       "content": "Optimize your listing images and A+ content alongside text optimization. The main image must fill 85% of the frame on a white background. Include lifestyle images, infographics showing features, comparison charts, and size guides.",
       "original": "Optimize your listing images and A+ content alongside text optimization. The main image must fill 85% of the frame on a white background. Include lifestyle images, infographics showing features, comparison charts, and size guides.",
-      "source": "<p>Optimize your listing images and A+ content alongside text optimization. The main image must fill 85% of the frame on a white background. Include lifestyle images, infographics showing features, comparison charts, and size guides.</p>"
+      "source": "<p>Optimize your listing images and A+ content alongside text optimization. The main image must fill 85% of the frame on a white background. Include lifestyle images, infographics showing features, comparison charts, and size guides.</p>",
+      "originalText": "Optimize your listing images and A+ content alongside text optimization. The main image must fill 85% of the frame on a white background. Include lifestyle images, infographics showing features, comparison charts, and size guides.",
+      "text": "Optimize your listing images and A+ content alongside text optimization. The main image must fill 85% of the frame on a white background. Include lifestyle images, infographics showing features, comparison charts, and size guides."
     },
     {
       "key": "p-17",
       "label": "P 17",
       "content": "A+ content (if brand registered) allows rich media that increases conversion rates by 3–10%.",
       "original": "A+ content (if brand registered) allows rich media that increases conversion rates by 3–10%.",
-      "source": "<p>A+ content (if brand registered) allows rich media that increases conversion rates by 3–10%.</p>"
+      "source": "<p>A+ content (if brand registered) allows rich media that increases conversion rates by 3–10%.</p>",
+      "originalText": "A+ content (if brand registered) allows rich media that increases conversion rates by 3–10%.",
+      "text": "A+ content (if brand registered) allows rich media that increases conversion rates by 3–10%."
     },
     {
       "key": "p-18",
       "label": "P 18",
       "content": "Listing Element Character Limit Keyword Priority Best Practice Title 200 chars Primary keywords first Brand + Feature + Keyword Bullet 1 500 chars Top secondary keywords Key benefit + feature Bullet 2–5 500 chars each Remaining secondary Feature + benefit + keyword Description 2,000 chars Long-tail keywords Natural language + keywords Backend Terms 250 chars total Missed search terms Relevant unused keywords A+ Content Rich media Reinforce messaging Visual feature breakdown",
       "original": "Listing Element Character Limit Keyword Priority Best Practice Title 200 chars Primary keywords first Brand + Feature + Keyword Bullet 1 500 chars Top secondary keywords Key benefit + feature Bullet 2–5 500 chars each Remaining secondary Feature + benefit + keyword Description 2,000 chars Long-tail keywords Natural language + keywords Backend Terms 250 chars total Missed search terms Relevant unused keywords A+ Content Rich media Reinforce messaging Visual feature breakdown",
-      "source": "<p>Listing Element Character Limit Keyword Priority Best Practice Title 200 chars Primary keywords first Brand + Feature + Keyword Bullet 1 500 chars Top secondary keywords Key benefit + feature Bullet 2–5 500 chars each Remaining secondary Feature + benefit + keyword Description 2,000 chars Long-tail keywords Natural language + keywords Backend Terms 250 chars total Missed search terms Relevant unused keywords A+ Content Rich media Reinforce messaging Visual feature breakdown</p>"
+      "source": "<p>Listing Element Character Limit Keyword Priority Best Practice Title 200 chars Primary keywords first Brand + Feature + Keyword Bullet 1 500 chars Top secondary keywords Key benefit + feature Bullet 2–5 500 chars each Remaining secondary Feature + benefit + keyword Description 2,000 chars Long-tail keywords Natural language + keywords Backend Terms 250 chars total Missed search terms Relevant unused keywords A+ Content Rich media Reinforce messaging Visual feature breakdown</p>",
+      "originalText": "Listing Element Character Limit Keyword Priority Best Practice Title 200 chars Primary keywords first Brand + Feature + Keyword Bullet 1 500 chars Top secondary keywords Key benefit + feature Bullet 2–5 500 chars each Remaining secondary Feature + benefit + keyword Description 2,000 chars Long-tail keywords Natural language + keywords Backend Terms 250 chars total Missed search terms Relevant unused keywords A+ Content Rich media Reinforce messaging Visual feature breakdown",
+      "text": "Listing Element Character Limit Keyword Priority Best Practice Title 200 chars Primary keywords first Brand + Feature + Keyword Bullet 1 500 chars Top secondary keywords Key benefit + feature Bullet 2–5 500 chars each Remaining secondary Feature + benefit + keyword Description 2,000 chars Long-tail keywords Natural language + keywords Backend Terms 250 chars total Missed search terms Relevant unused keywords A+ Content Rich media Reinforce messaging Visual feature breakdown"
     },
     {
       "key": "h2-5",
       "label": "H2 5",
       "content": "Is the Amazon Selling Research Workflow?",
       "original": "Is the Amazon Selling Research Workflow?",
-      "source": "<h2>Is the Amazon Selling Research Workflow?</h2>"
+      "source": "<h2>Is the Amazon Selling Research Workflow?</h2>",
+      "originalText": "Is the Amazon Selling Research Workflow?",
+      "text": "Is the Amazon Selling Research Workflow?"
     },
     {
       "key": "p-19",
       "label": "P 19",
       "content": "The Amazon selling research workflow covers product research in Black Box, keyword analysis in Cerebro, listing optimization in Scribbles, launch strategy with PPC, and ongoing rank monitoring with Keyword Tracker.",
       "original": "The Amazon selling research workflow covers product research in Black Box, keyword analysis in Cerebro, listing optimization in Scribbles, launch strategy with PPC, and ongoing rank monitoring with Keyword Tracker.",
-      "source": "<p class=\"answer-snippet\">The Amazon selling research workflow covers product research in Black Box, keyword analysis in Cerebro, listing optimization in Scribbles, launch strategy with PPC, and ongoing rank monitoring with Keyword Tracker.</p>"
+      "source": "<p class=\"answer-snippet\">The Amazon selling research workflow covers product research in Black Box, keyword analysis in Cerebro, listing optimization in Scribbles, launch strategy with PPC, and ongoing rank monitoring with Keyword Tracker.</p>",
+      "originalText": "The Amazon selling research workflow covers product research in Black Box, keyword analysis in Cerebro, listing optimization in Scribbles, launch strategy with PPC, and ongoing rank monitoring with Keyword Tracker.",
+      "text": "The Amazon selling research workflow covers product research in Black Box, keyword analysis in Cerebro, listing optimization in Scribbles, launch strategy with PPC, and ongoing rank monitoring with Keyword Tracker."
     },
     {
       "key": "p-20",
       "label": "P 20",
       "content": "Phase one: Product Research — Use Helium 10 Black Box and Jungle Scout Product Database to identify 20–30 potential products. Filter by your criteria and narrow to 5–10 candidates. Validate each with X-Ray sales data and Jungle Scout Opportunity Score. Select your top 3 products for deeper analysis.",
       "original": "Phase one: Product Research — Use Helium 10 Black Box and Jungle Scout Product Database to identify 20–30 potential products. Filter by your criteria and narrow to 5–10 candidates. Validate each with X-Ray sales data and Jungle Scout Opportunity Score. Select your top 3 products for deeper analysis.",
-      "source": "<p>Phase one: Product Research — Use Helium 10 Black Box and Jungle Scout Product Database to identify 20–30 potential products. Filter by your criteria and narrow to 5–10 candidates. Validate each with X-Ray sales data and Jungle Scout Opportunity Score. Select your top 3 products for deeper analysis.</p>"
+      "source": "<p>Phase one: Product Research — Use Helium 10 Black Box and Jungle Scout Product Database to identify 20–30 potential products. Filter by your criteria and narrow to 5–10 candidates. Validate each with X-Ray sales data and Jungle Scout Opportunity Score. Select your top 3 products for deeper analysis.</p>",
+      "originalText": "Phase one: Product Research — Use Helium 10 Black Box and Jungle Scout Product Database to identify 20–30 potential products. Filter by your criteria and narrow to 5–10 candidates. Validate each with X-Ray sales data and Jungle Scout Opportunity Score. Select your top 3 products for deeper analysis.",
+      "text": "Phase one: Product Research — Use Helium 10 Black Box and Jungle Scout Product Database to identify 20–30 potential products. Filter by your criteria and narrow to 5–10 candidates. Validate each with X-Ray sales data and Jungle Scout Opportunity Score. Select your top 3 products for deeper analysis."
     },
     {
       "key": "p-21",
       "label": "P 21",
       "content": "Phase two: Keyword Research — For each selected product, use Helium 10 Cerebro to discover all relevant search terms. Analyze competitor ASINs to find keywords driving their sales. Build a keyword map assigning primary and secondary keywords to each listing field. This step determines your discoverability on Amazon.",
       "original": "Phase two: Keyword Research — For each selected product, use Helium 10 Cerebro to discover all relevant search terms. Analyze competitor ASINs to find keywords driving their sales. Build a keyword map assigning primary and secondary keywords to each listing field. This step determines your discoverability on Amazon.",
-      "source": "<p>Phase two: Keyword Research — For each selected product, use Helium 10 Cerebro to discover all relevant search terms. Analyze competitor ASINs to find keywords driving their sales. Build a keyword map assigning primary and secondary keywords to each listing field. This step determines your discoverability on Amazon.</p>"
+      "source": "<p>Phase two: Keyword Research — For each selected product, use Helium 10 Cerebro to discover all relevant search terms. Analyze competitor ASINs to find keywords driving their sales. Build a keyword map assigning primary and secondary keywords to each listing field. This step determines your discoverability on Amazon.</p>",
+      "originalText": "Phase two: Keyword Research — For each selected product, use Helium 10 Cerebro to discover all relevant search terms. Analyze competitor ASINs to find keywords driving their sales. Build a keyword map assigning primary and secondary keywords to each listing field. This step determines your discoverability on Amazon.",
+      "text": "Phase two: Keyword Research — For each selected product, use Helium 10 Cerebro to discover all relevant search terms. Analyze competitor ASINs to find keywords driving their sales. Build a keyword map assigning primary and secondary keywords to each listing field. This step determines your discoverability on Amazon."
     },
     {
       "key": "p-22",
       "label": "P 22",
       "content": "Phase three: Listing Creation and Launch — Write optimized listings using Scribbles, source products from verified suppliers, and launch with an Amazon PPC campaign targeting your researched keywords.",
       "original": "Phase three: Listing Creation and Launch — Write optimized listings using Scribbles, source products from verified suppliers, and launch with an Amazon PPC campaign targeting your researched keywords.",
-      "source": "<p>Phase three: Listing Creation and Launch — Write optimized listings using Scribbles, source products from verified suppliers, and launch with an Amazon PPC campaign targeting your researched keywords.</p>"
+      "source": "<p>Phase three: Listing Creation and Launch — Write optimized listings using Scribbles, source products from verified suppliers, and launch with an Amazon PPC campaign targeting your researched keywords.</p>",
+      "originalText": "Phase three: Listing Creation and Launch — Write optimized listings using Scribbles, source products from verified suppliers, and launch with an Amazon PPC campaign targeting your researched keywords.",
+      "text": "Phase three: Listing Creation and Launch — Write optimized listings using Scribbles, source products from verified suppliers, and launch with an Amazon PPC campaign targeting your researched keywords."
     },
     {
       "key": "p-23",
       "label": "P 23",
       "content": "Phase four: Ongoing Optimization — Monitor keyword rankings weekly, adjust PPC bids based on ACOS, and update listings based on search term reports from Amazon.",
       "original": "Phase four: Ongoing Optimization — Monitor keyword rankings weekly, adjust PPC bids based on ACOS, and update listings based on search term reports from Amazon.",
-      "source": "<p>Phase four: Ongoing Optimization — Monitor keyword rankings weekly, adjust PPC bids based on ACOS, and update listings based on search term reports from Amazon.</p>"
+      "source": "<p>Phase four: Ongoing Optimization — Monitor keyword rankings weekly, adjust PPC bids based on ACOS, and update listings based on search term reports from Amazon.</p>",
+      "originalText": "Phase four: Ongoing Optimization — Monitor keyword rankings weekly, adjust PPC bids based on ACOS, and update listings based on search term reports from Amazon.",
+      "text": "Phase four: Ongoing Optimization — Monitor keyword rankings weekly, adjust PPC bids based on ACOS, and update listings based on search term reports from Amazon."
     },
     {
       "key": "p-24",
       "label": "P 24",
       "content": "Phase Duration Key Tools Deliverable 1: Product Research 1–2 weeks Black Box + Jungle Scout 3 validated product ideas 2: Keyword Research 3–5 days Cerebro + Magnet Complete keyword map 3: Listing + Launch 1 week Scribbles + Amazon PPC Live optimized listing 4: Optimization Ongoing Keyword Tracker + PPC Improved rankings + ACOS",
       "original": "Phase Duration Key Tools Deliverable 1: Product Research 1–2 weeks Black Box + Jungle Scout 3 validated product ideas 2: Keyword Research 3–5 days Cerebro + Magnet Complete keyword map 3: Listing + Launch 1 week Scribbles + Amazon PPC Live optimized listing 4: Optimization Ongoing Keyword Tracker + PPC Improved rankings + ACOS",
-      "source": "<p>Phase Duration Key Tools Deliverable 1: Product Research 1–2 weeks Black Box + Jungle Scout 3 validated product ideas 2: Keyword Research 3–5 days Cerebro + Magnet Complete keyword map 3: Listing + Launch 1 week Scribbles + Amazon PPC Live optimized listing 4: Optimization Ongoing Keyword Tracker + PPC Improved rankings + ACOS</p>"
+      "source": "<p>Phase Duration Key Tools Deliverable 1: Product Research 1–2 weeks Black Box + Jungle Scout 3 validated product ideas 2: Keyword Research 3–5 days Cerebro + Magnet Complete keyword map 3: Listing + Launch 1 week Scribbles + Amazon PPC Live optimized listing 4: Optimization Ongoing Keyword Tracker + PPC Improved rankings + ACOS</p>",
+      "originalText": "Phase Duration Key Tools Deliverable 1: Product Research 1–2 weeks Black Box + Jungle Scout 3 validated product ideas 2: Keyword Research 3–5 days Cerebro + Magnet Complete keyword map 3: Listing + Launch 1 week Scribbles + Amazon PPC Live optimized listing 4: Optimization Ongoing Keyword Tracker + PPC Improved rankings + ACOS",
+      "text": "Phase Duration Key Tools Deliverable 1: Product Research 1–2 weeks Black Box + Jungle Scout 3 validated product ideas 2: Keyword Research 3–5 days Cerebro + Magnet Complete keyword map 3: Listing + Launch 1 week Scribbles + Amazon PPC Live optimized listing 4: Optimization Ongoing Keyword Tracker + PPC Improved rankings + ACOS"
     },
     {
       "key": "h2-6",
       "label": "H2 6",
       "content": "What Are the References for This Page?",
       "original": "What Are the References for This Page?",
-      "source": "<h2>What Are the References for This Page?</h2>"
+      "source": "<h2>What Are the References for This Page?</h2>",
+      "originalText": "What Are the References for This Page?",
+      "text": "What Are the References for This Page?"
     },
     {
       "key": "li-13",
       "label": "LI 13",
       "content": "<a href=\"https://helium10.com/academy\" rel=\"noopener\">Helium 10 Academy</a>",
       "original": "<a href=\"https://helium10.com/academy\" rel=\"noopener\">Helium 10 Academy</a>",
-      "source": "<li><a href=\"https://helium10.com/academy\" rel=\"noopener\">Helium 10 Academy</a></li>"
+      "source": "<li><a href=\"https://helium10.com/academy\" rel=\"noopener\">Helium 10 Academy</a></li>",
+      "originalText": "Helium 10 Academy",
+      "text": "Helium 10 Academy"
     },
     {
       "key": "li-14",
       "label": "LI 14",
       "content": "<a href=\"https://junglescout.com/university\" rel=\"noopener\">Jungle Scout University</a>",
       "original": "<a href=\"https://junglescout.com/university\" rel=\"noopener\">Jungle Scout University</a>",
-      "source": "<li><a href=\"https://junglescout.com/university\" rel=\"noopener\">Jungle Scout University</a></li>"
+      "source": "<li><a href=\"https://junglescout.com/university\" rel=\"noopener\">Jungle Scout University</a></li>",
+      "originalText": "Jungle Scout University",
+      "text": "Jungle Scout University"
     },
     {
       "key": "li-15",
       "label": "LI 15",
       "content": "<a href=\"https://sellercentral.amazon.com\" rel=\"noopener\">Amazon Seller Central Documentation</a>",
       "original": "<a href=\"https://sellercentral.amazon.com\" rel=\"noopener\">Amazon Seller Central Documentation</a>",
-      "source": "<li><a href=\"https://sellercentral.amazon.com\" rel=\"noopener\">Amazon Seller Central Documentation</a></li>"
+      "source": "<li><a href=\"https://sellercentral.amazon.com\" rel=\"noopener\">Amazon Seller Central Documentation</a></li>",
+      "originalText": "Amazon Seller Central Documentation",
+      "text": "Amazon Seller Central Documentation"
     },
     {
       "key": "li-16",
       "label": "LI 16",
       "content": "<a href=\"https://junglescout.com/guides\" rel=\"noopener\">Amazon FBA Product Research Guide</a>",
       "original": "<a href=\"https://junglescout.com/guides\" rel=\"noopener\">Amazon FBA Product Research Guide</a>",
-      "source": "<li><a href=\"https://junglescout.com/guides\" rel=\"noopener\">Amazon FBA Product Research Guide</a></li>"
+      "source": "<li><a href=\"https://junglescout.com/guides\" rel=\"noopener\">Amazon FBA Product Research Guide</a></li>",
+      "originalText": "Amazon FBA Product Research Guide",
+      "text": "Amazon FBA Product Research Guide"
     },
     {
       "key": "li-17",
       "label": "LI 17",
       "content": "<a href=\"https://seogroupsbuytools.com/amazon\" rel=\"noopener\">SEO Group Buy Amazon Tools</a>",
       "original": "<a href=\"https://seogroupsbuytools.com/amazon\" rel=\"noopener\">SEO Group Buy Amazon Tools</a>",
-      "source": "<li><a href=\"https://seogroupsbuytools.com/amazon\" rel=\"noopener\">SEO Group Buy Amazon Tools</a></li>"
+      "source": "<li><a href=\"https://seogroupsbuytools.com/amazon\" rel=\"noopener\">SEO Group Buy Amazon Tools</a></li>",
+      "originalText": "SEO Group Buy Amazon Tools",
+      "text": "SEO Group Buy Amazon Tools"
     },
     {
       "key": "li-18",
       "label": "LI 18",
       "content": "<a href=\"https://driven\" rel=\"noopener\">Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data</a>",
       "original": "<a href=\"https://driven\" rel=\"noopener\">Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data</a>",
-      "source": "<li><a href=\"https://driven\" rel=\"noopener\">Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data</a></li>"
+      "source": "<li><a href=\"https://driven\" rel=\"noopener\">Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data</a></li>",
+      "originalText": "Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data",
+      "text": "Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data"
     },
     {
       "key": "h3-1",
       "label": "H3 1",
       "content": "Get Started Today",
       "original": "Get Started Today",
-      "source": "<h3>Get Started Today</h3>"
+      "source": "<h3>Get Started Today</h3>",
+      "originalText": "Get Started Today",
+      "text": "Get Started Today"
     },
     {
       "key": "p-25",
       "label": "P 25",
       "content": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
       "original": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
-      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>"
+      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
+      "originalText": "Access 50+ premium SEO tools from $5/month",
+      "text": "Access 50+ premium SEO tools from $5/month"
     },
     {
       "key": "h3-2",
       "label": "H3 2",
       "content": "Tool Categories",
       "original": "Tool Categories",
-      "source": "<h3>Tool Categories</h3>"
+      "source": "<h3>Tool Categories</h3>",
+      "originalText": "Tool Categories",
+      "text": "Tool Categories"
     },
     {
       "key": "li-19",
       "label": "LI 19",
       "content": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
       "original": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
-      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>"
+      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
+      "originalText": "🔍 SEO Tools 12",
+      "text": "🔍 SEO Tools 12"
     },
     {
       "key": "li-20",
       "label": "LI 20",
       "content": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
+      "originalText": "🎨 Design Tools 5",
+      "text": "🎨 Design Tools 5"
     },
     {
       "key": "li-21",
       "label": "LI 21",
       "content": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
+      "originalText": "🕵️ Spy & Ad Intelligence 5",
+      "text": "🕵️ Spy & Ad Intelligence 5"
     },
     {
       "key": "li-22",
       "label": "LI 22",
       "content": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "✍️ AI Writing Tools 4",
+      "text": "✍️ AI Writing Tools 4"
     },
     {
       "key": "li-23",
       "label": "LI 23",
       "content": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "🛒 E-commerce Tools 4",
+      "text": "🛒 E-commerce Tools 4"
     },
     {
       "key": "li-24",
       "label": "LI 24",
       "content": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "📱 Social Media Tools 3",
+      "text": "📱 Social Media Tools 3"
     },
     {
       "key": "li-25",
       "label": "LI 25",
       "content": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "🎓 Education Tools 3",
+      "text": "🎓 Education Tools 3"
     },
     {
       "key": "h3-3",
       "label": "H3 3",
       "content": "Popular Tools",
       "original": "Popular Tools",
-      "source": "<h3>Popular Tools</h3>"
+      "source": "<h3>Popular Tools</h3>",
+      "originalText": "Popular Tools",
+      "text": "Popular Tools"
     },
     {
       "key": "li-26",
       "label": "LI 26",
       "content": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
       "original": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
+      "originalText": "SEMrush Group Buy",
+      "text": "SEMrush Group Buy"
     },
     {
       "key": "li-27",
       "label": "LI 27",
       "content": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
       "original": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
+      "originalText": "Ahrefs Group Buy",
+      "text": "Ahrefs Group Buy"
     },
     {
       "key": "li-28",
       "label": "LI 28",
       "content": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
       "original": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
+      "originalText": "Moz Pro Group Buy",
+      "text": "Moz Pro Group Buy"
     },
     {
       "key": "li-29",
       "label": "LI 29",
       "content": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
       "original": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
+      "originalText": "Surfer SEO Group Buy",
+      "text": "Surfer SEO Group Buy"
     },
     {
       "key": "li-30",
       "label": "LI 30",
       "content": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
       "original": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
-      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
+      "originalText": "Canva Pro Group Buy",
+      "text": "Canva Pro Group Buy"
     },
     {
       "key": "li-31",
       "label": "LI 31",
       "content": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
       "original": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "h3-4",
       "label": "H3 4",
       "content": "Why Choose Us",
       "original": "Why Choose Us",
-      "source": "<h3>Why Choose Us</h3>"
+      "source": "<h3>Why Choose Us</h3>",
+      "originalText": "Why Choose Us",
+      "text": "Why Choose Us"
     },
     {
       "key": "li-32",
       "label": "LI 32",
       "content": "✓ 50+ Premium Tools",
       "original": "✓ 50+ Premium Tools",
-      "source": "<li>✓ 50+ Premium Tools</li>"
+      "source": "<li>✓ 50+ Premium Tools</li>",
+      "originalText": "✓ 50+ Premium Tools",
+      "text": "✓ 50+ Premium Tools"
     },
     {
       "key": "li-33",
       "label": "LI 33",
       "content": "✓ 90%+ Uptime Guaranteed",
       "original": "✓ 90%+ Uptime Guaranteed",
-      "source": "<li>✓ 90%+ Uptime Guaranteed</li>"
+      "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
+      "originalText": "✓ 90%+ Uptime Guaranteed",
+      "text": "✓ 90%+ Uptime Guaranteed"
     },
     {
       "key": "li-34",
       "label": "LI 34",
       "content": "✓ Instant Access Setup",
       "original": "✓ Instant Access Setup",
-      "source": "<li>✓ Instant Access Setup</li>"
+      "source": "<li>✓ Instant Access Setup</li>",
+      "originalText": "✓ Instant Access Setup",
+      "text": "✓ Instant Access Setup"
     },
     {
       "key": "li-35",
       "label": "LI 35",
       "content": "✓ 24/7 Support",
       "original": "✓ 24/7 Support",
-      "source": "<li>✓ 24/7 Support</li>"
+      "source": "<li>✓ 24/7 Support</li>",
+      "originalText": "✓ 24/7 Support",
+      "text": "✓ 24/7 Support"
     },
     {
       "key": "li-36",
       "label": "LI 36",
       "content": "✓ Secure Payments",
       "original": "✓ Secure Payments",
-      "source": "<li>✓ Secure Payments</li>"
+      "source": "<li>✓ Secure Payments</li>",
+      "originalText": "✓ Secure Payments",
+      "text": "✓ Secure Payments"
     },
     {
       "key": "h2-7",
       "label": "H2 7",
       "content": "Ready to Get Started?",
       "original": "Ready to Get Started?",
-      "source": "<h2>Ready to Get Started?</h2>"
+      "source": "<h2>Ready to Get Started?</h2>",
+      "originalText": "Ready to Get Started?",
+      "text": "Ready to Get Started?"
     },
     {
       "key": "p-26",
       "label": "P 26",
       "content": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
       "original": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
-      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>"
+      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
+      "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+      "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee."
     },
     {
       "key": "p-27",
       "label": "P 27",
       "content": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
       "original": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
-      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>"
+      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>",
+      "originalText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
+      "text": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
     },
     {
       "key": "h4-1",
       "label": "H4 1",
       "content": "Categories",
       "original": "Categories",
-      "source": "<h4>Categories</h4>"
+      "source": "<h4>Categories</h4>",
+      "originalText": "Categories",
+      "text": "Categories"
     },
     {
       "key": "li-37",
       "label": "LI 37",
       "content": "<a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": "<a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "SEO Tools",
+      "text": "SEO Tools"
     },
     {
       "key": "li-38",
       "label": "LI 38",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-39",
       "label": "LI 39",
       "content": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
       "original": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>",
+      "originalText": "Spy & Ad Tools",
+      "text": "Spy & Ad Tools"
     },
     {
       "key": "li-40",
       "label": "LI 40",
       "content": "<a href=\"../../ai-writing-tools/\">AI Writing</a>",
       "original": "<a href=\"../../ai-writing-tools/\">AI Writing</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing</a></li>",
+      "originalText": "AI Writing",
+      "text": "AI Writing"
     },
     {
       "key": "li-41",
       "label": "LI 41",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>",
+      "originalText": "E-commerce",
+      "text": "E-commerce"
     },
     {
       "key": "li-42",
       "label": "LI 42",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "h4-2",
       "label": "H4 2",
       "content": "Resources",
       "original": "Resources",
-      "source": "<h4>Resources</h4>"
+      "source": "<h4>Resources</h4>",
+      "originalText": "Resources",
+      "text": "Resources"
     },
     {
       "key": "li-43",
       "label": "LI 43",
       "content": "<a href=\"../../how-it-works/\">How It Works</a>",
       "original": "<a href=\"../../how-it-works/\">How It Works</a>",
-      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>"
+      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>",
+      "originalText": "How It Works",
+      "text": "How It Works"
     },
     {
       "key": "li-44",
       "label": "LI 44",
       "content": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
       "original": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
-      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>"
+      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>",
+      "originalText": "Is It Safe?",
+      "text": "Is It Safe?"
     },
     {
       "key": "li-45",
       "label": "LI 45",
       "content": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
       "original": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
-      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>"
+      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>",
+      "originalText": "Is It Legal?",
+      "text": "Is It Legal?"
     },
     {
       "key": "li-46",
       "label": "LI 46",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-47",
       "label": "LI 47",
       "content": "<a href=\"../../best-providers/\">Best Providers</a>",
       "original": "<a href=\"../../best-providers/\">Best Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>",
+      "originalText": "Best Providers",
+      "text": "Best Providers"
     },
     {
       "key": "li-48",
       "label": "LI 48",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "h4-3",
       "label": "H4 3",
       "content": "Guides",
       "original": "Guides",
-      "source": "<h4>Guides</h4>"
+      "source": "<h4>Guides</h4>",
+      "originalText": "Guides",
+      "text": "Guides"
     },
     {
       "key": "li-49",
       "label": "LI 49",
       "content": "<a href=\"../keyword-research/\">Keyword Research</a>",
       "original": "<a href=\"../keyword-research/\">Keyword Research</a>",
-      "source": "<li><a href=\"../keyword-research/\">Keyword Research</a></li>"
+      "source": "<li><a href=\"../keyword-research/\">Keyword Research</a></li>",
+      "originalText": "Keyword Research",
+      "text": "Keyword Research"
     },
     {
       "key": "li-50",
       "label": "LI 50",
       "content": "<a href=\"../backlink-analysis/\">Backlink Analysis</a>",
       "original": "<a href=\"../backlink-analysis/\">Backlink Analysis</a>",
-      "source": "<li><a href=\"../backlink-analysis/\">Backlink Analysis</a></li>"
+      "source": "<li><a href=\"../backlink-analysis/\">Backlink Analysis</a></li>",
+      "originalText": "Backlink Analysis",
+      "text": "Backlink Analysis"
     },
     {
       "key": "li-51",
       "label": "LI 51",
       "content": "<a href=\"../technical-seo-audit/\">Technical SEO Audit</a>",
       "original": "<a href=\"../technical-seo-audit/\">Technical SEO Audit</a>",
-      "source": "<li><a href=\"../technical-seo-audit/\">Technical SEO Audit</a></li>"
+      "source": "<li><a href=\"../technical-seo-audit/\">Technical SEO Audit</a></li>",
+      "originalText": "Technical SEO Audit",
+      "text": "Technical SEO Audit"
     },
     {
       "key": "li-52",
       "label": "LI 52",
       "content": "<a href=\"../content-optimization/\">Content Optimization</a>",
       "original": "<a href=\"../content-optimization/\">Content Optimization</a>",
-      "source": "<li><a href=\"../content-optimization/\">Content Optimization</a></li>"
+      "source": "<li><a href=\"../content-optimization/\">Content Optimization</a></li>",
+      "originalText": "Content Optimization",
+      "text": "Content Optimization"
     },
     {
       "key": "li-53",
       "label": "LI 53",
       "content": "<a href=\"../ppc-ad-spy-research/\">PPC Research</a>",
       "original": "<a href=\"../ppc-ad-spy-research/\">PPC Research</a>",
-      "source": "<li><a href=\"../ppc-ad-spy-research/\">PPC Research</a></li>"
+      "source": "<li><a href=\"../ppc-ad-spy-research/\">PPC Research</a></li>",
+      "originalText": "PPC Research",
+      "text": "PPC Research"
     },
     {
       "key": "li-54",
       "label": "LI 54",
       "content": "<a href=\"./\">Amazon Selling</a>",
       "original": "<a href=\"./\">Amazon Selling</a>",
-      "source": "<li><a href=\"./\">Amazon Selling</a></li>"
+      "source": "<li><a href=\"./\">Amazon Selling</a></li>",
+      "originalText": "Amazon Selling",
+      "text": "Amazon Selling"
     },
     {
       "key": "h4-4",
       "label": "H4 4",
       "content": "Trust & Safety",
       "original": "Trust & Safety",
-      "source": "<h4>Trust & Safety</h4>"
+      "source": "<h4>Trust & Safety</h4>",
+      "originalText": "Trust & Safety",
+      "text": "Trust & Safety"
     },
     {
       "key": "li-55",
       "label": "LI 55",
       "content": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
       "original": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
-      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>"
+      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>",
+      "originalText": "Are They Legitimate?",
+      "text": "Are They Legitimate?"
     },
     {
       "key": "li-56",
       "label": "LI 56",
       "content": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
       "original": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
-      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>"
+      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>",
+      "originalText": "Choose Provider",
+      "text": "Choose Provider"
     },
     {
       "key": "li-57",
       "label": "LI 57",
       "content": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
       "original": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
-      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>"
+      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>",
+      "originalText": "Avoid Scams",
+      "text": "Avoid Scams"
     },
     {
       "key": "li-58",
       "label": "LI 58",
       "content": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
       "original": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
-      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>"
+      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>",
+      "originalText": "Tool Downtime",
+      "text": "Tool Downtime"
     },
     {
       "key": "li-59",
       "label": "LI 59",
       "content": "<a href=\"../../trust/countries/\">Countries</a>",
       "original": "<a href=\"../../trust/countries/\">Countries</a>",
-      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>"
+      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>",
+      "originalText": "Countries",
+      "text": "Countries"
     },
     {
       "key": "p-28",
       "label": "P 28",
       "content": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
       "original": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
-      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>"
+      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>",
+      "originalText": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms",
+      "text": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms"
+    }
+  ],
+  "links": [
+    {
+      "url": "../../ecommerce-tools/jungle-scout/",
+      "originalUrl": "../../ecommerce-tools/jungle-scout/",
+      "text": "Quillbot Group Buy",
+      "originalText": "Quillbot Group Buy",
+      "source": "<a href=\"../../ecommerce-tools/jungle-scout/\">Quillbot Group Buy</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/zonguru/",
+      "originalUrl": "../../ecommerce-tools/zonguru/",
+      "text": "Copy.ai Group Buy",
+      "originalText": "Copy.ai Group Buy",
+      "source": "<a href=\"../../ecommerce-tools/zonguru/\">Copy.ai Group Buy</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/",
+      "originalUrl": "../../ecommerce-tools/",
+      "text": "E-commerce Tools",
+      "originalText": "E-commerce Tools",
+      "source": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/jungle-scout/",
+      "originalUrl": "../../ecommerce-tools/jungle-scout/",
+      "text": "Quillbot Group Buy",
+      "originalText": "Quillbot Group Buy",
+      "source": "<a href=\"../../ecommerce-tools/jungle-scout/\">Quillbot Group Buy</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/zonguru/",
+      "originalUrl": "../../ecommerce-tools/zonguru/",
+      "text": "Copy.ai Group Buy",
+      "originalText": "Copy.ai Group Buy",
+      "source": "<a href=\"../../ecommerce-tools/zonguru/\">Copy.ai Group Buy</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/",
+      "originalUrl": "../../ecommerce-tools/",
+      "text": "E-commerce Tools",
+      "originalText": "E-commerce Tools",
+      "source": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/jungle-scout/",
+      "originalUrl": "../../ecommerce-tools/jungle-scout/",
+      "text": "Quillbot Group Buy",
+      "originalText": "Quillbot Group Buy",
+      "source": "<a href=\"../../ecommerce-tools/jungle-scout/\">Quillbot Group Buy</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/zonguru/",
+      "originalUrl": "../../ecommerce-tools/zonguru/",
+      "text": "Copy.ai Group Buy",
+      "originalText": "Copy.ai Group Buy",
+      "source": "<a href=\"../../ecommerce-tools/zonguru/\">Copy.ai Group Buy</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/",
+      "originalUrl": "../../ecommerce-tools/",
+      "text": "E-commerce Tools",
+      "originalText": "E-commerce Tools",
+      "source": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/jungle-scout/",
+      "originalUrl": "../../ecommerce-tools/jungle-scout/",
+      "text": "Quillbot Group Buy",
+      "originalText": "Quillbot Group Buy",
+      "source": "<a href=\"../../ecommerce-tools/jungle-scout/\">Quillbot Group Buy</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/zonguru/",
+      "originalUrl": "../../ecommerce-tools/zonguru/",
+      "text": "Copy.ai Group Buy",
+      "originalText": "Copy.ai Group Buy",
+      "source": "<a href=\"../../ecommerce-tools/zonguru/\">Copy.ai Group Buy</a>"
+    },
+    {
+      "url": "../../ecommerce-tools/",
+      "originalUrl": "../../ecommerce-tools/",
+      "text": "E-commerce Tools",
+      "originalText": "E-commerce Tools",
+      "source": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>"
+    },
+    {
+      "url": "https://helium10.com/academy",
+      "originalUrl": "https://helium10.com/academy",
+      "text": "Helium 10 Academy",
+      "originalText": "Helium 10 Academy",
+      "source": "<a href=\"https://helium10.com/academy\" rel=\"noopener\">Helium 10 Academy</a>"
+    },
+    {
+      "url": "https://junglescout.com/university",
+      "originalUrl": "https://junglescout.com/university",
+      "text": "Jungle Scout University",
+      "originalText": "Jungle Scout University",
+      "source": "<a href=\"https://junglescout.com/university\" rel=\"noopener\">Jungle Scout University</a>"
+    },
+    {
+      "url": "https://sellercentral.amazon.com",
+      "originalUrl": "https://sellercentral.amazon.com",
+      "text": "Amazon Seller Central Documentation",
+      "originalText": "Amazon Seller Central Documentation",
+      "source": "<a href=\"https://sellercentral.amazon.com\" rel=\"noopener\">Amazon Seller Central Documentation</a>"
+    },
+    {
+      "url": "https://junglescout.com/guides",
+      "originalUrl": "https://junglescout.com/guides",
+      "text": "Amazon FBA Product Research Guide",
+      "originalText": "Amazon FBA Product Research Guide",
+      "source": "<a href=\"https://junglescout.com/guides\" rel=\"noopener\">Amazon FBA Product Research Guide</a>"
+    },
+    {
+      "url": "https://seogroupsbuytools.com/amazon",
+      "originalUrl": "https://seogroupsbuytools.com/amazon",
+      "text": "SEO Group Buy Amazon Tools",
+      "originalText": "SEO Group Buy Amazon Tools",
+      "source": "<a href=\"https://seogroupsbuytools.com/amazon\" rel=\"noopener\">SEO Group Buy Amazon Tools</a>"
+    },
+    {
+      "url": "https://driven",
+      "originalUrl": "https://driven",
+      "text": "Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data",
+      "originalText": "Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data",
+      "source": "<a href=\"https://driven\" rel=\"noopener\">Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data</a>"
+    }
+  ],
+  "images": [],
+  "editorContent": [
+    {
+      "text": "How Do You Use SEO Group Buy Tools for Amazon Selling?",
+      "originalText": "How Do You Use SEO Group Buy Tools for Amazon Selling?",
+      "source": "<h2>How Do You Use SEO Group Buy Tools for Amazon Selling?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Amazon selling requires specialized tools for product research, keyword optimization, and listing management, and SEO Group Buy Tools make premium Amazon seller platforms like Helium 10 and Jungle Scout accessible at shared costs. This guide covers the complete Amazon selling research workflow.",
+      "originalText": "Amazon selling requires specialized tools for product research, keyword optimization, and listing management, and SEO Group Buy Tools make premium Amazon seller platforms like Helium 10 and Jungle Scout accessible at shared costs. This guide covers the complete Amazon selling research workflow.",
+      "source": "<p class=\"answer-snippet\">Amazon selling requires specialized tools for product research, keyword optimization, and listing management, and SEO Group Buy Tools make premium Amazon seller platforms like Helium 10 and Jungle Scout accessible at shared costs. This guide covers the complete Amazon selling research workflow.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Which Tools Help Amazon Sellers?",
+      "originalText": "Which Tools Help Amazon Sellers?",
+      "source": "<h2>Which Tools Help Amazon Sellers?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Helium 10 is the most comprehensive Amazon seller tool suite with product research, keyword tracking, and listing optimization, while Jungle Scout excels in product discovery and supplier database features for FBA sellers.",
+      "originalText": "Helium 10 is the most comprehensive Amazon seller tool suite with product research, keyword tracking, and listing optimization, while Jungle Scout excels in product discovery and supplier database features for FBA sellers.",
+      "source": "<p class=\"answer-snippet\">Helium 10 is the most comprehensive Amazon seller tool suite with product research, keyword tracking, and listing optimization, while Jungle Scout excels in product discovery and supplier database features for FBA sellers.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Helium 10 provides an all-in-one Amazon seller toolkit including Black Box for product research, Cerebro for keyword research, Magnet for keyword discovery, Scribbles for listing optimization, and X-Ray for product analysis.",
+      "originalText": "Helium 10 provides an all-in-one Amazon seller toolkit including Black Box for product research, Cerebro for keyword research, Magnet for keyword discovery, Scribbles for listing optimization, and X-Ray for product analysis.",
+      "source": "<p>Helium 10 provides an all-in-one Amazon seller toolkit including Black Box for product research, Cerebro for keyword research, Magnet for keyword discovery, Scribbles for listing optimization, and X-Ray for product analysis.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Its comprehensive feature set covers the entire Amazon selling workflow from product discovery to listing optimization. Jungle Scout specializes in product research with its Product Database, Supplier Database, and Opportunity Finder. Its Chrome extension provides real-time sales estimates while browsing Amazon.",
+      "originalText": "Its comprehensive feature set covers the entire Amazon selling workflow from product discovery to listing optimization. Jungle Scout specializes in product research with its Product Database, Supplier Database, and Opportunity Finder. Its Chrome extension provides real-time sales estimates while browsing Amazon.",
+      "source": "<p>Its comprehensive feature set covers the entire Amazon selling workflow from product discovery to listing optimization. Jungle Scout specializes in product research with its Product Database, Supplier Database, and Opportunity Finder. Its Chrome extension provides real-time sales estimates while browsing Amazon.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "For new Amazon FBA sellers focused on finding their first profitable product, Jungle Scout&#x27;s focused approach is highly effective. Both tools through SEO Group Buy Tools cost a fraction of their individual subscription prices.",
+      "originalText": "For new Amazon FBA sellers focused on finding their first profitable product, Jungle Scout&#x27;s focused approach is highly effective. Both tools through SEO Group Buy Tools cost a fraction of their individual subscription prices.",
+      "source": "<p>For new Amazon FBA sellers focused on finding their first profitable product, Jungle Scout&#x27;s focused approach is highly effective. Both tools through SEO Group Buy Tools cost a fraction of their individual subscription prices.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Helium 10 Platinum costs $79/month individually and Jungle Scout Suite costs $69/month individually. Through group buy, access to both tools together typically costs $10–$20/month, saving over $100/month.",
+      "originalText": "Helium 10 Platinum costs $79/month individually and Jungle Scout Suite costs $69/month individually. Through group buy, access to both tools together typically costs $10–$20/month, saving over $100/month.",
+      "source": "<p>Helium 10 Platinum costs $79/month individually and Jungle Scout Suite costs $69/month individually. Through group buy, access to both tools together typically costs $10–$20/month, saving over $100/month.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Feature Helium 10 Jungle Scout Best For Product Research Black Box Product Database Both strong Keyword Research Cerebro + Magnet Keyword Scout Helium 10 Listing Optimization Scribbles Listing Builder Helium 10 Sales Estimation X-Ray Chrome Extension Jungle Scout Supplier Database Not included Built-in Jungle Scout Profit Calculator Free tool Built-in Both adequate",
+      "originalText": "Feature Helium 10 Jungle Scout Best For Product Research Black Box Product Database Both strong Keyword Research Cerebro + Magnet Keyword Scout Helium 10 Listing Optimization Scribbles Listing Builder Helium 10 Sales Estimation X-Ray Chrome Extension Jungle Scout Supplier Database Not included Built-in Jungle Scout Profit Calculator Free tool Built-in Both adequate",
+      "source": "<p>Feature Helium 10 Jungle Scout Best For Product Research Black Box Product Database Both strong Keyword Research Cerebro + Magnet Keyword Scout Helium 10 Listing Optimization Scribbles Listing Builder Helium 10 Sales Estimation X-Ray Chrome Extension Jungle Scout Supplier Database Not included Built-in Jungle Scout Profit Calculator Free tool Built-in Both adequate</p>",
+      "tag": "p"
+    },
+    {
+      "text": "How Do You Find Profitable Products?",
+      "originalText": "How Do You Find Profitable Products?",
+      "source": "<h2>How Do You Find Profitable Products?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Find profitable Amazon products by using Helium 10 Black Box to filter for items with 300+ monthly sales, under 200 reviews, selling prices of $15–$50, and lightweight dimensions that minimize FBA fees.",
+      "originalText": "Find profitable Amazon products by using Helium 10 Black Box to filter for items with 300+ monthly sales, under 200 reviews, selling prices of $15–$50, and lightweight dimensions that minimize FBA fees.",
+      "source": "<p class=\"answer-snippet\">Find profitable Amazon products by using Helium 10 Black Box to filter for items with 300+ monthly sales, under 200 reviews, selling prices of $15–$50, and lightweight dimensions that minimize FBA fees.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Open Helium 10 Black Box and set your product criteria filters: monthly revenue above $3,000, review count below 200 on the top listing, selling price between $15–$50, and product weight under 1 pound. These filters eliminate unprofitable and overly competitive products from consideration.",
+      "originalText": "Open Helium 10 Black Box and set your product criteria filters: monthly revenue above $3,000, review count below 200 on the top listing, selling price between $15–$50, and product weight under 1 pound. These filters eliminate unprofitable and overly competitive products from consideration.",
+      "source": "<p>Open Helium 10 Black Box and set your product criteria filters: monthly revenue above $3,000, review count below 200 on the top listing, selling price between $15–$50, and product weight under 1 pound. These filters eliminate unprofitable and overly competitive products from consideration.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Analyze the search results by examining the top 10 listings for each potential product. Check the review distribution: if one listing dominates with 5,000+ reviews and the 10th listing has under 50, the market has room for new entrants. If all top 10 listings have 500+ reviews, the niche is likely too competitive.",
+      "originalText": "Analyze the search results by examining the top 10 listings for each potential product. Check the review distribution: if one listing dominates with 5,000+ reviews and the 10th listing has under 50, the market has room for new entrants. If all top 10 listings have 500+ reviews, the niche is likely too competitive.",
+      "source": "<p>Analyze the search results by examining the top 10 listings for each potential product. Check the review distribution: if one listing dominates with 5,000+ reviews and the 10th listing has under 50, the market has room for new entrants. If all top 10 listings have 500+ reviews, the niche is likely too competitive.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Validate product ideas using Jungle Scout&#x27;s Opportunity Score, which combines demand, competition, and listing quality data into a single metric. Products scoring 6+ on Jungle Scout&#x27;s 1–10 scale represent solid opportunities. Cross-reference with Helium 10 X-Ray data to confirm sales estimates from both tools.",
+      "originalText": "Validate product ideas using Jungle Scout&#x27;s Opportunity Score, which combines demand, competition, and listing quality data into a single metric. Products scoring 6+ on Jungle Scout&#x27;s 1–10 scale represent solid opportunities. Cross-reference with Helium 10 X-Ray data to confirm sales estimates from both tools.",
+      "source": "<p>Validate product ideas using Jungle Scout&#x27;s Opportunity Score, which combines demand, competition, and listing quality data into a single metric. Products scoring 6+ on Jungle Scout&#x27;s 1–10 scale represent solid opportunities. Cross-reference with Helium 10 X-Ray data to confirm sales estimates from both tools.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Product Criteria Ideal Range Red Flag Why It Matters Monthly Sales 300+ units Under 100 units Sufficient demand Review Count (Top 10 Avg) Under 200 500+ reviews everywhere Entry barrier Selling Price $15–$50 Under $10 or over $100 Profit margin room Product Weight Under 1 lb Heavy or oversized FBA fee impact Number of Sellers 2–5 per listing 10+ sellers per listing Price competition Search Volume 10,000+ monthly Under 1,000 monthly Market size",
+      "originalText": "Product Criteria Ideal Range Red Flag Why It Matters Monthly Sales 300+ units Under 100 units Sufficient demand Review Count (Top 10 Avg) Under 200 500+ reviews everywhere Entry barrier Selling Price $15–$50 Under $10 or over $100 Profit margin room Product Weight Under 1 lb Heavy or oversized FBA fee impact Number of Sellers 2–5 per listing 10+ sellers per listing Price competition Search Volume 10,000+ monthly Under 1,000 monthly Market size",
+      "source": "<p>Product Criteria Ideal Range Red Flag Why It Matters Monthly Sales 300+ units Under 100 units Sufficient demand Review Count (Top 10 Avg) Under 200 500+ reviews everywhere Entry barrier Selling Price $15–$50 Under $10 or over $100 Profit margin room Product Weight Under 1 lb Heavy or oversized FBA fee impact Number of Sellers 2–5 per listing 10+ sellers per listing Price competition Search Volume 10,000+ monthly Under 1,000 monthly Market size</p>",
+      "tag": "p"
+    },
+    {
+      "text": "How Do You Optimize Amazon Listings?",
+      "originalText": "How Do You Optimize Amazon Listings?",
+      "source": "<h2>How Do You Optimize Amazon Listings?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Optimize Amazon listings by using Helium 10 Cerebro to find high-volume search terms, incorporating them into titles, bullets, and descriptions with Scribbles, and monitoring keyword rankings with Keyword Tracker. Start keyword research for your listing using Helium 10 Cerebro.",
+      "originalText": "Optimize Amazon listings by using Helium 10 Cerebro to find high-volume search terms, incorporating them into titles, bullets, and descriptions with Scribbles, and monitoring keyword rankings with Keyword Tracker. Start keyword research for your listing using Helium 10 Cerebro.",
+      "source": "<p class=\"answer-snippet\">Optimize Amazon listings by using Helium 10 Cerebro to find high-volume search terms, incorporating them into titles, bullets, and descriptions with Scribbles, and monitoring keyword rankings with Keyword Tracker. Start keyword research for your listing using Helium 10 Cerebro.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Enter competitor ASINs to discover which keywords they rank for and receive search volume data for each term. Export the top 50–100 keywords by search volume and identify 5–10 primary keywords for your title and 20–30 secondary keywords for bullets and description.",
+      "originalText": "Enter competitor ASINs to discover which keywords they rank for and receive search volume data for each term. Export the top 50–100 keywords by search volume and identify 5–10 primary keywords for your title and 20–30 secondary keywords for bullets and description.",
+      "source": "<p>Enter competitor ASINs to discover which keywords they rank for and receive search volume data for each term. Export the top 50–100 keywords by search volume and identify 5–10 primary keywords for your title and 20–30 secondary keywords for bullets and description.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Use Helium 10 Scribbles to craft your listing, inputting your target keywords and writing title, bullet points, and description while tracking keyword usage. Scribbles highlights which keywords you have included and which remain unused. Ensure every target keyword appears at least once across your listing fields.",
+      "originalText": "Use Helium 10 Scribbles to craft your listing, inputting your target keywords and writing title, bullet points, and description while tracking keyword usage. Scribbles highlights which keywords you have included and which remain unused. Ensure every target keyword appears at least once across your listing fields.",
+      "source": "<p>Use Helium 10 Scribbles to craft your listing, inputting your target keywords and writing title, bullet points, and description while tracking keyword usage. Scribbles highlights which keywords you have included and which remain unused. Ensure every target keyword appears at least once across your listing fields.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Optimize your listing images and A+ content alongside text optimization. The main image must fill 85% of the frame on a white background. Include lifestyle images, infographics showing features, comparison charts, and size guides.",
+      "originalText": "Optimize your listing images and A+ content alongside text optimization. The main image must fill 85% of the frame on a white background. Include lifestyle images, infographics showing features, comparison charts, and size guides.",
+      "source": "<p>Optimize your listing images and A+ content alongside text optimization. The main image must fill 85% of the frame on a white background. Include lifestyle images, infographics showing features, comparison charts, and size guides.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "A+ content (if brand registered) allows rich media that increases conversion rates by 3–10%.",
+      "originalText": "A+ content (if brand registered) allows rich media that increases conversion rates by 3–10%.",
+      "source": "<p>A+ content (if brand registered) allows rich media that increases conversion rates by 3–10%.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Listing Element Character Limit Keyword Priority Best Practice Title 200 chars Primary keywords first Brand + Feature + Keyword Bullet 1 500 chars Top secondary keywords Key benefit + feature Bullet 2–5 500 chars each Remaining secondary Feature + benefit + keyword Description 2,000 chars Long-tail keywords Natural language + keywords Backend Terms 250 chars total Missed search terms Relevant unused keywords A+ Content Rich media Reinforce messaging Visual feature breakdown",
+      "originalText": "Listing Element Character Limit Keyword Priority Best Practice Title 200 chars Primary keywords first Brand + Feature + Keyword Bullet 1 500 chars Top secondary keywords Key benefit + feature Bullet 2–5 500 chars each Remaining secondary Feature + benefit + keyword Description 2,000 chars Long-tail keywords Natural language + keywords Backend Terms 250 chars total Missed search terms Relevant unused keywords A+ Content Rich media Reinforce messaging Visual feature breakdown",
+      "source": "<p>Listing Element Character Limit Keyword Priority Best Practice Title 200 chars Primary keywords first Brand + Feature + Keyword Bullet 1 500 chars Top secondary keywords Key benefit + feature Bullet 2–5 500 chars each Remaining secondary Feature + benefit + keyword Description 2,000 chars Long-tail keywords Natural language + keywords Backend Terms 250 chars total Missed search terms Relevant unused keywords A+ Content Rich media Reinforce messaging Visual feature breakdown</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Is the Amazon Selling Research Workflow?",
+      "originalText": "Is the Amazon Selling Research Workflow?",
+      "source": "<h2>Is the Amazon Selling Research Workflow?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "The Amazon selling research workflow covers product research in Black Box, keyword analysis in Cerebro, listing optimization in Scribbles, launch strategy with PPC, and ongoing rank monitoring with Keyword Tracker.",
+      "originalText": "The Amazon selling research workflow covers product research in Black Box, keyword analysis in Cerebro, listing optimization in Scribbles, launch strategy with PPC, and ongoing rank monitoring with Keyword Tracker.",
+      "source": "<p class=\"answer-snippet\">The Amazon selling research workflow covers product research in Black Box, keyword analysis in Cerebro, listing optimization in Scribbles, launch strategy with PPC, and ongoing rank monitoring with Keyword Tracker.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Phase one: Product Research — Use Helium 10 Black Box and Jungle Scout Product Database to identify 20–30 potential products. Filter by your criteria and narrow to 5–10 candidates. Validate each with X-Ray sales data and Jungle Scout Opportunity Score. Select your top 3 products for deeper analysis.",
+      "originalText": "Phase one: Product Research — Use Helium 10 Black Box and Jungle Scout Product Database to identify 20–30 potential products. Filter by your criteria and narrow to 5–10 candidates. Validate each with X-Ray sales data and Jungle Scout Opportunity Score. Select your top 3 products for deeper analysis.",
+      "source": "<p>Phase one: Product Research — Use Helium 10 Black Box and Jungle Scout Product Database to identify 20–30 potential products. Filter by your criteria and narrow to 5–10 candidates. Validate each with X-Ray sales data and Jungle Scout Opportunity Score. Select your top 3 products for deeper analysis.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Phase two: Keyword Research — For each selected product, use Helium 10 Cerebro to discover all relevant search terms. Analyze competitor ASINs to find keywords driving their sales. Build a keyword map assigning primary and secondary keywords to each listing field. This step determines your discoverability on Amazon.",
+      "originalText": "Phase two: Keyword Research — For each selected product, use Helium 10 Cerebro to discover all relevant search terms. Analyze competitor ASINs to find keywords driving their sales. Build a keyword map assigning primary and secondary keywords to each listing field. This step determines your discoverability on Amazon.",
+      "source": "<p>Phase two: Keyword Research — For each selected product, use Helium 10 Cerebro to discover all relevant search terms. Analyze competitor ASINs to find keywords driving their sales. Build a keyword map assigning primary and secondary keywords to each listing field. This step determines your discoverability on Amazon.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Phase three: Listing Creation and Launch — Write optimized listings using Scribbles, source products from verified suppliers, and launch with an Amazon PPC campaign targeting your researched keywords.",
+      "originalText": "Phase three: Listing Creation and Launch — Write optimized listings using Scribbles, source products from verified suppliers, and launch with an Amazon PPC campaign targeting your researched keywords.",
+      "source": "<p>Phase three: Listing Creation and Launch — Write optimized listings using Scribbles, source products from verified suppliers, and launch with an Amazon PPC campaign targeting your researched keywords.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Phase four: Ongoing Optimization — Monitor keyword rankings weekly, adjust PPC bids based on ACOS, and update listings based on search term reports from Amazon.",
+      "originalText": "Phase four: Ongoing Optimization — Monitor keyword rankings weekly, adjust PPC bids based on ACOS, and update listings based on search term reports from Amazon.",
+      "source": "<p>Phase four: Ongoing Optimization — Monitor keyword rankings weekly, adjust PPC bids based on ACOS, and update listings based on search term reports from Amazon.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Phase Duration Key Tools Deliverable 1: Product Research 1–2 weeks Black Box + Jungle Scout 3 validated product ideas 2: Keyword Research 3–5 days Cerebro + Magnet Complete keyword map 3: Listing + Launch 1 week Scribbles + Amazon PPC Live optimized listing 4: Optimization Ongoing Keyword Tracker + PPC Improved rankings + ACOS",
+      "originalText": "Phase Duration Key Tools Deliverable 1: Product Research 1–2 weeks Black Box + Jungle Scout 3 validated product ideas 2: Keyword Research 3–5 days Cerebro + Magnet Complete keyword map 3: Listing + Launch 1 week Scribbles + Amazon PPC Live optimized listing 4: Optimization Ongoing Keyword Tracker + PPC Improved rankings + ACOS",
+      "source": "<p>Phase Duration Key Tools Deliverable 1: Product Research 1–2 weeks Black Box + Jungle Scout 3 validated product ideas 2: Keyword Research 3–5 days Cerebro + Magnet Complete keyword map 3: Listing + Launch 1 week Scribbles + Amazon PPC Live optimized listing 4: Optimization Ongoing Keyword Tracker + PPC Improved rankings + ACOS</p>",
+      "tag": "p"
+    },
+    {
+      "text": "What Are the References for This Page?",
+      "originalText": "What Are the References for This Page?",
+      "source": "<h2>What Are the References for This Page?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Helium 10 Academy",
+      "originalText": "Helium 10 Academy",
+      "source": "<li><a href=\"https://helium10.com/academy\" rel=\"noopener\">Helium 10 Academy</a></li>",
+      "tag": "li"
+    },
+    {
+      "text": "Jungle Scout University",
+      "originalText": "Jungle Scout University",
+      "source": "<li><a href=\"https://junglescout.com/university\" rel=\"noopener\">Jungle Scout University</a></li>",
+      "tag": "li"
+    },
+    {
+      "text": "Amazon Seller Central Documentation",
+      "originalText": "Amazon Seller Central Documentation",
+      "source": "<li><a href=\"https://sellercentral.amazon.com\" rel=\"noopener\">Amazon Seller Central Documentation</a></li>",
+      "tag": "li"
+    },
+    {
+      "text": "Amazon FBA Product Research Guide",
+      "originalText": "Amazon FBA Product Research Guide",
+      "source": "<li><a href=\"https://junglescout.com/guides\" rel=\"noopener\">Amazon FBA Product Research Guide</a></li>",
+      "tag": "li"
+    },
+    {
+      "text": "SEO Group Buy Amazon Tools",
+      "originalText": "SEO Group Buy Amazon Tools",
+      "source": "<li><a href=\"https://seogroupsbuytools.com/amazon\" rel=\"noopener\">SEO Group Buy Amazon Tools</a></li>",
+      "tag": "li"
+    },
+    {
+      "text": "Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data",
+      "originalText": "Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data",
+      "source": "<li><a href=\"https://driven\" rel=\"noopener\">Amazon selling research through SEO Group Buy Tools provides access to Helium 10 and Jungle Scout at a fraction of individual subscription costs. By following the structured workflow from product discovery through listing optimization and ongoing monitoring, you build a data</a></li>",
+      "tag": "li"
     }
   ]
 }

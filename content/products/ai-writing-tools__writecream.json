@@ -13,798 +13,1026 @@
       "label": "LI 1",
       "content": "<a href=\"../../\">Home</a>",
       "original": "<a href=\"../../\">Home</a>",
-      "source": "<li><a href=\"../../\">Home</a></li>"
+      "source": "<li><a href=\"../../\">Home</a></li>",
+      "originalText": "Home",
+      "text": "Home"
     },
     {
       "key": "li-2",
       "label": "LI 2",
       "content": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "Tools ▾ SEO Tools",
+      "text": "Tools ▾ SEO Tools"
     },
     {
       "key": "li-3",
       "label": "LI 3",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-4",
       "label": "LI 4",
       "content": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
       "original": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>",
+      "originalText": "Spy & Ad Intelligence",
+      "text": "Spy & Ad Intelligence"
     },
     {
       "key": "li-5",
       "label": "LI 5",
       "content": "<a href=\"../\">AI Writing Tools</a>",
       "original": "<a href=\"../\">AI Writing Tools</a>",
-      "source": "<li><a href=\"../\">AI Writing Tools</a></li>"
+      "source": "<li><a href=\"../\">AI Writing Tools</a></li>",
+      "originalText": "AI Writing Tools",
+      "text": "AI Writing Tools"
     },
     {
       "key": "li-6",
       "label": "LI 6",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>",
+      "originalText": "E-commerce Tools",
+      "text": "E-commerce Tools"
     },
     {
       "key": "li-7",
       "label": "LI 7",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "li-8",
       "label": "LI 8",
       "content": "<a href=\"../../education-tools/\">Education</a>",
       "original": "<a href=\"../../education-tools/\">Education</a>",
-      "source": "<li><a href=\"../../education-tools/\">Education</a></li>"
+      "source": "<li><a href=\"../../education-tools/\">Education</a></li>",
+      "originalText": "Education",
+      "text": "Education"
     },
     {
       "key": "li-9",
       "label": "LI 9",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "li-10",
       "label": "LI 10",
       "content": "<a href=\"../../best-providers/\">Providers</a>",
       "original": "<a href=\"../../best-providers/\">Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>",
+      "originalText": "Providers",
+      "text": "Providers"
     },
     {
       "key": "li-11",
       "label": "LI 11",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-12",
       "label": "LI 12",
       "content": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
       "original": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
-      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>"
+      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>",
+      "originalText": "Get Started",
+      "text": "Get Started"
     },
     {
       "key": "h1-1",
       "label": "H1 1",
       "content": "Writecream Group Buy",
       "original": "Writecream Group Buy",
-      "source": "<h1>Writecream Group Buy</h1>"
+      "source": "<h1>Writecream Group Buy</h1>",
+      "originalText": "Writecream Group Buy",
+      "text": "Writecream Group Buy"
     },
     {
       "key": "p-1",
       "label": "P 1",
       "content": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…",
       "original": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…",
-      "source": "<p class=\"product-hero-tagline\">Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…</p>"
+      "source": "<p class=\"product-hero-tagline\">Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…</p>",
+      "originalText": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…",
+      "text": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…"
     },
     {
       "key": "li-13",
       "label": "LI 13",
       "content": "Instant Access",
       "original": "Instant Access",
-      "source": "<li>Instant Access</li>"
+      "source": "<li>Instant Access</li>",
+      "originalText": "Instant Access",
+      "text": "Instant Access"
     },
     {
       "key": "li-14",
       "label": "LI 14",
       "content": "24/7 WhatsApp Support",
       "original": "24/7 WhatsApp Support",
-      "source": "<li>24/7 WhatsApp Support</li>"
+      "source": "<li>24/7 WhatsApp Support</li>",
+      "originalText": "24/7 WhatsApp Support",
+      "text": "24/7 WhatsApp Support"
     },
     {
       "key": "li-15",
       "label": "LI 15",
       "content": "Secure Payment",
       "original": "Secure Payment",
-      "source": "<li>Secure Payment</li>"
+      "source": "<li>Secure Payment</li>",
+      "originalText": "Secure Payment",
+      "text": "Secure Payment"
     },
     {
       "key": "h2-1",
       "label": "H2 1",
       "content": "What Is Writecream Group Buy Through SEO Group Buy Tools?",
       "original": "What Is Writecream Group Buy Through SEO Group Buy Tools?",
-      "source": "<h2>What Is Writecream Group Buy Through SEO Group Buy Tools?</h2>"
+      "source": "<h2>What Is Writecream Group Buy Through SEO Group Buy Tools?</h2>",
+      "originalText": "What Is Writecream Group Buy Through SEO Group Buy Tools?",
+      "text": "What Is Writecream Group Buy Through SEO Group Buy Tools?"
     },
     {
       "key": "p-2",
       "label": "P 2",
       "content": "SEO Group Buy Tools provide shared access to Writecream, a multi-format AI content generation platform that combines blog writing, ad copy, social media content, cold email personalization, and AI voiceover creation in a single tool.",
       "original": "SEO Group Buy Tools provide shared access to Writecream, a multi-format AI content generation platform that combines blog writing, ad copy, social media content, cold email personalization, and AI voiceover creation in a single tool.",
-      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to Writecream, a multi-format AI content generation platform that combines blog writing, ad copy, social media content, cold email personalization, and AI voiceover creation in a single tool.</p>"
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to Writecream, a multi-format AI content generation platform that combines blog writing, ad copy, social media content, cold email personalization, and AI voiceover creation in a single tool.</p>",
+      "originalText": "SEO Group Buy Tools provide shared access to Writecream, a multi-format AI content generation platform that combines blog writing, ad copy, social media content, cold email personalization, and AI voiceover creation in a single tool.",
+      "text": "SEO Group Buy Tools provide shared access to Writecream, a multi-format AI content generation platform that combines blog writing, ad copy, social media content, cold email personalization, and AI voiceover creation in a single tool."
     },
     {
       "key": "p-3",
       "label": "P 3",
       "content": "The official Writecream subscription costs $49 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, making its diverse content generation capabilities accessible to marketers and sales professionals who need personalized outreach and multi-channel content creation without the premium cost.",
       "original": "The official Writecream subscription costs $49 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, making its diverse content generation capabilities accessible to marketers and sales professionals who need personalized outreach and multi-channel content creation without the premium cost.",
-      "source": "<p>The official Writecream subscription costs $49 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, making its diverse content generation capabilities accessible to marketers and sales professionals who need personalized outreach and multi-channel content creation without the premium cost.</p>"
+      "source": "<p>The official Writecream subscription costs $49 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, making its diverse content generation capabilities accessible to marketers and sales professionals who need personalized outreach and multi-channel content creation without the premium cost.</p>",
+      "originalText": "The official Writecream subscription costs $49 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, making its diverse content generation capabilities accessible to marketers and sales professionals who need personalized outreach and multi-channel content creation without the premium cost.",
+      "text": "The official Writecream subscription costs $49 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, making its diverse content generation capabilities accessible to marketers and sales professionals who need personalized outreach and multi-channel content creation without the premium cost."
     },
     {
       "key": "h2-2",
       "label": "H2 2",
       "content": "What is Writecream group buy?",
       "original": "What is Writecream group buy?",
-      "source": "<h2>What is Writecream group buy?</h2>"
+      "source": "<h2>What is Writecream group buy?</h2>",
+      "originalText": "What is Writecream group buy?",
+      "text": "What is Writecream group buy?"
     },
     {
       "key": "p-4",
       "label": "P 4",
       "content": "Writecream group buy through SEO Group Buy Tools provides shared access to Writecream for AI content generation, cold email personalization, and voiceover creation at $4–$10 per month versus $49 official pricing.",
       "original": "Writecream group buy through SEO Group Buy Tools provides shared access to Writecream for AI content generation, cold email personalization, and voiceover creation at $4–$10 per month versus $49 official pricing.",
-      "source": "<p class=\"answer-snippet\">Writecream group buy through SEO Group Buy Tools provides shared access to Writecream for AI content generation, cold email personalization, and voiceover creation at $4–$10 per month versus $49 official pricing.</p>"
+      "source": "<p class=\"answer-snippet\">Writecream group buy through SEO Group Buy Tools provides shared access to Writecream for AI content generation, cold email personalization, and voiceover creation at $4–$10 per month versus $49 official pricing.</p>",
+      "originalText": "Writecream group buy through SEO Group Buy Tools provides shared access to Writecream for AI content generation, cold email personalization, and voiceover creation at $4–$10 per month versus $49 official pricing.",
+      "text": "Writecream group buy through SEO Group Buy Tools provides shared access to Writecream for AI content generation, cold email personalization, and voiceover creation at $4–$10 per month versus $49 official pricing."
     },
     {
       "key": "p-5",
       "label": "P 5",
       "content": "Writecream group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Writecream account for generating diverse content formats.",
       "original": "Writecream group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Writecream account for generating diverse content formats.",
-      "source": "<p>Writecream group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Writecream account for generating diverse content formats.</p>"
+      "source": "<p>Writecream group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Writecream account for generating diverse content formats.</p>",
+      "originalText": "Writecream group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Writecream account for generating diverse content formats.",
+      "text": "Writecream group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Writecream account for generating diverse content formats."
     },
     {
       "key": "p-6",
       "label": "P 6",
       "content": "Unlike single-purpose AI writing tools, Writecream combines blog post generation, marketing copy creation, social media content, cold email personalization, and AI-powered voiceover production, making it a versatile multi-format content platform accessible at a fraction of the official $49 monthly subscription.",
       "original": "Unlike single-purpose AI writing tools, Writecream combines blog post generation, marketing copy creation, social media content, cold email personalization, and AI-powered voiceover production, making it a versatile multi-format content platform accessible at a fraction of the official $49 monthly subscription.",
-      "source": "<p>Unlike single-purpose AI writing tools, Writecream combines blog post generation, marketing copy creation, social media content, cold email personalization, and AI-powered voiceover production, making it a versatile multi-format content platform accessible at a fraction of the official $49 monthly subscription.</p>"
+      "source": "<p>Unlike single-purpose AI writing tools, Writecream combines blog post generation, marketing copy creation, social media content, cold email personalization, and AI-powered voiceover production, making it a versatile multi-format content platform accessible at a fraction of the official $49 monthly subscription.</p>",
+      "originalText": "Unlike single-purpose AI writing tools, Writecream combines blog post generation, marketing copy creation, social media content, cold email personalization, and AI-powered voiceover production, making it a versatile multi-format content platform accessible at a fraction of the official $49 monthly subscription.",
+      "text": "Unlike single-purpose AI writing tools, Writecream combines blog post generation, marketing copy creation, social media content, cold email personalization, and AI-powered voiceover production, making it a versatile multi-format content platform accessible at a fraction of the official $49 monthly subscription."
     },
     {
       "key": "p-7",
       "label": "P 7",
       "content": "Through SEO Group Buy Tools, Writecream users can leverage its unique cold email personalization feature, which generates customized outreach messages based on prospect LinkedIn profiles and company information.",
       "original": "Through SEO Group Buy Tools, Writecream users can leverage its unique cold email personalization feature, which generates customized outreach messages based on prospect LinkedIn profiles and company information.",
-      "source": "<p>Through SEO Group Buy Tools, Writecream users can leverage its unique cold email personalization feature, which generates customized outreach messages based on prospect LinkedIn profiles and company information.</p>"
+      "source": "<p>Through SEO Group Buy Tools, Writecream users can leverage its unique cold email personalization feature, which generates customized outreach messages based on prospect LinkedIn profiles and company information.</p>",
+      "originalText": "Through SEO Group Buy Tools, Writecream users can leverage its unique cold email personalization feature, which generates customized outreach messages based on prospect LinkedIn profiles and company information.",
+      "text": "Through SEO Group Buy Tools, Writecream users can leverage its unique cold email personalization feature, which generates customized outreach messages based on prospect LinkedIn profiles and company information."
     },
     {
       "key": "p-8",
       "label": "P 8",
       "content": "This personalization at scale capability differentiates Writecream from general-purpose AI writing tools and makes it particularly valuable for sales teams and B2B marketers who need to send personalized outreach without writing each email manually.",
       "original": "This personalization at scale capability differentiates Writecream from general-purpose AI writing tools and makes it particularly valuable for sales teams and B2B marketers who need to send personalized outreach without writing each email manually.",
-      "source": "<p>This personalization at scale capability differentiates Writecream from general-purpose AI writing tools and makes it particularly valuable for sales teams and B2B marketers who need to send personalized outreach without writing each email manually.</p>"
+      "source": "<p>This personalization at scale capability differentiates Writecream from general-purpose AI writing tools and makes it particularly valuable for sales teams and B2B marketers who need to send personalized outreach without writing each email manually.</p>",
+      "originalText": "This personalization at scale capability differentiates Writecream from general-purpose AI writing tools and makes it particularly valuable for sales teams and B2B marketers who need to send personalized outreach without writing each email manually.",
+      "text": "This personalization at scale capability differentiates Writecream from general-purpose AI writing tools and makes it particularly valuable for sales teams and B2B marketers who need to send personalized outreach without writing each email manually."
     },
     {
       "key": "h2-3",
       "label": "H2 3",
       "content": "What features are available?",
       "original": "What features are available?",
-      "source": "<h2>What features are available?</h2>"
+      "source": "<h2>What features are available?</h2>",
+      "originalText": "What features are available?",
+      "text": "What features are available?"
     },
     {
       "key": "p-9",
       "label": "P 9",
       "content": "Writecream group buy through SEO Group Buy Tools provides blog writing, ad copy generation, cold email personalization, LinkedIn outreach, AI voiceovers, podcast scripts, and social media content with credit-based shared limits.",
       "original": "Writecream group buy through SEO Group Buy Tools provides blog writing, ad copy generation, cold email personalization, LinkedIn outreach, AI voiceovers, podcast scripts, and social media content with credit-based shared limits.",
-      "source": "<p class=\"answer-snippet\">Writecream group buy through SEO Group Buy Tools provides blog writing, ad copy generation, cold email personalization, LinkedIn outreach, AI voiceovers, podcast scripts, and social media content with credit-based shared limits.</p>"
+      "source": "<p class=\"answer-snippet\">Writecream group buy through SEO Group Buy Tools provides blog writing, ad copy generation, cold email personalization, LinkedIn outreach, AI voiceovers, podcast scripts, and social media content with credit-based shared limits.</p>",
+      "originalText": "Writecream group buy through SEO Group Buy Tools provides blog writing, ad copy generation, cold email personalization, LinkedIn outreach, AI voiceovers, podcast scripts, and social media content with credit-based shared limits.",
+      "text": "Writecream group buy through SEO Group Buy Tools provides blog writing, ad copy generation, cold email personalization, LinkedIn outreach, AI voiceovers, podcast scripts, and social media content with credit-based shared limits."
     },
     {
       "key": "p-10",
       "label": "P 10",
       "content": "The Writecream features available through SEO Group Buy Tools cover an unusually broad range of content formats. The Blog Article Writer generates complete long-form articles from topics or outlines, while the Marketing Copy Engine produces ad copy, product descriptions, and landing page content.",
       "original": "The Writecream features available through SEO Group Buy Tools cover an unusually broad range of content formats. The Blog Article Writer generates complete long-form articles from topics or outlines, while the Marketing Copy Engine produces ad copy, product descriptions, and landing page content.",
-      "source": "<p>The Writecream features available through SEO Group Buy Tools cover an unusually broad range of content formats. The Blog Article Writer generates complete long-form articles from topics or outlines, while the Marketing Copy Engine produces ad copy, product descriptions, and landing page content.</p>"
+      "source": "<p>The Writecream features available through SEO Group Buy Tools cover an unusually broad range of content formats. The Blog Article Writer generates complete long-form articles from topics or outlines, while the Marketing Copy Engine produces ad copy, product descriptions, and landing page content.</p>",
+      "originalText": "The Writecream features available through SEO Group Buy Tools cover an unusually broad range of content formats. The Blog Article Writer generates complete long-form articles from topics or outlines, while the Marketing Copy Engine produces ad copy, product descriptions, and landing page content.",
+      "text": "The Writecream features available through SEO Group Buy Tools cover an unusually broad range of content formats. The Blog Article Writer generates complete long-form articles from topics or outlines, while the Marketing Copy Engine produces ad copy, product descriptions, and landing page content."
     },
     {
       "key": "p-11",
       "label": "P 11",
       "content": "The Cold Email Personalization tool creates individualized outreach messages using prospect data, and the LinkedIn Personalization feature generates connection requests and follow-up messages.",
       "original": "The Cold Email Personalization tool creates individualized outreach messages using prospect data, and the LinkedIn Personalization feature generates connection requests and follow-up messages.",
-      "source": "<p>The Cold Email Personalization tool creates individualized outreach messages using prospect data, and the LinkedIn Personalization feature generates connection requests and follow-up messages.</p>"
+      "source": "<p>The Cold Email Personalization tool creates individualized outreach messages using prospect data, and the LinkedIn Personalization feature generates connection requests and follow-up messages.</p>",
+      "originalText": "The Cold Email Personalization tool creates individualized outreach messages using prospect data, and the LinkedIn Personalization feature generates connection requests and follow-up messages.",
+      "text": "The Cold Email Personalization tool creates individualized outreach messages using prospect data, and the LinkedIn Personalization feature generates connection requests and follow-up messages."
     },
     {
       "key": "p-12",
       "label": "P 12",
       "content": "The AI Voiceover feature converts text to natural-sounding speech for podcasts, videos, and presentations, supporting multiple languages and voice styles.",
       "original": "The AI Voiceover feature converts text to natural-sounding speech for podcasts, videos, and presentations, supporting multiple languages and voice styles.",
-      "source": "<p>The AI Voiceover feature converts text to natural-sounding speech for podcasts, videos, and presentations, supporting multiple languages and voice styles.</p>"
+      "source": "<p>The AI Voiceover feature converts text to natural-sounding speech for podcasts, videos, and presentations, supporting multiple languages and voice styles.</p>",
+      "originalText": "The AI Voiceover feature converts text to natural-sounding speech for podcasts, videos, and presentations, supporting multiple languages and voice styles.",
+      "text": "The AI Voiceover feature converts text to natural-sounding speech for podcasts, videos, and presentations, supporting multiple languages and voice styles."
     },
     {
       "key": "p-13",
       "label": "P 13",
       "content": "The Podcast Script Writer generates structured audio content scripts, and the Social Media Content Creator produces platform-specific posts with hashtags and calls-to-action. These diverse capabilities make Writecream one of the most versatile tools available through SEO Group Buy Tools.",
       "original": "The Podcast Script Writer generates structured audio content scripts, and the Social Media Content Creator produces platform-specific posts with hashtags and calls-to-action. These diverse capabilities make Writecream one of the most versatile tools available through SEO Group Buy Tools.",
-      "source": "<p>The Podcast Script Writer generates structured audio content scripts, and the Social Media Content Creator produces platform-specific posts with hashtags and calls-to-action. These diverse capabilities make Writecream one of the most versatile tools available through SEO Group Buy Tools.</p>"
+      "source": "<p>The Podcast Script Writer generates structured audio content scripts, and the Social Media Content Creator produces platform-specific posts with hashtags and calls-to-action. These diverse capabilities make Writecream one of the most versatile tools available through SEO Group Buy Tools.</p>",
+      "originalText": "The Podcast Script Writer generates structured audio content scripts, and the Social Media Content Creator produces platform-specific posts with hashtags and calls-to-action. These diverse capabilities make Writecream one of the most versatile tools available through SEO Group Buy Tools.",
+      "text": "The Podcast Script Writer generates structured audio content scripts, and the Social Media Content Creator produces platform-specific posts with hashtags and calls-to-action. These diverse capabilities make Writecream one of the most versatile tools available through SEO Group Buy Tools."
     },
     {
       "key": "p-14",
       "label": "P 14",
       "content": "However, Writecream uses a credit-based system where different content types consume varying amounts of credits. Long-form blog posts and voiceovers consume significantly more credits than short-form social media posts.",
       "original": "However, Writecream uses a credit-based system where different content types consume varying amounts of credits. Long-form blog posts and voiceovers consume significantly more credits than short-form social media posts.",
-      "source": "<p>However, Writecream uses a credit-based system where different content types consume varying amounts of credits. Long-form blog posts and voiceovers consume significantly more credits than short-form social media posts.</p>"
+      "source": "<p>However, Writecream uses a credit-based system where different content types consume varying amounts of credits. Long-form blog posts and voiceovers consume significantly more credits than short-form social media posts.</p>",
+      "originalText": "However, Writecream uses a credit-based system where different content types consume varying amounts of credits. Long-form blog posts and voiceovers consume significantly more credits than short-form social media posts.",
+      "text": "However, Writecream uses a credit-based system where different content types consume varying amounts of credits. Long-form blog posts and voiceovers consume significantly more credits than short-form social media posts."
     },
     {
       "key": "p-15",
       "label": "P 15",
       "content": "In the shared-access model through SEO Group Buy Tools, the credit pool is shared across all users, meaning heavy content generators can deplete credits faster than light users, creating the same credit exhaustion challenges seen with other credit-based group buy tools.",
       "original": "In the shared-access model through SEO Group Buy Tools, the credit pool is shared across all users, meaning heavy content generators can deplete credits faster than light users, creating the same credit exhaustion challenges seen with other credit-based group buy tools.",
-      "source": "<p>In the shared-access model through SEO Group Buy Tools, the credit pool is shared across all users, meaning heavy content generators can deplete credits faster than light users, creating the same credit exhaustion challenges seen with other credit-based group buy tools.</p>"
+      "source": "<p>In the shared-access model through SEO Group Buy Tools, the credit pool is shared across all users, meaning heavy content generators can deplete credits faster than light users, creating the same credit exhaustion challenges seen with other credit-based group buy tools.</p>",
+      "originalText": "In the shared-access model through SEO Group Buy Tools, the credit pool is shared across all users, meaning heavy content generators can deplete credits faster than light users, creating the same credit exhaustion challenges seen with other credit-based group buy tools.",
+      "text": "In the shared-access model through SEO Group Buy Tools, the credit pool is shared across all users, meaning heavy content generators can deplete credits faster than light users, creating the same credit exhaustion challenges seen with other credit-based group buy tools."
     },
     {
       "key": "h2-4",
       "label": "H2 4",
       "content": "How much does it cost?",
       "original": "How much does it cost?",
-      "source": "<h2>How much does it cost?</h2>"
+      "source": "<h2>How much does it cost?</h2>",
+      "originalText": "How much does it cost?",
+      "text": "How much does it cost?"
     },
     {
       "key": "p-16",
       "label": "P 16",
       "content": "Writecream group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $49 per month, delivering annual savings of $468–$540, though credit exhaustion reduces effective value.",
       "original": "Writecream group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $49 per month, delivering annual savings of $468–$540, though credit exhaustion reduces effective value.",
-      "source": "<p class=\"answer-snippet\">Writecream group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $49 per month, delivering annual savings of $468–$540, though credit exhaustion reduces effective value.</p>"
+      "source": "<p class=\"answer-snippet\">Writecream group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $49 per month, delivering annual savings of $468–$540, though credit exhaustion reduces effective value.</p>",
+      "originalText": "Writecream group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $49 per month, delivering annual savings of $468–$540, though credit exhaustion reduces effective value.",
+      "text": "Writecream group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $49 per month, delivering annual savings of $468–$540, though credit exhaustion reduces effective value."
     },
     {
       "key": "p-17",
       "label": "P 17",
       "content": "The pricing for Writecream group buy through SEO Group Buy Tools offers significant nominal savings. The official Writecream subscription costs $49 per month for the Premium plan, while group buy access ranges from $4 to $10 per month depending on the provider and included features.",
       "original": "The pricing for Writecream group buy through SEO Group Buy Tools offers significant nominal savings. The official Writecream subscription costs $49 per month for the Premium plan, while group buy access ranges from $4 to $10 per month depending on the provider and included features.",
-      "source": "<p>The pricing for Writecream group buy through SEO Group Buy Tools offers significant nominal savings. The official Writecream subscription costs $49 per month for the Premium plan, while group buy access ranges from $4 to $10 per month depending on the provider and included features.</p>"
+      "source": "<p>The pricing for Writecream group buy through SEO Group Buy Tools offers significant nominal savings. The official Writecream subscription costs $49 per month for the Premium plan, while group buy access ranges from $4 to $10 per month depending on the provider and included features.</p>",
+      "originalText": "The pricing for Writecream group buy through SEO Group Buy Tools offers significant nominal savings. The official Writecream subscription costs $49 per month for the Premium plan, while group buy access ranges from $4 to $10 per month depending on the provider and included features.",
+      "text": "The pricing for Writecream group buy through SEO Group Buy Tools offers significant nominal savings. The official Writecream subscription costs $49 per month for the Premium plan, while group buy access ranges from $4 to $10 per month depending on the provider and included features."
     },
     {
       "key": "p-18",
       "label": "P 18",
       "content": "At first glance, this represents annual savings of $468 to $540 per year, making Writecream appear to be one of the best value AI writing tools in the group buy market.",
       "original": "At first glance, this represents annual savings of $468 to $540 per year, making Writecream appear to be one of the best value AI writing tools in the group buy market.",
-      "source": "<p>At first glance, this represents annual savings of $468 to $540 per year, making Writecream appear to be one of the best value AI writing tools in the group buy market.</p>"
+      "source": "<p>At first glance, this represents annual savings of $468 to $540 per year, making Writecream appear to be one of the best value AI writing tools in the group buy market.</p>",
+      "originalText": "At first glance, this represents annual savings of $468 to $540 per year, making Writecream appear to be one of the best value AI writing tools in the group buy market.",
+      "text": "At first glance, this represents annual savings of $468 to $540 per year, making Writecream appear to be one of the best value AI writing tools in the group buy market."
     },
     {
       "key": "p-19",
       "label": "P 19",
       "content": "However, as with all credit-based group buy tools through SEO Group Buy Tools, the effective value depends on how consistently credits are available throughout the billing cycle.",
       "original": "However, as with all credit-based group buy tools through SEO Group Buy Tools, the effective value depends on how consistently credits are available throughout the billing cycle.",
-      "source": "<p>However, as with all credit-based group buy tools through SEO Group Buy Tools, the effective value depends on how consistently credits are available throughout the billing cycle.</p>"
+      "source": "<p>However, as with all credit-based group buy tools through SEO Group Buy Tools, the effective value depends on how consistently credits are available throughout the billing cycle.</p>",
+      "originalText": "However, as with all credit-based group buy tools through SEO Group Buy Tools, the effective value depends on how consistently credits are available throughout the billing cycle.",
+      "text": "However, as with all credit-based group buy tools through SEO Group Buy Tools, the effective value depends on how consistently credits are available throughout the billing cycle."
     },
     {
       "key": "p-20",
       "label": "P 20",
       "content": "Users who need Writecream primarily for low-credit features like cold email personalization and LinkedIn outreach will find better value than those who need high-credit features like blog generation and AI voiceovers.",
       "original": "Users who need Writecream primarily for low-credit features like cold email personalization and LinkedIn outreach will find better value than those who need high-credit features like blog generation and AI voiceovers.",
-      "source": "<p>Users who need Writecream primarily for low-credit features like cold email personalization and LinkedIn outreach will find better value than those who need high-credit features like blog generation and AI voiceovers.</p>"
+      "source": "<p>Users who need Writecream primarily for low-credit features like cold email personalization and LinkedIn outreach will find better value than those who need high-credit features like blog generation and AI voiceovers.</p>",
+      "originalText": "Users who need Writecream primarily for low-credit features like cold email personalization and LinkedIn outreach will find better value than those who need high-credit features like blog generation and AI voiceovers.",
+      "text": "Users who need Writecream primarily for low-credit features like cold email personalization and LinkedIn outreach will find better value than those who need high-credit features like blog generation and AI voiceovers."
     },
     {
       "key": "p-21",
       "label": "P 21",
       "content": "The pricing calculation should factor in the probability of credit exhaustion reducing usable days per month.",
       "original": "The pricing calculation should factor in the probability of credit exhaustion reducing usable days per month.",
-      "source": "<p>The pricing calculation should factor in the probability of credit exhaustion reducing usable days per month.</p>"
+      "source": "<p>The pricing calculation should factor in the probability of credit exhaustion reducing usable days per month.</p>",
+      "originalText": "The pricing calculation should factor in the probability of credit exhaustion reducing usable days per month.",
+      "text": "The pricing calculation should factor in the probability of credit exhaustion reducing usable days per month."
     },
     {
       "key": "h2-5",
       "label": "H2 5",
       "content": "Who should use it?",
       "original": "Who should use it?",
-      "source": "<h2>Who should use it?</h2>"
+      "source": "<h2>Who should use it?</h2>",
+      "originalText": "Who should use it?",
+      "text": "Who should use it?"
     },
     {
       "key": "p-22",
       "label": "P 22",
       "content": "Writecream group buy through SEO Group Buy Tools is best for B2B sales professionals and cold email outreach specialists who leverage personalization features, while heavy content generators may find credits drain too quickly.",
       "original": "Writecream group buy through SEO Group Buy Tools is best for B2B sales professionals and cold email outreach specialists who leverage personalization features, while heavy content generators may find credits drain too quickly.",
-      "source": "<p class=\"answer-snippet\">Writecream group buy through SEO Group Buy Tools is best for B2B sales professionals and cold email outreach specialists who leverage personalization features, while heavy content generators may find credits drain too quickly.</p>"
+      "source": "<p class=\"answer-snippet\">Writecream group buy through SEO Group Buy Tools is best for B2B sales professionals and cold email outreach specialists who leverage personalization features, while heavy content generators may find credits drain too quickly.</p>",
+      "originalText": "Writecream group buy through SEO Group Buy Tools is best for B2B sales professionals and cold email outreach specialists who leverage personalization features, while heavy content generators may find credits drain too quickly.",
+      "text": "Writecream group buy through SEO Group Buy Tools is best for B2B sales professionals and cold email outreach specialists who leverage personalization features, while heavy content generators may find credits drain too quickly."
     },
     {
       "key": "p-23",
       "label": "P 23",
       "content": "B2B sales professionals and outbound marketers benefit most from Writecream group buy through SEO Group Buy Tools because the cold email and LinkedIn personalization features consume relatively few credits while delivering high value.",
       "original": "B2B sales professionals and outbound marketers benefit most from Writecream group buy through SEO Group Buy Tools because the cold email and LinkedIn personalization features consume relatively few credits while delivering high value.",
-      "source": "<p>B2B sales professionals and outbound marketers benefit most from Writecream group buy through SEO Group Buy Tools because the cold email and LinkedIn personalization features consume relatively few credits while delivering high value.</p>"
+      "source": "<p>B2B sales professionals and outbound marketers benefit most from Writecream group buy through SEO Group Buy Tools because the cold email and LinkedIn personalization features consume relatively few credits while delivering high value.</p>",
+      "originalText": "B2B sales professionals and outbound marketers benefit most from Writecream group buy through SEO Group Buy Tools because the cold email and LinkedIn personalization features consume relatively few credits while delivering high value.",
+      "text": "B2B sales professionals and outbound marketers benefit most from Writecream group buy through SEO Group Buy Tools because the cold email and LinkedIn personalization features consume relatively few credits while delivering high value."
     },
     {
       "key": "p-24",
       "label": "P 24",
       "content": "The ability to generate personalized outreach at scale, using prospect LinkedIn data to craft individualized messages, saves hours of manual writing time per campaign and can significantly improve response rates.",
       "original": "The ability to generate personalized outreach at scale, using prospect LinkedIn data to craft individualized messages, saves hours of manual writing time per campaign and can significantly improve response rates.",
-      "source": "<p>The ability to generate personalized outreach at scale, using prospect LinkedIn data to craft individualized messages, saves hours of manual writing time per campaign and can significantly improve response rates.</p>"
+      "source": "<p>The ability to generate personalized outreach at scale, using prospect LinkedIn data to craft individualized messages, saves hours of manual writing time per campaign and can significantly improve response rates.</p>",
+      "originalText": "The ability to generate personalized outreach at scale, using prospect LinkedIn data to craft individualized messages, saves hours of manual writing time per campaign and can significantly improve response rates.",
+      "text": "The ability to generate personalized outreach at scale, using prospect LinkedIn data to craft individualized messages, saves hours of manual writing time per campaign and can significantly improve response rates."
     },
     {
       "key": "p-25",
       "label": "P 25",
       "content": "Podcast creators and video marketers who need AI voiceovers should approach Writecream group buy through SEO Group Buy Tools with caution. Voiceovers consume substantial credits, and the shared-access model means this feature may become unavailable quickly when multiple users generate audio content.",
       "original": "Podcast creators and video marketers who need AI voiceovers should approach Writecream group buy through SEO Group Buy Tools with caution. Voiceovers consume substantial credits, and the shared-access model means this feature may become unavailable quickly when multiple users generate audio content.",
-      "source": "<p>Podcast creators and video marketers who need AI voiceovers should approach Writecream group buy through SEO Group Buy Tools with caution. Voiceovers consume substantial credits, and the shared-access model means this feature may become unavailable quickly when multiple users generate audio content.</p>"
+      "source": "<p>Podcast creators and video marketers who need AI voiceovers should approach Writecream group buy through SEO Group Buy Tools with caution. Voiceovers consume substantial credits, and the shared-access model means this feature may become unavailable quickly when multiple users generate audio content.</p>",
+      "originalText": "Podcast creators and video marketers who need AI voiceovers should approach Writecream group buy through SEO Group Buy Tools with caution. Voiceovers consume substantial credits, and the shared-access model means this feature may become unavailable quickly when multiple users generate audio content.",
+      "text": "Podcast creators and video marketers who need AI voiceovers should approach Writecream group buy through SEO Group Buy Tools with caution. Voiceovers consume substantial credits, and the shared-access model means this feature may become unavailable quickly when multiple users generate audio content."
     },
     {
       "key": "p-26",
       "label": "P 26",
       "content": "For users whose primary need is voiceover production, dedicated AI voice tools with individual subscriptions may provide more consistent access than the group buy model.",
       "original": "For users whose primary need is voiceover production, dedicated AI voice tools with individual subscriptions may provide more consistent access than the group buy model.",
-      "source": "<p>For users whose primary need is voiceover production, dedicated AI voice tools with individual subscriptions may provide more consistent access than the group buy model.</p>"
+      "source": "<p>For users whose primary need is voiceover production, dedicated AI voice tools with individual subscriptions may provide more consistent access than the group buy model.</p>",
+      "originalText": "For users whose primary need is voiceover production, dedicated AI voice tools with individual subscriptions may provide more consistent access than the group buy model.",
+      "text": "For users whose primary need is voiceover production, dedicated AI voice tools with individual subscriptions may provide more consistent access than the group buy model."
     },
     {
       "key": "p-27",
       "label": "P 27",
       "content": "Content marketers who need occasional blog posts, social media content, and marketing copy will find Writecream group buy through SEO Group Buy Tools delivers reasonable value when used strategically.",
       "original": "Content marketers who need occasional blog posts, social media content, and marketing copy will find Writecream group buy through SEO Group Buy Tools delivers reasonable value when used strategically.",
-      "source": "<p>Content marketers who need occasional blog posts, social media content, and marketing copy will find Writecream group buy through SEO Group Buy Tools delivers reasonable value when used strategically.</p>"
+      "source": "<p>Content marketers who need occasional blog posts, social media content, and marketing copy will find Writecream group buy through SEO Group Buy Tools delivers reasonable value when used strategically.</p>",
+      "originalText": "Content marketers who need occasional blog posts, social media content, and marketing copy will find Writecream group buy through SEO Group Buy Tools delivers reasonable value when used strategically.",
+      "text": "Content marketers who need occasional blog posts, social media content, and marketing copy will find Writecream group buy through SEO Group Buy Tools delivers reasonable value when used strategically."
     },
     {
       "key": "p-28",
       "label": "P 28",
       "content": "Prioritizing low-credit features during the first half of each billing cycle and saving high-credit tasks for when fresh credits are available maximizes the practical utility of the shared access model.",
       "original": "Prioritizing low-credit features during the first half of each billing cycle and saving high-credit tasks for when fresh credits are available maximizes the practical utility of the shared access model.",
-      "source": "<p>Prioritizing low-credit features during the first half of each billing cycle and saving high-credit tasks for when fresh credits are available maximizes the practical utility of the shared access model.</p>"
+      "source": "<p>Prioritizing low-credit features during the first half of each billing cycle and saving high-credit tasks for when fresh credits are available maximizes the practical utility of the shared access model.</p>",
+      "originalText": "Prioritizing low-credit features during the first half of each billing cycle and saving high-credit tasks for when fresh credits are available maximizes the practical utility of the shared access model.",
+      "text": "Prioritizing low-credit features during the first half of each billing cycle and saving high-credit tasks for when fresh credits are available maximizes the practical utility of the shared access model."
     },
     {
       "key": "h2-6",
       "label": "H2 6",
       "content": "References",
       "original": "References",
-      "source": "<h2>References</h2>"
+      "source": "<h2>References</h2>",
+      "originalText": "References",
+      "text": "References"
     },
     {
       "key": "li-16",
       "label": "LI 16",
       "content": "Writecream official pricing — writecream.com/pricing — Verified June 2026",
       "original": "Writecream official pricing — writecream.com/pricing — Verified June 2026",
-      "source": "<li>Writecream official pricing — writecream.com/pricing — Verified June 2026</li>"
+      "source": "<li>Writecream official pricing — writecream.com/pricing — Verified June 2026</li>",
+      "originalText": "Writecream official pricing — writecream.com/pricing — Verified June 2026",
+      "text": "Writecream official pricing — writecream.com/pricing — Verified June 2026"
     },
     {
       "key": "li-17",
       "label": "LI 17",
       "content": "Writecream features overview — writecream.com/features — Verified June 2026",
       "original": "Writecream features overview — writecream.com/features — Verified June 2026",
-      "source": "<li>Writecream features overview — writecream.com/features — Verified June 2026</li>"
+      "source": "<li>Writecream features overview — writecream.com/features — Verified June 2026</li>",
+      "originalText": "Writecream features overview — writecream.com/features — Verified June 2026",
+      "text": "Writecream features overview — writecream.com/features — Verified June 2026"
     },
     {
       "key": "li-18",
       "label": "LI 18",
       "content": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026",
       "original": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026",
-      "source": "<li>Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026</li>"
+      "source": "<li>Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026</li>",
+      "originalText": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026",
+      "text": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026"
     },
     {
       "key": "h2-7",
       "label": "H2 7",
       "content": "Available AI Writing Tools in Group Buy",
       "original": "Available AI Writing Tools in Group Buy",
-      "source": "<h2>Available AI Writing Tools in Group Buy</h2>"
+      "source": "<h2>Available AI Writing Tools in Group Buy</h2>",
+      "originalText": "Available AI Writing Tools in Group Buy",
+      "text": "Available AI Writing Tools in Group Buy"
     },
     {
       "key": "h4-1",
       "label": "H4 1",
       "content": "Quillbot Group Buy",
       "original": "Quillbot Group Buy",
-      "source": "<h4>Quillbot Group Buy</h4>"
+      "source": "<h4>Quillbot Group Buy</h4>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "p-29",
       "label": "P 29",
       "content": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation...",
       "original": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation...",
-      "source": "<p>Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation...</p>"
+      "source": "<p>Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation...</p>",
+      "originalText": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation...",
+      "text": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation..."
     },
     {
       "key": "h4-2",
       "label": "H4 2",
       "content": "Copy.ai Group Buy",
       "original": "Copy.ai Group Buy",
-      "source": "<h4>Copy.ai Group Buy</h4>"
+      "source": "<h4>Copy.ai Group Buy</h4>",
+      "originalText": "Copy.ai Group Buy",
+      "text": "Copy.ai Group Buy"
     },
     {
       "key": "p-30",
       "label": "P 30",
       "content": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...",
       "original": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...",
-      "source": "<p>Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...</p>"
+      "source": "<p>Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...</p>",
+      "originalText": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...",
+      "text": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month..."
     },
     {
       "key": "h4-3",
       "label": "H4 3",
       "content": "WordAI Group Buy",
       "original": "WordAI Group Buy",
-      "source": "<h4>WordAI Group Buy</h4>"
+      "source": "<h4>WordAI Group Buy</h4>",
+      "originalText": "WordAI Group Buy",
+      "text": "WordAI Group Buy"
     },
     {
       "key": "p-31",
       "label": "P 31",
       "content": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ...",
       "original": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ...",
-      "source": "<p>Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ...</p>"
+      "source": "<p>Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ...</p>",
+      "originalText": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ...",
+      "text": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ..."
     },
     {
       "key": "h3-1",
       "label": "H3 1",
       "content": "Get Started Today",
       "original": "Get Started Today",
-      "source": "<h3>Get Started Today</h3>"
+      "source": "<h3>Get Started Today</h3>",
+      "originalText": "Get Started Today",
+      "text": "Get Started Today"
     },
     {
       "key": "p-32",
       "label": "P 32",
       "content": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
       "original": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
-      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>"
+      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
+      "originalText": "Access 50+ premium SEO tools from $5/month",
+      "text": "Access 50+ premium SEO tools from $5/month"
     },
     {
       "key": "h3-2",
       "label": "H3 2",
       "content": "Tool Categories",
       "original": "Tool Categories",
-      "source": "<h3>Tool Categories</h3>"
+      "source": "<h3>Tool Categories</h3>",
+      "originalText": "Tool Categories",
+      "text": "Tool Categories"
     },
     {
       "key": "li-19",
       "label": "LI 19",
       "content": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
       "original": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
-      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>"
+      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
+      "originalText": "🔍 SEO Tools 12",
+      "text": "🔍 SEO Tools 12"
     },
     {
       "key": "li-20",
       "label": "LI 20",
       "content": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
+      "originalText": "🎨 Design Tools 5",
+      "text": "🎨 Design Tools 5"
     },
     {
       "key": "li-21",
       "label": "LI 21",
       "content": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
+      "originalText": "🕵️ Spy & Ad Intelligence 5",
+      "text": "🕵️ Spy & Ad Intelligence 5"
     },
     {
       "key": "li-22",
       "label": "LI 22",
       "content": "<a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "✍️ AI Writing Tools 4",
+      "text": "✍️ AI Writing Tools 4"
     },
     {
       "key": "li-23",
       "label": "LI 23",
       "content": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "🛒 E-commerce Tools 4",
+      "text": "🛒 E-commerce Tools 4"
     },
     {
       "key": "li-24",
       "label": "LI 24",
       "content": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "📱 Social Media Tools 3",
+      "text": "📱 Social Media Tools 3"
     },
     {
       "key": "li-25",
       "label": "LI 25",
       "content": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "🎓 Education Tools 3",
+      "text": "🎓 Education Tools 3"
     },
     {
       "key": "h3-3",
       "label": "H3 3",
       "content": "Popular Tools",
       "original": "Popular Tools",
-      "source": "<h3>Popular Tools</h3>"
+      "source": "<h3>Popular Tools</h3>",
+      "originalText": "Popular Tools",
+      "text": "Popular Tools"
     },
     {
       "key": "li-26",
       "label": "LI 26",
       "content": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
       "original": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
+      "originalText": "SEMrush Group Buy",
+      "text": "SEMrush Group Buy"
     },
     {
       "key": "li-27",
       "label": "LI 27",
       "content": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
       "original": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
+      "originalText": "Ahrefs Group Buy",
+      "text": "Ahrefs Group Buy"
     },
     {
       "key": "li-28",
       "label": "LI 28",
       "content": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
       "original": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
+      "originalText": "Moz Pro Group Buy",
+      "text": "Moz Pro Group Buy"
     },
     {
       "key": "li-29",
       "label": "LI 29",
       "content": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
       "original": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
+      "originalText": "Surfer SEO Group Buy",
+      "text": "Surfer SEO Group Buy"
     },
     {
       "key": "li-30",
       "label": "LI 30",
       "content": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
       "original": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
-      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
+      "originalText": "Canva Pro Group Buy",
+      "text": "Canva Pro Group Buy"
     },
     {
       "key": "li-31",
       "label": "LI 31",
       "content": "<a href=\"../quillbot/\">Quillbot Group Buy</a>",
       "original": "<a href=\"../quillbot/\">Quillbot Group Buy</a>",
-      "source": "<li><a href=\"../quillbot/\">Quillbot Group Buy</a></li>"
+      "source": "<li><a href=\"../quillbot/\">Quillbot Group Buy</a></li>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "h3-4",
       "label": "H3 4",
       "content": "Why Choose Us",
       "original": "Why Choose Us",
-      "source": "<h3>Why Choose Us</h3>"
+      "source": "<h3>Why Choose Us</h3>",
+      "originalText": "Why Choose Us",
+      "text": "Why Choose Us"
     },
     {
       "key": "li-32",
       "label": "LI 32",
       "content": "✓ 50+ Premium Tools",
       "original": "✓ 50+ Premium Tools",
-      "source": "<li>✓ 50+ Premium Tools</li>"
+      "source": "<li>✓ 50+ Premium Tools</li>",
+      "originalText": "✓ 50+ Premium Tools",
+      "text": "✓ 50+ Premium Tools"
     },
     {
       "key": "li-33",
       "label": "LI 33",
       "content": "✓ 90%+ Uptime Guaranteed",
       "original": "✓ 90%+ Uptime Guaranteed",
-      "source": "<li>✓ 90%+ Uptime Guaranteed</li>"
+      "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
+      "originalText": "✓ 90%+ Uptime Guaranteed",
+      "text": "✓ 90%+ Uptime Guaranteed"
     },
     {
       "key": "li-34",
       "label": "LI 34",
       "content": "✓ Instant Access Setup",
       "original": "✓ Instant Access Setup",
-      "source": "<li>✓ Instant Access Setup</li>"
+      "source": "<li>✓ Instant Access Setup</li>",
+      "originalText": "✓ Instant Access Setup",
+      "text": "✓ Instant Access Setup"
     },
     {
       "key": "li-35",
       "label": "LI 35",
       "content": "✓ 24/7 Support",
       "original": "✓ 24/7 Support",
-      "source": "<li>✓ 24/7 Support</li>"
+      "source": "<li>✓ 24/7 Support</li>",
+      "originalText": "✓ 24/7 Support",
+      "text": "✓ 24/7 Support"
     },
     {
       "key": "li-36",
       "label": "LI 36",
       "content": "✓ Secure Payments",
       "original": "✓ Secure Payments",
-      "source": "<li>✓ Secure Payments</li>"
+      "source": "<li>✓ Secure Payments</li>",
+      "originalText": "✓ Secure Payments",
+      "text": "✓ Secure Payments"
     },
     {
       "key": "h2-8",
       "label": "H2 8",
       "content": "Ready to Get Started?",
       "original": "Ready to Get Started?",
-      "source": "<h2>Ready to Get Started?</h2>"
+      "source": "<h2>Ready to Get Started?</h2>",
+      "originalText": "Ready to Get Started?",
+      "text": "Ready to Get Started?"
     },
     {
       "key": "p-33",
       "label": "P 33",
       "content": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
       "original": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
-      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>"
+      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
+      "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+      "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee."
     },
     {
       "key": "p-34",
       "label": "P 34",
       "content": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
       "original": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
-      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>"
+      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>",
+      "originalText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
+      "text": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
     },
     {
       "key": "h4-4",
       "label": "H4 4",
       "content": "Categories",
       "original": "Categories",
-      "source": "<h4>Categories</h4>"
+      "source": "<h4>Categories</h4>",
+      "originalText": "Categories",
+      "text": "Categories"
     },
     {
       "key": "li-37",
       "label": "LI 37",
       "content": "<a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": "<a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "SEO Tools",
+      "text": "SEO Tools"
     },
     {
       "key": "li-38",
       "label": "LI 38",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-39",
       "label": "LI 39",
       "content": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
       "original": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>",
+      "originalText": "Spy & Ad Tools",
+      "text": "Spy & Ad Tools"
     },
     {
       "key": "li-40",
       "label": "LI 40",
       "content": "<a href=\"../\">AI Writing</a>",
       "original": "<a href=\"../\">AI Writing</a>",
-      "source": "<li><a href=\"../\">AI Writing</a></li>"
+      "source": "<li><a href=\"../\">AI Writing</a></li>",
+      "originalText": "AI Writing",
+      "text": "AI Writing"
     },
     {
       "key": "li-41",
       "label": "LI 41",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>",
+      "originalText": "E-commerce",
+      "text": "E-commerce"
     },
     {
       "key": "li-42",
       "label": "LI 42",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "h4-5",
       "label": "H4 5",
       "content": "Resources",
       "original": "Resources",
-      "source": "<h4>Resources</h4>"
+      "source": "<h4>Resources</h4>",
+      "originalText": "Resources",
+      "text": "Resources"
     },
     {
       "key": "li-43",
       "label": "LI 43",
       "content": "<a href=\"../../how-it-works/\">How It Works</a>",
       "original": "<a href=\"../../how-it-works/\">How It Works</a>",
-      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>"
+      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>",
+      "originalText": "How It Works",
+      "text": "How It Works"
     },
     {
       "key": "li-44",
       "label": "LI 44",
       "content": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
       "original": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
-      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>"
+      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>",
+      "originalText": "Is It Safe?",
+      "text": "Is It Safe?"
     },
     {
       "key": "li-45",
       "label": "LI 45",
       "content": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
       "original": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
-      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>"
+      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>",
+      "originalText": "Is It Legal?",
+      "text": "Is It Legal?"
     },
     {
       "key": "li-46",
       "label": "LI 46",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-47",
       "label": "LI 47",
       "content": "<a href=\"../../best-providers/\">Best Providers</a>",
       "original": "<a href=\"../../best-providers/\">Best Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>",
+      "originalText": "Best Providers",
+      "text": "Best Providers"
     },
     {
       "key": "li-48",
       "label": "LI 48",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "h4-6",
       "label": "H4 6",
       "content": "Guides",
       "original": "Guides",
-      "source": "<h4>Guides</h4>"
+      "source": "<h4>Guides</h4>",
+      "originalText": "Guides",
+      "text": "Guides"
     },
     {
       "key": "li-49",
       "label": "LI 49",
       "content": "<a href=\"../../guides/keyword-research/\">Keyword Research</a>",
       "original": "<a href=\"../../guides/keyword-research/\">Keyword Research</a>",
-      "source": "<li><a href=\"../../guides/keyword-research/\">Keyword Research</a></li>"
+      "source": "<li><a href=\"../../guides/keyword-research/\">Keyword Research</a></li>",
+      "originalText": "Keyword Research",
+      "text": "Keyword Research"
     },
     {
       "key": "li-50",
       "label": "LI 50",
       "content": "<a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a>",
       "original": "<a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a>",
-      "source": "<li><a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a></li>"
+      "source": "<li><a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a></li>",
+      "originalText": "Backlink Analysis",
+      "text": "Backlink Analysis"
     },
     {
       "key": "li-51",
       "label": "LI 51",
       "content": "<a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a>",
       "original": "<a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a>",
-      "source": "<li><a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a></li>"
+      "source": "<li><a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a></li>",
+      "originalText": "Technical SEO Audit",
+      "text": "Technical SEO Audit"
     },
     {
       "key": "li-52",
       "label": "LI 52",
       "content": "<a href=\"../../guides/content-optimization/\">Content Optimization</a>",
       "original": "<a href=\"../../guides/content-optimization/\">Content Optimization</a>",
-      "source": "<li><a href=\"../../guides/content-optimization/\">Content Optimization</a></li>"
+      "source": "<li><a href=\"../../guides/content-optimization/\">Content Optimization</a></li>",
+      "originalText": "Content Optimization",
+      "text": "Content Optimization"
     },
     {
       "key": "li-53",
       "label": "LI 53",
       "content": "<a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a>",
       "original": "<a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a>",
-      "source": "<li><a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a></li>"
+      "source": "<li><a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a></li>",
+      "originalText": "PPC Research",
+      "text": "PPC Research"
     },
     {
       "key": "li-54",
       "label": "LI 54",
       "content": "<a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a>",
       "original": "<a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a>",
-      "source": "<li><a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a></li>"
+      "source": "<li><a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a></li>",
+      "originalText": "Amazon Selling",
+      "text": "Amazon Selling"
     },
     {
       "key": "h4-7",
       "label": "H4 7",
       "content": "Trust & Safety",
       "original": "Trust & Safety",
-      "source": "<h4>Trust & Safety</h4>"
+      "source": "<h4>Trust & Safety</h4>",
+      "originalText": "Trust & Safety",
+      "text": "Trust & Safety"
     },
     {
       "key": "li-55",
       "label": "LI 55",
       "content": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
       "original": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
-      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>"
+      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>",
+      "originalText": "Are They Legitimate?",
+      "text": "Are They Legitimate?"
     },
     {
       "key": "li-56",
       "label": "LI 56",
       "content": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
       "original": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
-      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>"
+      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>",
+      "originalText": "Choose Provider",
+      "text": "Choose Provider"
     },
     {
       "key": "li-57",
       "label": "LI 57",
       "content": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
       "original": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
-      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>"
+      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>",
+      "originalText": "Avoid Scams",
+      "text": "Avoid Scams"
     },
     {
       "key": "li-58",
       "label": "LI 58",
       "content": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
       "original": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
-      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>"
+      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>",
+      "originalText": "Tool Downtime",
+      "text": "Tool Downtime"
     },
     {
       "key": "li-59",
       "label": "LI 59",
       "content": "<a href=\"../../trust/countries/\">Countries</a>",
       "original": "<a href=\"../../trust/countries/\">Countries</a>",
-      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>"
+      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>",
+      "originalText": "Countries",
+      "text": "Countries"
     },
     {
       "key": "p-35",
       "label": "P 35",
       "content": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
       "original": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
-      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>"
+      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>",
+      "originalText": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms",
+      "text": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms"
     }
   ],
   "editorContent": [

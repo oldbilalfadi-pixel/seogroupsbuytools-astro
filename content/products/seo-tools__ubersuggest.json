@@ -13,896 +13,1647 @@
       "label": "LI 1",
       "content": "<a href=\"../../\">Home</a>",
       "original": "<a href=\"../../\">Home</a>",
-      "source": "<li><a href=\"../../\">Home</a></li>"
+      "source": "<li><a href=\"../../\">Home</a></li>",
+      "originalText": "Home",
+      "text": "Home"
     },
     {
       "key": "li-2",
       "label": "LI 2",
       "content": " <a href=\"../\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../\">SEO Tools</a>",
       "original": " <a href=\"../\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../\">SEO Tools</a>",
-      "source": "<li class=\"has-dropdown\"> <a href=\"../\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../\">SEO Tools</a></li>"
+      "source": "<li class=\"has-dropdown\"> <a href=\"../\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../\">SEO Tools</a></li>",
+      "originalText": "Tools ▾ SEO Tools",
+      "text": "Tools ▾ SEO Tools"
     },
     {
       "key": "li-3",
       "label": "LI 3",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-4",
       "label": "LI 4",
       "content": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
       "original": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>",
+      "originalText": "Spy & Ad Intelligence",
+      "text": "Spy & Ad Intelligence"
     },
     {
       "key": "li-5",
       "label": "LI 5",
       "content": "<a href=\"../../ai-writing-tools/\">AI Writing Tools</a>",
       "original": "<a href=\"../../ai-writing-tools/\">AI Writing Tools</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing Tools</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing Tools</a></li>",
+      "originalText": "AI Writing Tools",
+      "text": "AI Writing Tools"
     },
     {
       "key": "li-6",
       "label": "LI 6",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>",
+      "originalText": "E-commerce Tools",
+      "text": "E-commerce Tools"
     },
     {
       "key": "li-7",
       "label": "LI 7",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "li-8",
       "label": "LI 8",
       "content": "<a href=\"../../education-tools/\">Education</a>",
       "original": "<a href=\"../../education-tools/\">Education</a>",
-      "source": "<li><a href=\"../../education-tools/\">Education</a></li>"
+      "source": "<li><a href=\"../../education-tools/\">Education</a></li>",
+      "originalText": "Education",
+      "text": "Education"
     },
     {
       "key": "li-9",
       "label": "LI 9",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "li-10",
       "label": "LI 10",
       "content": "<a href=\"../../best-providers/\">Providers</a>",
       "original": "<a href=\"../../best-providers/\">Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>",
+      "originalText": "Providers",
+      "text": "Providers"
     },
     {
       "key": "li-11",
       "label": "LI 11",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-12",
       "label": "LI 12",
       "content": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
       "original": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
-      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>"
+      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>",
+      "originalText": "Get Started",
+      "text": "Get Started"
     },
     {
       "key": "h1-1",
       "label": "H1 1",
       "content": "Ubersuggest Group Buy",
       "original": "Ubersuggest Group Buy",
-      "source": "<h1>Ubersuggest Group Buy</h1>"
+      "source": "<h1>Ubersuggest Group Buy</h1>",
+      "originalText": "Ubersuggest Group Buy",
+      "text": "Ubersuggest Group Buy"
     },
     {
       "key": "p-1",
       "label": "P 1",
       "content": "Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competitor analysis. Affordable alternative to official $29/month p…",
       "original": "Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competitor analysis. Affordable alternative to official $29/month p…",
-      "source": "<p class=\"product-hero-tagline\">Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competitor analysis. Affordable alternative to official $29/month p…</p>"
+      "source": "<p class=\"product-hero-tagline\">Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competitor analysis. Affordable alternative to official $29/month p…</p>",
+      "originalText": "Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competitor analysis. Affordable alternative to official $29/month p…",
+      "text": "Access Ubersuggest group buy through SEO Group Buy Tools for keyword suggestions, content ideas, site audit, and competitor analysis. Affordable alternative to official $29/month p…"
     },
     {
       "key": "li-13",
       "label": "LI 13",
       "content": "Instant Access",
       "original": "Instant Access",
-      "source": "<li>Instant Access</li>"
+      "source": "<li>Instant Access</li>",
+      "originalText": "Instant Access",
+      "text": "Instant Access"
     },
     {
       "key": "li-14",
       "label": "LI 14",
       "content": "24/7 WhatsApp Support",
       "original": "24/7 WhatsApp Support",
-      "source": "<li>24/7 WhatsApp Support</li>"
+      "source": "<li>24/7 WhatsApp Support</li>",
+      "originalText": "24/7 WhatsApp Support",
+      "text": "24/7 WhatsApp Support"
     },
     {
       "key": "li-15",
       "label": "LI 15",
       "content": "Secure Payment",
       "original": "Secure Payment",
-      "source": "<li>Secure Payment</li>"
+      "source": "<li>Secure Payment</li>",
+      "originalText": "Secure Payment",
+      "text": "Secure Payment"
     },
     {
       "key": "h2-1",
       "label": "H2 1",
       "content": "What Is Ubersuggest Group Buy Through SEO Group Buy Tools?",
       "original": "What Is Ubersuggest Group Buy Through SEO Group Buy Tools?",
-      "source": "<h2>What Is Ubersuggest Group Buy Through SEO Group Buy Tools?</h2>"
+      "source": "<h2>What Is Ubersuggest Group Buy Through SEO Group Buy Tools?</h2>",
+      "originalText": "What Is Ubersuggest Group Buy Through SEO Group Buy Tools?",
+      "text": "What Is Ubersuggest Group Buy Through SEO Group Buy Tools?"
     },
     {
       "key": "p-2",
       "label": "P 2",
       "content": "SEO Group Buy Tools provide shared access to Ubersuggest by Neil Patel, a keyword research and content ideation tool that offers a generous free tier alongside its premium features. The official Ubersuggest subscription costs $29 per month, while group buy access through SEO Group Buy Tools costs $3–$8 per month.",
       "original": "SEO Group Buy Tools provide shared access to Ubersuggest by Neil Patel, a keyword research and content ideation tool that offers a generous free tier alongside its premium features. The official Ubersuggest subscription costs $29 per month, while group buy access through SEO Group Buy Tools costs $3–$8 per month.",
-      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to Ubersuggest by Neil Patel, a keyword research and content ideation tool that offers a generous free tier alongside its premium features. The official Ubersuggest subscription costs $29 per month, while group buy access through SEO Group Buy Tools costs $3–$8 per month.</p>"
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to Ubersuggest by Neil Patel, a keyword research and content ideation tool that offers a generous free tier alongside its premium features. The official Ubersuggest subscription costs $29 per month, while group buy access through SEO Group Buy Tools costs $3–$8 per month.</p>",
+      "originalText": "SEO Group Buy Tools provide shared access to Ubersuggest by Neil Patel, a keyword research and content ideation tool that offers a generous free tier alongside its premium features. The official Ubersuggest subscription costs $29 per month, while group buy access through SEO Group Buy Tools costs $3–$8 per month.",
+      "text": "SEO Group Buy Tools provide shared access to Ubersuggest by Neil Patel, a keyword research and content ideation tool that offers a generous free tier alongside its premium features. The official Ubersuggest subscription costs $29 per month, while group buy access through SEO Group Buy Tools costs $3–$8 per month."
     },
     {
       "key": "p-3",
       "label": "P 3",
       "content": "However, because Ubersuggest&#x27;s free tier already provides limited daily searches, users should carefully evaluate whether the group buy premium access adds sufficient value for their specific usage patterns.",
       "original": "However, because Ubersuggest&#x27;s free tier already provides limited daily searches, users should carefully evaluate whether the group buy premium access adds sufficient value for their specific usage patterns.",
-      "source": "<p>However, because Ubersuggest&#x27;s free tier already provides limited daily searches, users should carefully evaluate whether the group buy premium access adds sufficient value for their specific usage patterns.</p>"
+      "source": "<p>However, because Ubersuggest&#x27;s free tier already provides limited daily searches, users should carefully evaluate whether the group buy premium access adds sufficient value for their specific usage patterns.</p>",
+      "originalText": "However, because Ubersuggest&#x27;s free tier already provides limited daily searches, users should carefully evaluate whether the group buy premium access adds sufficient value for their specific usage patterns.",
+      "text": "However, because Ubersuggest&#x27;s free tier already provides limited daily searches, users should carefully evaluate whether the group buy premium access adds sufficient value for their specific usage patterns."
     },
     {
       "key": "h2-2",
       "label": "H2 2",
       "content": "What is Ubersuggest group buy?",
       "original": "What is Ubersuggest group buy?",
-      "source": "<h2>What is Ubersuggest group buy?</h2>"
+      "source": "<h2>What is Ubersuggest group buy?</h2>",
+      "originalText": "What is Ubersuggest group buy?",
+      "text": "What is Ubersuggest group buy?"
     },
     {
       "key": "p-4",
       "label": "P 4",
       "content": "Ubersuggest group buy through SEO Group Buy Tools provides shared access to Ubersuggest's premium keyword research, content ideas, site audit, and competitor analysis features for $3–$8 per month, though the tool's free tier may suffice for occasional users.",
       "original": "Ubersuggest group buy through SEO Group Buy Tools provides shared access to Ubersuggest's premium keyword research, content ideas, site audit, and competitor analysis features for $3–$8 per month, though the tool's free tier may suffice for occasional users.",
-      "source": "<p class=\"answer-snippet\">Ubersuggest group buy through SEO Group Buy Tools provides shared access to Ubersuggest's premium keyword research, content ideas, site audit, and competitor analysis features for $3–$8 per month, though the tool's free tier may suffice for occasional users.</p>"
+      "source": "<p class=\"answer-snippet\">Ubersuggest group buy through SEO Group Buy Tools provides shared access to Ubersuggest's premium keyword research, content ideas, site audit, and competitor analysis features for $3–$8 per month, though the tool's free tier may suffice for occasional users.</p>",
+      "originalText": "Ubersuggest group buy through SEO Group Buy Tools provides shared access to Ubersuggest's premium keyword research, content ideas, site audit, and competitor analysis features for $3–$8 per month, though the tool's free tier may suffice for occasional users.",
+      "text": "Ubersuggest group buy through SEO Group Buy Tools provides shared access to Ubersuggest's premium keyword research, content ideas, site audit, and competitor analysis features for $3–$8 per month, though the tool's free tier may suffice for occasional users."
     },
     {
       "key": "p-5",
       "label": "P 5",
       "content": "Ubersuggest group buy within SEO Group Buy Tools delivers access to the premium version of Neil Patel's keyword research and SEO analysis platform.",
       "original": "Ubersuggest group buy within SEO Group Buy Tools delivers access to the premium version of Neil Patel's keyword research and SEO analysis platform.",
-      "source": "<p>Ubersuggest group buy within SEO Group Buy Tools delivers access to the premium version of Neil Patel's keyword research and SEO analysis platform.</p>"
+      "source": "<p>Ubersuggest group buy within SEO Group Buy Tools delivers access to the premium version of Neil Patel's keyword research and SEO analysis platform.</p>",
+      "originalText": "Ubersuggest group buy within SEO Group Buy Tools delivers access to the premium version of Neil Patel's keyword research and SEO analysis platform.",
+      "text": "Ubersuggest group buy within SEO Group Buy Tools delivers access to the premium version of Neil Patel's keyword research and SEO analysis platform."
     },
     {
       "key": "p-6",
       "label": "P 6",
       "content": "The tool is designed for beginners and small business owners who need straightforward keyword data, content ideas, and basic site auditing without the complexity of enterprise SEO platforms.",
       "original": "The tool is designed for beginners and small business owners who need straightforward keyword data, content ideas, and basic site auditing without the complexity of enterprise SEO platforms.",
-      "source": "<p>The tool is designed for beginners and small business owners who need straightforward keyword data, content ideas, and basic site auditing without the complexity of enterprise SEO platforms.</p>"
+      "source": "<p>The tool is designed for beginners and small business owners who need straightforward keyword data, content ideas, and basic site auditing without the complexity of enterprise SEO platforms.</p>",
+      "originalText": "The tool is designed for beginners and small business owners who need straightforward keyword data, content ideas, and basic site auditing without the complexity of enterprise SEO platforms.",
+      "text": "The tool is designed for beginners and small business owners who need straightforward keyword data, content ideas, and basic site auditing without the complexity of enterprise SEO platforms."
     },
     {
       "key": "p-7",
       "label": "P 7",
       "content": "The unique consideration with Ubersuggest within SEO Group Buy Tools is that the platform offers a genuinely useful free tier with three daily keyword searches and limited results.",
       "original": "The unique consideration with Ubersuggest within SEO Group Buy Tools is that the platform offers a genuinely useful free tier with three daily keyword searches and limited results.",
-      "source": "<p>The unique consideration with Ubersuggest within SEO Group Buy Tools is that the platform offers a genuinely useful free tier with three daily keyword searches and limited results.</p>"
+      "source": "<p>The unique consideration with Ubersuggest within SEO Group Buy Tools is that the platform offers a genuinely useful free tier with three daily keyword searches and limited results.</p>",
+      "originalText": "The unique consideration with Ubersuggest within SEO Group Buy Tools is that the platform offers a genuinely useful free tier with three daily keyword searches and limited results.",
+      "text": "The unique consideration with Ubersuggest within SEO Group Buy Tools is that the platform offers a genuinely useful free tier with three daily keyword searches and limited results."
     },
     {
       "key": "p-8",
       "label": "P 8",
       "content": "This free access means users should compare what the group buy premium version adds before committing to a paid subscription. For users who need more than three daily searches and full data exports, the group buy premium access provides meaningful additional value.",
       "original": "This free access means users should compare what the group buy premium version adds before committing to a paid subscription. For users who need more than three daily searches and full data exports, the group buy premium access provides meaningful additional value.",
-      "source": "<p>This free access means users should compare what the group buy premium version adds before committing to a paid subscription. For users who need more than three daily searches and full data exports, the group buy premium access provides meaningful additional value.</p>"
+      "source": "<p>This free access means users should compare what the group buy premium version adds before committing to a paid subscription. For users who need more than three daily searches and full data exports, the group buy premium access provides meaningful additional value.</p>",
+      "originalText": "This free access means users should compare what the group buy premium version adds before committing to a paid subscription. For users who need more than three daily searches and full data exports, the group buy premium access provides meaningful additional value.",
+      "text": "This free access means users should compare what the group buy premium version adds before committing to a paid subscription. For users who need more than three daily searches and full data exports, the group buy premium access provides meaningful additional value."
     },
     {
       "key": "h2-3",
       "label": "H2 3",
       "content": "What Ubersuggest features are available in group buy?",
       "original": "What Ubersuggest features are available in group buy?",
-      "source": "<h2>What Ubersuggest features are available in group buy?</h2>"
+      "source": "<h2>What Ubersuggest features are available in group buy?</h2>",
+      "originalText": "What Ubersuggest features are available in group buy?",
+      "text": "What Ubersuggest features are available in group buy?"
     },
     {
       "key": "p-9",
       "label": "P 9",
       "content": "Ubersuggest group buy through SEO Group Buy Tools provides unlimited keyword suggestions, content ideas, site audit, backlink data, traffic analyzer, and rank tracking beyond the free tier's three daily searches and limited results.",
       "original": "Ubersuggest group buy through SEO Group Buy Tools provides unlimited keyword suggestions, content ideas, site audit, backlink data, traffic analyzer, and rank tracking beyond the free tier's three daily searches and limited results.",
-      "source": "<p class=\"answer-snippet\">Ubersuggest group buy through SEO Group Buy Tools provides unlimited keyword suggestions, content ideas, site audit, backlink data, traffic analyzer, and rank tracking beyond the free tier's three daily searches and limited results.</p>"
+      "source": "<p class=\"answer-snippet\">Ubersuggest group buy through SEO Group Buy Tools provides unlimited keyword suggestions, content ideas, site audit, backlink data, traffic analyzer, and rank tracking beyond the free tier's three daily searches and limited results.</p>",
+      "originalText": "Ubersuggest group buy through SEO Group Buy Tools provides unlimited keyword suggestions, content ideas, site audit, backlink data, traffic analyzer, and rank tracking beyond the free tier's three daily searches and limited results.",
+      "text": "Ubersuggest group buy through SEO Group Buy Tools provides unlimited keyword suggestions, content ideas, site audit, backlink data, traffic analyzer, and rank tracking beyond the free tier's three daily searches and limited results."
     },
     {
       "key": "p-10",
       "label": "P 10",
       "content": "The premium Ubersuggest features available through SEO Group Buy Tools expand significantly on the free tier's limitations. Keyword Suggestions provide unlimited searches with full volume, difficulty, and trend data, compared to the free tier's three daily searches with truncated results.",
       "original": "The premium Ubersuggest features available through SEO Group Buy Tools expand significantly on the free tier's limitations. Keyword Suggestions provide unlimited searches with full volume, difficulty, and trend data, compared to the free tier's three daily searches with truncated results.",
-      "source": "<p>The premium Ubersuggest features available through SEO Group Buy Tools expand significantly on the free tier's limitations. Keyword Suggestions provide unlimited searches with full volume, difficulty, and trend data, compared to the free tier's three daily searches with truncated results.</p>"
+      "source": "<p>The premium Ubersuggest features available through SEO Group Buy Tools expand significantly on the free tier's limitations. Keyword Suggestions provide unlimited searches with full volume, difficulty, and trend data, compared to the free tier's three daily searches with truncated results.</p>",
+      "originalText": "The premium Ubersuggest features available through SEO Group Buy Tools expand significantly on the free tier's limitations. Keyword Suggestions provide unlimited searches with full volume, difficulty, and trend data, compared to the free tier's three daily searches with truncated results.",
+      "text": "The premium Ubersuggest features available through SEO Group Buy Tools expand significantly on the free tier's limitations. Keyword Suggestions provide unlimited searches with full volume, difficulty, and trend data, compared to the free tier's three daily searches with truncated results."
     },
     {
       "key": "p-11",
       "label": "P 11",
       "content": "Content Ideas generates topic recommendations based on competing pages that rank for your target keywords, including social share counts and estimated visit data. Site Audit crawls your website for technical SEO issues and provides prioritized fix recommendations with estimated traffic impact.",
       "original": "Content Ideas generates topic recommendations based on competing pages that rank for your target keywords, including social share counts and estimated visit data. Site Audit crawls your website for technical SEO issues and provides prioritized fix recommendations with estimated traffic impact.",
-      "source": "<p>Content Ideas generates topic recommendations based on competing pages that rank for your target keywords, including social share counts and estimated visit data. Site Audit crawls your website for technical SEO issues and provides prioritized fix recommendations with estimated traffic impact.</p>"
+      "source": "<p>Content Ideas generates topic recommendations based on competing pages that rank for your target keywords, including social share counts and estimated visit data. Site Audit crawls your website for technical SEO issues and provides prioritized fix recommendations with estimated traffic impact.</p>",
+      "originalText": "Content Ideas generates topic recommendations based on competing pages that rank for your target keywords, including social share counts and estimated visit data. Site Audit crawls your website for technical SEO issues and provides prioritized fix recommendations with estimated traffic impact.",
+      "text": "Content Ideas generates topic recommendations based on competing pages that rank for your target keywords, including social share counts and estimated visit data. Site Audit crawls your website for technical SEO issues and provides prioritized fix recommendations with estimated traffic impact."
     },
     {
       "key": "p-12",
       "label": "P 12",
       "content": "Backlink Data shows linking domains, anchor text, and domain authority of linking sites. Traffic Analyzer estimates any domain's organic traffic and top-performing pages. Rank Tracking monitors keyword positions over time with weekly updates and competitor comparisons.",
       "original": "Backlink Data shows linking domains, anchor text, and domain authority of linking sites. Traffic Analyzer estimates any domain's organic traffic and top-performing pages. Rank Tracking monitors keyword positions over time with weekly updates and competitor comparisons.",
-      "source": "<p>Backlink Data shows linking domains, anchor text, and domain authority of linking sites. Traffic Analyzer estimates any domain's organic traffic and top-performing pages. Rank Tracking monitors keyword positions over time with weekly updates and competitor comparisons.</p>"
+      "source": "<p>Backlink Data shows linking domains, anchor text, and domain authority of linking sites. Traffic Analyzer estimates any domain's organic traffic and top-performing pages. Rank Tracking monitors keyword positions over time with weekly updates and competitor comparisons.</p>",
+      "originalText": "Backlink Data shows linking domains, anchor text, and domain authority of linking sites. Traffic Analyzer estimates any domain's organic traffic and top-performing pages. Rank Tracking monitors keyword positions over time with weekly updates and competitor comparisons.",
+      "text": "Backlink Data shows linking domains, anchor text, and domain authority of linking sites. Traffic Analyzer estimates any domain's organic traffic and top-performing pages. Rank Tracking monitors keyword positions over time with weekly updates and competitor comparisons."
     },
     {
       "key": "p-13",
       "label": "P 13",
       "content": "The critical evaluation for users within SEO Group Buy Tools is whether these premium features justify the monthly cost when a free alternative exists. Users who perform keyword research daily and need comprehensive data will find clear value in the group buy upgrade.",
       "original": "The critical evaluation for users within SEO Group Buy Tools is whether these premium features justify the monthly cost when a free alternative exists. Users who perform keyword research daily and need comprehensive data will find clear value in the group buy upgrade.",
-      "source": "<p>The critical evaluation for users within SEO Group Buy Tools is whether these premium features justify the monthly cost when a free alternative exists. Users who perform keyword research daily and need comprehensive data will find clear value in the group buy upgrade.</p>"
+      "source": "<p>The critical evaluation for users within SEO Group Buy Tools is whether these premium features justify the monthly cost when a free alternative exists. Users who perform keyword research daily and need comprehensive data will find clear value in the group buy upgrade.</p>",
+      "originalText": "The critical evaluation for users within SEO Group Buy Tools is whether these premium features justify the monthly cost when a free alternative exists. Users who perform keyword research daily and need comprehensive data will find clear value in the group buy upgrade.",
+      "text": "The critical evaluation for users within SEO Group Buy Tools is whether these premium features justify the monthly cost when a free alternative exists. Users who perform keyword research daily and need comprehensive data will find clear value in the group buy upgrade."
     },
     {
       "key": "p-14",
       "label": "P 14",
       "content": "Users who research keywords occasionally may find the free tier adequate for their needs without the shared-access trade-offs.",
       "original": "Users who research keywords occasionally may find the free tier adequate for their needs without the shared-access trade-offs.",
-      "source": "<p>Users who research keywords occasionally may find the free tier adequate for their needs without the shared-access trade-offs.</p>"
+      "source": "<p>Users who research keywords occasionally may find the free tier adequate for their needs without the shared-access trade-offs.</p>",
+      "originalText": "Users who research keywords occasionally may find the free tier adequate for their needs without the shared-access trade-offs.",
+      "text": "Users who research keywords occasionally may find the free tier adequate for their needs without the shared-access trade-offs."
     },
     {
       "key": "h2-4",
       "label": "H2 4",
       "content": "How much does Ubersuggest group buy cost?",
       "original": "How much does Ubersuggest group buy cost?",
-      "source": "<h2>How much does Ubersuggest group buy cost?</h2>"
+      "source": "<h2>How much does Ubersuggest group buy cost?</h2>",
+      "originalText": "How much does Ubersuggest group buy cost?",
+      "text": "How much does Ubersuggest group buy cost?"
     },
     {
       "key": "p-15",
       "label": "P 15",
       "content": "Ubersuggest group buy through SEO Group Buy Tools costs $3–$8 per month compared to official pricing of $29–$99 per month, but the tool's generous free tier means the group buy savings must be weighed against the free alternative's adequacy.",
       "original": "Ubersuggest group buy through SEO Group Buy Tools costs $3–$8 per month compared to official pricing of $29–$99 per month, but the tool's generous free tier means the group buy savings must be weighed against the free alternative's adequacy.",
-      "source": "<p class=\"answer-snippet\">Ubersuggest group buy through SEO Group Buy Tools costs $3–$8 per month compared to official pricing of $29–$99 per month, but the tool's generous free tier means the group buy savings must be weighed against the free alternative's adequacy.</p>"
+      "source": "<p class=\"answer-snippet\">Ubersuggest group buy through SEO Group Buy Tools costs $3–$8 per month compared to official pricing of $29–$99 per month, but the tool's generous free tier means the group buy savings must be weighed against the free alternative's adequacy.</p>",
+      "originalText": "Ubersuggest group buy through SEO Group Buy Tools costs $3–$8 per month compared to official pricing of $29–$99 per month, but the tool's generous free tier means the group buy savings must be weighed against the free alternative's adequacy.",
+      "text": "Ubersuggest group buy through SEO Group Buy Tools costs $3–$8 per month compared to official pricing of $29–$99 per month, but the tool's generous free tier means the group buy savings must be weighed against the free alternative's adequacy."
     },
     {
       "key": "p-16",
       "label": "P 16",
       "content": "Ubersuggest group buy pricing through SEO Group Buy Tools reflects the tool's already affordable positioning. The official Individual plan costs $29 per month, Business costs $49 per month, and Enterprise costs $99 per month.",
       "original": "Ubersuggest group buy pricing through SEO Group Buy Tools reflects the tool's already affordable positioning. The official Individual plan costs $29 per month, Business costs $49 per month, and Enterprise costs $99 per month.",
-      "source": "<p>Ubersuggest group buy pricing through SEO Group Buy Tools reflects the tool's already affordable positioning. The official Individual plan costs $29 per month, Business costs $49 per month, and Enterprise costs $99 per month.</p>"
+      "source": "<p>Ubersuggest group buy pricing through SEO Group Buy Tools reflects the tool's already affordable positioning. The official Individual plan costs $29 per month, Business costs $49 per month, and Enterprise costs $99 per month.</p>",
+      "originalText": "Ubersuggest group buy pricing through SEO Group Buy Tools reflects the tool's already affordable positioning. The official Individual plan costs $29 per month, Business costs $49 per month, and Enterprise costs $99 per month.",
+      "text": "Ubersuggest group buy pricing through SEO Group Buy Tools reflects the tool's already affordable positioning. The official Individual plan costs $29 per month, Business costs $49 per month, and Enterprise costs $99 per month."
     },
     {
       "key": "p-17",
       "label": "P 17",
       "content": "Group buy access at $3–$8 per month delivers 72–90% savings over individual subscriptions, but the value equation must account for the free tier availability. For users within SEO Group Buy Tools, the decision comes down to search volume needs.",
       "original": "Group buy access at $3–$8 per month delivers 72–90% savings over individual subscriptions, but the value equation must account for the free tier availability. For users within SEO Group Buy Tools, the decision comes down to search volume needs.",
-      "source": "<p>Group buy access at $3–$8 per month delivers 72–90% savings over individual subscriptions, but the value equation must account for the free tier availability. For users within SEO Group Buy Tools, the decision comes down to search volume needs.</p>"
+      "source": "<p>Group buy access at $3–$8 per month delivers 72–90% savings over individual subscriptions, but the value equation must account for the free tier availability. For users within SEO Group Buy Tools, the decision comes down to search volume needs.</p>",
+      "originalText": "Group buy access at $3–$8 per month delivers 72–90% savings over individual subscriptions, but the value equation must account for the free tier availability. For users within SEO Group Buy Tools, the decision comes down to search volume needs.",
+      "text": "Group buy access at $3–$8 per month delivers 72–90% savings over individual subscriptions, but the value equation must account for the free tier availability. For users within SEO Group Buy Tools, the decision comes down to search volume needs."
     },
     {
       "key": "p-18",
       "label": "P 18",
       "content": "If you run three or fewer keyword searches per day and do not need rank tracking or comprehensive backlink data, the free tier provides adequate functionality at zero cost.",
       "original": "If you run three or fewer keyword searches per day and do not need rank tracking or comprehensive backlink data, the free tier provides adequate functionality at zero cost.",
-      "source": "<p>If you run three or fewer keyword searches per day and do not need rank tracking or comprehensive backlink data, the free tier provides adequate functionality at zero cost.</p>"
+      "source": "<p>If you run three or fewer keyword searches per day and do not need rank tracking or comprehensive backlink data, the free tier provides adequate functionality at zero cost.</p>",
+      "originalText": "If you run three or fewer keyword searches per day and do not need rank tracking or comprehensive backlink data, the free tier provides adequate functionality at zero cost.",
+      "text": "If you run three or fewer keyword searches per day and do not need rank tracking or comprehensive backlink data, the free tier provides adequate functionality at zero cost."
     },
     {
       "key": "p-19",
       "label": "P 19",
       "content": "If you need unlimited daily searches, full content analysis, and ongoing rank tracking, the group buy premium access through SEO Group Buy Tools delivers clear value at $3–$8 per month.",
       "original": "If you need unlimited daily searches, full content analysis, and ongoing rank tracking, the group buy premium access through SEO Group Buy Tools delivers clear value at $3–$8 per month.",
-      "source": "<p>If you need unlimited daily searches, full content analysis, and ongoing rank tracking, the group buy premium access through SEO Group Buy Tools delivers clear value at $3–$8 per month.</p>"
+      "source": "<p>If you need unlimited daily searches, full content analysis, and ongoing rank tracking, the group buy premium access through SEO Group Buy Tools delivers clear value at $3–$8 per month.</p>",
+      "originalText": "If you need unlimited daily searches, full content analysis, and ongoing rank tracking, the group buy premium access through SEO Group Buy Tools delivers clear value at $3–$8 per month.",
+      "text": "If you need unlimited daily searches, full content analysis, and ongoing rank tracking, the group buy premium access through SEO Group Buy Tools delivers clear value at $3–$8 per month."
     },
     {
       "key": "h2-5",
       "label": "H2 5",
       "content": "Do you need Ubersuggest group buy or is the free version enough?",
       "original": "Do you need Ubersuggest group buy or is the free version enough?",
-      "source": "<h2>Do you need Ubersuggest group buy or is the free version enough?</h2>"
+      "source": "<h2>Do you need Ubersuggest group buy or is the free version enough?</h2>",
+      "originalText": "Do you need Ubersuggest group buy or is the free version enough?",
+      "text": "Do you need Ubersuggest group buy or is the free version enough?"
     },
     {
       "key": "p-20",
       "label": "P 20",
       "content": "Most occasional users can manage with Ubersuggest's free tier of three daily searches, while daily keyword researchers and content creators who need unlimited searches and rank tracking will benefit from the group buy premium access through SEO Group Buy Tools.",
       "original": "Most occasional users can manage with Ubersuggest's free tier of three daily searches, while daily keyword researchers and content creators who need unlimited searches and rank tracking will benefit from the group buy premium access through SEO Group Buy Tools.",
-      "source": "<p class=\"answer-snippet\">Most occasional users can manage with Ubersuggest's free tier of three daily searches, while daily keyword researchers and content creators who need unlimited searches and rank tracking will benefit from the group buy premium access through SEO Group Buy Tools.</p>"
+      "source": "<p class=\"answer-snippet\">Most occasional users can manage with Ubersuggest's free tier of three daily searches, while daily keyword researchers and content creators who need unlimited searches and rank tracking will benefit from the group buy premium access through SEO Group Buy Tools.</p>",
+      "originalText": "Most occasional users can manage with Ubersuggest's free tier of three daily searches, while daily keyword researchers and content creators who need unlimited searches and rank tracking will benefit from the group buy premium access through SEO Group Buy Tools.",
+      "text": "Most occasional users can manage with Ubersuggest's free tier of three daily searches, while daily keyword researchers and content creators who need unlimited searches and rank tracking will benefit from the group buy premium access through SEO Group Buy Tools."
     },
     {
       "key": "p-21",
       "label": "P 21",
       "content": "The free-versus-paid decision for Ubersuggest within SEO Group Buy Tools requires an honest assessment of your keyword research frequency and depth requirements.",
       "original": "The free-versus-paid decision for Ubersuggest within SEO Group Buy Tools requires an honest assessment of your keyword research frequency and depth requirements.",
-      "source": "<p>The free-versus-paid decision for Ubersuggest within SEO Group Buy Tools requires an honest assessment of your keyword research frequency and depth requirements.</p>"
+      "source": "<p>The free-versus-paid decision for Ubersuggest within SEO Group Buy Tools requires an honest assessment of your keyword research frequency and depth requirements.</p>",
+      "originalText": "The free-versus-paid decision for Ubersuggest within SEO Group Buy Tools requires an honest assessment of your keyword research frequency and depth requirements.",
+      "text": "The free-versus-paid decision for Ubersuggest within SEO Group Buy Tools requires an honest assessment of your keyword research frequency and depth requirements."
     },
     {
       "key": "p-22",
       "label": "P 22",
       "content": "Bloggers who publish one to two posts per week and need basic keyword validation for each topic can likely work within the free tier's three daily searches. Each search provides volume, difficulty, and trend data that is sufficient for basic content planning.",
       "original": "Bloggers who publish one to two posts per week and need basic keyword validation for each topic can likely work within the free tier's three daily searches. Each search provides volume, difficulty, and trend data that is sufficient for basic content planning.",
-      "source": "<p>Bloggers who publish one to two posts per week and need basic keyword validation for each topic can likely work within the free tier's three daily searches. Each search provides volume, difficulty, and trend data that is sufficient for basic content planning.</p>"
+      "source": "<p>Bloggers who publish one to two posts per week and need basic keyword validation for each topic can likely work within the free tier's three daily searches. Each search provides volume, difficulty, and trend data that is sufficient for basic content planning.</p>",
+      "originalText": "Bloggers who publish one to two posts per week and need basic keyword validation for each topic can likely work within the free tier's three daily searches. Each search provides volume, difficulty, and trend data that is sufficient for basic content planning.",
+      "text": "Bloggers who publish one to two posts per week and need basic keyword validation for each topic can likely work within the free tier's three daily searches. Each search provides volume, difficulty, and trend data that is sufficient for basic content planning."
     },
     {
       "key": "p-23",
       "label": "P 23",
       "content": "Content marketers and SEO professionals who research keywords for multiple clients or publish daily content will quickly exhaust the free tier's limits.",
       "original": "Content marketers and SEO professionals who research keywords for multiple clients or publish daily content will quickly exhaust the free tier's limits.",
-      "source": "<p>Content marketers and SEO professionals who research keywords for multiple clients or publish daily content will quickly exhaust the free tier's limits.</p>"
+      "source": "<p>Content marketers and SEO professionals who research keywords for multiple clients or publish daily content will quickly exhaust the free tier's limits.</p>",
+      "originalText": "Content marketers and SEO professionals who research keywords for multiple clients or publish daily content will quickly exhaust the free tier's limits.",
+      "text": "Content marketers and SEO professionals who research keywords for multiple clients or publish daily content will quickly exhaust the free tier's limits."
     },
     {
       "key": "p-24",
       "label": "P 24",
       "content": "The group buy premium access through SEO Group Buy Tools removes these restrictions, providing unlimited searches with complete data, content ideas generation, and rank tracking capabilities that the free tier does not include.",
       "original": "The group buy premium access through SEO Group Buy Tools removes these restrictions, providing unlimited searches with complete data, content ideas generation, and rank tracking capabilities that the free tier does not include.",
-      "source": "<p>The group buy premium access through SEO Group Buy Tools removes these restrictions, providing unlimited searches with complete data, content ideas generation, and rank tracking capabilities that the free tier does not include.</p>"
+      "source": "<p>The group buy premium access through SEO Group Buy Tools removes these restrictions, providing unlimited searches with complete data, content ideas generation, and rank tracking capabilities that the free tier does not include.</p>",
+      "originalText": "The group buy premium access through SEO Group Buy Tools removes these restrictions, providing unlimited searches with complete data, content ideas generation, and rank tracking capabilities that the free tier does not include.",
+      "text": "The group buy premium access through SEO Group Buy Tools removes these restrictions, providing unlimited searches with complete data, content ideas generation, and rank tracking capabilities that the free tier does not include."
     },
     {
       "key": "p-25",
       "label": "P 25",
       "content": "The practical recommendation within SEO Group Buy Tools is to start with the free tier, track your actual usage for two weeks, and upgrade to group buy premium only if you consistently hit the daily search limits.",
       "original": "The practical recommendation within SEO Group Buy Tools is to start with the free tier, track your actual usage for two weeks, and upgrade to group buy premium only if you consistently hit the daily search limits.",
-      "source": "<p>The practical recommendation within SEO Group Buy Tools is to start with the free tier, track your actual usage for two weeks, and upgrade to group buy premium only if you consistently hit the daily search limits.</p>"
+      "source": "<p>The practical recommendation within SEO Group Buy Tools is to start with the free tier, track your actual usage for two weeks, and upgrade to group buy premium only if you consistently hit the daily search limits.</p>",
+      "originalText": "The practical recommendation within SEO Group Buy Tools is to start with the free tier, track your actual usage for two weeks, and upgrade to group buy premium only if you consistently hit the daily search limits.",
+      "text": "The practical recommendation within SEO Group Buy Tools is to start with the free tier, track your actual usage for two weeks, and upgrade to group buy premium only if you consistently hit the daily search limits."
     },
     {
       "key": "p-26",
       "label": "P 26",
       "content": "This approach ensures you pay only when the free tier demonstrably constrains your workflow, avoiding unnecessary spending on features you may not fully utilize.",
       "original": "This approach ensures you pay only when the free tier demonstrably constrains your workflow, avoiding unnecessary spending on features you may not fully utilize.",
-      "source": "<p>This approach ensures you pay only when the free tier demonstrably constrains your workflow, avoiding unnecessary spending on features you may not fully utilize.</p>"
+      "source": "<p>This approach ensures you pay only when the free tier demonstrably constrains your workflow, avoiding unnecessary spending on features you may not fully utilize.</p>",
+      "originalText": "This approach ensures you pay only when the free tier demonstrably constrains your workflow, avoiding unnecessary spending on features you may not fully utilize.",
+      "text": "This approach ensures you pay only when the free tier demonstrably constrains your workflow, avoiding unnecessary spending on features you may not fully utilize."
     },
     {
       "key": "h2-6",
       "label": "H2 6",
       "content": "References",
       "original": "References",
-      "source": "<h2>References</h2>"
+      "source": "<h2>References</h2>",
+      "originalText": "References",
+      "text": "References"
     },
     {
       "key": "li-16",
       "label": "LI 16",
       "content": "Ubersuggest official pricing — neilpatel.com/ubersuggest — Verified June 2026",
       "original": "Ubersuggest official pricing — neilpatel.com/ubersuggest — Verified June 2026",
-      "source": "<li>Ubersuggest official pricing — neilpatel.com/ubersuggest — Verified June 2026</li>"
+      "source": "<li>Ubersuggest official pricing — neilpatel.com/ubersuggest — Verified June 2026</li>",
+      "originalText": "Ubersuggest official pricing — neilpatel.com/ubersuggest — Verified June 2026",
+      "text": "Ubersuggest official pricing — neilpatel.com/ubersuggest — Verified June 2026"
     },
     {
       "key": "li-17",
       "label": "LI 17",
       "content": "Ubersuggest free tier features — neilpatel.com/ubersuggest/pricing — Verified June 2026",
       "original": "Ubersuggest free tier features — neilpatel.com/ubersuggest/pricing — Verified June 2026",
-      "source": "<li>Ubersuggest free tier features — neilpatel.com/ubersuggest/pricing — Verified June 2026</li>"
+      "source": "<li>Ubersuggest free tier features — neilpatel.com/ubersuggest/pricing — Verified June 2026</li>",
+      "originalText": "Ubersuggest free tier features — neilpatel.com/ubersuggest/pricing — Verified June 2026",
+      "text": "Ubersuggest free tier features — neilpatel.com/ubersuggest/pricing — Verified June 2026"
     },
     {
       "key": "li-18",
       "label": "LI 18",
       "content": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026",
       "original": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026",
-      "source": "<li>Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026</li>"
+      "source": "<li>Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026</li>",
+      "originalText": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026",
+      "text": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026"
     },
     {
       "key": "h2-7",
       "label": "H2 7",
       "content": "Available SEO Tools in Group Buy",
       "original": "Available SEO Tools in Group Buy",
-      "source": "<h2>Available SEO Tools in Group Buy</h2>"
+      "source": "<h2>Available SEO Tools in Group Buy</h2>",
+      "originalText": "Available SEO Tools in Group Buy",
+      "text": "Available SEO Tools in Group Buy"
     },
     {
       "key": "h4-1",
       "label": "H4 1",
       "content": "SEMrush Group Buy",
       "original": "SEMrush Group Buy",
-      "source": "<h4>SEMrush Group Buy</h4>"
+      "source": "<h4>SEMrush Group Buy</h4>",
+      "originalText": "SEMrush Group Buy",
+      "text": "SEMrush Group Buy"
     },
     {
       "key": "p-27",
       "label": "P 27",
       "content": "Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...",
       "original": "Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...",
-      "source": "<p>Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...</p>"
+      "source": "<p>Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...</p>",
+      "originalText": "Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...",
+      "text": "Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi..."
     },
     {
       "key": "h4-2",
       "label": "H4 2",
       "content": "Ahrefs Group Buy",
       "original": "Ahrefs Group Buy",
-      "source": "<h4>Ahrefs Group Buy</h4>"
+      "source": "<h4>Ahrefs Group Buy</h4>",
+      "originalText": "Ahrefs Group Buy",
+      "text": "Ahrefs Group Buy"
     },
     {
       "key": "p-28",
       "label": "P 28",
       "content": "Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...",
       "original": "Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...",
-      "source": "<p>Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...</p>"
+      "source": "<p>Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...</p>",
+      "originalText": "Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...",
+      "text": "Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ..."
     },
     {
       "key": "h4-3",
       "label": "H4 3",
       "content": "Moz Pro Group Buy",
       "original": "Moz Pro Group Buy",
-      "source": "<h4>Moz Pro Group Buy</h4>"
+      "source": "<h4>Moz Pro Group Buy</h4>",
+      "originalText": "Moz Pro Group Buy",
+      "text": "Moz Pro Group Buy"
     },
     {
       "key": "p-29",
       "label": "P 29",
       "content": "Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...",
       "original": "Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...",
-      "source": "<p>Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...</p>"
+      "source": "<p>Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...</p>",
+      "originalText": "Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...",
+      "text": "Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and..."
     },
     {
       "key": "h4-4",
       "label": "H4 4",
       "content": "SpyFu Group Buy",
       "original": "SpyFu Group Buy",
-      "source": "<h4>SpyFu Group Buy</h4>"
+      "source": "<h4>SpyFu Group Buy</h4>",
+      "originalText": "SpyFu Group Buy",
+      "text": "SpyFu Group Buy"
     },
     {
       "key": "p-30",
       "label": "P 30",
       "content": "Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...",
       "original": "Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...",
-      "source": "<p>Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...</p>"
+      "source": "<p>Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...</p>",
+      "originalText": "Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...",
+      "text": "Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp..."
     },
     {
       "key": "h4-5",
       "label": "H4 5",
       "content": "Surfer SEO Group Buy",
       "original": "Surfer SEO Group Buy",
-      "source": "<h4>Surfer SEO Group Buy</h4>"
+      "source": "<h4>Surfer SEO Group Buy</h4>",
+      "originalText": "Surfer SEO Group Buy",
+      "text": "Surfer SEO Group Buy"
     },
     {
       "key": "p-31",
       "label": "P 31",
       "content": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...",
       "original": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...",
-      "source": "<p>Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...</p>"
+      "source": "<p>Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...</p>",
+      "originalText": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...",
+      "text": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt..."
     },
     {
       "key": "h4-6",
       "label": "H4 6",
       "content": "KWFinder Group Buy",
       "original": "KWFinder Group Buy",
-      "source": "<h4>KWFinder Group Buy</h4>"
+      "source": "<h4>KWFinder Group Buy</h4>",
+      "originalText": "KWFinder Group Buy",
+      "text": "KWFinder Group Buy"
     },
     {
       "key": "p-32",
       "label": "P 32",
       "content": "Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...",
       "original": "Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...",
-      "source": "<p>Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...</p>"
+      "source": "<p>Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...</p>",
+      "originalText": "Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...",
+      "text": "Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and..."
     },
     {
       "key": "h4-7",
       "label": "H4 7",
       "content": "Majestic SEO Group Buy",
       "original": "Majestic SEO Group Buy",
-      "source": "<h4>Majestic SEO Group Buy</h4>"
+      "source": "<h4>Majestic SEO Group Buy</h4>",
+      "originalText": "Majestic SEO Group Buy",
+      "text": "Majestic SEO Group Buy"
     },
     {
       "key": "p-33",
       "label": "P 33",
       "content": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....",
       "original": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....",
-      "source": "<p>Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....</p>"
+      "source": "<p>Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....</p>",
+      "originalText": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....",
+      "text": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index...."
     },
     {
       "key": "h4-8",
       "label": "H4 8",
       "content": "Serpstat Group Buy",
       "original": "Serpstat Group Buy",
-      "source": "<h4>Serpstat Group Buy</h4>"
+      "source": "<h4>Serpstat Group Buy</h4>",
+      "originalText": "Serpstat Group Buy",
+      "text": "Serpstat Group Buy"
     },
     {
       "key": "p-34",
       "label": "P 34",
       "content": "Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...",
       "original": "Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...",
-      "source": "<p>Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...</p>"
+      "source": "<p>Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...</p>",
+      "originalText": "Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...",
+      "text": "Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an..."
     },
     {
       "key": "h4-9",
       "label": "H4 9",
       "content": "Similarweb Group Buy",
       "original": "Similarweb Group Buy",
-      "source": "<h4>Similarweb Group Buy</h4>"
+      "source": "<h4>Similarweb Group Buy</h4>",
+      "originalText": "Similarweb Group Buy",
+      "text": "Similarweb Group Buy"
     },
     {
       "key": "p-35",
       "label": "P 35",
       "content": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...",
       "original": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...",
-      "source": "<p>Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...</p>"
+      "source": "<p>Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...</p>",
+      "originalText": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...",
+      "text": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus..."
     },
     {
       "key": "h4-10",
       "label": "H4 10",
       "content": "BuzzSumo Group Buy",
       "original": "BuzzSumo Group Buy",
-      "source": "<h4>BuzzSumo Group Buy</h4>"
+      "source": "<h4>BuzzSumo Group Buy</h4>",
+      "originalText": "BuzzSumo Group Buy",
+      "text": "BuzzSumo Group Buy"
     },
     {
       "key": "p-36",
       "label": "P 36",
       "content": "Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification, and ...",
       "original": "Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification, and ...",
-      "source": "<p>Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification, and ...</p>"
+      "source": "<p>Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification, and ...</p>",
+      "originalText": "Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification, and ...",
+      "text": "Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification, and ..."
     },
     {
       "key": "h4-11",
       "label": "H4 11",
       "content": "Crazy Egg Group Buy",
       "original": "Crazy Egg Group Buy",
-      "source": "<h4>Crazy Egg Group Buy</h4>"
+      "source": "<h4>Crazy Egg Group Buy</h4>",
+      "originalText": "Crazy Egg Group Buy",
+      "text": "Crazy Egg Group Buy"
     },
     {
       "key": "p-37",
       "label": "P 37",
       "content": "Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...",
       "original": "Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...",
-      "source": "<p>Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...</p>"
+      "source": "<p>Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...</p>",
+      "originalText": "Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...",
+      "text": "Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing..."
     },
     {
       "key": "h3-1",
       "label": "H3 1",
       "content": "Get Started Today",
       "original": "Get Started Today",
-      "source": "<h3>Get Started Today</h3>"
+      "source": "<h3>Get Started Today</h3>",
+      "originalText": "Get Started Today",
+      "text": "Get Started Today"
     },
     {
       "key": "p-38",
       "label": "P 38",
       "content": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
       "original": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
-      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>"
+      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
+      "originalText": "Access 50+ premium SEO tools from $5/month",
+      "text": "Access 50+ premium SEO tools from $5/month"
     },
     {
       "key": "h3-2",
       "label": "H3 2",
       "content": "Tool Categories",
       "original": "Tool Categories",
-      "source": "<h3>Tool Categories</h3>"
+      "source": "<h3>Tool Categories</h3>",
+      "originalText": "Tool Categories",
+      "text": "Tool Categories"
     },
     {
       "key": "li-19",
       "label": "LI 19",
       "content": "<a href=\"../\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
       "original": "<a href=\"../\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
-      "source": "<li><a href=\"../\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>"
+      "source": "<li><a href=\"../\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
+      "originalText": "🔍 SEO Tools 12",
+      "text": "🔍 SEO Tools 12"
     },
     {
       "key": "li-20",
       "label": "LI 20",
       "content": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
+      "originalText": "🎨 Design Tools 5",
+      "text": "🎨 Design Tools 5"
     },
     {
       "key": "li-21",
       "label": "LI 21",
       "content": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
+      "originalText": "🕵️ Spy & Ad Intelligence 5",
+      "text": "🕵️ Spy & Ad Intelligence 5"
     },
     {
       "key": "li-22",
       "label": "LI 22",
       "content": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "✍️ AI Writing Tools 4",
+      "text": "✍️ AI Writing Tools 4"
     },
     {
       "key": "li-23",
       "label": "LI 23",
       "content": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "🛒 E-commerce Tools 4",
+      "text": "🛒 E-commerce Tools 4"
     },
     {
       "key": "li-24",
       "label": "LI 24",
       "content": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "📱 Social Media Tools 3",
+      "text": "📱 Social Media Tools 3"
     },
     {
       "key": "li-25",
       "label": "LI 25",
       "content": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "🎓 Education Tools 3",
+      "text": "🎓 Education Tools 3"
     },
     {
       "key": "h3-3",
       "label": "H3 3",
       "content": "Popular Tools",
       "original": "Popular Tools",
-      "source": "<h3>Popular Tools</h3>"
+      "source": "<h3>Popular Tools</h3>",
+      "originalText": "Popular Tools",
+      "text": "Popular Tools"
     },
     {
       "key": "li-26",
       "label": "LI 26",
       "content": "<a href=\"../semrush/\">SEMrush Group Buy</a>",
       "original": "<a href=\"../semrush/\">SEMrush Group Buy</a>",
-      "source": "<li><a href=\"../semrush/\">SEMrush Group Buy</a></li>"
+      "source": "<li><a href=\"../semrush/\">SEMrush Group Buy</a></li>",
+      "originalText": "SEMrush Group Buy",
+      "text": "SEMrush Group Buy"
     },
     {
       "key": "li-27",
       "label": "LI 27",
       "content": "<a href=\"../ahrefs/\">Ahrefs Group Buy</a>",
       "original": "<a href=\"../ahrefs/\">Ahrefs Group Buy</a>",
-      "source": "<li><a href=\"../ahrefs/\">Ahrefs Group Buy</a></li>"
+      "source": "<li><a href=\"../ahrefs/\">Ahrefs Group Buy</a></li>",
+      "originalText": "Ahrefs Group Buy",
+      "text": "Ahrefs Group Buy"
     },
     {
       "key": "li-28",
       "label": "LI 28",
       "content": "<a href=\"../moz-pro/\">Moz Pro Group Buy</a>",
       "original": "<a href=\"../moz-pro/\">Moz Pro Group Buy</a>",
-      "source": "<li><a href=\"../moz-pro/\">Moz Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../moz-pro/\">Moz Pro Group Buy</a></li>",
+      "originalText": "Moz Pro Group Buy",
+      "text": "Moz Pro Group Buy"
     },
     {
       "key": "li-29",
       "label": "LI 29",
       "content": "<a href=\"../surfer-seo/\">Surfer SEO Group Buy</a>",
       "original": "<a href=\"../surfer-seo/\">Surfer SEO Group Buy</a>",
-      "source": "<li><a href=\"../surfer-seo/\">Surfer SEO Group Buy</a></li>"
+      "source": "<li><a href=\"../surfer-seo/\">Surfer SEO Group Buy</a></li>",
+      "originalText": "Surfer SEO Group Buy",
+      "text": "Surfer SEO Group Buy"
     },
     {
       "key": "li-30",
       "label": "LI 30",
       "content": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
       "original": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
-      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
+      "originalText": "Canva Pro Group Buy",
+      "text": "Canva Pro Group Buy"
     },
     {
       "key": "li-31",
       "label": "LI 31",
       "content": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
       "original": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "h3-4",
       "label": "H3 4",
       "content": "Why Choose Us",
       "original": "Why Choose Us",
-      "source": "<h3>Why Choose Us</h3>"
+      "source": "<h3>Why Choose Us</h3>",
+      "originalText": "Why Choose Us",
+      "text": "Why Choose Us"
     },
     {
       "key": "li-32",
       "label": "LI 32",
       "content": "✓ 50+ Premium Tools",
       "original": "✓ 50+ Premium Tools",
-      "source": "<li>✓ 50+ Premium Tools</li>"
+      "source": "<li>✓ 50+ Premium Tools</li>",
+      "originalText": "✓ 50+ Premium Tools",
+      "text": "✓ 50+ Premium Tools"
     },
     {
       "key": "li-33",
       "label": "LI 33",
       "content": "✓ 90%+ Uptime Guaranteed",
       "original": "✓ 90%+ Uptime Guaranteed",
-      "source": "<li>✓ 90%+ Uptime Guaranteed</li>"
+      "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
+      "originalText": "✓ 90%+ Uptime Guaranteed",
+      "text": "✓ 90%+ Uptime Guaranteed"
     },
     {
       "key": "li-34",
       "label": "LI 34",
       "content": "✓ Instant Access Setup",
       "original": "✓ Instant Access Setup",
-      "source": "<li>✓ Instant Access Setup</li>"
+      "source": "<li>✓ Instant Access Setup</li>",
+      "originalText": "✓ Instant Access Setup",
+      "text": "✓ Instant Access Setup"
     },
     {
       "key": "li-35",
       "label": "LI 35",
       "content": "✓ 24/7 Support",
       "original": "✓ 24/7 Support",
-      "source": "<li>✓ 24/7 Support</li>"
+      "source": "<li>✓ 24/7 Support</li>",
+      "originalText": "✓ 24/7 Support",
+      "text": "✓ 24/7 Support"
     },
     {
       "key": "li-36",
       "label": "LI 36",
       "content": "✓ Secure Payments",
       "original": "✓ Secure Payments",
-      "source": "<li>✓ Secure Payments</li>"
+      "source": "<li>✓ Secure Payments</li>",
+      "originalText": "✓ Secure Payments",
+      "text": "✓ Secure Payments"
     },
     {
       "key": "h2-8",
       "label": "H2 8",
       "content": "Ready to Get Started?",
       "original": "Ready to Get Started?",
-      "source": "<h2>Ready to Get Started?</h2>"
+      "source": "<h2>Ready to Get Started?</h2>",
+      "originalText": "Ready to Get Started?",
+      "text": "Ready to Get Started?"
     },
     {
       "key": "p-39",
       "label": "P 39",
       "content": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
       "original": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
-      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>"
+      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
+      "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+      "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee."
     },
     {
       "key": "p-40",
       "label": "P 40",
       "content": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
       "original": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
-      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>"
+      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>",
+      "originalText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
+      "text": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
     },
     {
       "key": "h4-12",
       "label": "H4 12",
       "content": "Categories",
       "original": "Categories",
-      "source": "<h4>Categories</h4>"
+      "source": "<h4>Categories</h4>",
+      "originalText": "Categories",
+      "text": "Categories"
     },
     {
       "key": "li-37",
       "label": "LI 37",
       "content": "<a href=\"../\">SEO Tools</a>",
       "original": "<a href=\"../\">SEO Tools</a>",
-      "source": "<li><a href=\"../\">SEO Tools</a></li>"
+      "source": "<li><a href=\"../\">SEO Tools</a></li>",
+      "originalText": "SEO Tools",
+      "text": "SEO Tools"
     },
     {
       "key": "li-38",
       "label": "LI 38",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-39",
       "label": "LI 39",
       "content": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
       "original": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>",
+      "originalText": "Spy & Ad Tools",
+      "text": "Spy & Ad Tools"
     },
     {
       "key": "li-40",
       "label": "LI 40",
       "content": "<a href=\"../../ai-writing-tools/\">AI Writing</a>",
       "original": "<a href=\"../../ai-writing-tools/\">AI Writing</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing</a></li>",
+      "originalText": "AI Writing",
+      "text": "AI Writing"
     },
     {
       "key": "li-41",
       "label": "LI 41",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>",
+      "originalText": "E-commerce",
+      "text": "E-commerce"
     },
     {
       "key": "li-42",
       "label": "LI 42",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "h4-13",
       "label": "H4 13",
       "content": "Resources",
       "original": "Resources",
-      "source": "<h4>Resources</h4>"
+      "source": "<h4>Resources</h4>",
+      "originalText": "Resources",
+      "text": "Resources"
     },
     {
       "key": "li-43",
       "label": "LI 43",
       "content": "<a href=\"../../how-it-works/\">How It Works</a>",
       "original": "<a href=\"../../how-it-works/\">How It Works</a>",
-      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>"
+      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>",
+      "originalText": "How It Works",
+      "text": "How It Works"
     },
     {
       "key": "li-44",
       "label": "LI 44",
       "content": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
       "original": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
-      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>"
+      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>",
+      "originalText": "Is It Safe?",
+      "text": "Is It Safe?"
     },
     {
       "key": "li-45",
       "label": "LI 45",
       "content": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
       "original": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
-      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>"
+      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>",
+      "originalText": "Is It Legal?",
+      "text": "Is It Legal?"
     },
     {
       "key": "li-46",
       "label": "LI 46",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-47",
       "label": "LI 47",
       "content": "<a href=\"../../best-providers/\">Best Providers</a>",
       "original": "<a href=\"../../best-providers/\">Best Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>",
+      "originalText": "Best Providers",
+      "text": "Best Providers"
     },
     {
       "key": "li-48",
       "label": "LI 48",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "h4-14",
       "label": "H4 14",
       "content": "Guides",
       "original": "Guides",
-      "source": "<h4>Guides</h4>"
+      "source": "<h4>Guides</h4>",
+      "originalText": "Guides",
+      "text": "Guides"
     },
     {
       "key": "li-49",
       "label": "LI 49",
       "content": "<a href=\"../../guides/keyword-research/\">Keyword Research</a>",
       "original": "<a href=\"../../guides/keyword-research/\">Keyword Research</a>",
-      "source": "<li><a href=\"../../guides/keyword-research/\">Keyword Research</a></li>"
+      "source": "<li><a href=\"../../guides/keyword-research/\">Keyword Research</a></li>",
+      "originalText": "Keyword Research",
+      "text": "Keyword Research"
     },
     {
       "key": "li-50",
       "label": "LI 50",
       "content": "<a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a>",
       "original": "<a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a>",
-      "source": "<li><a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a></li>"
+      "source": "<li><a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a></li>",
+      "originalText": "Backlink Analysis",
+      "text": "Backlink Analysis"
     },
     {
       "key": "li-51",
       "label": "LI 51",
       "content": "<a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a>",
       "original": "<a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a>",
-      "source": "<li><a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a></li>"
+      "source": "<li><a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a></li>",
+      "originalText": "Technical SEO Audit",
+      "text": "Technical SEO Audit"
     },
     {
       "key": "li-52",
       "label": "LI 52",
       "content": "<a href=\"../../guides/content-optimization/\">Content Optimization</a>",
       "original": "<a href=\"../../guides/content-optimization/\">Content Optimization</a>",
-      "source": "<li><a href=\"../../guides/content-optimization/\">Content Optimization</a></li>"
+      "source": "<li><a href=\"../../guides/content-optimization/\">Content Optimization</a></li>",
+      "originalText": "Content Optimization",
+      "text": "Content Optimization"
     },
     {
       "key": "li-53",
       "label": "LI 53",
       "content": "<a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a>",
       "original": "<a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a>",
-      "source": "<li><a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a></li>"
+      "source": "<li><a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a></li>",
+      "originalText": "PPC Research",
+      "text": "PPC Research"
     },
     {
       "key": "li-54",
       "label": "LI 54",
       "content": "<a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a>",
       "original": "<a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a>",
-      "source": "<li><a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a></li>"
+      "source": "<li><a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a></li>",
+      "originalText": "Amazon Selling",
+      "text": "Amazon Selling"
     },
     {
       "key": "h4-15",
       "label": "H4 15",
       "content": "Trust & Safety",
       "original": "Trust & Safety",
-      "source": "<h4>Trust & Safety</h4>"
+      "source": "<h4>Trust & Safety</h4>",
+      "originalText": "Trust & Safety",
+      "text": "Trust & Safety"
     },
     {
       "key": "li-55",
       "label": "LI 55",
       "content": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
       "original": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
-      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>"
+      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>",
+      "originalText": "Are They Legitimate?",
+      "text": "Are They Legitimate?"
     },
     {
       "key": "li-56",
       "label": "LI 56",
       "content": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
       "original": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
-      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>"
+      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>",
+      "originalText": "Choose Provider",
+      "text": "Choose Provider"
     },
     {
       "key": "li-57",
       "label": "LI 57",
       "content": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
       "original": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
-      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>"
+      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>",
+      "originalText": "Avoid Scams",
+      "text": "Avoid Scams"
     },
     {
       "key": "li-58",
       "label": "LI 58",
       "content": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
       "original": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
-      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>"
+      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>",
+      "originalText": "Tool Downtime",
+      "text": "Tool Downtime"
     },
     {
       "key": "li-59",
       "label": "LI 59",
       "content": "<a href=\"../../trust/countries/\">Countries</a>",
       "original": "<a href=\"../../trust/countries/\">Countries</a>",
-      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>"
+      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>",
+      "originalText": "Countries",
+      "text": "Countries"
     },
     {
       "key": "p-41",
       "label": "P 41",
       "content": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
       "original": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
-      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>"
+      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>",
+      "originalText": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms",
+      "text": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms"
+    }
+  ],
+  "links": [
+    {
+      "url": "../../",
+      "originalUrl": "../../",
+      "text": "What Is SEO Group Buy Tools?",
+      "originalText": "What Is SEO Group Buy Tools?",
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools?</a>"
+    },
+    {
+      "url": "../",
+      "originalUrl": "../",
+      "text": "SEO Tools Group Buy",
+      "originalText": "SEO Tools Group Buy",
+      "source": "<a href=\"../\">SEO Tools Group Buy</a>"
+    },
+    {
+      "url": "../kwfinder/",
+      "originalUrl": "../kwfinder/",
+      "text": "KWFinder Group Buy",
+      "originalText": "KWFinder Group Buy",
+      "source": "<a href=\"../kwfinder/\">KWFinder Group Buy</a>"
+    },
+    {
+      "url": "../../how-it-works/",
+      "originalUrl": "../../how-it-works/",
+      "text": "How Does SEO Group Buy Tools Work?",
+      "originalText": "How Does SEO Group Buy Tools Work?",
+      "source": "<a href=\"../../how-it-works/\">How Does SEO Group Buy Tools Work?</a>"
+    },
+    {
+      "url": "../../compare/free-vs-group-buy/",
+      "originalUrl": "../../compare/free-vs-group-buy/",
+      "text": "Free vs. Paid SEO Tools Comparison",
+      "originalText": "Free vs. Paid SEO Tools Comparison",
+      "source": "<a href=\"../../compare/free-vs-group-buy/\">Free vs. Paid SEO Tools Comparison</a>"
+    },
+    {
+      "url": "../../pricing/",
+      "originalUrl": "../../pricing/",
+      "text": "SEO Group Buy Tools Pricing",
+      "originalText": "SEO Group Buy Tools Pricing",
+      "source": "<a href=\"../../pricing/\">SEO Group Buy Tools Pricing</a>"
+    },
+    {
+      "url": "../../for-beginners/",
+      "originalUrl": "../../for-beginners/",
+      "text": "SEO Group Buy Tools for Beginners",
+      "originalText": "SEO Group Buy Tools for Beginners",
+      "source": "<a href=\"../../for-beginners/\">SEO Group Buy Tools for Beginners</a>"
+    },
+    {
+      "url": "../../compare/free-vs-group-buy/",
+      "originalUrl": "../../compare/free-vs-group-buy/",
+      "text": "Free vs. Paid SEO Tools Comparison",
+      "originalText": "Free vs. Paid SEO Tools Comparison",
+      "source": "<a href=\"../../compare/free-vs-group-buy/\">Free vs. Paid SEO Tools Comparison</a>"
+    },
+    {
+      "url": "../../for-freelancers/",
+      "originalUrl": "../../for-freelancers/",
+      "text": "SEO Group Buy Tools for Freelancers",
+      "originalText": "SEO Group Buy Tools for Freelancers",
+      "source": "<a href=\"../../for-freelancers/\">SEO Group Buy Tools for Freelancers</a>"
+    },
+    {
+      "url": "../../pricing/",
+      "originalUrl": "../../pricing/",
+      "text": "SEO Group Buy Tools Pricing",
+      "originalText": "SEO Group Buy Tools Pricing",
+      "source": "<a href=\"../../pricing/\">SEO Group Buy Tools Pricing</a>"
+    }
+  ],
+  "images": [
+    {
+      "source": "<img src=\"../../assets/images/tools/semrush-com.png\" alt=\"SEMrush logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/semrush-com.png",
+      "originalSrc": "../../assets/images/tools/semrush-com.png",
+      "alt": "SEMrush logo",
+      "originalAlt": "SEMrush logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/ahrefs-com.png\" alt=\"Ahrefs logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/ahrefs-com.png",
+      "originalSrc": "../../assets/images/tools/ahrefs-com.png",
+      "alt": "Ahrefs logo",
+      "originalAlt": "Ahrefs logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/moz-com.png\" alt=\"Moz Pro logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/moz-com.png",
+      "originalSrc": "../../assets/images/tools/moz-com.png",
+      "alt": "Moz Pro logo",
+      "originalAlt": "Moz Pro logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/spyfu-com.png\" alt=\"SpyFu logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/spyfu-com.png",
+      "originalSrc": "../../assets/images/tools/spyfu-com.png",
+      "alt": "SpyFu logo",
+      "originalAlt": "SpyFu logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/surfer-seo.png\" alt=\"Surfer SEO logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/surfer-seo.png",
+      "originalSrc": "../../assets/images/tools/surfer-seo.png",
+      "alt": "Surfer SEO logo",
+      "originalAlt": "Surfer SEO logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/kwfinder-com.png\" alt=\"KWFinder logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/kwfinder-com.png",
+      "originalSrc": "../../assets/images/tools/kwfinder-com.png",
+      "alt": "KWFinder logo",
+      "originalAlt": "KWFinder logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/majestic-com.png\" alt=\"Majestic SEO logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/majestic-com.png",
+      "originalSrc": "../../assets/images/tools/majestic-com.png",
+      "alt": "Majestic SEO logo",
+      "originalAlt": "Majestic SEO logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/serpstat-com.png\" alt=\"Serpstat logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/serpstat-com.png",
+      "originalSrc": "../../assets/images/tools/serpstat-com.png",
+      "alt": "Serpstat logo",
+      "originalAlt": "Serpstat logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/similarweb-com.png\" alt=\"Similarweb logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/similarweb-com.png",
+      "originalSrc": "../../assets/images/tools/similarweb-com.png",
+      "alt": "Similarweb logo",
+      "originalAlt": "Similarweb logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/buzzsumo-com.png\" alt=\"BuzzSumo logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/buzzsumo-com.png",
+      "originalSrc": "../../assets/images/tools/buzzsumo-com.png",
+      "alt": "BuzzSumo logo",
+      "originalAlt": "BuzzSumo logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/crazyegg-com.png",
+      "originalSrc": "../../assets/images/tools/crazyegg-com.png",
+      "alt": "Crazy Egg logo",
+      "originalAlt": "Crazy Egg logo"
+    }
+  ],
+  "editorContent": [
+    {
+      "text": "What Is Ubersuggest Group Buy Through SEO Group Buy Tools?",
+      "originalText": "What Is Ubersuggest Group Buy Through SEO Group Buy Tools?",
+      "source": "<h2>What Is Ubersuggest Group Buy Through SEO Group Buy Tools?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "SEO Group Buy Tools provide shared access to Ubersuggest by Neil Patel, a keyword research and content ideation tool that offers a generous free tier alongside its premium features. The official Ubersuggest subscription costs $29 per month, while group buy access through SEO Group Buy Tools costs $3–$8 per month.",
+      "originalText": "SEO Group Buy Tools provide shared access to Ubersuggest by Neil Patel, a keyword research and content ideation tool that offers a generous free tier alongside its premium features. The official Ubersuggest subscription costs $29 per month, while group buy access through SEO Group Buy Tools costs $3–$8 per month.",
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to Ubersuggest by Neil Patel, a keyword research and content ideation tool that offers a generous free tier alongside its premium features. The official Ubersuggest subscription costs $29 per month, while group buy access through SEO Group Buy Tools costs $3–$8 per month.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "However, because Ubersuggest&#x27;s free tier already provides limited daily searches, users should carefully evaluate whether the group buy premium access adds sufficient value for their specific usage patterns.",
+      "originalText": "However, because Ubersuggest&#x27;s free tier already provides limited daily searches, users should carefully evaluate whether the group buy premium access adds sufficient value for their specific usage patterns.",
+      "source": "<p>However, because Ubersuggest&#x27;s free tier already provides limited daily searches, users should carefully evaluate whether the group buy premium access adds sufficient value for their specific usage patterns.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "What is Ubersuggest group buy?",
+      "originalText": "What is Ubersuggest group buy?",
+      "source": "<h2>What is Ubersuggest group buy?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Ubersuggest group buy through SEO Group Buy Tools provides shared access to Ubersuggest's premium keyword research, content ideas, site audit, and competitor analysis features for $3–$8 per month, though the tool's free tier may suffice for occasional users.",
+      "originalText": "Ubersuggest group buy through SEO Group Buy Tools provides shared access to Ubersuggest's premium keyword research, content ideas, site audit, and competitor analysis features for $3–$8 per month, though the tool's free tier may suffice for occasional users.",
+      "source": "<p class=\"answer-snippet\">Ubersuggest group buy through SEO Group Buy Tools provides shared access to Ubersuggest's premium keyword research, content ideas, site audit, and competitor analysis features for $3–$8 per month, though the tool's free tier may suffice for occasional users.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Ubersuggest group buy within SEO Group Buy Tools delivers access to the premium version of Neil Patel's keyword research and SEO analysis platform.",
+      "originalText": "Ubersuggest group buy within SEO Group Buy Tools delivers access to the premium version of Neil Patel's keyword research and SEO analysis platform.",
+      "source": "<p>Ubersuggest group buy within SEO Group Buy Tools delivers access to the premium version of Neil Patel's keyword research and SEO analysis platform.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The tool is designed for beginners and small business owners who need straightforward keyword data, content ideas, and basic site auditing without the complexity of enterprise SEO platforms.",
+      "originalText": "The tool is designed for beginners and small business owners who need straightforward keyword data, content ideas, and basic site auditing without the complexity of enterprise SEO platforms.",
+      "source": "<p>The tool is designed for beginners and small business owners who need straightforward keyword data, content ideas, and basic site auditing without the complexity of enterprise SEO platforms.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The unique consideration with Ubersuggest within SEO Group Buy Tools is that the platform offers a genuinely useful free tier with three daily keyword searches and limited results.",
+      "originalText": "The unique consideration with Ubersuggest within SEO Group Buy Tools is that the platform offers a genuinely useful free tier with three daily keyword searches and limited results.",
+      "source": "<p>The unique consideration with Ubersuggest within SEO Group Buy Tools is that the platform offers a genuinely useful free tier with three daily keyword searches and limited results.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "This free access means users should compare what the group buy premium version adds before committing to a paid subscription. For users who need more than three daily searches and full data exports, the group buy premium access provides meaningful additional value.",
+      "originalText": "This free access means users should compare what the group buy premium version adds before committing to a paid subscription. For users who need more than three daily searches and full data exports, the group buy premium access provides meaningful additional value.",
+      "source": "<p>This free access means users should compare what the group buy premium version adds before committing to a paid subscription. For users who need more than three daily searches and full data exports, the group buy premium access provides meaningful additional value.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "What Ubersuggest features are available in group buy?",
+      "originalText": "What Ubersuggest features are available in group buy?",
+      "source": "<h2>What Ubersuggest features are available in group buy?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Ubersuggest group buy through SEO Group Buy Tools provides unlimited keyword suggestions, content ideas, site audit, backlink data, traffic analyzer, and rank tracking beyond the free tier's three daily searches and limited results.",
+      "originalText": "Ubersuggest group buy through SEO Group Buy Tools provides unlimited keyword suggestions, content ideas, site audit, backlink data, traffic analyzer, and rank tracking beyond the free tier's three daily searches and limited results.",
+      "source": "<p class=\"answer-snippet\">Ubersuggest group buy through SEO Group Buy Tools provides unlimited keyword suggestions, content ideas, site audit, backlink data, traffic analyzer, and rank tracking beyond the free tier's three daily searches and limited results.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The premium Ubersuggest features available through SEO Group Buy Tools expand significantly on the free tier's limitations. Keyword Suggestions provide unlimited searches with full volume, difficulty, and trend data, compared to the free tier's three daily searches with truncated results.",
+      "originalText": "The premium Ubersuggest features available through SEO Group Buy Tools expand significantly on the free tier's limitations. Keyword Suggestions provide unlimited searches with full volume, difficulty, and trend data, compared to the free tier's three daily searches with truncated results.",
+      "source": "<p>The premium Ubersuggest features available through SEO Group Buy Tools expand significantly on the free tier's limitations. Keyword Suggestions provide unlimited searches with full volume, difficulty, and trend data, compared to the free tier's three daily searches with truncated results.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Content Ideas generates topic recommendations based on competing pages that rank for your target keywords, including social share counts and estimated visit data. Site Audit crawls your website for technical SEO issues and provides prioritized fix recommendations with estimated traffic impact.",
+      "originalText": "Content Ideas generates topic recommendations based on competing pages that rank for your target keywords, including social share counts and estimated visit data. Site Audit crawls your website for technical SEO issues and provides prioritized fix recommendations with estimated traffic impact.",
+      "source": "<p>Content Ideas generates topic recommendations based on competing pages that rank for your target keywords, including social share counts and estimated visit data. Site Audit crawls your website for technical SEO issues and provides prioritized fix recommendations with estimated traffic impact.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Backlink Data shows linking domains, anchor text, and domain authority of linking sites. Traffic Analyzer estimates any domain's organic traffic and top-performing pages. Rank Tracking monitors keyword positions over time with weekly updates and competitor comparisons.",
+      "originalText": "Backlink Data shows linking domains, anchor text, and domain authority of linking sites. Traffic Analyzer estimates any domain's organic traffic and top-performing pages. Rank Tracking monitors keyword positions over time with weekly updates and competitor comparisons.",
+      "source": "<p>Backlink Data shows linking domains, anchor text, and domain authority of linking sites. Traffic Analyzer estimates any domain's organic traffic and top-performing pages. Rank Tracking monitors keyword positions over time with weekly updates and competitor comparisons.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The critical evaluation for users within SEO Group Buy Tools is whether these premium features justify the monthly cost when a free alternative exists. Users who perform keyword research daily and need comprehensive data will find clear value in the group buy upgrade.",
+      "originalText": "The critical evaluation for users within SEO Group Buy Tools is whether these premium features justify the monthly cost when a free alternative exists. Users who perform keyword research daily and need comprehensive data will find clear value in the group buy upgrade.",
+      "source": "<p>The critical evaluation for users within SEO Group Buy Tools is whether these premium features justify the monthly cost when a free alternative exists. Users who perform keyword research daily and need comprehensive data will find clear value in the group buy upgrade.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Users who research keywords occasionally may find the free tier adequate for their needs without the shared-access trade-offs.",
+      "originalText": "Users who research keywords occasionally may find the free tier adequate for their needs without the shared-access trade-offs.",
+      "source": "<p>Users who research keywords occasionally may find the free tier adequate for their needs without the shared-access trade-offs.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "How much does Ubersuggest group buy cost?",
+      "originalText": "How much does Ubersuggest group buy cost?",
+      "source": "<h2>How much does Ubersuggest group buy cost?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Ubersuggest group buy through SEO Group Buy Tools costs $3–$8 per month compared to official pricing of $29–$99 per month, but the tool's generous free tier means the group buy savings must be weighed against the free alternative's adequacy.",
+      "originalText": "Ubersuggest group buy through SEO Group Buy Tools costs $3–$8 per month compared to official pricing of $29–$99 per month, but the tool's generous free tier means the group buy savings must be weighed against the free alternative's adequacy.",
+      "source": "<p class=\"answer-snippet\">Ubersuggest group buy through SEO Group Buy Tools costs $3–$8 per month compared to official pricing of $29–$99 per month, but the tool's generous free tier means the group buy savings must be weighed against the free alternative's adequacy.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Ubersuggest group buy pricing through SEO Group Buy Tools reflects the tool's already affordable positioning. The official Individual plan costs $29 per month, Business costs $49 per month, and Enterprise costs $99 per month.",
+      "originalText": "Ubersuggest group buy pricing through SEO Group Buy Tools reflects the tool's already affordable positioning. The official Individual plan costs $29 per month, Business costs $49 per month, and Enterprise costs $99 per month.",
+      "source": "<p>Ubersuggest group buy pricing through SEO Group Buy Tools reflects the tool's already affordable positioning. The official Individual plan costs $29 per month, Business costs $49 per month, and Enterprise costs $99 per month.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Group buy access at $3–$8 per month delivers 72–90% savings over individual subscriptions, but the value equation must account for the free tier availability. For users within SEO Group Buy Tools, the decision comes down to search volume needs.",
+      "originalText": "Group buy access at $3–$8 per month delivers 72–90% savings over individual subscriptions, but the value equation must account for the free tier availability. For users within SEO Group Buy Tools, the decision comes down to search volume needs.",
+      "source": "<p>Group buy access at $3–$8 per month delivers 72–90% savings over individual subscriptions, but the value equation must account for the free tier availability. For users within SEO Group Buy Tools, the decision comes down to search volume needs.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "If you run three or fewer keyword searches per day and do not need rank tracking or comprehensive backlink data, the free tier provides adequate functionality at zero cost.",
+      "originalText": "If you run three or fewer keyword searches per day and do not need rank tracking or comprehensive backlink data, the free tier provides adequate functionality at zero cost.",
+      "source": "<p>If you run three or fewer keyword searches per day and do not need rank tracking or comprehensive backlink data, the free tier provides adequate functionality at zero cost.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "If you need unlimited daily searches, full content analysis, and ongoing rank tracking, the group buy premium access through SEO Group Buy Tools delivers clear value at $3–$8 per month.",
+      "originalText": "If you need unlimited daily searches, full content analysis, and ongoing rank tracking, the group buy premium access through SEO Group Buy Tools delivers clear value at $3–$8 per month.",
+      "source": "<p>If you need unlimited daily searches, full content analysis, and ongoing rank tracking, the group buy premium access through SEO Group Buy Tools delivers clear value at $3–$8 per month.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Do you need Ubersuggest group buy or is the free version enough?",
+      "originalText": "Do you need Ubersuggest group buy or is the free version enough?",
+      "source": "<h2>Do you need Ubersuggest group buy or is the free version enough?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Most occasional users can manage with Ubersuggest's free tier of three daily searches, while daily keyword researchers and content creators who need unlimited searches and rank tracking will benefit from the group buy premium access through SEO Group Buy Tools.",
+      "originalText": "Most occasional users can manage with Ubersuggest's free tier of three daily searches, while daily keyword researchers and content creators who need unlimited searches and rank tracking will benefit from the group buy premium access through SEO Group Buy Tools.",
+      "source": "<p class=\"answer-snippet\">Most occasional users can manage with Ubersuggest's free tier of three daily searches, while daily keyword researchers and content creators who need unlimited searches and rank tracking will benefit from the group buy premium access through SEO Group Buy Tools.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The free-versus-paid decision for Ubersuggest within SEO Group Buy Tools requires an honest assessment of your keyword research frequency and depth requirements.",
+      "originalText": "The free-versus-paid decision for Ubersuggest within SEO Group Buy Tools requires an honest assessment of your keyword research frequency and depth requirements.",
+      "source": "<p>The free-versus-paid decision for Ubersuggest within SEO Group Buy Tools requires an honest assessment of your keyword research frequency and depth requirements.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Bloggers who publish one to two posts per week and need basic keyword validation for each topic can likely work within the free tier's three daily searches. Each search provides volume, difficulty, and trend data that is sufficient for basic content planning.",
+      "originalText": "Bloggers who publish one to two posts per week and need basic keyword validation for each topic can likely work within the free tier's three daily searches. Each search provides volume, difficulty, and trend data that is sufficient for basic content planning.",
+      "source": "<p>Bloggers who publish one to two posts per week and need basic keyword validation for each topic can likely work within the free tier's three daily searches. Each search provides volume, difficulty, and trend data that is sufficient for basic content planning.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Content marketers and SEO professionals who research keywords for multiple clients or publish daily content will quickly exhaust the free tier's limits.",
+      "originalText": "Content marketers and SEO professionals who research keywords for multiple clients or publish daily content will quickly exhaust the free tier's limits.",
+      "source": "<p>Content marketers and SEO professionals who research keywords for multiple clients or publish daily content will quickly exhaust the free tier's limits.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The group buy premium access through SEO Group Buy Tools removes these restrictions, providing unlimited searches with complete data, content ideas generation, and rank tracking capabilities that the free tier does not include.",
+      "originalText": "The group buy premium access through SEO Group Buy Tools removes these restrictions, providing unlimited searches with complete data, content ideas generation, and rank tracking capabilities that the free tier does not include.",
+      "source": "<p>The group buy premium access through SEO Group Buy Tools removes these restrictions, providing unlimited searches with complete data, content ideas generation, and rank tracking capabilities that the free tier does not include.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The practical recommendation within SEO Group Buy Tools is to start with the free tier, track your actual usage for two weeks, and upgrade to group buy premium only if you consistently hit the daily search limits.",
+      "originalText": "The practical recommendation within SEO Group Buy Tools is to start with the free tier, track your actual usage for two weeks, and upgrade to group buy premium only if you consistently hit the daily search limits.",
+      "source": "<p>The practical recommendation within SEO Group Buy Tools is to start with the free tier, track your actual usage for two weeks, and upgrade to group buy premium only if you consistently hit the daily search limits.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "This approach ensures you pay only when the free tier demonstrably constrains your workflow, avoiding unnecessary spending on features you may not fully utilize.",
+      "originalText": "This approach ensures you pay only when the free tier demonstrably constrains your workflow, avoiding unnecessary spending on features you may not fully utilize.",
+      "source": "<p>This approach ensures you pay only when the free tier demonstrably constrains your workflow, avoiding unnecessary spending on features you may not fully utilize.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "References",
+      "originalText": "References",
+      "source": "<h2>References</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Ubersuggest official pricing — neilpatel.com/ubersuggest — Verified June 2026",
+      "originalText": "Ubersuggest official pricing — neilpatel.com/ubersuggest — Verified June 2026",
+      "source": "<li>Ubersuggest official pricing — neilpatel.com/ubersuggest — Verified June 2026</li>",
+      "tag": "li"
+    },
+    {
+      "text": "Ubersuggest free tier features — neilpatel.com/ubersuggest/pricing — Verified June 2026",
+      "originalText": "Ubersuggest free tier features — neilpatel.com/ubersuggest/pricing — Verified June 2026",
+      "source": "<li>Ubersuggest free tier features — neilpatel.com/ubersuggest/pricing — Verified June 2026</li>",
+      "tag": "li"
+    },
+    {
+      "text": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026",
+      "originalText": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026",
+      "source": "<li>Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026</li>",
+      "tag": "li"
+    },
+    {
+      "text": "Available SEO Tools in Group Buy",
+      "originalText": "Available SEO Tools in Group Buy",
+      "source": "<h2>Available SEO Tools in Group Buy</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "SEMrush Group Buy",
+      "originalText": "SEMrush Group Buy",
+      "source": "<h4>SEMrush Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...",
+      "originalText": "Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...",
+      "source": "<p>Access SEMrush group buy through SEO Group Buy Tools with full features including Keyword Magic Tool, Site Audit, Positi...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Ahrefs Group Buy",
+      "originalText": "Ahrefs Group Buy",
+      "source": "<h4>Ahrefs Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...",
+      "originalText": "Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...",
+      "source": "<p>Get Ahrefs group buy access through SEO Group Buy Tools to Site Explorer, Keywords Explorer, Content Explorer, and Site ...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Moz Pro Group Buy",
+      "originalText": "Moz Pro Group Buy",
+      "source": "<h4>Moz Pro Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...",
+      "originalText": "Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...",
+      "source": "<p>Access Moz Pro group buy through SEO Group Buy Tools with Domain Authority checker, Link Explorer, Keyword Explorer, and...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "SpyFu Group Buy",
+      "originalText": "SpyFu Group Buy",
+      "source": "<h4>SpyFu Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...",
+      "originalText": "Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...",
+      "source": "<p>Access SpyFu group buy through SEO Group Buy Tools to spy on competitor keywords, PPC ad history, and SEO rankings. Comp...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Surfer SEO Group Buy",
+      "originalText": "Surfer SEO Group Buy",
+      "source": "<h4>Surfer SEO Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...",
+      "originalText": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...",
+      "source": "<p>Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Opt...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "KWFinder Group Buy",
+      "originalText": "KWFinder Group Buy",
+      "source": "<h4>KWFinder Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...",
+      "originalText": "Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...",
+      "source": "<p>Access KWFinder group buy through SEO Group Buy Tools for long-tail keyword research with search volume, difficulty, and...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Majestic SEO Group Buy",
+      "originalText": "Majestic SEO Group Buy",
+      "source": "<h4>Majestic SEO Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....",
+      "originalText": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....",
+      "source": "<p>Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index....</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Serpstat Group Buy",
+      "originalText": "Serpstat Group Buy",
+      "source": "<h4>Serpstat Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...",
+      "originalText": "Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...",
+      "source": "<p>Access Serpstat group buy through SEO Group Buy Tools for rank tracking, keyword research, site audit, and competitor an...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Similarweb Group Buy",
+      "originalText": "Similarweb Group Buy",
+      "source": "<h4>Similarweb Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...",
+      "originalText": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...",
+      "source": "<p>Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and indus...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "BuzzSumo Group Buy",
+      "originalText": "BuzzSumo Group Buy",
+      "source": "<h4>BuzzSumo Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification, and ...",
+      "originalText": "Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification, and ...",
+      "source": "<p>Access BuzzSumo for $5-$15/month through SEO Group Buy Tools. Discover content research, influencer identification, and ...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Crazy Egg Group Buy",
+      "originalText": "Crazy Egg Group Buy",
+      "source": "<h4>Crazy Egg Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...",
+      "originalText": "Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...",
+      "source": "<p>Access Crazy Egg for $3-$8/month through SEO Group Buy Tools. Get heatmaps, click tracking, scroll maps, and A/B testing...</p>",
+      "tag": "p"
     }
   ]
 }

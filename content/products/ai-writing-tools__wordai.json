@@ -13,798 +13,1026 @@
       "label": "LI 1",
       "content": "<a href=\"../../\">Home</a>",
       "original": "<a href=\"../../\">Home</a>",
-      "source": "<li><a href=\"../../\">Home</a></li>"
+      "source": "<li><a href=\"../../\">Home</a></li>",
+      "originalText": "Home",
+      "text": "Home"
     },
     {
       "key": "li-2",
       "label": "LI 2",
       "content": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "Tools ▾ SEO Tools",
+      "text": "Tools ▾ SEO Tools"
     },
     {
       "key": "li-3",
       "label": "LI 3",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-4",
       "label": "LI 4",
       "content": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
       "original": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>",
+      "originalText": "Spy & Ad Intelligence",
+      "text": "Spy & Ad Intelligence"
     },
     {
       "key": "li-5",
       "label": "LI 5",
       "content": "<a href=\"../\">AI Writing Tools</a>",
       "original": "<a href=\"../\">AI Writing Tools</a>",
-      "source": "<li><a href=\"../\">AI Writing Tools</a></li>"
+      "source": "<li><a href=\"../\">AI Writing Tools</a></li>",
+      "originalText": "AI Writing Tools",
+      "text": "AI Writing Tools"
     },
     {
       "key": "li-6",
       "label": "LI 6",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>",
+      "originalText": "E-commerce Tools",
+      "text": "E-commerce Tools"
     },
     {
       "key": "li-7",
       "label": "LI 7",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "li-8",
       "label": "LI 8",
       "content": "<a href=\"../../education-tools/\">Education</a>",
       "original": "<a href=\"../../education-tools/\">Education</a>",
-      "source": "<li><a href=\"../../education-tools/\">Education</a></li>"
+      "source": "<li><a href=\"../../education-tools/\">Education</a></li>",
+      "originalText": "Education",
+      "text": "Education"
     },
     {
       "key": "li-9",
       "label": "LI 9",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "li-10",
       "label": "LI 10",
       "content": "<a href=\"../../best-providers/\">Providers</a>",
       "original": "<a href=\"../../best-providers/\">Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>",
+      "originalText": "Providers",
+      "text": "Providers"
     },
     {
       "key": "li-11",
       "label": "LI 11",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-12",
       "label": "LI 12",
       "content": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
       "original": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
-      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>"
+      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>",
+      "originalText": "Get Started",
+      "text": "Get Started"
     },
     {
       "key": "h1-1",
       "label": "H1 1",
       "content": "WordAI Group Buy",
       "original": "WordAI Group Buy",
-      "source": "<h1>WordAI Group Buy</h1>"
+      "source": "<h1>WordAI Group Buy</h1>",
+      "originalText": "WordAI Group Buy",
+      "text": "WordAI Group Buy"
     },
     {
       "key": "p-1",
       "label": "P 1",
       "content": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction of $57/month official pricing. Compare features, reliability…",
       "original": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction of $57/month official pricing. Compare features, reliability…",
-      "source": "<p class=\"product-hero-tagline\">Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction of $57/month official pricing. Compare features, reliability…</p>"
+      "source": "<p class=\"product-hero-tagline\">Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction of $57/month official pricing. Compare features, reliability…</p>",
+      "originalText": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction of $57/month official pricing. Compare features, reliability…",
+      "text": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction of $57/month official pricing. Compare features, reliability…"
     },
     {
       "key": "li-13",
       "label": "LI 13",
       "content": "Instant Access",
       "original": "Instant Access",
-      "source": "<li>Instant Access</li>"
+      "source": "<li>Instant Access</li>",
+      "originalText": "Instant Access",
+      "text": "Instant Access"
     },
     {
       "key": "li-14",
       "label": "LI 14",
       "content": "24/7 WhatsApp Support",
       "original": "24/7 WhatsApp Support",
-      "source": "<li>24/7 WhatsApp Support</li>"
+      "source": "<li>24/7 WhatsApp Support</li>",
+      "originalText": "24/7 WhatsApp Support",
+      "text": "24/7 WhatsApp Support"
     },
     {
       "key": "li-15",
       "label": "LI 15",
       "content": "Secure Payment",
       "original": "Secure Payment",
-      "source": "<li>Secure Payment</li>"
+      "source": "<li>Secure Payment</li>",
+      "originalText": "Secure Payment",
+      "text": "Secure Payment"
     },
     {
       "key": "h2-1",
       "label": "H2 1",
       "content": "What Is WordAI Group Buy Through SEO Group Buy Tools?",
       "original": "What Is WordAI Group Buy Through SEO Group Buy Tools?",
-      "source": "<h2>What Is WordAI Group Buy Through SEO Group Buy Tools?</h2>"
+      "source": "<h2>What Is WordAI Group Buy Through SEO Group Buy Tools?</h2>",
+      "originalText": "What Is WordAI Group Buy Through SEO Group Buy Tools?",
+      "text": "What Is WordAI Group Buy Through SEO Group Buy Tools?"
     },
     {
       "key": "p-2",
       "label": "P 2",
       "content": "SEO Group Buy Tools provide shared access to WordAI, an AI-powered article spinning and content rewriting platform that uses natural language processing to produce human-readable rewrites of existing content while maintaining meaning and readability.",
       "original": "SEO Group Buy Tools provide shared access to WordAI, an AI-powered article spinning and content rewriting platform that uses natural language processing to produce human-readable rewrites of existing content while maintaining meaning and readability.",
-      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to WordAI, an AI-powered article spinning and content rewriting platform that uses natural language processing to produce human-readable rewrites of existing content while maintaining meaning and readability.</p>"
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to WordAI, an AI-powered article spinning and content rewriting platform that uses natural language processing to produce human-readable rewrites of existing content while maintaining meaning and readability.</p>",
+      "originalText": "SEO Group Buy Tools provide shared access to WordAI, an AI-powered article spinning and content rewriting platform that uses natural language processing to produce human-readable rewrites of existing content while maintaining meaning and readability.",
+      "text": "SEO Group Buy Tools provide shared access to WordAI, an AI-powered article spinning and content rewriting platform that uses natural language processing to produce human-readable rewrites of existing content while maintaining meaning and readability."
     },
     {
       "key": "p-3",
       "label": "P 3",
       "content": "The official WordAI subscription costs $57 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, offering significant savings for content marketers and SEO professionals who need bulk content variation capabilities without the premium subscription cost.",
       "original": "The official WordAI subscription costs $57 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, offering significant savings for content marketers and SEO professionals who need bulk content variation capabilities without the premium subscription cost.",
-      "source": "<p>The official WordAI subscription costs $57 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, offering significant savings for content marketers and SEO professionals who need bulk content variation capabilities without the premium subscription cost.</p>"
+      "source": "<p>The official WordAI subscription costs $57 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, offering significant savings for content marketers and SEO professionals who need bulk content variation capabilities without the premium subscription cost.</p>",
+      "originalText": "The official WordAI subscription costs $57 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, offering significant savings for content marketers and SEO professionals who need bulk content variation capabilities without the premium subscription cost.",
+      "text": "The official WordAI subscription costs $57 per month, while group buy access through SEO Group Buy Tools starts at just $4 per month, offering significant savings for content marketers and SEO professionals who need bulk content variation capabilities without the premium subscription cost."
     },
     {
       "key": "h2-2",
       "label": "H2 2",
       "content": "What is WordAI group buy?",
       "original": "What is WordAI group buy?",
-      "source": "<h2>What is WordAI group buy?</h2>"
+      "source": "<h2>What is WordAI group buy?</h2>",
+      "originalText": "What is WordAI group buy?",
+      "text": "What is WordAI group buy?"
     },
     {
       "key": "p-4",
       "label": "P 4",
       "content": "WordAI group buy through SEO Group Buy Tools provides shared access to WordAI for AI article spinning and content rewriting at $4–$10 per month versus $57 official pricing, enabling bulk content variation at a fraction of the cost.",
       "original": "WordAI group buy through SEO Group Buy Tools provides shared access to WordAI for AI article spinning and content rewriting at $4–$10 per month versus $57 official pricing, enabling bulk content variation at a fraction of the cost.",
-      "source": "<p class=\"answer-snippet\">WordAI group buy through SEO Group Buy Tools provides shared access to WordAI for AI article spinning and content rewriting at $4–$10 per month versus $57 official pricing, enabling bulk content variation at a fraction of the cost.</p>"
+      "source": "<p class=\"answer-snippet\">WordAI group buy through SEO Group Buy Tools provides shared access to WordAI for AI article spinning and content rewriting at $4–$10 per month versus $57 official pricing, enabling bulk content variation at a fraction of the cost.</p>",
+      "originalText": "WordAI group buy through SEO Group Buy Tools provides shared access to WordAI for AI article spinning and content rewriting at $4–$10 per month versus $57 official pricing, enabling bulk content variation at a fraction of the cost.",
+      "text": "WordAI group buy through SEO Group Buy Tools provides shared access to WordAI for AI article spinning and content rewriting at $4–$10 per month versus $57 official pricing, enabling bulk content variation at a fraction of the cost."
     },
     {
       "key": "p-5",
       "label": "P 5",
       "content": "WordAI group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single WordAI account for spinning and rewriting articles.",
       "original": "WordAI group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single WordAI account for spinning and rewriting articles.",
-      "source": "<p>WordAI group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single WordAI account for spinning and rewriting articles.</p>"
+      "source": "<p>WordAI group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single WordAI account for spinning and rewriting articles.</p>",
+      "originalText": "WordAI group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single WordAI account for spinning and rewriting articles.",
+      "text": "WordAI group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single WordAI account for spinning and rewriting articles."
     },
     {
       "key": "p-6",
       "label": "P 6",
       "content": "WordAI uses advanced natural language processing to understand context and produce rewrites that read naturally, unlike basic spinners that simply swap synonyms.",
       "original": "WordAI uses advanced natural language processing to understand context and produce rewrites that read naturally, unlike basic spinners that simply swap synonyms.",
-      "source": "<p>WordAI uses advanced natural language processing to understand context and produce rewrites that read naturally, unlike basic spinners that simply swap synonyms.</p>"
+      "source": "<p>WordAI uses advanced natural language processing to understand context and produce rewrites that read naturally, unlike basic spinners that simply swap synonyms.</p>",
+      "originalText": "WordAI uses advanced natural language processing to understand context and produce rewrites that read naturally, unlike basic spinners that simply swap synonyms.",
+      "text": "WordAI uses advanced natural language processing to understand context and produce rewrites that read naturally, unlike basic spinners that simply swap synonyms."
     },
     {
       "key": "p-7",
       "label": "P 7",
       "content": "The group buy model distributes the $57 monthly cost across multiple users, making this premium spinning technology accessible to content marketers on a budget.",
       "original": "The group buy model distributes the $57 monthly cost across multiple users, making this premium spinning technology accessible to content marketers on a budget.",
-      "source": "<p>The group buy model distributes the $57 monthly cost across multiple users, making this premium spinning technology accessible to content marketers on a budget.</p>"
+      "source": "<p>The group buy model distributes the $57 monthly cost across multiple users, making this premium spinning technology accessible to content marketers on a budget.</p>",
+      "originalText": "The group buy model distributes the $57 monthly cost across multiple users, making this premium spinning technology accessible to content marketers on a budget.",
+      "text": "The group buy model distributes the $57 monthly cost across multiple users, making this premium spinning technology accessible to content marketers on a budget."
     },
     {
       "key": "p-8",
       "label": "P 8",
       "content": "Through SEO Group Buy Tools, WordAI users can rewrite articles at the sentence, paragraph, and document level while preserving the original meaning. The platform understands context, identifies related concepts, and restructures content to produce unique variations that pass plagiarism checks.",
       "original": "Through SEO Group Buy Tools, WordAI users can rewrite articles at the sentence, paragraph, and document level while preserving the original meaning. The platform understands context, identifies related concepts, and restructures content to produce unique variations that pass plagiarism checks.",
-      "source": "<p>Through SEO Group Buy Tools, WordAI users can rewrite articles at the sentence, paragraph, and document level while preserving the original meaning. The platform understands context, identifies related concepts, and restructures content to produce unique variations that pass plagiarism checks.</p>"
+      "source": "<p>Through SEO Group Buy Tools, WordAI users can rewrite articles at the sentence, paragraph, and document level while preserving the original meaning. The platform understands context, identifies related concepts, and restructures content to produce unique variations that pass plagiarism checks.</p>",
+      "originalText": "Through SEO Group Buy Tools, WordAI users can rewrite articles at the sentence, paragraph, and document level while preserving the original meaning. The platform understands context, identifies related concepts, and restructures content to produce unique variations that pass plagiarism checks.",
+      "text": "Through SEO Group Buy Tools, WordAI users can rewrite articles at the sentence, paragraph, and document level while preserving the original meaning. The platform understands context, identifies related concepts, and restructures content to produce unique variations that pass plagiarism checks."
     },
     {
       "key": "p-9",
       "label": "P 9",
       "content": "This capability makes WordAI particularly valuable for SEO professionals who need to create content variations for different websites, guest posts, or article distribution networks.",
       "original": "This capability makes WordAI particularly valuable for SEO professionals who need to create content variations for different websites, guest posts, or article distribution networks.",
-      "source": "<p>This capability makes WordAI particularly valuable for SEO professionals who need to create content variations for different websites, guest posts, or article distribution networks.</p>"
+      "source": "<p>This capability makes WordAI particularly valuable for SEO professionals who need to create content variations for different websites, guest posts, or article distribution networks.</p>",
+      "originalText": "This capability makes WordAI particularly valuable for SEO professionals who need to create content variations for different websites, guest posts, or article distribution networks.",
+      "text": "This capability makes WordAI particularly valuable for SEO professionals who need to create content variations for different websites, guest posts, or article distribution networks."
     },
     {
       "key": "h2-3",
       "label": "H2 3",
       "content": "What features are available?",
       "original": "What features are available?",
-      "source": "<h2>What features are available?</h2>"
+      "source": "<h2>What features are available?</h2>",
+      "originalText": "What features are available?",
+      "text": "What features are available?"
     },
     {
       "key": "p-10",
       "label": "P 10",
       "content": "WordAI group buy through SEO Group Buy Tools provides bulk rewriting, sentence restructuring, paragraph spinning, HTML compatibility, Copyscape pass guarantee, and API access for automated content variation workflows.",
       "original": "WordAI group buy through SEO Group Buy Tools provides bulk rewriting, sentence restructuring, paragraph spinning, HTML compatibility, Copyscape pass guarantee, and API access for automated content variation workflows.",
-      "source": "<p class=\"answer-snippet\">WordAI group buy through SEO Group Buy Tools provides bulk rewriting, sentence restructuring, paragraph spinning, HTML compatibility, Copyscape pass guarantee, and API access for automated content variation workflows.</p>"
+      "source": "<p class=\"answer-snippet\">WordAI group buy through SEO Group Buy Tools provides bulk rewriting, sentence restructuring, paragraph spinning, HTML compatibility, Copyscape pass guarantee, and API access for automated content variation workflows.</p>",
+      "originalText": "WordAI group buy through SEO Group Buy Tools provides bulk rewriting, sentence restructuring, paragraph spinning, HTML compatibility, Copyscape pass guarantee, and API access for automated content variation workflows.",
+      "text": "WordAI group buy through SEO Group Buy Tools provides bulk rewriting, sentence restructuring, paragraph spinning, HTML compatibility, Copyscape pass guarantee, and API access for automated content variation workflows."
     },
     {
       "key": "p-11",
       "label": "P 11",
       "content": "The WordAI features available through SEO Group Buy Tools include the full spinning engine that rewrites content at multiple levels of granularity.",
       "original": "The WordAI features available through SEO Group Buy Tools include the full spinning engine that rewrites content at multiple levels of granularity.",
-      "source": "<p>The WordAI features available through SEO Group Buy Tools include the full spinning engine that rewrites content at multiple levels of granularity.</p>"
+      "source": "<p>The WordAI features available through SEO Group Buy Tools include the full spinning engine that rewrites content at multiple levels of granularity.</p>",
+      "originalText": "The WordAI features available through SEO Group Buy Tools include the full spinning engine that rewrites content at multiple levels of granularity.",
+      "text": "The WordAI features available through SEO Group Buy Tools include the full spinning engine that rewrites content at multiple levels of granularity."
     },
     {
       "key": "p-12",
       "label": "P 12",
       "content": "Sentence-level spinning restructures individual sentences while maintaining meaning, paragraph-level spinning reorganizes and rewrites entire paragraphs, and document-level spinning produces complete article variations that differ significantly from the original.",
       "original": "Sentence-level spinning restructures individual sentences while maintaining meaning, paragraph-level spinning reorganizes and rewrites entire paragraphs, and document-level spinning produces complete article variations that differ significantly from the original.",
-      "source": "<p>Sentence-level spinning restructures individual sentences while maintaining meaning, paragraph-level spinning reorganizes and rewrites entire paragraphs, and document-level spinning produces complete article variations that differ significantly from the original.</p>"
+      "source": "<p>Sentence-level spinning restructures individual sentences while maintaining meaning, paragraph-level spinning reorganizes and rewrites entire paragraphs, and document-level spinning produces complete article variations that differ significantly from the original.</p>",
+      "originalText": "Sentence-level spinning restructures individual sentences while maintaining meaning, paragraph-level spinning reorganizes and rewrites entire paragraphs, and document-level spinning produces complete article variations that differ significantly from the original.",
+      "text": "Sentence-level spinning restructures individual sentences while maintaining meaning, paragraph-level spinning reorganizes and rewrites entire paragraphs, and document-level spinning produces complete article variations that differ significantly from the original."
     },
     {
       "key": "p-13",
       "label": "P 13",
       "content": "The Bulk Rewriting feature allows users to process multiple articles simultaneously, making it efficient for large-scale content operations. The HTML Compatibility mode preserves formatting, links, and images during the spinning process.",
       "original": "The Bulk Rewriting feature allows users to process multiple articles simultaneously, making it efficient for large-scale content operations. The HTML Compatibility mode preserves formatting, links, and images during the spinning process.",
-      "source": "<p>The Bulk Rewriting feature allows users to process multiple articles simultaneously, making it efficient for large-scale content operations. The HTML Compatibility mode preserves formatting, links, and images during the spinning process.</p>"
+      "source": "<p>The Bulk Rewriting feature allows users to process multiple articles simultaneously, making it efficient for large-scale content operations. The HTML Compatibility mode preserves formatting, links, and images during the spinning process.</p>",
+      "originalText": "The Bulk Rewriting feature allows users to process multiple articles simultaneously, making it efficient for large-scale content operations. The HTML Compatibility mode preserves formatting, links, and images during the spinning process.",
+      "text": "The Bulk Rewriting feature allows users to process multiple articles simultaneously, making it efficient for large-scale content operations. The HTML Compatibility mode preserves formatting, links, and images during the spinning process."
     },
     {
       "key": "p-14",
       "label": "P 14",
       "content": "The Copyscape Pass Guarantee ensures that spun content meets uniqueness thresholds required for SEO purposes. These features work reliably in the shared-access model through SEO Group Buy Tools because WordAI does not use a credit-based metering system for its core spinning functionality.",
       "original": "The Copyscape Pass Guarantee ensures that spun content meets uniqueness thresholds required for SEO purposes. These features work reliably in the shared-access model through SEO Group Buy Tools because WordAI does not use a credit-based metering system for its core spinning functionality.",
-      "source": "<p>The Copyscape Pass Guarantee ensures that spun content meets uniqueness thresholds required for SEO purposes. These features work reliably in the shared-access model through SEO Group Buy Tools because WordAI does not use a credit-based metering system for its core spinning functionality.</p>"
+      "source": "<p>The Copyscape Pass Guarantee ensures that spun content meets uniqueness thresholds required for SEO purposes. These features work reliably in the shared-access model through SEO Group Buy Tools because WordAI does not use a credit-based metering system for its core spinning functionality.</p>",
+      "originalText": "The Copyscape Pass Guarantee ensures that spun content meets uniqueness thresholds required for SEO purposes. These features work reliably in the shared-access model through SEO Group Buy Tools because WordAI does not use a credit-based metering system for its core spinning functionality.",
+      "text": "The Copyscape Pass Guarantee ensures that spun content meets uniqueness thresholds required for SEO purposes. These features work reliably in the shared-access model through SEO Group Buy Tools because WordAI does not use a credit-based metering system for its core spinning functionality."
     },
     {
       "key": "p-15",
       "label": "P 15",
       "content": "WordAI also offers API access for integration with content management systems and automated workflows, though API access may not be available in all group buy configurations through SEO Group Buy Tools.",
       "original": "WordAI also offers API access for integration with content management systems and automated workflows, though API access may not be available in all group buy configurations through SEO Group Buy Tools.",
-      "source": "<p>WordAI also offers API access for integration with content management systems and automated workflows, though API access may not be available in all group buy configurations through SEO Group Buy Tools.</p>"
+      "source": "<p>WordAI also offers API access for integration with content management systems and automated workflows, though API access may not be available in all group buy configurations through SEO Group Buy Tools.</p>",
+      "originalText": "WordAI also offers API access for integration with content management systems and automated workflows, though API access may not be available in all group buy configurations through SEO Group Buy Tools.",
+      "text": "WordAI also offers API access for integration with content management systems and automated workflows, though API access may not be available in all group buy configurations through SEO Group Buy Tools."
     },
     {
       "key": "p-16",
       "label": "P 16",
       "content": "The Protected Words feature lets users specify terms, brand names, and technical vocabulary that should not be altered during spinning, ensuring that specialized terminology remains intact across all generated variations.",
       "original": "The Protected Words feature lets users specify terms, brand names, and technical vocabulary that should not be altered during spinning, ensuring that specialized terminology remains intact across all generated variations.",
-      "source": "<p>The Protected Words feature lets users specify terms, brand names, and technical vocabulary that should not be altered during spinning, ensuring that specialized terminology remains intact across all generated variations.</p>"
+      "source": "<p>The Protected Words feature lets users specify terms, brand names, and technical vocabulary that should not be altered during spinning, ensuring that specialized terminology remains intact across all generated variations.</p>",
+      "originalText": "The Protected Words feature lets users specify terms, brand names, and technical vocabulary that should not be altered during spinning, ensuring that specialized terminology remains intact across all generated variations.",
+      "text": "The Protected Words feature lets users specify terms, brand names, and technical vocabulary that should not be altered during spinning, ensuring that specialized terminology remains intact across all generated variations."
     },
     {
       "key": "h2-4",
       "label": "H2 4",
       "content": "How much does it cost?",
       "original": "How much does it cost?",
-      "source": "<h2>How much does it cost?</h2>"
+      "source": "<h2>How much does it cost?</h2>",
+      "originalText": "How much does it cost?",
+      "text": "How much does it cost?"
     },
     {
       "key": "p-17",
       "label": "P 17",
       "content": "WordAI group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $57 per month or $324 per year, delivering annual savings of $564–$636 with reliable non-credit-based access.",
       "original": "WordAI group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $57 per month or $324 per year, delivering annual savings of $564–$636 with reliable non-credit-based access.",
-      "source": "<p class=\"answer-snippet\">WordAI group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $57 per month or $324 per year, delivering annual savings of $564–$636 with reliable non-credit-based access.</p>"
+      "source": "<p class=\"answer-snippet\">WordAI group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $57 per month or $324 per year, delivering annual savings of $564–$636 with reliable non-credit-based access.</p>",
+      "originalText": "WordAI group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $57 per month or $324 per year, delivering annual savings of $564–$636 with reliable non-credit-based access.",
+      "text": "WordAI group buy through SEO Group Buy Tools costs $4–$10 per month compared to official pricing of $57 per month or $324 per year, delivering annual savings of $564–$636 with reliable non-credit-based access."
     },
     {
       "key": "p-18",
       "label": "P 18",
       "content": "The pricing for WordAI group buy through SEO Group Buy Tools offers substantial savings for content professionals. The official WordAI subscription costs $57 per month when billed monthly or $27 per month when billed annually at $324 per year.",
       "original": "The pricing for WordAI group buy through SEO Group Buy Tools offers substantial savings for content professionals. The official WordAI subscription costs $57 per month when billed monthly or $27 per month when billed annually at $324 per year.",
-      "source": "<p>The pricing for WordAI group buy through SEO Group Buy Tools offers substantial savings for content professionals. The official WordAI subscription costs $57 per month when billed monthly or $27 per month when billed annually at $324 per year.</p>"
+      "source": "<p>The pricing for WordAI group buy through SEO Group Buy Tools offers substantial savings for content professionals. The official WordAI subscription costs $57 per month when billed monthly or $27 per month when billed annually at $324 per year.</p>",
+      "originalText": "The pricing for WordAI group buy through SEO Group Buy Tools offers substantial savings for content professionals. The official WordAI subscription costs $57 per month when billed monthly or $27 per month when billed annually at $324 per year.",
+      "text": "The pricing for WordAI group buy through SEO Group Buy Tools offers substantial savings for content professionals. The official WordAI subscription costs $57 per month when billed monthly or $27 per month when billed annually at $324 per year."
     },
     {
       "key": "p-19",
       "label": "P 19",
       "content": "Group buy access through SEO Group Buy Tools ranges from $4 to $10 per month, making it significantly more affordable than either official billing option for users who need article spinning capabilities on a budget. Annual savings calculations demonstrate strong value through SEO Group Buy Tools.",
       "original": "Group buy access through SEO Group Buy Tools ranges from $4 to $10 per month, making it significantly more affordable than either official billing option for users who need article spinning capabilities on a budget. Annual savings calculations demonstrate strong value through SEO Group Buy Tools.",
-      "source": "<p>Group buy access through SEO Group Buy Tools ranges from $4 to $10 per month, making it significantly more affordable than either official billing option for users who need article spinning capabilities on a budget. Annual savings calculations demonstrate strong value through SEO Group Buy Tools.</p>"
+      "source": "<p>Group buy access through SEO Group Buy Tools ranges from $4 to $10 per month, making it significantly more affordable than either official billing option for users who need article spinning capabilities on a budget. Annual savings calculations demonstrate strong value through SEO Group Buy Tools.</p>",
+      "originalText": "Group buy access through SEO Group Buy Tools ranges from $4 to $10 per month, making it significantly more affordable than either official billing option for users who need article spinning capabilities on a budget. Annual savings calculations demonstrate strong value through SEO Group Buy Tools.",
+      "text": "Group buy access through SEO Group Buy Tools ranges from $4 to $10 per month, making it significantly more affordable than either official billing option for users who need article spinning capabilities on a budget. Annual savings calculations demonstrate strong value through SEO Group Buy Tools."
     },
     {
       "key": "p-20",
       "label": "P 20",
       "content": "At the official monthly rate, WordAI costs $684 per year, while group buy users pay $48–$120 annually, saving between $564 and $636 per year.",
       "original": "At the official monthly rate, WordAI costs $684 per year, while group buy users pay $48–$120 annually, saving between $564 and $636 per year.",
-      "source": "<p>At the official monthly rate, WordAI costs $684 per year, while group buy users pay $48–$120 annually, saving between $564 and $636 per year.</p>"
+      "source": "<p>At the official monthly rate, WordAI costs $684 per year, while group buy users pay $48–$120 annually, saving between $564 and $636 per year.</p>",
+      "originalText": "At the official monthly rate, WordAI costs $684 per year, while group buy users pay $48–$120 annually, saving between $564 and $636 per year.",
+      "text": "At the official monthly rate, WordAI costs $684 per year, while group buy users pay $48–$120 annually, saving between $564 and $636 per year."
     },
     {
       "key": "p-21",
       "label": "P 21",
       "content": "Since WordAI does not use credits for its core spinning features, the group buy experience is more consistent than credit-based tools, meaning the savings come without the reliability trade-offs that plague other group buy offerings.",
       "original": "Since WordAI does not use credits for its core spinning features, the group buy experience is more consistent than credit-based tools, meaning the savings come without the reliability trade-offs that plague other group buy offerings.",
-      "source": "<p>Since WordAI does not use credits for its core spinning features, the group buy experience is more consistent than credit-based tools, meaning the savings come without the reliability trade-offs that plague other group buy offerings.</p>"
+      "source": "<p>Since WordAI does not use credits for its core spinning features, the group buy experience is more consistent than credit-based tools, meaning the savings come without the reliability trade-offs that plague other group buy offerings.</p>",
+      "originalText": "Since WordAI does not use credits for its core spinning features, the group buy experience is more consistent than credit-based tools, meaning the savings come without the reliability trade-offs that plague other group buy offerings.",
+      "text": "Since WordAI does not use credits for its core spinning features, the group buy experience is more consistent than credit-based tools, meaning the savings come without the reliability trade-offs that plague other group buy offerings."
     },
     {
       "key": "h2-5",
       "label": "H2 5",
       "content": "Is it effective for content spinning?",
       "original": "Is it effective for content spinning?",
-      "source": "<h2>Is it effective for content spinning?</h2>"
+      "source": "<h2>Is it effective for content spinning?</h2>",
+      "originalText": "Is it effective for content spinning?",
+      "text": "Is it effective for content spinning?"
     },
     {
       "key": "p-22",
       "label": "P 22",
       "content": "WordAI group buy through SEO Group Buy Tools is effective for producing readable content variations that pass plagiarism checks, though results require human review for quality assurance and contextual accuracy.",
       "original": "WordAI group buy through SEO Group Buy Tools is effective for producing readable content variations that pass plagiarism checks, though results require human review for quality assurance and contextual accuracy.",
-      "source": "<p class=\"answer-snippet\">WordAI group buy through SEO Group Buy Tools is effective for producing readable content variations that pass plagiarism checks, though results require human review for quality assurance and contextual accuracy.</p>"
+      "source": "<p class=\"answer-snippet\">WordAI group buy through SEO Group Buy Tools is effective for producing readable content variations that pass plagiarism checks, though results require human review for quality assurance and contextual accuracy.</p>",
+      "originalText": "WordAI group buy through SEO Group Buy Tools is effective for producing readable content variations that pass plagiarism checks, though results require human review for quality assurance and contextual accuracy.",
+      "text": "WordAI group buy through SEO Group Buy Tools is effective for producing readable content variations that pass plagiarism checks, though results require human review for quality assurance and contextual accuracy."
     },
     {
       "key": "p-23",
       "label": "P 23",
       "content": "WordAI through SEO Group Buy Tools produces the most readable spun content in the AI spinning market, generating variations that maintain grammatical correctness and logical flow far better than basic synonym-replacement tools.",
       "original": "WordAI through SEO Group Buy Tools produces the most readable spun content in the AI spinning market, generating variations that maintain grammatical correctness and logical flow far better than basic synonym-replacement tools.",
-      "source": "<p>WordAI through SEO Group Buy Tools produces the most readable spun content in the AI spinning market, generating variations that maintain grammatical correctness and logical flow far better than basic synonym-replacement tools.</p>"
+      "source": "<p>WordAI through SEO Group Buy Tools produces the most readable spun content in the AI spinning market, generating variations that maintain grammatical correctness and logical flow far better than basic synonym-replacement tools.</p>",
+      "originalText": "WordAI through SEO Group Buy Tools produces the most readable spun content in the AI spinning market, generating variations that maintain grammatical correctness and logical flow far better than basic synonym-replacement tools.",
+      "text": "WordAI through SEO Group Buy Tools produces the most readable spun content in the AI spinning market, generating variations that maintain grammatical correctness and logical flow far better than basic synonym-replacement tools."
     },
     {
       "key": "p-24",
       "label": "P 24",
       "content": "The natural language processing engine understands context, identifies relationships between concepts, and restructures sentences in ways that produce genuinely different content rather than awkwardly substituted synonyms.",
       "original": "The natural language processing engine understands context, identifies relationships between concepts, and restructures sentences in ways that produce genuinely different content rather than awkwardly substituted synonyms.",
-      "source": "<p>The natural language processing engine understands context, identifies relationships between concepts, and restructures sentences in ways that produce genuinely different content rather than awkwardly substituted synonyms.</p>"
+      "source": "<p>The natural language processing engine understands context, identifies relationships between concepts, and restructures sentences in ways that produce genuinely different content rather than awkwardly substituted synonyms.</p>",
+      "originalText": "The natural language processing engine understands context, identifies relationships between concepts, and restructures sentences in ways that produce genuinely different content rather than awkwardly substituted synonyms.",
+      "text": "The natural language processing engine understands context, identifies relationships between concepts, and restructures sentences in ways that produce genuinely different content rather than awkwardly substituted synonyms."
     },
     {
       "key": "p-25",
       "label": "P 25",
       "content": "However, even the best AI spinning through SEO Group Buy Tools requires human review before publication. WordAI occasionally produces awkward phrasing, loses subtle nuances from the original text, or introduces factual inaccuracies when restructuring technical content.",
       "original": "However, even the best AI spinning through SEO Group Buy Tools requires human review before publication. WordAI occasionally produces awkward phrasing, loses subtle nuances from the original text, or introduces factual inaccuracies when restructuring technical content.",
-      "source": "<p>However, even the best AI spinning through SEO Group Buy Tools requires human review before publication. WordAI occasionally produces awkward phrasing, loses subtle nuances from the original text, or introduces factual inaccuracies when restructuring technical content.</p>"
+      "source": "<p>However, even the best AI spinning through SEO Group Buy Tools requires human review before publication. WordAI occasionally produces awkward phrasing, loses subtle nuances from the original text, or introduces factual inaccuracies when restructuring technical content.</p>",
+      "originalText": "However, even the best AI spinning through SEO Group Buy Tools requires human review before publication. WordAI occasionally produces awkward phrasing, loses subtle nuances from the original text, or introduces factual inaccuracies when restructuring technical content.",
+      "text": "However, even the best AI spinning through SEO Group Buy Tools requires human review before publication. WordAI occasionally produces awkward phrasing, loses subtle nuances from the original text, or introduces factual inaccuracies when restructuring technical content."
     },
     {
       "key": "p-26",
       "label": "P 26",
       "content": "Users who publish spun content without review risk damaging their website's credibility and reader trust. The most effective approach uses WordAI for initial variation generation, then applies human editing to ensure quality.",
       "original": "Users who publish spun content without review risk damaging their website's credibility and reader trust. The most effective approach uses WordAI for initial variation generation, then applies human editing to ensure quality.",
-      "source": "<p>Users who publish spun content without review risk damaging their website's credibility and reader trust. The most effective approach uses WordAI for initial variation generation, then applies human editing to ensure quality.</p>"
+      "source": "<p>Users who publish spun content without review risk damaging their website's credibility and reader trust. The most effective approach uses WordAI for initial variation generation, then applies human editing to ensure quality.</p>",
+      "originalText": "Users who publish spun content without review risk damaging their website's credibility and reader trust. The most effective approach uses WordAI for initial variation generation, then applies human editing to ensure quality.",
+      "text": "Users who publish spun content without review risk damaging their website's credibility and reader trust. The most effective approach uses WordAI for initial variation generation, then applies human editing to ensure quality."
     },
     {
       "key": "p-27",
       "label": "P 27",
       "content": "For SEO professionals who need content variations for tiered link building, article distribution, or multi-property publishing, WordAI group buy through SEO Group Buy Tools delivers excellent value.",
       "original": "For SEO professionals who need content variations for tiered link building, article distribution, or multi-property publishing, WordAI group buy through SEO Group Buy Tools delivers excellent value.",
-      "source": "<p>For SEO professionals who need content variations for tiered link building, article distribution, or multi-property publishing, WordAI group buy through SEO Group Buy Tools delivers excellent value.</p>"
+      "source": "<p>For SEO professionals who need content variations for tiered link building, article distribution, or multi-property publishing, WordAI group buy through SEO Group Buy Tools delivers excellent value.</p>",
+      "originalText": "For SEO professionals who need content variations for tiered link building, article distribution, or multi-property publishing, WordAI group buy through SEO Group Buy Tools delivers excellent value.",
+      "text": "For SEO professionals who need content variations for tiered link building, article distribution, or multi-property publishing, WordAI group buy through SEO Group Buy Tools delivers excellent value."
     },
     {
       "key": "p-28",
       "label": "P 28",
       "content": "The spinning quality is sufficient for SEO content that supports rather than drives primary traffic, and the cost savings compared to hiring writers for each variation make it a practical tool for scaled content operations.",
       "original": "The spinning quality is sufficient for SEO content that supports rather than drives primary traffic, and the cost savings compared to hiring writers for each variation make it a practical tool for scaled content operations.",
-      "source": "<p>The spinning quality is sufficient for SEO content that supports rather than drives primary traffic, and the cost savings compared to hiring writers for each variation make it a practical tool for scaled content operations.</p>"
+      "source": "<p>The spinning quality is sufficient for SEO content that supports rather than drives primary traffic, and the cost savings compared to hiring writers for each variation make it a practical tool for scaled content operations.</p>",
+      "originalText": "The spinning quality is sufficient for SEO content that supports rather than drives primary traffic, and the cost savings compared to hiring writers for each variation make it a practical tool for scaled content operations.",
+      "text": "The spinning quality is sufficient for SEO content that supports rather than drives primary traffic, and the cost savings compared to hiring writers for each variation make it a practical tool for scaled content operations."
     },
     {
       "key": "h2-6",
       "label": "H2 6",
       "content": "References",
       "original": "References",
-      "source": "<h2>References</h2>"
+      "source": "<h2>References</h2>",
+      "originalText": "References",
+      "text": "References"
     },
     {
       "key": "li-16",
       "label": "LI 16",
       "content": "WordAI official pricing — wordai.com/pricing — Verified June 2026",
       "original": "WordAI official pricing — wordai.com/pricing — Verified June 2026",
-      "source": "<li>WordAI official pricing — wordai.com/pricing — Verified June 2026</li>"
+      "source": "<li>WordAI official pricing — wordai.com/pricing — Verified June 2026</li>",
+      "originalText": "WordAI official pricing — wordai.com/pricing — Verified June 2026",
+      "text": "WordAI official pricing — wordai.com/pricing — Verified June 2026"
     },
     {
       "key": "li-17",
       "label": "LI 17",
       "content": "WordAI features overview — wordai.com/features — Verified June 2026",
       "original": "WordAI features overview — wordai.com/features — Verified June 2026",
-      "source": "<li>WordAI features overview — wordai.com/features — Verified June 2026</li>"
+      "source": "<li>WordAI features overview — wordai.com/features — Verified June 2026</li>",
+      "originalText": "WordAI features overview — wordai.com/features — Verified June 2026",
+      "text": "WordAI features overview — wordai.com/features — Verified June 2026"
     },
     {
       "key": "li-18",
       "label": "LI 18",
       "content": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026",
       "original": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026",
-      "source": "<li>Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026</li>"
+      "source": "<li>Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026</li>",
+      "originalText": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026",
+      "text": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026"
     },
     {
       "key": "h2-7",
       "label": "H2 7",
       "content": "Available AI Writing Tools in Group Buy",
       "original": "Available AI Writing Tools in Group Buy",
-      "source": "<h2>Available AI Writing Tools in Group Buy</h2>"
+      "source": "<h2>Available AI Writing Tools in Group Buy</h2>",
+      "originalText": "Available AI Writing Tools in Group Buy",
+      "text": "Available AI Writing Tools in Group Buy"
     },
     {
       "key": "h4-1",
       "label": "H4 1",
       "content": "Quillbot Group Buy",
       "original": "Quillbot Group Buy",
-      "source": "<h4>Quillbot Group Buy</h4>"
+      "source": "<h4>Quillbot Group Buy</h4>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "p-29",
       "label": "P 29",
       "content": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation...",
       "original": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation...",
-      "source": "<p>Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation...</p>"
+      "source": "<p>Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation...</p>",
+      "originalText": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation...",
+      "text": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation..."
     },
     {
       "key": "h4-2",
       "label": "H4 2",
       "content": "Copy.ai Group Buy",
       "original": "Copy.ai Group Buy",
-      "source": "<h4>Copy.ai Group Buy</h4>"
+      "source": "<h4>Copy.ai Group Buy</h4>",
+      "originalText": "Copy.ai Group Buy",
+      "text": "Copy.ai Group Buy"
     },
     {
       "key": "p-30",
       "label": "P 30",
       "content": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...",
       "original": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...",
-      "source": "<p>Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...</p>"
+      "source": "<p>Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...</p>",
+      "originalText": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...",
+      "text": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month..."
     },
     {
       "key": "h4-3",
       "label": "H4 3",
       "content": "Writecream Group Buy",
       "original": "Writecream Group Buy",
-      "source": "<h4>Writecream Group Buy</h4>"
+      "source": "<h4>Writecream Group Buy</h4>",
+      "originalText": "Writecream Group Buy",
+      "text": "Writecream Group Buy"
     },
     {
       "key": "p-31",
       "label": "P 31",
       "content": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati...",
       "original": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati...",
-      "source": "<p>Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati...</p>"
+      "source": "<p>Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati...</p>",
+      "originalText": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati...",
+      "text": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati..."
     },
     {
       "key": "h3-1",
       "label": "H3 1",
       "content": "Get Started Today",
       "original": "Get Started Today",
-      "source": "<h3>Get Started Today</h3>"
+      "source": "<h3>Get Started Today</h3>",
+      "originalText": "Get Started Today",
+      "text": "Get Started Today"
     },
     {
       "key": "p-32",
       "label": "P 32",
       "content": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
       "original": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
-      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>"
+      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
+      "originalText": "Access 50+ premium SEO tools from $5/month",
+      "text": "Access 50+ premium SEO tools from $5/month"
     },
     {
       "key": "h3-2",
       "label": "H3 2",
       "content": "Tool Categories",
       "original": "Tool Categories",
-      "source": "<h3>Tool Categories</h3>"
+      "source": "<h3>Tool Categories</h3>",
+      "originalText": "Tool Categories",
+      "text": "Tool Categories"
     },
     {
       "key": "li-19",
       "label": "LI 19",
       "content": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
       "original": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
-      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>"
+      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
+      "originalText": "🔍 SEO Tools 12",
+      "text": "🔍 SEO Tools 12"
     },
     {
       "key": "li-20",
       "label": "LI 20",
       "content": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
+      "originalText": "🎨 Design Tools 5",
+      "text": "🎨 Design Tools 5"
     },
     {
       "key": "li-21",
       "label": "LI 21",
       "content": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
+      "originalText": "🕵️ Spy & Ad Intelligence 5",
+      "text": "🕵️ Spy & Ad Intelligence 5"
     },
     {
       "key": "li-22",
       "label": "LI 22",
       "content": "<a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "✍️ AI Writing Tools 4",
+      "text": "✍️ AI Writing Tools 4"
     },
     {
       "key": "li-23",
       "label": "LI 23",
       "content": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "🛒 E-commerce Tools 4",
+      "text": "🛒 E-commerce Tools 4"
     },
     {
       "key": "li-24",
       "label": "LI 24",
       "content": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "📱 Social Media Tools 3",
+      "text": "📱 Social Media Tools 3"
     },
     {
       "key": "li-25",
       "label": "LI 25",
       "content": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "🎓 Education Tools 3",
+      "text": "🎓 Education Tools 3"
     },
     {
       "key": "h3-3",
       "label": "H3 3",
       "content": "Popular Tools",
       "original": "Popular Tools",
-      "source": "<h3>Popular Tools</h3>"
+      "source": "<h3>Popular Tools</h3>",
+      "originalText": "Popular Tools",
+      "text": "Popular Tools"
     },
     {
       "key": "li-26",
       "label": "LI 26",
       "content": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
       "original": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
+      "originalText": "SEMrush Group Buy",
+      "text": "SEMrush Group Buy"
     },
     {
       "key": "li-27",
       "label": "LI 27",
       "content": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
       "original": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
+      "originalText": "Ahrefs Group Buy",
+      "text": "Ahrefs Group Buy"
     },
     {
       "key": "li-28",
       "label": "LI 28",
       "content": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
       "original": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
+      "originalText": "Moz Pro Group Buy",
+      "text": "Moz Pro Group Buy"
     },
     {
       "key": "li-29",
       "label": "LI 29",
       "content": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
       "original": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
+      "originalText": "Surfer SEO Group Buy",
+      "text": "Surfer SEO Group Buy"
     },
     {
       "key": "li-30",
       "label": "LI 30",
       "content": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
       "original": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
-      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
+      "originalText": "Canva Pro Group Buy",
+      "text": "Canva Pro Group Buy"
     },
     {
       "key": "li-31",
       "label": "LI 31",
       "content": "<a href=\"../quillbot/\">Quillbot Group Buy</a>",
       "original": "<a href=\"../quillbot/\">Quillbot Group Buy</a>",
-      "source": "<li><a href=\"../quillbot/\">Quillbot Group Buy</a></li>"
+      "source": "<li><a href=\"../quillbot/\">Quillbot Group Buy</a></li>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "h3-4",
       "label": "H3 4",
       "content": "Why Choose Us",
       "original": "Why Choose Us",
-      "source": "<h3>Why Choose Us</h3>"
+      "source": "<h3>Why Choose Us</h3>",
+      "originalText": "Why Choose Us",
+      "text": "Why Choose Us"
     },
     {
       "key": "li-32",
       "label": "LI 32",
       "content": "✓ 50+ Premium Tools",
       "original": "✓ 50+ Premium Tools",
-      "source": "<li>✓ 50+ Premium Tools</li>"
+      "source": "<li>✓ 50+ Premium Tools</li>",
+      "originalText": "✓ 50+ Premium Tools",
+      "text": "✓ 50+ Premium Tools"
     },
     {
       "key": "li-33",
       "label": "LI 33",
       "content": "✓ 90%+ Uptime Guaranteed",
       "original": "✓ 90%+ Uptime Guaranteed",
-      "source": "<li>✓ 90%+ Uptime Guaranteed</li>"
+      "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
+      "originalText": "✓ 90%+ Uptime Guaranteed",
+      "text": "✓ 90%+ Uptime Guaranteed"
     },
     {
       "key": "li-34",
       "label": "LI 34",
       "content": "✓ Instant Access Setup",
       "original": "✓ Instant Access Setup",
-      "source": "<li>✓ Instant Access Setup</li>"
+      "source": "<li>✓ Instant Access Setup</li>",
+      "originalText": "✓ Instant Access Setup",
+      "text": "✓ Instant Access Setup"
     },
     {
       "key": "li-35",
       "label": "LI 35",
       "content": "✓ 24/7 Support",
       "original": "✓ 24/7 Support",
-      "source": "<li>✓ 24/7 Support</li>"
+      "source": "<li>✓ 24/7 Support</li>",
+      "originalText": "✓ 24/7 Support",
+      "text": "✓ 24/7 Support"
     },
     {
       "key": "li-36",
       "label": "LI 36",
       "content": "✓ Secure Payments",
       "original": "✓ Secure Payments",
-      "source": "<li>✓ Secure Payments</li>"
+      "source": "<li>✓ Secure Payments</li>",
+      "originalText": "✓ Secure Payments",
+      "text": "✓ Secure Payments"
     },
     {
       "key": "h2-8",
       "label": "H2 8",
       "content": "Ready to Get Started?",
       "original": "Ready to Get Started?",
-      "source": "<h2>Ready to Get Started?</h2>"
+      "source": "<h2>Ready to Get Started?</h2>",
+      "originalText": "Ready to Get Started?",
+      "text": "Ready to Get Started?"
     },
     {
       "key": "p-33",
       "label": "P 33",
       "content": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
       "original": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
-      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>"
+      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
+      "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+      "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee."
     },
     {
       "key": "p-34",
       "label": "P 34",
       "content": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
       "original": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
-      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>"
+      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>",
+      "originalText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
+      "text": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
     },
     {
       "key": "h4-4",
       "label": "H4 4",
       "content": "Categories",
       "original": "Categories",
-      "source": "<h4>Categories</h4>"
+      "source": "<h4>Categories</h4>",
+      "originalText": "Categories",
+      "text": "Categories"
     },
     {
       "key": "li-37",
       "label": "LI 37",
       "content": "<a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": "<a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "SEO Tools",
+      "text": "SEO Tools"
     },
     {
       "key": "li-38",
       "label": "LI 38",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-39",
       "label": "LI 39",
       "content": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
       "original": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>",
+      "originalText": "Spy & Ad Tools",
+      "text": "Spy & Ad Tools"
     },
     {
       "key": "li-40",
       "label": "LI 40",
       "content": "<a href=\"../\">AI Writing</a>",
       "original": "<a href=\"../\">AI Writing</a>",
-      "source": "<li><a href=\"../\">AI Writing</a></li>"
+      "source": "<li><a href=\"../\">AI Writing</a></li>",
+      "originalText": "AI Writing",
+      "text": "AI Writing"
     },
     {
       "key": "li-41",
       "label": "LI 41",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>",
+      "originalText": "E-commerce",
+      "text": "E-commerce"
     },
     {
       "key": "li-42",
       "label": "LI 42",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "h4-5",
       "label": "H4 5",
       "content": "Resources",
       "original": "Resources",
-      "source": "<h4>Resources</h4>"
+      "source": "<h4>Resources</h4>",
+      "originalText": "Resources",
+      "text": "Resources"
     },
     {
       "key": "li-43",
       "label": "LI 43",
       "content": "<a href=\"../../how-it-works/\">How It Works</a>",
       "original": "<a href=\"../../how-it-works/\">How It Works</a>",
-      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>"
+      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>",
+      "originalText": "How It Works",
+      "text": "How It Works"
     },
     {
       "key": "li-44",
       "label": "LI 44",
       "content": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
       "original": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
-      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>"
+      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>",
+      "originalText": "Is It Safe?",
+      "text": "Is It Safe?"
     },
     {
       "key": "li-45",
       "label": "LI 45",
       "content": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
       "original": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
-      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>"
+      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>",
+      "originalText": "Is It Legal?",
+      "text": "Is It Legal?"
     },
     {
       "key": "li-46",
       "label": "LI 46",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-47",
       "label": "LI 47",
       "content": "<a href=\"../../best-providers/\">Best Providers</a>",
       "original": "<a href=\"../../best-providers/\">Best Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>",
+      "originalText": "Best Providers",
+      "text": "Best Providers"
     },
     {
       "key": "li-48",
       "label": "LI 48",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "h4-6",
       "label": "H4 6",
       "content": "Guides",
       "original": "Guides",
-      "source": "<h4>Guides</h4>"
+      "source": "<h4>Guides</h4>",
+      "originalText": "Guides",
+      "text": "Guides"
     },
     {
       "key": "li-49",
       "label": "LI 49",
       "content": "<a href=\"../../guides/keyword-research/\">Keyword Research</a>",
       "original": "<a href=\"../../guides/keyword-research/\">Keyword Research</a>",
-      "source": "<li><a href=\"../../guides/keyword-research/\">Keyword Research</a></li>"
+      "source": "<li><a href=\"../../guides/keyword-research/\">Keyword Research</a></li>",
+      "originalText": "Keyword Research",
+      "text": "Keyword Research"
     },
     {
       "key": "li-50",
       "label": "LI 50",
       "content": "<a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a>",
       "original": "<a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a>",
-      "source": "<li><a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a></li>"
+      "source": "<li><a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a></li>",
+      "originalText": "Backlink Analysis",
+      "text": "Backlink Analysis"
     },
     {
       "key": "li-51",
       "label": "LI 51",
       "content": "<a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a>",
       "original": "<a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a>",
-      "source": "<li><a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a></li>"
+      "source": "<li><a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a></li>",
+      "originalText": "Technical SEO Audit",
+      "text": "Technical SEO Audit"
     },
     {
       "key": "li-52",
       "label": "LI 52",
       "content": "<a href=\"../../guides/content-optimization/\">Content Optimization</a>",
       "original": "<a href=\"../../guides/content-optimization/\">Content Optimization</a>",
-      "source": "<li><a href=\"../../guides/content-optimization/\">Content Optimization</a></li>"
+      "source": "<li><a href=\"../../guides/content-optimization/\">Content Optimization</a></li>",
+      "originalText": "Content Optimization",
+      "text": "Content Optimization"
     },
     {
       "key": "li-53",
       "label": "LI 53",
       "content": "<a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a>",
       "original": "<a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a>",
-      "source": "<li><a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a></li>"
+      "source": "<li><a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a></li>",
+      "originalText": "PPC Research",
+      "text": "PPC Research"
     },
     {
       "key": "li-54",
       "label": "LI 54",
       "content": "<a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a>",
       "original": "<a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a>",
-      "source": "<li><a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a></li>"
+      "source": "<li><a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a></li>",
+      "originalText": "Amazon Selling",
+      "text": "Amazon Selling"
     },
     {
       "key": "h4-7",
       "label": "H4 7",
       "content": "Trust & Safety",
       "original": "Trust & Safety",
-      "source": "<h4>Trust & Safety</h4>"
+      "source": "<h4>Trust & Safety</h4>",
+      "originalText": "Trust & Safety",
+      "text": "Trust & Safety"
     },
     {
       "key": "li-55",
       "label": "LI 55",
       "content": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
       "original": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
-      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>"
+      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>",
+      "originalText": "Are They Legitimate?",
+      "text": "Are They Legitimate?"
     },
     {
       "key": "li-56",
       "label": "LI 56",
       "content": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
       "original": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
-      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>"
+      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>",
+      "originalText": "Choose Provider",
+      "text": "Choose Provider"
     },
     {
       "key": "li-57",
       "label": "LI 57",
       "content": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
       "original": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
-      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>"
+      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>",
+      "originalText": "Avoid Scams",
+      "text": "Avoid Scams"
     },
     {
       "key": "li-58",
       "label": "LI 58",
       "content": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
       "original": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
-      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>"
+      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>",
+      "originalText": "Tool Downtime",
+      "text": "Tool Downtime"
     },
     {
       "key": "li-59",
       "label": "LI 59",
       "content": "<a href=\"../../trust/countries/\">Countries</a>",
       "original": "<a href=\"../../trust/countries/\">Countries</a>",
-      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>"
+      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>",
+      "originalText": "Countries",
+      "text": "Countries"
     },
     {
       "key": "p-35",
       "label": "P 35",
       "content": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
       "original": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
-      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>"
+      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>",
+      "originalText": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms",
+      "text": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms"
     }
   ],
   "editorContent": [

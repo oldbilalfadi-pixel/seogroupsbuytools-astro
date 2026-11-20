@@ -13,819 +13,1433 @@
       "label": "LI 1",
       "content": "<a href=\"../../\">Home</a>",
       "original": "<a href=\"../../\">Home</a>",
-      "source": "<li><a href=\"../../\">Home</a></li>"
+      "source": "<li><a href=\"../../\">Home</a></li>",
+      "originalText": "Home",
+      "text": "Home"
     },
     {
       "key": "li-2",
       "label": "LI 2",
       "content": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "Tools ▾ SEO Tools",
+      "text": "Tools ▾ SEO Tools"
     },
     {
       "key": "li-3",
       "label": "LI 3",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-4",
       "label": "LI 4",
       "content": "<a href=\"../\">Spy & Ad Intelligence</a>",
       "original": "<a href=\"../\">Spy & Ad Intelligence</a>",
-      "source": "<li><a href=\"../\">Spy & Ad Intelligence</a></li>"
+      "source": "<li><a href=\"../\">Spy & Ad Intelligence</a></li>",
+      "originalText": "Spy & Ad Intelligence",
+      "text": "Spy & Ad Intelligence"
     },
     {
       "key": "li-5",
       "label": "LI 5",
       "content": "<a href=\"../../ai-writing-tools/\">AI Writing Tools</a>",
       "original": "<a href=\"../../ai-writing-tools/\">AI Writing Tools</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing Tools</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing Tools</a></li>",
+      "originalText": "AI Writing Tools",
+      "text": "AI Writing Tools"
     },
     {
       "key": "li-6",
       "label": "LI 6",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>",
+      "originalText": "E-commerce Tools",
+      "text": "E-commerce Tools"
     },
     {
       "key": "li-7",
       "label": "LI 7",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "li-8",
       "label": "LI 8",
       "content": "<a href=\"../../education-tools/\">Education</a>",
       "original": "<a href=\"../../education-tools/\">Education</a>",
-      "source": "<li><a href=\"../../education-tools/\">Education</a></li>"
+      "source": "<li><a href=\"../../education-tools/\">Education</a></li>",
+      "originalText": "Education",
+      "text": "Education"
     },
     {
       "key": "li-9",
       "label": "LI 9",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "li-10",
       "label": "LI 10",
       "content": "<a href=\"../../best-providers/\">Providers</a>",
       "original": "<a href=\"../../best-providers/\">Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>",
+      "originalText": "Providers",
+      "text": "Providers"
     },
     {
       "key": "li-11",
       "label": "LI 11",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-12",
       "label": "LI 12",
       "content": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
       "original": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
-      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>"
+      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>",
+      "originalText": "Get Started",
+      "text": "Get Started"
     },
     {
       "key": "h1-1",
       "label": "H1 1",
       "content": "Anstrex Group Buy",
       "original": "Anstrex Group Buy",
-      "source": "<h1>Anstrex Group Buy</h1>"
+      "source": "<h1>Anstrex Group Buy</h1>",
+      "originalText": "Anstrex Group Buy",
+      "text": "Anstrex Group Buy"
     },
     {
       "key": "p-1",
       "label": "P 1",
       "content": "Access Anstrex group buy through SEO Group Buy Tools for native ad intelligence, push notification spying, and dropship product research at a fraction of $50-$100/month per tool of…",
       "original": "Access Anstrex group buy through SEO Group Buy Tools for native ad intelligence, push notification spying, and dropship product research at a fraction of $50-$100/month per tool of…",
-      "source": "<p class=\"product-hero-tagline\">Access Anstrex group buy through SEO Group Buy Tools for native ad intelligence, push notification spying, and dropship product research at a fraction of $50-$100/month per tool of…</p>"
+      "source": "<p class=\"product-hero-tagline\">Access Anstrex group buy through SEO Group Buy Tools for native ad intelligence, push notification spying, and dropship product research at a fraction of $50-$100/month per tool of…</p>",
+      "originalText": "Access Anstrex group buy through SEO Group Buy Tools for native ad intelligence, push notification spying, and dropship product research at a fraction of $50-$100/month per tool of…",
+      "text": "Access Anstrex group buy through SEO Group Buy Tools for native ad intelligence, push notification spying, and dropship product research at a fraction of $50-$100/month per tool of…"
     },
     {
       "key": "li-13",
       "label": "LI 13",
       "content": "Instant Access",
       "original": "Instant Access",
-      "source": "<li>Instant Access</li>"
+      "source": "<li>Instant Access</li>",
+      "originalText": "Instant Access",
+      "text": "Instant Access"
     },
     {
       "key": "li-14",
       "label": "LI 14",
       "content": "24/7 WhatsApp Support",
       "original": "24/7 WhatsApp Support",
-      "source": "<li>24/7 WhatsApp Support</li>"
+      "source": "<li>24/7 WhatsApp Support</li>",
+      "originalText": "24/7 WhatsApp Support",
+      "text": "24/7 WhatsApp Support"
     },
     {
       "key": "li-15",
       "label": "LI 15",
       "content": "Secure Payment",
       "original": "Secure Payment",
-      "source": "<li>Secure Payment</li>"
+      "source": "<li>Secure Payment</li>",
+      "originalText": "Secure Payment",
+      "text": "Secure Payment"
     },
     {
       "key": "h2-1",
       "label": "H2 1",
       "content": "What Is Anstrex Group Buy Through SEO Group Buy Tools?",
       "original": "What Is Anstrex Group Buy Through SEO Group Buy Tools?",
-      "source": "<h2>What Is Anstrex Group Buy Through SEO Group Buy Tools?</h2>"
+      "source": "<h2>What Is Anstrex Group Buy Through SEO Group Buy Tools?</h2>",
+      "originalText": "What Is Anstrex Group Buy Through SEO Group Buy Tools?",
+      "text": "What Is Anstrex Group Buy Through SEO Group Buy Tools?"
     },
     {
       "key": "p-2",
       "label": "P 2",
       "content": "SEO Group Buy Tools provide shared access to Anstrex, a suite of specialized spy tools covering native advertising, push notification campaigns, and dropship product intelligence that helps media buyers and affiliate marketers identify profitable campaigns across global markets.",
       "original": "SEO Group Buy Tools provide shared access to Anstrex, a suite of specialized spy tools covering native advertising, push notification campaigns, and dropship product intelligence that helps media buyers and affiliate marketers identify profitable campaigns across global markets.",
-      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to Anstrex, a suite of specialized spy tools covering native advertising, push notification campaigns, and dropship product intelligence that helps media buyers and affiliate marketers identify profitable campaigns across global markets.</p>"
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to Anstrex, a suite of specialized spy tools covering native advertising, push notification campaigns, and dropship product intelligence that helps media buyers and affiliate marketers identify profitable campaigns across global markets.</p>",
+      "originalText": "SEO Group Buy Tools provide shared access to Anstrex, a suite of specialized spy tools covering native advertising, push notification campaigns, and dropship product intelligence that helps media buyers and affiliate marketers identify profitable campaigns across global markets.",
+      "text": "SEO Group Buy Tools provide shared access to Anstrex, a suite of specialized spy tools covering native advertising, push notification campaigns, and dropship product intelligence that helps media buyers and affiliate marketers identify profitable campaigns across global markets."
     },
     {
       "key": "p-3",
       "label": "P 3",
       "content": "Official Anstrex subscriptions range from $50 to $100 per tool per month, while group buy access through SEO Group Buy Tools starts at just $5 per month, offering substantial savings for performance marketers who need competitive ad intelligence without the premium price tag.",
       "original": "Official Anstrex subscriptions range from $50 to $100 per tool per month, while group buy access through SEO Group Buy Tools starts at just $5 per month, offering substantial savings for performance marketers who need competitive ad intelligence without the premium price tag.",
-      "source": "<p>Official Anstrex subscriptions range from $50 to $100 per tool per month, while group buy access through SEO Group Buy Tools starts at just $5 per month, offering substantial savings for performance marketers who need competitive ad intelligence without the premium price tag.</p>"
+      "source": "<p>Official Anstrex subscriptions range from $50 to $100 per tool per month, while group buy access through SEO Group Buy Tools starts at just $5 per month, offering substantial savings for performance marketers who need competitive ad intelligence without the premium price tag.</p>",
+      "originalText": "Official Anstrex subscriptions range from $50 to $100 per tool per month, while group buy access through SEO Group Buy Tools starts at just $5 per month, offering substantial savings for performance marketers who need competitive ad intelligence without the premium price tag.",
+      "text": "Official Anstrex subscriptions range from $50 to $100 per tool per month, while group buy access through SEO Group Buy Tools starts at just $5 per month, offering substantial savings for performance marketers who need competitive ad intelligence without the premium price tag."
     },
     {
       "key": "h2-2",
       "label": "H2 2",
       "content": "What is Anstrex group buy?",
       "original": "What is Anstrex group buy?",
-      "source": "<h2>What is Anstrex group buy?</h2>"
+      "source": "<h2>What is Anstrex group buy?</h2>",
+      "originalText": "What is Anstrex group buy?",
+      "text": "What is Anstrex group buy?"
     },
     {
       "key": "p-4",
       "label": "P 4",
       "content": "Anstrex group buy through SEO Group Buy Tools provides shared access to Anstrex native ad spy, push notification spy, and dropship spy tools at $5–$15 per month versus $50–$100 per tool official pricing.",
       "original": "Anstrex group buy through SEO Group Buy Tools provides shared access to Anstrex native ad spy, push notification spy, and dropship spy tools at $5–$15 per month versus $50–$100 per tool official pricing.",
-      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools provides shared access to Anstrex native ad spy, push notification spy, and dropship spy tools at $5–$15 per month versus $50–$100 per tool official pricing.</p>"
+      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools provides shared access to Anstrex native ad spy, push notification spy, and dropship spy tools at $5–$15 per month versus $50–$100 per tool official pricing.</p>",
+      "originalText": "Anstrex group buy through SEO Group Buy Tools provides shared access to Anstrex native ad spy, push notification spy, and dropship spy tools at $5–$15 per month versus $50–$100 per tool official pricing.",
+      "text": "Anstrex group buy through SEO Group Buy Tools provides shared access to Anstrex native ad spy, push notification spy, and dropship spy tools at $5–$15 per month versus $50–$100 per tool official pricing."
     },
     {
       "key": "p-5",
       "label": "P 5",
       "content": "Anstrex group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Anstrex account across its three distinct product lines: Anstrex Native for native advertising intelligence, Anstrex Push for push notification campaign spying, and Anstrex Dropship for e-commerce product research.",
       "original": "Anstrex group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Anstrex account across its three distinct product lines: Anstrex Native for native advertising intelligence, Anstrex Push for push notification campaign spying, and Anstrex Dropship for e-commerce product research.",
-      "source": "<p>Anstrex group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Anstrex account across its three distinct product lines: Anstrex Native for native advertising intelligence, Anstrex Push for push notification campaign spying, and Anstrex Dropship for e-commerce product research.</p>"
+      "source": "<p>Anstrex group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Anstrex account across its three distinct product lines: Anstrex Native for native advertising intelligence, Anstrex Push for push notification campaign spying, and Anstrex Dropship for e-commerce product research.</p>",
+      "originalText": "Anstrex group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Anstrex account across its three distinct product lines: Anstrex Native for native advertising intelligence, Anstrex Push for push notification campaign spying, and Anstrex Dropship for e-commerce product research.",
+      "text": "Anstrex group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Anstrex account across its three distinct product lines: Anstrex Native for native advertising intelligence, Anstrex Push for push notification campaign spying, and Anstrex Dropship for e-commerce product research."
     },
     {
       "key": "p-6",
       "label": "P 6",
       "content": "Each tool serves a different segment of the performance marketing industry, and group buy access may include one or all three depending on the provider's subscription level.",
       "original": "Each tool serves a different segment of the performance marketing industry, and group buy access may include one or all three depending on the provider's subscription level.",
-      "source": "<p>Each tool serves a different segment of the performance marketing industry, and group buy access may include one or all three depending on the provider's subscription level.</p>"
+      "source": "<p>Each tool serves a different segment of the performance marketing industry, and group buy access may include one or all three depending on the provider's subscription level.</p>",
+      "originalText": "Each tool serves a different segment of the performance marketing industry, and group buy access may include one or all three depending on the provider's subscription level.",
+      "text": "Each tool serves a different segment of the performance marketing industry, and group buy access may include one or all three depending on the provider's subscription level."
     },
     {
       "key": "p-7",
       "label": "P 7",
       "content": "The shared-access approach through SEO Group Buy Tools makes Anstrex's premium competitive intelligence accessible to affiliate marketers and media buyers who cannot justify spending $50–$100 per month per tool.",
       "original": "The shared-access approach through SEO Group Buy Tools makes Anstrex's premium competitive intelligence accessible to affiliate marketers and media buyers who cannot justify spending $50–$100 per month per tool.",
-      "source": "<p>The shared-access approach through SEO Group Buy Tools makes Anstrex's premium competitive intelligence accessible to affiliate marketers and media buyers who cannot justify spending $50–$100 per month per tool.</p>"
+      "source": "<p>The shared-access approach through SEO Group Buy Tools makes Anstrex's premium competitive intelligence accessible to affiliate marketers and media buyers who cannot justify spending $50–$100 per month per tool.</p>",
+      "originalText": "The shared-access approach through SEO Group Buy Tools makes Anstrex's premium competitive intelligence accessible to affiliate marketers and media buyers who cannot justify spending $50–$100 per month per tool.",
+      "text": "The shared-access approach through SEO Group Buy Tools makes Anstrex's premium competitive intelligence accessible to affiliate marketers and media buyers who cannot justify spending $50–$100 per month per tool."
     },
     {
       "key": "p-8",
       "label": "P 8",
       "content": "By distributing the cost across multiple users, the group buy model enables access to campaign data, landing page intelligence, and advertiser profiles that would otherwise require a significant monthly investment for each individual Anstrex product.",
       "original": "By distributing the cost across multiple users, the group buy model enables access to campaign data, landing page intelligence, and advertiser profiles that would otherwise require a significant monthly investment for each individual Anstrex product.",
-      "source": "<p>By distributing the cost across multiple users, the group buy model enables access to campaign data, landing page intelligence, and advertiser profiles that would otherwise require a significant monthly investment for each individual Anstrex product.</p>"
+      "source": "<p>By distributing the cost across multiple users, the group buy model enables access to campaign data, landing page intelligence, and advertiser profiles that would otherwise require a significant monthly investment for each individual Anstrex product.</p>",
+      "originalText": "By distributing the cost across multiple users, the group buy model enables access to campaign data, landing page intelligence, and advertiser profiles that would otherwise require a significant monthly investment for each individual Anstrex product.",
+      "text": "By distributing the cost across multiple users, the group buy model enables access to campaign data, landing page intelligence, and advertiser profiles that would otherwise require a significant monthly investment for each individual Anstrex product."
     },
     {
       "key": "h2-3",
       "label": "H2 3",
       "content": "What features are available?",
       "original": "What features are available?",
-      "source": "<h2>What features are available?</h2>"
+      "source": "<h2>What features are available?</h2>",
+      "originalText": "What features are available?",
+      "text": "What features are available?"
     },
     {
       "key": "p-9",
       "label": "P 9",
       "content": "Anstrex group buy through SEO Group Buy Tools provides native ad search, push campaign spy, landing page downloads, advertiser profiles, affiliate network data, and dropship product tracking with some shared-access restrictions.",
       "original": "Anstrex group buy through SEO Group Buy Tools provides native ad search, push campaign spy, landing page downloads, advertiser profiles, affiliate network data, and dropship product tracking with some shared-access restrictions.",
-      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools provides native ad search, push campaign spy, landing page downloads, advertiser profiles, affiliate network data, and dropship product tracking with some shared-access restrictions.</p>"
+      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools provides native ad search, push campaign spy, landing page downloads, advertiser profiles, affiliate network data, and dropship product tracking with some shared-access restrictions.</p>",
+      "originalText": "Anstrex group buy through SEO Group Buy Tools provides native ad search, push campaign spy, landing page downloads, advertiser profiles, affiliate network data, and dropship product tracking with some shared-access restrictions.",
+      "text": "Anstrex group buy through SEO Group Buy Tools provides native ad search, push campaign spy, landing page downloads, advertiser profiles, affiliate network data, and dropship product tracking with some shared-access restrictions."
     },
     {
       "key": "p-10",
       "label": "P 10",
       "content": "The Anstrex features available through SEO Group Buy Tools span three specialized platforms. Anstrex Native provides the largest native ad database in the industry, allowing users to search ads by keyword, advertiser, affiliate network, and geographic region.",
       "original": "The Anstrex features available through SEO Group Buy Tools span three specialized platforms. Anstrex Native provides the largest native ad database in the industry, allowing users to search ads by keyword, advertiser, affiliate network, and geographic region.",
-      "source": "<p>The Anstrex features available through SEO Group Buy Tools span three specialized platforms. Anstrex Native provides the largest native ad database in the industry, allowing users to search ads by keyword, advertiser, affiliate network, and geographic region.</p>"
+      "source": "<p>The Anstrex features available through SEO Group Buy Tools span three specialized platforms. Anstrex Native provides the largest native ad database in the industry, allowing users to search ads by keyword, advertiser, affiliate network, and geographic region.</p>",
+      "originalText": "The Anstrex features available through SEO Group Buy Tools span three specialized platforms. Anstrex Native provides the largest native ad database in the industry, allowing users to search ads by keyword, advertiser, affiliate network, and geographic region.",
+      "text": "The Anstrex features available through SEO Group Buy Tools span three specialized platforms. Anstrex Native provides the largest native ad database in the industry, allowing users to search ads by keyword, advertiser, affiliate network, and geographic region."
     },
     {
       "key": "p-11",
       "label": "P 11",
       "content": "Users can view ad creatives, landing pages, and campaign performance estimates to identify profitable native advertising angles and traffic sources.",
       "original": "Users can view ad creatives, landing pages, and campaign performance estimates to identify profitable native advertising angles and traffic sources.",
-      "source": "<p>Users can view ad creatives, landing pages, and campaign performance estimates to identify profitable native advertising angles and traffic sources.</p>"
+      "source": "<p>Users can view ad creatives, landing pages, and campaign performance estimates to identify profitable native advertising angles and traffic sources.</p>",
+      "originalText": "Users can view ad creatives, landing pages, and campaign performance estimates to identify profitable native advertising angles and traffic sources.",
+      "text": "Users can view ad creatives, landing pages, and campaign performance estimates to identify profitable native advertising angles and traffic sources."
     },
     {
       "key": "p-12",
       "label": "P 12",
       "content": "Anstrex Push monitors push notification campaigns across major push traffic networks, revealing which offers are being promoted, which creatives generate clicks, and which landing pages convert.",
       "original": "Anstrex Push monitors push notification campaigns across major push traffic networks, revealing which offers are being promoted, which creatives generate clicks, and which landing pages convert.",
-      "source": "<p>Anstrex Push monitors push notification campaigns across major push traffic networks, revealing which offers are being promoted, which creatives generate clicks, and which landing pages convert.</p>"
+      "source": "<p>Anstrex Push monitors push notification campaigns across major push traffic networks, revealing which offers are being promoted, which creatives generate clicks, and which landing pages convert.</p>",
+      "originalText": "Anstrex Push monitors push notification campaigns across major push traffic networks, revealing which offers are being promoted, which creatives generate clicks, and which landing pages convert.",
+      "text": "Anstrex Push monitors push notification campaigns across major push traffic networks, revealing which offers are being promoted, which creatives generate clicks, and which landing pages convert."
     },
     {
       "key": "p-13",
       "label": "P 13",
       "content": "This data helps media buyers entering the push notification space avoid costly trial-and-error by studying proven campaign structures. The Landing Page Ripper feature downloads complete landing pages for analysis and inspiration.",
       "original": "This data helps media buyers entering the push notification space avoid costly trial-and-error by studying proven campaign structures. The Landing Page Ripper feature downloads complete landing pages for analysis and inspiration.",
-      "source": "<p>This data helps media buyers entering the push notification space avoid costly trial-and-error by studying proven campaign structures. The Landing Page Ripper feature downloads complete landing pages for analysis and inspiration.</p>"
+      "source": "<p>This data helps media buyers entering the push notification space avoid costly trial-and-error by studying proven campaign structures. The Landing Page Ripper feature downloads complete landing pages for analysis and inspiration.</p>",
+      "originalText": "This data helps media buyers entering the push notification space avoid costly trial-and-error by studying proven campaign structures. The Landing Page Ripper feature downloads complete landing pages for analysis and inspiration.",
+      "text": "This data helps media buyers entering the push notification space avoid costly trial-and-error by studying proven campaign structures. The Landing Page Ripper feature downloads complete landing pages for analysis and inspiration."
     },
     {
       "key": "p-14",
       "label": "P 14",
       "content": "Anstrex Dropship focuses on e-commerce product intelligence, tracking winning products across dropship stores and marketplaces. This tool complements the advertising spy tools by showing which products are being actively promoted through native and push channels through SEO Group Buy Tools.",
       "original": "Anstrex Dropship focuses on e-commerce product intelligence, tracking winning products across dropship stores and marketplaces. This tool complements the advertising spy tools by showing which products are being actively promoted through native and push channels through SEO Group Buy Tools.",
-      "source": "<p>Anstrex Dropship focuses on e-commerce product intelligence, tracking winning products across dropship stores and marketplaces. This tool complements the advertising spy tools by showing which products are being actively promoted through native and push channels through SEO Group Buy Tools.</p>"
+      "source": "<p>Anstrex Dropship focuses on e-commerce product intelligence, tracking winning products across dropship stores and marketplaces. This tool complements the advertising spy tools by showing which products are being actively promoted through native and push channels through SEO Group Buy Tools.</p>",
+      "originalText": "Anstrex Dropship focuses on e-commerce product intelligence, tracking winning products across dropship stores and marketplaces. This tool complements the advertising spy tools by showing which products are being actively promoted through native and push channels through SEO Group Buy Tools.",
+      "text": "Anstrex Dropship focuses on e-commerce product intelligence, tracking winning products across dropship stores and marketplaces. This tool complements the advertising spy tools by showing which products are being actively promoted through native and push channels through SEO Group Buy Tools."
     },
     {
       "key": "p-15",
       "label": "P 15",
       "content": "However, data exports and landing page downloads may be rate-limited in the shared-access model when multiple users access the same Anstrex account simultaneously.",
       "original": "However, data exports and landing page downloads may be rate-limited in the shared-access model when multiple users access the same Anstrex account simultaneously.",
-      "source": "<p>However, data exports and landing page downloads may be rate-limited in the shared-access model when multiple users access the same Anstrex account simultaneously.</p>"
+      "source": "<p>However, data exports and landing page downloads may be rate-limited in the shared-access model when multiple users access the same Anstrex account simultaneously.</p>",
+      "originalText": "However, data exports and landing page downloads may be rate-limited in the shared-access model when multiple users access the same Anstrex account simultaneously.",
+      "text": "However, data exports and landing page downloads may be rate-limited in the shared-access model when multiple users access the same Anstrex account simultaneously."
     },
     {
       "key": "h2-4",
       "label": "H2 4",
       "content": "How much does it cost?",
       "original": "How much does it cost?",
-      "source": "<h2>How much does it cost?</h2>"
+      "source": "<h2>How much does it cost?</h2>",
+      "originalText": "How much does it cost?",
+      "text": "How much does it cost?"
     },
     {
       "key": "p-16",
       "label": "P 16",
       "content": "Anstrex group buy through SEO Group Buy Tools costs $5–$15 per month compared to official pricing of $50–$100 per tool per month, delivering annual savings of $540–$1,140 depending on which Anstrex products are included.",
       "original": "Anstrex group buy through SEO Group Buy Tools costs $5–$15 per month compared to official pricing of $50–$100 per tool per month, delivering annual savings of $540–$1,140 depending on which Anstrex products are included.",
-      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools costs $5–$15 per month compared to official pricing of $50–$100 per tool per month, delivering annual savings of $540–$1,140 depending on which Anstrex products are included.</p>"
+      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools costs $5–$15 per month compared to official pricing of $50–$100 per tool per month, delivering annual savings of $540–$1,140 depending on which Anstrex products are included.</p>",
+      "originalText": "Anstrex group buy through SEO Group Buy Tools costs $5–$15 per month compared to official pricing of $50–$100 per tool per month, delivering annual savings of $540–$1,140 depending on which Anstrex products are included.",
+      "text": "Anstrex group buy through SEO Group Buy Tools costs $5–$15 per month compared to official pricing of $50–$100 per tool per month, delivering annual savings of $540–$1,140 depending on which Anstrex products are included."
     },
     {
       "key": "p-17",
       "label": "P 17",
       "content": "The pricing structure for Anstrex group buy through SEO Group Buy Tools varies based on which of the three Anstrex products are included in the shared access. Individual Anstrex tools cost $50–$100 per month officially, making them premium-priced spy tools in the market.",
       "original": "The pricing structure for Anstrex group buy through SEO Group Buy Tools varies based on which of the three Anstrex products are included in the shared access. Individual Anstrex tools cost $50–$100 per month officially, making them premium-priced spy tools in the market.",
-      "source": "<p>The pricing structure for Anstrex group buy through SEO Group Buy Tools varies based on which of the three Anstrex products are included in the shared access. Individual Anstrex tools cost $50–$100 per month officially, making them premium-priced spy tools in the market.</p>"
+      "source": "<p>The pricing structure for Anstrex group buy through SEO Group Buy Tools varies based on which of the three Anstrex products are included in the shared access. Individual Anstrex tools cost $50–$100 per month officially, making them premium-priced spy tools in the market.</p>",
+      "originalText": "The pricing structure for Anstrex group buy through SEO Group Buy Tools varies based on which of the three Anstrex products are included in the shared access. Individual Anstrex tools cost $50–$100 per month officially, making them premium-priced spy tools in the market.",
+      "text": "The pricing structure for Anstrex group buy through SEO Group Buy Tools varies based on which of the three Anstrex products are included in the shared access. Individual Anstrex tools cost $50–$100 per month officially, making them premium-priced spy tools in the market."
     },
     {
       "key": "p-18",
       "label": "P 18",
       "content": "Group buy access typically bundles one or more Anstrex products for $5–$15 per month, representing significant cost savings for performance marketers who need competitive intelligence across multiple advertising channels.",
       "original": "Group buy access typically bundles one or more Anstrex products for $5–$15 per month, representing significant cost savings for performance marketers who need competitive intelligence across multiple advertising channels.",
-      "source": "<p>Group buy access typically bundles one or more Anstrex products for $5–$15 per month, representing significant cost savings for performance marketers who need competitive intelligence across multiple advertising channels.</p>"
+      "source": "<p>Group buy access typically bundles one or more Anstrex products for $5–$15 per month, representing significant cost savings for performance marketers who need competitive intelligence across multiple advertising channels.</p>",
+      "originalText": "Group buy access typically bundles one or more Anstrex products for $5–$15 per month, representing significant cost savings for performance marketers who need competitive intelligence across multiple advertising channels.",
+      "text": "Group buy access typically bundles one or more Anstrex products for $5–$15 per month, representing significant cost savings for performance marketers who need competitive intelligence across multiple advertising channels."
     },
     {
       "key": "p-19",
       "label": "P 19",
       "content": "Annual savings calculations demonstrate the compelling value of Anstrex group buy through SEO Group Buy Tools. For a single Anstrex product at $69.99 per month, annual official cost is $839.88, while group buy users pay $60–$180 annually, saving between $659.88 and $779.88 per year.",
       "original": "Annual savings calculations demonstrate the compelling value of Anstrex group buy through SEO Group Buy Tools. For a single Anstrex product at $69.99 per month, annual official cost is $839.88, while group buy users pay $60–$180 annually, saving between $659.88 and $779.88 per year.",
-      "source": "<p>Annual savings calculations demonstrate the compelling value of Anstrex group buy through SEO Group Buy Tools. For a single Anstrex product at $69.99 per month, annual official cost is $839.88, while group buy users pay $60–$180 annually, saving between $659.88 and $779.88 per year.</p>"
+      "source": "<p>Annual savings calculations demonstrate the compelling value of Anstrex group buy through SEO Group Buy Tools. For a single Anstrex product at $69.99 per month, annual official cost is $839.88, while group buy users pay $60–$180 annually, saving between $659.88 and $779.88 per year.</p>",
+      "originalText": "Annual savings calculations demonstrate the compelling value of Anstrex group buy through SEO Group Buy Tools. For a single Anstrex product at $69.99 per month, annual official cost is $839.88, while group buy users pay $60–$180 annually, saving between $659.88 and $779.88 per year.",
+      "text": "Annual savings calculations demonstrate the compelling value of Anstrex group buy through SEO Group Buy Tools. For a single Anstrex product at $69.99 per month, annual official cost is $839.88, while group buy users pay $60–$180 annually, saving between $659.88 and $779.88 per year."
     },
     {
       "key": "p-20",
       "label": "P 20",
       "content": "These savings make Anstrex accessible to affiliate marketers and media buyers who are testing new traffic sources and cannot yet justify the official pricing.",
       "original": "These savings make Anstrex accessible to affiliate marketers and media buyers who are testing new traffic sources and cannot yet justify the official pricing.",
-      "source": "<p>These savings make Anstrex accessible to affiliate marketers and media buyers who are testing new traffic sources and cannot yet justify the official pricing.</p>"
+      "source": "<p>These savings make Anstrex accessible to affiliate marketers and media buyers who are testing new traffic sources and cannot yet justify the official pricing.</p>",
+      "originalText": "These savings make Anstrex accessible to affiliate marketers and media buyers who are testing new traffic sources and cannot yet justify the official pricing.",
+      "text": "These savings make Anstrex accessible to affiliate marketers and media buyers who are testing new traffic sources and cannot yet justify the official pricing."
     },
     {
       "key": "h2-5",
       "label": "H2 5",
       "content": "Who should use it?",
       "original": "Who should use it?",
-      "source": "<h2>Who should use it?</h2>"
+      "source": "<h2>Who should use it?</h2>",
+      "originalText": "Who should use it?",
+      "text": "Who should use it?"
     },
     {
       "key": "p-21",
       "label": "P 21",
       "content": "Anstrex group buy through SEO Group Buy Tools is ideal for affiliate marketers, media buyers running native or push campaigns, and dropshippers who need competitive ad intelligence but cannot justify $50–$100 monthly per tool.",
       "original": "Anstrex group buy through SEO Group Buy Tools is ideal for affiliate marketers, media buyers running native or push campaigns, and dropshippers who need competitive ad intelligence but cannot justify $50–$100 monthly per tool.",
-      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools is ideal for affiliate marketers, media buyers running native or push campaigns, and dropshippers who need competitive ad intelligence but cannot justify $50–$100 monthly per tool.</p>"
+      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools is ideal for affiliate marketers, media buyers running native or push campaigns, and dropshippers who need competitive ad intelligence but cannot justify $50–$100 monthly per tool.</p>",
+      "originalText": "Anstrex group buy through SEO Group Buy Tools is ideal for affiliate marketers, media buyers running native or push campaigns, and dropshippers who need competitive ad intelligence but cannot justify $50–$100 monthly per tool.",
+      "text": "Anstrex group buy through SEO Group Buy Tools is ideal for affiliate marketers, media buyers running native or push campaigns, and dropshippers who need competitive ad intelligence but cannot justify $50–$100 monthly per tool."
     },
     {
       "key": "p-22",
       "label": "P 22",
       "content": "Affiliate marketers benefit most from Anstrex group buy through SEO Group Buy Tools because the platform reveals which offers are being promoted, which traffic sources are converting, and which landing pages are performing well across native and push advertising networks.",
       "original": "Affiliate marketers benefit most from Anstrex group buy through SEO Group Buy Tools because the platform reveals which offers are being promoted, which traffic sources are converting, and which landing pages are performing well across native and push advertising networks.",
-      "source": "<p>Affiliate marketers benefit most from Anstrex group buy through SEO Group Buy Tools because the platform reveals which offers are being promoted, which traffic sources are converting, and which landing pages are performing well across native and push advertising networks.</p>"
+      "source": "<p>Affiliate marketers benefit most from Anstrex group buy through SEO Group Buy Tools because the platform reveals which offers are being promoted, which traffic sources are converting, and which landing pages are performing well across native and push advertising networks.</p>",
+      "originalText": "Affiliate marketers benefit most from Anstrex group buy through SEO Group Buy Tools because the platform reveals which offers are being promoted, which traffic sources are converting, and which landing pages are performing well across native and push advertising networks.",
+      "text": "Affiliate marketers benefit most from Anstrex group buy through SEO Group Buy Tools because the platform reveals which offers are being promoted, which traffic sources are converting, and which landing pages are performing well across native and push advertising networks."
     },
     {
       "key": "p-23",
       "label": "P 23",
       "content": "This intelligence reduces the cost and time of campaign testing by showing proven approaches before spending on traffic.",
       "original": "This intelligence reduces the cost and time of campaign testing by showing proven approaches before spending on traffic.",
-      "source": "<p>This intelligence reduces the cost and time of campaign testing by showing proven approaches before spending on traffic.</p>"
+      "source": "<p>This intelligence reduces the cost and time of campaign testing by showing proven approaches before spending on traffic.</p>",
+      "originalText": "This intelligence reduces the cost and time of campaign testing by showing proven approaches before spending on traffic.",
+      "text": "This intelligence reduces the cost and time of campaign testing by showing proven approaches before spending on traffic."
     },
     {
       "key": "p-24",
       "label": "P 24",
       "content": "Media buyers entering the native or push notification advertising space gain a significant advantage through Anstrex group buy by studying successful campaigns before launching their own.",
       "original": "Media buyers entering the native or push notification advertising space gain a significant advantage through Anstrex group buy by studying successful campaigns before launching their own.",
-      "source": "<p>Media buyers entering the native or push notification advertising space gain a significant advantage through Anstrex group buy by studying successful campaigns before launching their own.</p>"
+      "source": "<p>Media buyers entering the native or push notification advertising space gain a significant advantage through Anstrex group buy by studying successful campaigns before launching their own.</p>",
+      "originalText": "Media buyers entering the native or push notification advertising space gain a significant advantage through Anstrex group buy by studying successful campaigns before launching their own.",
+      "text": "Media buyers entering the native or push notification advertising space gain a significant advantage through Anstrex group buy by studying successful campaigns before launching their own."
     },
     {
       "key": "p-25",
       "label": "P 25",
       "content": "The landing page ripper feature is particularly valuable for understanding how top affiliates structure their funnels, create urgency, and optimize conversion elements.",
       "original": "The landing page ripper feature is particularly valuable for understanding how top affiliates structure their funnels, create urgency, and optimize conversion elements.",
-      "source": "<p>The landing page ripper feature is particularly valuable for understanding how top affiliates structure their funnels, create urgency, and optimize conversion elements.</p>"
+      "source": "<p>The landing page ripper feature is particularly valuable for understanding how top affiliates structure their funnels, create urgency, and optimize conversion elements.</p>",
+      "originalText": "The landing page ripper feature is particularly valuable for understanding how top affiliates structure their funnels, create urgency, and optimize conversion elements.",
+      "text": "The landing page ripper feature is particularly valuable for understanding how top affiliates structure their funnels, create urgency, and optimize conversion elements."
     },
     {
       "key": "p-26",
       "label": "P 26",
       "content": "This competitive intelligence through SEO Group Buy Tools accelerates the learning curve for media buyers transitioning from other traffic sources. Dropshippers who also run paid traffic benefit from the combined intelligence of Anstrex Dropship and the advertising spy tools.",
       "original": "This competitive intelligence through SEO Group Buy Tools accelerates the learning curve for media buyers transitioning from other traffic sources. Dropshippers who also run paid traffic benefit from the combined intelligence of Anstrex Dropship and the advertising spy tools.",
-      "source": "<p>This competitive intelligence through SEO Group Buy Tools accelerates the learning curve for media buyers transitioning from other traffic sources. Dropshippers who also run paid traffic benefit from the combined intelligence of Anstrex Dropship and the advertising spy tools.</p>"
+      "source": "<p>This competitive intelligence through SEO Group Buy Tools accelerates the learning curve for media buyers transitioning from other traffic sources. Dropshippers who also run paid traffic benefit from the combined intelligence of Anstrex Dropship and the advertising spy tools.</p>",
+      "originalText": "This competitive intelligence through SEO Group Buy Tools accelerates the learning curve for media buyers transitioning from other traffic sources. Dropshippers who also run paid traffic benefit from the combined intelligence of Anstrex Dropship and the advertising spy tools.",
+      "text": "This competitive intelligence through SEO Group Buy Tools accelerates the learning curve for media buyers transitioning from other traffic sources. Dropshippers who also run paid traffic benefit from the combined intelligence of Anstrex Dropship and the advertising spy tools."
     },
     {
       "key": "p-27",
       "label": "P 27",
       "content": "By seeing which products are being promoted through native and push channels, dropshippers can identify winning products with proven demand before investing in inventory and advertising spend through SEO Group Buy Tools.",
       "original": "By seeing which products are being promoted through native and push channels, dropshippers can identify winning products with proven demand before investing in inventory and advertising spend through SEO Group Buy Tools.",
-      "source": "<p>By seeing which products are being promoted through native and push channels, dropshippers can identify winning products with proven demand before investing in inventory and advertising spend through SEO Group Buy Tools.</p>"
+      "source": "<p>By seeing which products are being promoted through native and push channels, dropshippers can identify winning products with proven demand before investing in inventory and advertising spend through SEO Group Buy Tools.</p>",
+      "originalText": "By seeing which products are being promoted through native and push channels, dropshippers can identify winning products with proven demand before investing in inventory and advertising spend through SEO Group Buy Tools.",
+      "text": "By seeing which products are being promoted through native and push channels, dropshippers can identify winning products with proven demand before investing in inventory and advertising spend through SEO Group Buy Tools."
     },
     {
       "key": "p-28",
       "label": "P 28",
       "content": "This dual perspective on both product performance and advertising approach provides a comprehensive competitive advantage.",
       "original": "This dual perspective on both product performance and advertising approach provides a comprehensive competitive advantage.",
-      "source": "<p>This dual perspective on both product performance and advertising approach provides a comprehensive competitive advantage.</p>"
+      "source": "<p>This dual perspective on both product performance and advertising approach provides a comprehensive competitive advantage.</p>",
+      "originalText": "This dual perspective on both product performance and advertising approach provides a comprehensive competitive advantage.",
+      "text": "This dual perspective on both product performance and advertising approach provides a comprehensive competitive advantage."
     },
     {
       "key": "h2-6",
       "label": "H2 6",
       "content": "References",
       "original": "References",
-      "source": "<h2>References</h2>"
+      "source": "<h2>References</h2>",
+      "originalText": "References",
+      "text": "References"
     },
     {
       "key": "li-16",
       "label": "LI 16",
       "content": "Anstrex official pricing — anstrex.com/pricing — Verified June 2026",
       "original": "Anstrex official pricing — anstrex.com/pricing — Verified June 2026",
-      "source": "<li>Anstrex official pricing — anstrex.com/pricing — Verified June 2026</li>"
+      "source": "<li>Anstrex official pricing — anstrex.com/pricing — Verified June 2026</li>",
+      "originalText": "Anstrex official pricing — anstrex.com/pricing — Verified June 2026",
+      "text": "Anstrex official pricing — anstrex.com/pricing — Verified June 2026"
     },
     {
       "key": "li-17",
       "label": "LI 17",
       "content": "Anstrex Native features — anstrex.com/native — Verified June 2026",
       "original": "Anstrex Native features — anstrex.com/native — Verified June 2026",
-      "source": "<li>Anstrex Native features — anstrex.com/native — Verified June 2026</li>"
+      "source": "<li>Anstrex Native features — anstrex.com/native — Verified June 2026</li>",
+      "originalText": "Anstrex Native features — anstrex.com/native — Verified June 2026",
+      "text": "Anstrex Native features — anstrex.com/native — Verified June 2026"
     },
     {
       "key": "li-18",
       "label": "LI 18",
       "content": "Anstrex Push features — anstrex.com/push — Verified June 2026",
       "original": "Anstrex Push features — anstrex.com/push — Verified June 2026",
-      "source": "<li>Anstrex Push features — anstrex.com/push — Verified June 2026</li>"
+      "source": "<li>Anstrex Push features — anstrex.com/push — Verified June 2026</li>",
+      "originalText": "Anstrex Push features — anstrex.com/push — Verified June 2026",
+      "text": "Anstrex Push features — anstrex.com/push — Verified June 2026"
     },
     {
       "key": "li-19",
       "label": "LI 19",
       "content": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026",
       "original": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026",
-      "source": "<li>Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026</li>"
+      "source": "<li>Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026</li>",
+      "originalText": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026",
+      "text": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026"
     },
     {
       "key": "h2-7",
       "label": "H2 7",
       "content": "Available Spy &amp; Ad Tools in Group Buy",
       "original": "Available Spy &amp; Ad Tools in Group Buy",
-      "source": "<h2>Available Spy &amp; Ad Tools in Group Buy</h2>"
+      "source": "<h2>Available Spy &amp; Ad Tools in Group Buy</h2>",
+      "originalText": "Available Spy & Ad Tools in Group Buy",
+      "text": "Available Spy & Ad Tools in Group Buy"
     },
     {
       "key": "h4-1",
       "label": "H4 1",
       "content": "AdSpy Group Buy",
       "original": "AdSpy Group Buy",
-      "source": "<h4>AdSpy Group Buy</h4>"
+      "source": "<h4>AdSpy Group Buy</h4>",
+      "originalText": "AdSpy Group Buy",
+      "text": "AdSpy Group Buy"
     },
     {
       "key": "p-29",
       "label": "P 29",
       "content": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and ...",
       "original": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and ...",
-      "source": "<p>Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and ...</p>"
+      "source": "<p>Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and ...</p>",
+      "originalText": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and ...",
+      "text": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and ..."
     },
     {
       "key": "h4-2",
       "label": "H4 2",
       "content": "PowerAdSpy Group Buy",
       "original": "PowerAdSpy Group Buy",
-      "source": "<h4>PowerAdSpy Group Buy</h4>"
+      "source": "<h4>PowerAdSpy Group Buy</h4>",
+      "originalText": "PowerAdSpy Group Buy",
+      "text": "PowerAdSpy Group Buy"
     },
     {
       "key": "p-30",
       "label": "P 30",
       "content": "Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads. Offi...",
       "original": "Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads. Offi...",
-      "source": "<p>Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads. Offi...</p>"
+      "source": "<p>Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads. Offi...</p>",
+      "originalText": "Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads. Offi...",
+      "text": "Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads. Offi..."
     },
     {
       "key": "h4-3",
       "label": "H4 3",
       "content": "PipiAds Group Buy",
       "original": "PipiAds Group Buy",
-      "source": "<h4>PipiAds Group Buy</h4>"
+      "source": "<h4>PipiAds Group Buy</h4>",
+      "originalText": "PipiAds Group Buy",
+      "text": "PipiAds Group Buy"
     },
     {
       "key": "p-31",
       "label": "P 31",
       "content": "Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning prod...",
       "original": "Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning prod...",
-      "source": "<p>Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning prod...</p>"
+      "source": "<p>Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning prod...</p>",
+      "originalText": "Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning prod...",
+      "text": "Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning prod..."
     },
     {
       "key": "h4-4",
       "label": "H4 4",
       "content": "Dropispy Group Buy",
       "original": "Dropispy Group Buy",
-      "source": "<h4>Dropispy Group Buy</h4>"
+      "source": "<h4>Dropispy Group Buy</h4>",
+      "originalText": "Dropispy Group Buy",
+      "text": "Dropispy Group Buy"
     },
     {
       "key": "p-32",
       "label": "P 32",
       "content": "Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and competito...",
       "original": "Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and competito...",
-      "source": "<p>Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and competito...</p>"
+      "source": "<p>Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and competito...</p>",
+      "originalText": "Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and competito...",
+      "text": "Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and competito..."
     },
     {
       "key": "h3-1",
       "label": "H3 1",
       "content": "Get Started Today",
       "original": "Get Started Today",
-      "source": "<h3>Get Started Today</h3>"
+      "source": "<h3>Get Started Today</h3>",
+      "originalText": "Get Started Today",
+      "text": "Get Started Today"
     },
     {
       "key": "p-33",
       "label": "P 33",
       "content": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
       "original": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
-      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>"
+      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
+      "originalText": "Access 50+ premium SEO tools from $5/month",
+      "text": "Access 50+ premium SEO tools from $5/month"
     },
     {
       "key": "h3-2",
       "label": "H3 2",
       "content": "Tool Categories",
       "original": "Tool Categories",
-      "source": "<h3>Tool Categories</h3>"
+      "source": "<h3>Tool Categories</h3>",
+      "originalText": "Tool Categories",
+      "text": "Tool Categories"
     },
     {
       "key": "li-20",
       "label": "LI 20",
       "content": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
       "original": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
-      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>"
+      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
+      "originalText": "🔍 SEO Tools 12",
+      "text": "🔍 SEO Tools 12"
     },
     {
       "key": "li-21",
       "label": "LI 21",
       "content": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
+      "originalText": "🎨 Design Tools 5",
+      "text": "🎨 Design Tools 5"
     },
     {
       "key": "li-22",
       "label": "LI 22",
       "content": "<a href=\"../\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
+      "originalText": "🕵️ Spy & Ad Intelligence 5",
+      "text": "🕵️ Spy & Ad Intelligence 5"
     },
     {
       "key": "li-23",
       "label": "LI 23",
       "content": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "✍️ AI Writing Tools 4",
+      "text": "✍️ AI Writing Tools 4"
     },
     {
       "key": "li-24",
       "label": "LI 24",
       "content": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "🛒 E-commerce Tools 4",
+      "text": "🛒 E-commerce Tools 4"
     },
     {
       "key": "li-25",
       "label": "LI 25",
       "content": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "📱 Social Media Tools 3",
+      "text": "📱 Social Media Tools 3"
     },
     {
       "key": "li-26",
       "label": "LI 26",
       "content": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "🎓 Education Tools 3",
+      "text": "🎓 Education Tools 3"
     },
     {
       "key": "h3-3",
       "label": "H3 3",
       "content": "Popular Tools",
       "original": "Popular Tools",
-      "source": "<h3>Popular Tools</h3>"
+      "source": "<h3>Popular Tools</h3>",
+      "originalText": "Popular Tools",
+      "text": "Popular Tools"
     },
     {
       "key": "li-27",
       "label": "LI 27",
       "content": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
       "original": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
+      "originalText": "SEMrush Group Buy",
+      "text": "SEMrush Group Buy"
     },
     {
       "key": "li-28",
       "label": "LI 28",
       "content": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
       "original": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
+      "originalText": "Ahrefs Group Buy",
+      "text": "Ahrefs Group Buy"
     },
     {
       "key": "li-29",
       "label": "LI 29",
       "content": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
       "original": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
+      "originalText": "Moz Pro Group Buy",
+      "text": "Moz Pro Group Buy"
     },
     {
       "key": "li-30",
       "label": "LI 30",
       "content": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
       "original": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
+      "originalText": "Surfer SEO Group Buy",
+      "text": "Surfer SEO Group Buy"
     },
     {
       "key": "li-31",
       "label": "LI 31",
       "content": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
       "original": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
-      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
+      "originalText": "Canva Pro Group Buy",
+      "text": "Canva Pro Group Buy"
     },
     {
       "key": "li-32",
       "label": "LI 32",
       "content": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
       "original": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "h3-4",
       "label": "H3 4",
       "content": "Why Choose Us",
       "original": "Why Choose Us",
-      "source": "<h3>Why Choose Us</h3>"
+      "source": "<h3>Why Choose Us</h3>",
+      "originalText": "Why Choose Us",
+      "text": "Why Choose Us"
     },
     {
       "key": "li-33",
       "label": "LI 33",
       "content": "✓ 50+ Premium Tools",
       "original": "✓ 50+ Premium Tools",
-      "source": "<li>✓ 50+ Premium Tools</li>"
+      "source": "<li>✓ 50+ Premium Tools</li>",
+      "originalText": "✓ 50+ Premium Tools",
+      "text": "✓ 50+ Premium Tools"
     },
     {
       "key": "li-34",
       "label": "LI 34",
       "content": "✓ 90%+ Uptime Guaranteed",
       "original": "✓ 90%+ Uptime Guaranteed",
-      "source": "<li>✓ 90%+ Uptime Guaranteed</li>"
+      "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
+      "originalText": "✓ 90%+ Uptime Guaranteed",
+      "text": "✓ 90%+ Uptime Guaranteed"
     },
     {
       "key": "li-35",
       "label": "LI 35",
       "content": "✓ Instant Access Setup",
       "original": "✓ Instant Access Setup",
-      "source": "<li>✓ Instant Access Setup</li>"
+      "source": "<li>✓ Instant Access Setup</li>",
+      "originalText": "✓ Instant Access Setup",
+      "text": "✓ Instant Access Setup"
     },
     {
       "key": "li-36",
       "label": "LI 36",
       "content": "✓ 24/7 Support",
       "original": "✓ 24/7 Support",
-      "source": "<li>✓ 24/7 Support</li>"
+      "source": "<li>✓ 24/7 Support</li>",
+      "originalText": "✓ 24/7 Support",
+      "text": "✓ 24/7 Support"
     },
     {
       "key": "li-37",
       "label": "LI 37",
       "content": "✓ Secure Payments",
       "original": "✓ Secure Payments",
-      "source": "<li>✓ Secure Payments</li>"
+      "source": "<li>✓ Secure Payments</li>",
+      "originalText": "✓ Secure Payments",
+      "text": "✓ Secure Payments"
     },
     {
       "key": "h2-8",
       "label": "H2 8",
       "content": "Ready to Get Started?",
       "original": "Ready to Get Started?",
-      "source": "<h2>Ready to Get Started?</h2>"
+      "source": "<h2>Ready to Get Started?</h2>",
+      "originalText": "Ready to Get Started?",
+      "text": "Ready to Get Started?"
     },
     {
       "key": "p-34",
       "label": "P 34",
       "content": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
       "original": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
-      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>"
+      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
+      "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+      "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee."
     },
     {
       "key": "p-35",
       "label": "P 35",
       "content": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
       "original": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
-      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>"
+      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>",
+      "originalText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
+      "text": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
     },
     {
       "key": "h4-5",
       "label": "H4 5",
       "content": "Categories",
       "original": "Categories",
-      "source": "<h4>Categories</h4>"
+      "source": "<h4>Categories</h4>",
+      "originalText": "Categories",
+      "text": "Categories"
     },
     {
       "key": "li-38",
       "label": "LI 38",
       "content": "<a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": "<a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "SEO Tools",
+      "text": "SEO Tools"
     },
     {
       "key": "li-39",
       "label": "LI 39",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-40",
       "label": "LI 40",
       "content": "<a href=\"../\">Spy &amp; Ad Tools</a>",
       "original": "<a href=\"../\">Spy &amp; Ad Tools</a>",
-      "source": "<li><a href=\"../\">Spy &amp; Ad Tools</a></li>"
+      "source": "<li><a href=\"../\">Spy &amp; Ad Tools</a></li>",
+      "originalText": "Spy & Ad Tools",
+      "text": "Spy & Ad Tools"
     },
     {
       "key": "li-41",
       "label": "LI 41",
       "content": "<a href=\"../../ai-writing-tools/\">AI Writing</a>",
       "original": "<a href=\"../../ai-writing-tools/\">AI Writing</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing</a></li>",
+      "originalText": "AI Writing",
+      "text": "AI Writing"
     },
     {
       "key": "li-42",
       "label": "LI 42",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>",
+      "originalText": "E-commerce",
+      "text": "E-commerce"
     },
     {
       "key": "li-43",
       "label": "LI 43",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "h4-6",
       "label": "H4 6",
       "content": "Resources",
       "original": "Resources",
-      "source": "<h4>Resources</h4>"
+      "source": "<h4>Resources</h4>",
+      "originalText": "Resources",
+      "text": "Resources"
     },
     {
       "key": "li-44",
       "label": "LI 44",
       "content": "<a href=\"../../how-it-works/\">How It Works</a>",
       "original": "<a href=\"../../how-it-works/\">How It Works</a>",
-      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>"
+      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>",
+      "originalText": "How It Works",
+      "text": "How It Works"
     },
     {
       "key": "li-45",
       "label": "LI 45",
       "content": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
       "original": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
-      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>"
+      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>",
+      "originalText": "Is It Safe?",
+      "text": "Is It Safe?"
     },
     {
       "key": "li-46",
       "label": "LI 46",
       "content": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
       "original": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
-      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>"
+      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>",
+      "originalText": "Is It Legal?",
+      "text": "Is It Legal?"
     },
     {
       "key": "li-47",
       "label": "LI 47",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-48",
       "label": "LI 48",
       "content": "<a href=\"../../best-providers/\">Best Providers</a>",
       "original": "<a href=\"../../best-providers/\">Best Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>",
+      "originalText": "Best Providers",
+      "text": "Best Providers"
     },
     {
       "key": "li-49",
       "label": "LI 49",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "h4-7",
       "label": "H4 7",
       "content": "Guides",
       "original": "Guides",
-      "source": "<h4>Guides</h4>"
+      "source": "<h4>Guides</h4>",
+      "originalText": "Guides",
+      "text": "Guides"
     },
     {
       "key": "li-50",
       "label": "LI 50",
       "content": "<a href=\"../../guides/keyword-research/\">Keyword Research</a>",
       "original": "<a href=\"../../guides/keyword-research/\">Keyword Research</a>",
-      "source": "<li><a href=\"../../guides/keyword-research/\">Keyword Research</a></li>"
+      "source": "<li><a href=\"../../guides/keyword-research/\">Keyword Research</a></li>",
+      "originalText": "Keyword Research",
+      "text": "Keyword Research"
     },
     {
       "key": "li-51",
       "label": "LI 51",
       "content": "<a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a>",
       "original": "<a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a>",
-      "source": "<li><a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a></li>"
+      "source": "<li><a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a></li>",
+      "originalText": "Backlink Analysis",
+      "text": "Backlink Analysis"
     },
     {
       "key": "li-52",
       "label": "LI 52",
       "content": "<a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a>",
       "original": "<a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a>",
-      "source": "<li><a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a></li>"
+      "source": "<li><a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a></li>",
+      "originalText": "Technical SEO Audit",
+      "text": "Technical SEO Audit"
     },
     {
       "key": "li-53",
       "label": "LI 53",
       "content": "<a href=\"../../guides/content-optimization/\">Content Optimization</a>",
       "original": "<a href=\"../../guides/content-optimization/\">Content Optimization</a>",
-      "source": "<li><a href=\"../../guides/content-optimization/\">Content Optimization</a></li>"
+      "source": "<li><a href=\"../../guides/content-optimization/\">Content Optimization</a></li>",
+      "originalText": "Content Optimization",
+      "text": "Content Optimization"
     },
     {
       "key": "li-54",
       "label": "LI 54",
       "content": "<a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a>",
       "original": "<a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a>",
-      "source": "<li><a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a></li>"
+      "source": "<li><a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a></li>",
+      "originalText": "PPC Research",
+      "text": "PPC Research"
     },
     {
       "key": "li-55",
       "label": "LI 55",
       "content": "<a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a>",
       "original": "<a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a>",
-      "source": "<li><a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a></li>"
+      "source": "<li><a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a></li>",
+      "originalText": "Amazon Selling",
+      "text": "Amazon Selling"
     },
     {
       "key": "h4-8",
       "label": "H4 8",
       "content": "Trust & Safety",
       "original": "Trust & Safety",
-      "source": "<h4>Trust & Safety</h4>"
+      "source": "<h4>Trust & Safety</h4>",
+      "originalText": "Trust & Safety",
+      "text": "Trust & Safety"
     },
     {
       "key": "li-56",
       "label": "LI 56",
       "content": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
       "original": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
-      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>"
+      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>",
+      "originalText": "Are They Legitimate?",
+      "text": "Are They Legitimate?"
     },
     {
       "key": "li-57",
       "label": "LI 57",
       "content": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
       "original": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
-      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>"
+      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>",
+      "originalText": "Choose Provider",
+      "text": "Choose Provider"
     },
     {
       "key": "li-58",
       "label": "LI 58",
       "content": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
       "original": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
-      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>"
+      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>",
+      "originalText": "Avoid Scams",
+      "text": "Avoid Scams"
     },
     {
       "key": "li-59",
       "label": "LI 59",
       "content": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
       "original": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
-      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>"
+      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>",
+      "originalText": "Tool Downtime",
+      "text": "Tool Downtime"
     },
     {
       "key": "li-60",
       "label": "LI 60",
       "content": "<a href=\"../../trust/countries/\">Countries</a>",
       "original": "<a href=\"../../trust/countries/\">Countries</a>",
-      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>"
+      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>",
+      "originalText": "Countries",
+      "text": "Countries"
     },
     {
       "key": "p-36",
       "label": "P 36",
       "content": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
       "original": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
-      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>"
+      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>",
+      "originalText": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms",
+      "text": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms"
+    }
+  ],
+  "links": [
+    {
+      "url": "../../",
+      "originalUrl": "../../",
+      "text": "What Is SEO Group Buy Tools?",
+      "originalText": "What Is SEO Group Buy Tools?",
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools?</a>"
+    },
+    {
+      "url": "../",
+      "originalUrl": "../",
+      "text": "Spy & Ad Intelligence Tools Group Buy",
+      "originalText": "Spy & Ad Intelligence Tools Group Buy",
+      "source": "<a href=\"../\">Spy &amp; Ad Intelligence Tools Group Buy</a>"
+    },
+    {
+      "url": "../",
+      "originalUrl": "../",
+      "text": "Spy & Ad Intelligence Tools Group Buy",
+      "originalText": "Spy & Ad Intelligence Tools Group Buy",
+      "source": "<a href=\"../\">Spy &amp; Ad Intelligence Tools Group Buy</a>"
+    },
+    {
+      "url": "../../how-it-works/",
+      "originalUrl": "../../how-it-works/",
+      "text": "How Does SEO Group Buy Tools Work?",
+      "originalText": "How Does SEO Group Buy Tools Work?",
+      "source": "<a href=\"../../how-it-works/\">How Does SEO Group Buy Tools Work?</a>"
+    },
+    {
+      "url": "../../seo-tools/spyfu/",
+      "originalUrl": "../../seo-tools/spyfu/",
+      "text": "SpyFu Group Buy",
+      "originalText": "SpyFu Group Buy",
+      "source": "<a href=\"../../seo-tools/spyfu/\">SpyFu Group Buy</a>"
+    },
+    {
+      "url": "../../",
+      "originalUrl": "../../",
+      "text": "What Is SEO Group Buy Tools?",
+      "originalText": "What Is SEO Group Buy Tools?",
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools?</a>"
+    },
+    {
+      "url": "../../how-it-works/",
+      "originalUrl": "../../how-it-works/",
+      "text": "How Does SEO Group Buy Tools Work?",
+      "originalText": "How Does SEO Group Buy Tools Work?",
+      "source": "<a href=\"../../how-it-works/\">How Does SEO Group Buy Tools Work?</a>"
+    },
+    {
+      "url": "../../how-it-works/",
+      "originalUrl": "../../how-it-works/",
+      "text": "How Does SEO Group Buy Tools Work?",
+      "originalText": "How Does SEO Group Buy Tools Work?",
+      "source": "<a href=\"../../how-it-works/\">How Does SEO Group Buy Tools Work?</a>"
+    },
+    {
+      "url": "../../guides/ppc-ad-spy-research/",
+      "originalUrl": "../../guides/ppc-ad-spy-research/",
+      "text": "Native Advertising Guide",
+      "originalText": "Native Advertising Guide",
+      "source": "<a href=\"../../guides/ppc-ad-spy-research/\">Native Advertising Guide</a>"
+    },
+    {
+      "url": "../../",
+      "originalUrl": "../../",
+      "text": "What Is SEO Group Buy Tools?",
+      "originalText": "What Is SEO Group Buy Tools?",
+      "source": "<a href=\"../../\">What Is SEO Group Buy Tools?</a>"
+    }
+  ],
+  "images": [
+    {
+      "source": "<img src=\"../../assets/images/tools/adspy-com.png\" alt=\"AdSpy logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/adspy-com.png",
+      "originalSrc": "../../assets/images/tools/adspy-com.png",
+      "alt": "AdSpy logo",
+      "originalAlt": "AdSpy logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/poweradspy-com.png\" alt=\"PowerAdSpy logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/poweradspy-com.png",
+      "originalSrc": "../../assets/images/tools/poweradspy-com.png",
+      "alt": "PowerAdSpy logo",
+      "originalAlt": "PowerAdSpy logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/pipiads-com.png\" alt=\"PipiAds logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/pipiads-com.png",
+      "originalSrc": "../../assets/images/tools/pipiads-com.png",
+      "alt": "PipiAds logo",
+      "originalAlt": "PipiAds logo"
+    },
+    {
+      "source": "<img src=\"../../assets/images/tools/dropispy-com.png\" alt=\"Dropispy logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
+      "src": "../../assets/images/tools/dropispy-com.png",
+      "originalSrc": "../../assets/images/tools/dropispy-com.png",
+      "alt": "Dropispy logo",
+      "originalAlt": "Dropispy logo"
+    }
+  ],
+  "editorContent": [
+    {
+      "text": "What Is Anstrex Group Buy Through SEO Group Buy Tools?",
+      "originalText": "What Is Anstrex Group Buy Through SEO Group Buy Tools?",
+      "source": "<h2>What Is Anstrex Group Buy Through SEO Group Buy Tools?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "SEO Group Buy Tools provide shared access to Anstrex, a suite of specialized spy tools covering native advertising, push notification campaigns, and dropship product intelligence that helps media buyers and affiliate marketers identify profitable campaigns across global markets.",
+      "originalText": "SEO Group Buy Tools provide shared access to Anstrex, a suite of specialized spy tools covering native advertising, push notification campaigns, and dropship product intelligence that helps media buyers and affiliate marketers identify profitable campaigns across global markets.",
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to Anstrex, a suite of specialized spy tools covering native advertising, push notification campaigns, and dropship product intelligence that helps media buyers and affiliate marketers identify profitable campaigns across global markets.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Official Anstrex subscriptions range from $50 to $100 per tool per month, while group buy access through SEO Group Buy Tools starts at just $5 per month, offering substantial savings for performance marketers who need competitive ad intelligence without the premium price tag.",
+      "originalText": "Official Anstrex subscriptions range from $50 to $100 per tool per month, while group buy access through SEO Group Buy Tools starts at just $5 per month, offering substantial savings for performance marketers who need competitive ad intelligence without the premium price tag.",
+      "source": "<p>Official Anstrex subscriptions range from $50 to $100 per tool per month, while group buy access through SEO Group Buy Tools starts at just $5 per month, offering substantial savings for performance marketers who need competitive ad intelligence without the premium price tag.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "What is Anstrex group buy?",
+      "originalText": "What is Anstrex group buy?",
+      "source": "<h2>What is Anstrex group buy?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Anstrex group buy through SEO Group Buy Tools provides shared access to Anstrex native ad spy, push notification spy, and dropship spy tools at $5–$15 per month versus $50–$100 per tool official pricing.",
+      "originalText": "Anstrex group buy through SEO Group Buy Tools provides shared access to Anstrex native ad spy, push notification spy, and dropship spy tools at $5–$15 per month versus $50–$100 per tool official pricing.",
+      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools provides shared access to Anstrex native ad spy, push notification spy, and dropship spy tools at $5–$15 per month versus $50–$100 per tool official pricing.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Anstrex group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Anstrex account across its three distinct product lines: Anstrex Native for native advertising intelligence, Anstrex Push for push notification campaign spying, and Anstrex Dropship for e-commerce product research.",
+      "originalText": "Anstrex group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Anstrex account across its three distinct product lines: Anstrex Native for native advertising intelligence, Anstrex Push for push notification campaign spying, and Anstrex Dropship for e-commerce product research.",
+      "source": "<p>Anstrex group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Anstrex account across its three distinct product lines: Anstrex Native for native advertising intelligence, Anstrex Push for push notification campaign spying, and Anstrex Dropship for e-commerce product research.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Each tool serves a different segment of the performance marketing industry, and group buy access may include one or all three depending on the provider's subscription level.",
+      "originalText": "Each tool serves a different segment of the performance marketing industry, and group buy access may include one or all three depending on the provider's subscription level.",
+      "source": "<p>Each tool serves a different segment of the performance marketing industry, and group buy access may include one or all three depending on the provider's subscription level.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The shared-access approach through SEO Group Buy Tools makes Anstrex's premium competitive intelligence accessible to affiliate marketers and media buyers who cannot justify spending $50–$100 per month per tool.",
+      "originalText": "The shared-access approach through SEO Group Buy Tools makes Anstrex's premium competitive intelligence accessible to affiliate marketers and media buyers who cannot justify spending $50–$100 per month per tool.",
+      "source": "<p>The shared-access approach through SEO Group Buy Tools makes Anstrex's premium competitive intelligence accessible to affiliate marketers and media buyers who cannot justify spending $50–$100 per month per tool.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "By distributing the cost across multiple users, the group buy model enables access to campaign data, landing page intelligence, and advertiser profiles that would otherwise require a significant monthly investment for each individual Anstrex product.",
+      "originalText": "By distributing the cost across multiple users, the group buy model enables access to campaign data, landing page intelligence, and advertiser profiles that would otherwise require a significant monthly investment for each individual Anstrex product.",
+      "source": "<p>By distributing the cost across multiple users, the group buy model enables access to campaign data, landing page intelligence, and advertiser profiles that would otherwise require a significant monthly investment for each individual Anstrex product.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "What features are available?",
+      "originalText": "What features are available?",
+      "source": "<h2>What features are available?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Anstrex group buy through SEO Group Buy Tools provides native ad search, push campaign spy, landing page downloads, advertiser profiles, affiliate network data, and dropship product tracking with some shared-access restrictions.",
+      "originalText": "Anstrex group buy through SEO Group Buy Tools provides native ad search, push campaign spy, landing page downloads, advertiser profiles, affiliate network data, and dropship product tracking with some shared-access restrictions.",
+      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools provides native ad search, push campaign spy, landing page downloads, advertiser profiles, affiliate network data, and dropship product tracking with some shared-access restrictions.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The Anstrex features available through SEO Group Buy Tools span three specialized platforms. Anstrex Native provides the largest native ad database in the industry, allowing users to search ads by keyword, advertiser, affiliate network, and geographic region.",
+      "originalText": "The Anstrex features available through SEO Group Buy Tools span three specialized platforms. Anstrex Native provides the largest native ad database in the industry, allowing users to search ads by keyword, advertiser, affiliate network, and geographic region.",
+      "source": "<p>The Anstrex features available through SEO Group Buy Tools span three specialized platforms. Anstrex Native provides the largest native ad database in the industry, allowing users to search ads by keyword, advertiser, affiliate network, and geographic region.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Users can view ad creatives, landing pages, and campaign performance estimates to identify profitable native advertising angles and traffic sources.",
+      "originalText": "Users can view ad creatives, landing pages, and campaign performance estimates to identify profitable native advertising angles and traffic sources.",
+      "source": "<p>Users can view ad creatives, landing pages, and campaign performance estimates to identify profitable native advertising angles and traffic sources.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Anstrex Push monitors push notification campaigns across major push traffic networks, revealing which offers are being promoted, which creatives generate clicks, and which landing pages convert.",
+      "originalText": "Anstrex Push monitors push notification campaigns across major push traffic networks, revealing which offers are being promoted, which creatives generate clicks, and which landing pages convert.",
+      "source": "<p>Anstrex Push monitors push notification campaigns across major push traffic networks, revealing which offers are being promoted, which creatives generate clicks, and which landing pages convert.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "This data helps media buyers entering the push notification space avoid costly trial-and-error by studying proven campaign structures. The Landing Page Ripper feature downloads complete landing pages for analysis and inspiration.",
+      "originalText": "This data helps media buyers entering the push notification space avoid costly trial-and-error by studying proven campaign structures. The Landing Page Ripper feature downloads complete landing pages for analysis and inspiration.",
+      "source": "<p>This data helps media buyers entering the push notification space avoid costly trial-and-error by studying proven campaign structures. The Landing Page Ripper feature downloads complete landing pages for analysis and inspiration.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Anstrex Dropship focuses on e-commerce product intelligence, tracking winning products across dropship stores and marketplaces. This tool complements the advertising spy tools by showing which products are being actively promoted through native and push channels through SEO Group Buy Tools.",
+      "originalText": "Anstrex Dropship focuses on e-commerce product intelligence, tracking winning products across dropship stores and marketplaces. This tool complements the advertising spy tools by showing which products are being actively promoted through native and push channels through SEO Group Buy Tools.",
+      "source": "<p>Anstrex Dropship focuses on e-commerce product intelligence, tracking winning products across dropship stores and marketplaces. This tool complements the advertising spy tools by showing which products are being actively promoted through native and push channels through SEO Group Buy Tools.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "However, data exports and landing page downloads may be rate-limited in the shared-access model when multiple users access the same Anstrex account simultaneously.",
+      "originalText": "However, data exports and landing page downloads may be rate-limited in the shared-access model when multiple users access the same Anstrex account simultaneously.",
+      "source": "<p>However, data exports and landing page downloads may be rate-limited in the shared-access model when multiple users access the same Anstrex account simultaneously.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "How much does it cost?",
+      "originalText": "How much does it cost?",
+      "source": "<h2>How much does it cost?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Anstrex group buy through SEO Group Buy Tools costs $5–$15 per month compared to official pricing of $50–$100 per tool per month, delivering annual savings of $540–$1,140 depending on which Anstrex products are included.",
+      "originalText": "Anstrex group buy through SEO Group Buy Tools costs $5–$15 per month compared to official pricing of $50–$100 per tool per month, delivering annual savings of $540–$1,140 depending on which Anstrex products are included.",
+      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools costs $5–$15 per month compared to official pricing of $50–$100 per tool per month, delivering annual savings of $540–$1,140 depending on which Anstrex products are included.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The pricing structure for Anstrex group buy through SEO Group Buy Tools varies based on which of the three Anstrex products are included in the shared access. Individual Anstrex tools cost $50–$100 per month officially, making them premium-priced spy tools in the market.",
+      "originalText": "The pricing structure for Anstrex group buy through SEO Group Buy Tools varies based on which of the three Anstrex products are included in the shared access. Individual Anstrex tools cost $50–$100 per month officially, making them premium-priced spy tools in the market.",
+      "source": "<p>The pricing structure for Anstrex group buy through SEO Group Buy Tools varies based on which of the three Anstrex products are included in the shared access. Individual Anstrex tools cost $50–$100 per month officially, making them premium-priced spy tools in the market.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Group buy access typically bundles one or more Anstrex products for $5–$15 per month, representing significant cost savings for performance marketers who need competitive intelligence across multiple advertising channels.",
+      "originalText": "Group buy access typically bundles one or more Anstrex products for $5–$15 per month, representing significant cost savings for performance marketers who need competitive intelligence across multiple advertising channels.",
+      "source": "<p>Group buy access typically bundles one or more Anstrex products for $5–$15 per month, representing significant cost savings for performance marketers who need competitive intelligence across multiple advertising channels.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Annual savings calculations demonstrate the compelling value of Anstrex group buy through SEO Group Buy Tools. For a single Anstrex product at $69.99 per month, annual official cost is $839.88, while group buy users pay $60–$180 annually, saving between $659.88 and $779.88 per year.",
+      "originalText": "Annual savings calculations demonstrate the compelling value of Anstrex group buy through SEO Group Buy Tools. For a single Anstrex product at $69.99 per month, annual official cost is $839.88, while group buy users pay $60–$180 annually, saving between $659.88 and $779.88 per year.",
+      "source": "<p>Annual savings calculations demonstrate the compelling value of Anstrex group buy through SEO Group Buy Tools. For a single Anstrex product at $69.99 per month, annual official cost is $839.88, while group buy users pay $60–$180 annually, saving between $659.88 and $779.88 per year.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "These savings make Anstrex accessible to affiliate marketers and media buyers who are testing new traffic sources and cannot yet justify the official pricing.",
+      "originalText": "These savings make Anstrex accessible to affiliate marketers and media buyers who are testing new traffic sources and cannot yet justify the official pricing.",
+      "source": "<p>These savings make Anstrex accessible to affiliate marketers and media buyers who are testing new traffic sources and cannot yet justify the official pricing.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Who should use it?",
+      "originalText": "Who should use it?",
+      "source": "<h2>Who should use it?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Anstrex group buy through SEO Group Buy Tools is ideal for affiliate marketers, media buyers running native or push campaigns, and dropshippers who need competitive ad intelligence but cannot justify $50–$100 monthly per tool.",
+      "originalText": "Anstrex group buy through SEO Group Buy Tools is ideal for affiliate marketers, media buyers running native or push campaigns, and dropshippers who need competitive ad intelligence but cannot justify $50–$100 monthly per tool.",
+      "source": "<p class=\"answer-snippet\">Anstrex group buy through SEO Group Buy Tools is ideal for affiliate marketers, media buyers running native or push campaigns, and dropshippers who need competitive ad intelligence but cannot justify $50–$100 monthly per tool.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Affiliate marketers benefit most from Anstrex group buy through SEO Group Buy Tools because the platform reveals which offers are being promoted, which traffic sources are converting, and which landing pages are performing well across native and push advertising networks.",
+      "originalText": "Affiliate marketers benefit most from Anstrex group buy through SEO Group Buy Tools because the platform reveals which offers are being promoted, which traffic sources are converting, and which landing pages are performing well across native and push advertising networks.",
+      "source": "<p>Affiliate marketers benefit most from Anstrex group buy through SEO Group Buy Tools because the platform reveals which offers are being promoted, which traffic sources are converting, and which landing pages are performing well across native and push advertising networks.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "This intelligence reduces the cost and time of campaign testing by showing proven approaches before spending on traffic.",
+      "originalText": "This intelligence reduces the cost and time of campaign testing by showing proven approaches before spending on traffic.",
+      "source": "<p>This intelligence reduces the cost and time of campaign testing by showing proven approaches before spending on traffic.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Media buyers entering the native or push notification advertising space gain a significant advantage through Anstrex group buy by studying successful campaigns before launching their own.",
+      "originalText": "Media buyers entering the native or push notification advertising space gain a significant advantage through Anstrex group buy by studying successful campaigns before launching their own.",
+      "source": "<p>Media buyers entering the native or push notification advertising space gain a significant advantage through Anstrex group buy by studying successful campaigns before launching their own.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The landing page ripper feature is particularly valuable for understanding how top affiliates structure their funnels, create urgency, and optimize conversion elements.",
+      "originalText": "The landing page ripper feature is particularly valuable for understanding how top affiliates structure their funnels, create urgency, and optimize conversion elements.",
+      "source": "<p>The landing page ripper feature is particularly valuable for understanding how top affiliates structure their funnels, create urgency, and optimize conversion elements.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "This competitive intelligence through SEO Group Buy Tools accelerates the learning curve for media buyers transitioning from other traffic sources. Dropshippers who also run paid traffic benefit from the combined intelligence of Anstrex Dropship and the advertising spy tools.",
+      "originalText": "This competitive intelligence through SEO Group Buy Tools accelerates the learning curve for media buyers transitioning from other traffic sources. Dropshippers who also run paid traffic benefit from the combined intelligence of Anstrex Dropship and the advertising spy tools.",
+      "source": "<p>This competitive intelligence through SEO Group Buy Tools accelerates the learning curve for media buyers transitioning from other traffic sources. Dropshippers who also run paid traffic benefit from the combined intelligence of Anstrex Dropship and the advertising spy tools.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "By seeing which products are being promoted through native and push channels, dropshippers can identify winning products with proven demand before investing in inventory and advertising spend through SEO Group Buy Tools.",
+      "originalText": "By seeing which products are being promoted through native and push channels, dropshippers can identify winning products with proven demand before investing in inventory and advertising spend through SEO Group Buy Tools.",
+      "source": "<p>By seeing which products are being promoted through native and push channels, dropshippers can identify winning products with proven demand before investing in inventory and advertising spend through SEO Group Buy Tools.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "This dual perspective on both product performance and advertising approach provides a comprehensive competitive advantage.",
+      "originalText": "This dual perspective on both product performance and advertising approach provides a comprehensive competitive advantage.",
+      "source": "<p>This dual perspective on both product performance and advertising approach provides a comprehensive competitive advantage.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "References",
+      "originalText": "References",
+      "source": "<h2>References</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Anstrex official pricing — anstrex.com/pricing — Verified June 2026",
+      "originalText": "Anstrex official pricing — anstrex.com/pricing — Verified June 2026",
+      "source": "<li>Anstrex official pricing — anstrex.com/pricing — Verified June 2026</li>",
+      "tag": "li"
+    },
+    {
+      "text": "Anstrex Native features — anstrex.com/native — Verified June 2026",
+      "originalText": "Anstrex Native features — anstrex.com/native — Verified June 2026",
+      "source": "<li>Anstrex Native features — anstrex.com/native — Verified June 2026</li>",
+      "tag": "li"
+    },
+    {
+      "text": "Anstrex Push features — anstrex.com/push — Verified June 2026",
+      "originalText": "Anstrex Push features — anstrex.com/push — Verified June 2026",
+      "source": "<li>Anstrex Push features — anstrex.com/push — Verified June 2026</li>",
+      "tag": "li"
+    },
+    {
+      "text": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026",
+      "originalText": "Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026",
+      "source": "<li>Group buy provider comparison — seogroupsbuytools.com/providers — Verified June 2026</li>",
+      "tag": "li"
+    },
+    {
+      "text": "Available Spy & Ad Tools in Group Buy",
+      "originalText": "Available Spy & Ad Tools in Group Buy",
+      "source": "<h2>Available Spy &amp; Ad Tools in Group Buy</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "AdSpy Group Buy",
+      "originalText": "AdSpy Group Buy",
+      "source": "<h4>AdSpy Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and ...",
+      "originalText": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and ...",
+      "source": "<p>Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and ...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "PowerAdSpy Group Buy",
+      "originalText": "PowerAdSpy Group Buy",
+      "source": "<h4>PowerAdSpy Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads. Offi...",
+      "originalText": "Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads. Offi...",
+      "source": "<p>Access PowerAdSpy for $5-$12/month through SEO Group Buy Tools. Spy on FB, Google, YouTube, Native, and Reddit ads. Offi...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "PipiAds Group Buy",
+      "originalText": "PipiAds Group Buy",
+      "source": "<h4>PipiAds Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning prod...",
+      "originalText": "Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning prod...",
+      "source": "<p>Access PipiAds for $5-$12/month through SEO Group Buy Tools. The leading TikTok ad spy tool for discovering winning prod...</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Dropispy Group Buy",
+      "originalText": "Dropispy Group Buy",
+      "source": "<h4>Dropispy Group Buy</h4>",
+      "tag": "h4"
+    },
+    {
+      "text": "Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and competito...",
+      "originalText": "Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and competito...",
+      "source": "<p>Access Dropispy group buy through SEO Group Buy Tools for Shopify store spying, winning product discovery, and competito...</p>",
+      "tag": "p"
     }
   ]
 }

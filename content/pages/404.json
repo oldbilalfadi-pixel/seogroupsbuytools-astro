@@ -13,21 +13,57 @@
       "label": "H1 1",
       "content": "404",
       "original": "404",
-      "source": "<h1>404</h1>"
+      "source": "<h1>404</h1>",
+      "originalText": "404",
+      "text": "404"
     },
     {
       "key": "h2-1",
       "label": "H2 1",
       "content": "Page Not Found",
       "original": "Page Not Found",
-      "source": "<h2>Page Not Found</h2>"
+      "source": "<h2>Page Not Found</h2>",
+      "originalText": "Page Not Found",
+      "text": "Page Not Found"
     },
     {
       "key": "p-1",
       "label": "P 1",
       "content": "Sorry, the page you're looking for doesn't exist. It may have been moved or removed.",
       "original": "Sorry, the page you're looking for doesn't exist. It may have been moved or removed.",
-      "source": "<p>Sorry, the page you're looking for doesn't exist. It may have been moved or removed.</p>"
+      "source": "<p>Sorry, the page you're looking for doesn't exist. It may have been moved or removed.</p>",
+      "originalText": "Sorry, the page you're looking for doesn't exist. It may have been moved or removed.",
+      "text": "Sorry, the page you're looking for doesn't exist. It may have been moved or removed."
+    }
+  ],
+  "links": [
+    {
+      "url": "./",
+      "originalUrl": "./",
+      "text": "← Back to Home",
+      "originalText": "← Back to Home",
+      "source": "<a href=\"./\" class=\"btn btn-primary\">← Back to Home</a>"
+    }
+  ],
+  "images": [],
+  "editorContent": [
+    {
+      "text": "404",
+      "originalText": "404",
+      "source": "<h1>404</h1>",
+      "tag": "h1"
+    },
+    {
+      "text": "Page Not Found",
+      "originalText": "Page Not Found",
+      "source": "<h2>Page Not Found</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Sorry, the page you're looking for doesn't exist. It may have been moved or removed.",
+      "originalText": "Sorry, the page you're looking for doesn't exist. It may have been moved or removed.",
+      "source": "<p>Sorry, the page you're looking for doesn't exist. It may have been moved or removed.</p>",
+      "tag": "p"
     }
   ]
 }

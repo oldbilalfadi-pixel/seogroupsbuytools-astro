@@ -13,644 +13,1095 @@
       "label": "LI 1",
       "content": "<a href=\"../../\">Home</a>",
       "original": "<a href=\"../../\">Home</a>",
-      "source": "<li><a href=\"../../\">Home</a></li>"
+      "source": "<li><a href=\"../../\">Home</a></li>",
+      "originalText": "Home",
+      "text": "Home"
     },
     {
       "key": "li-2",
       "label": "LI 2",
       "content": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "Tools ▾ SEO Tools",
+      "text": "Tools ▾ SEO Tools"
     },
     {
       "key": "li-3",
       "label": "LI 3",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-4",
       "label": "LI 4",
       "content": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
       "original": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>",
+      "originalText": "Spy & Ad Intelligence",
+      "text": "Spy & Ad Intelligence"
     },
     {
       "key": "li-5",
       "label": "LI 5",
       "content": "<a href=\"../../ai-writing-tools/\">AI Writing Tools</a>",
       "original": "<a href=\"../../ai-writing-tools/\">AI Writing Tools</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing Tools</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing Tools</a></li>",
+      "originalText": "AI Writing Tools",
+      "text": "AI Writing Tools"
     },
     {
       "key": "li-6",
       "label": "LI 6",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>",
+      "originalText": "E-commerce Tools",
+      "text": "E-commerce Tools"
     },
     {
       "key": "li-7",
       "label": "LI 7",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "li-8",
       "label": "LI 8",
       "content": "<a href=\"../../education-tools/\">Education</a>",
       "original": "<a href=\"../../education-tools/\">Education</a>",
-      "source": "<li><a href=\"../../education-tools/\">Education</a></li>"
+      "source": "<li><a href=\"../../education-tools/\">Education</a></li>",
+      "originalText": "Education",
+      "text": "Education"
     },
     {
       "key": "li-9",
       "label": "LI 9",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "li-10",
       "label": "LI 10",
       "content": "<a href=\"../../best-providers/\">Providers</a>",
       "original": "<a href=\"../../best-providers/\">Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>",
+      "originalText": "Providers",
+      "text": "Providers"
     },
     {
       "key": "li-11",
       "label": "LI 11",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-12",
       "label": "LI 12",
       "content": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
       "original": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
-      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>"
+      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>",
+      "originalText": "Get Started",
+      "text": "Get Started"
     },
     {
       "key": "h1-1",
       "label": "H1 1",
       "content": "Technical SEO Audit with Group Buy Tools",
       "original": "Technical SEO Audit with Group Buy Tools",
-      "source": "<h1>Technical SEO Audit with Group Buy Tools</h1>"
+      "source": "<h1>Technical SEO Audit with Group Buy Tools</h1>",
+      "originalText": "Technical SEO Audit with Group Buy Tools",
+      "text": "Technical SEO Audit with Group Buy Tools"
     },
     {
       "key": "h2-1",
       "label": "H2 1",
       "content": "How Do You Use SEO Group Buy Tools for Technical SEO Audit?",
       "original": "How Do You Use SEO Group Buy Tools for Technical SEO Audit?",
-      "source": "<h2>How Do You Use SEO Group Buy Tools for Technical SEO Audit?</h2>"
+      "source": "<h2>How Do You Use SEO Group Buy Tools for Technical SEO Audit?</h2>",
+      "originalText": "How Do You Use SEO Group Buy Tools for Technical SEO Audit?",
+      "text": "How Do You Use SEO Group Buy Tools for Technical SEO Audit?"
     },
     {
       "key": "p-1",
       "label": "P 1",
       "content": "Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.",
       "original": "Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.",
-      "source": "<p class=\"answer-snippet\">Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.</p>"
+      "source": "<p class=\"answer-snippet\">Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.</p>",
+      "originalText": "Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.",
+      "text": "Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues."
     },
     {
       "key": "h2-2",
       "label": "H2 2",
       "content": "Which Tools Are Best for Technical SEO Audit?",
       "original": "Which Tools Are Best for Technical SEO Audit?",
-      "source": "<h2>Which Tools Are Best for Technical SEO Audit?</h2>"
+      "source": "<h2>Which Tools Are Best for Technical SEO Audit?</h2>",
+      "originalText": "Which Tools Are Best for Technical SEO Audit?",
+      "text": "Which Tools Are Best for Technical SEO Audit?"
     },
     {
       "key": "p-2",
       "label": "P 2",
       "content": "SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&amp;#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.",
       "original": "SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&amp;#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.",
-      "source": "<p class=\"answer-snippet\">SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&amp;#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.</p>"
+      "source": "<p class=\"answer-snippet\">SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&amp;#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.</p>",
+      "originalText": "SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.",
+      "text": "SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available."
     },
     {
       "key": "p-3",
       "label": "P 3",
       "content": "Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.",
       "original": "Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.",
-      "source": "<p>Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.</p>"
+      "source": "<p>Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.</p>",
+      "originalText": "Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.",
+      "text": "Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy."
     },
     {
       "key": "p-4",
       "label": "P 4",
       "content": "Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&amp;#x27;s current authority.",
       "original": "Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&amp;#x27;s current authority.",
-      "source": "<p>Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&amp;#x27;s current authority.</p>"
+      "source": "<p>Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&amp;#x27;s current authority.</p>",
+      "originalText": "Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&#x27;s current authority.",
+      "text": "Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&#x27;s current authority."
     },
     {
       "key": "p-5",
       "label": "P 5",
       "content": "Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&amp;#x27;s own keyword suggestions for your seed terms.",
       "original": "Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&amp;#x27;s own keyword suggestions for your seed terms.",
-      "source": "<p>Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&amp;#x27;s own keyword suggestions for your seed terms.</p>"
+      "source": "<p>Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&amp;#x27;s own keyword suggestions for your seed terms.</p>",
+      "originalText": "Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&#x27;s own keyword suggestions for your seed terms.",
+      "text": "Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&#x27;s own keyword suggestions for your seed terms."
     },
     {
       "key": "h2-3",
       "label": "H2 3",
       "content": "How Do You Find Critical Site Issues?",
       "original": "How Do You Find Critical Site Issues?",
-      "source": "<h2>How Do You Find Critical Site Issues?</h2>"
+      "source": "<h2>How Do You Find Critical Site Issues?</h2>",
+      "originalText": "How Do You Find Critical Site Issues?",
+      "text": "How Do You Find Critical Site Issues?"
     },
     {
       "key": "p-6",
       "label": "P 6",
       "content": "Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.",
       "original": "Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.",
-      "source": "<p class=\"answer-snippet\">Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.</p>"
+      "source": "<p class=\"answer-snippet\">Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.</p>",
+      "originalText": "Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.",
+      "text": "Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services."
     },
     {
       "key": "p-7",
       "label": "P 7",
       "content": "Enter each into SEMrush&amp;#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.",
       "original": "Enter each into SEMrush&amp;#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.",
-      "source": "<p>Enter each into SEMrush&amp;#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.</p>"
+      "source": "<p>Enter each into SEMrush&amp;#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.</p>",
+      "originalText": "Enter each into SEMrush&#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.",
+      "text": "Enter each into SEMrush&#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates."
     },
     {
       "key": "p-8",
       "label": "P 8",
       "content": "Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.",
       "original": "Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.",
-      "source": "<p>Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.</p>"
+      "source": "<p>Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.</p>",
+      "originalText": "Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.",
+      "text": "Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation."
     },
     {
       "key": "p-9",
       "label": "P 9",
       "content": "Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &amp;#x27;Missing&amp;#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.",
       "original": "Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &amp;#x27;Missing&amp;#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.",
-      "source": "<p>Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &amp;#x27;Missing&amp;#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.</p>"
+      "source": "<p>Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &amp;#x27;Missing&amp;#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.</p>",
+      "originalText": "Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &#x27;Missing&#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.",
+      "text": "Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &#x27;Missing&#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity."
     },
     {
       "key": "h2-4",
       "label": "H2 4",
       "content": "How Do You Assess Crawl & Indexing Health?",
       "original": "How Do You Assess Crawl & Indexing Health?",
-      "source": "<h2>How Do You Assess Crawl & Indexing Health?</h2>"
+      "source": "<h2>How Do You Assess Crawl & Indexing Health?</h2>",
+      "originalText": "How Do You Assess Crawl & Indexing Health?",
+      "text": "How Do You Assess Crawl & Indexing Health?"
     },
     {
       "key": "p-10",
       "label": "P 10",
       "content": "Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&amp;#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.",
       "original": "Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&amp;#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.",
-      "source": "<p class=\"answer-snippet\">Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&amp;#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.</p>"
+      "source": "<p class=\"answer-snippet\">Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&amp;#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.</p>",
+      "originalText": "Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.",
+      "text": "Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&#x27; KD score provides the quickest difficulty assessment on a 0–100 scale."
     },
     {
       "key": "p-11",
       "label": "P 11",
       "content": "Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.",
       "original": "Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.",
-      "source": "<p>Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.</p>"
+      "source": "<p>Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.</p>",
+      "originalText": "Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.",
+      "text": "Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages."
     },
     {
       "key": "p-12",
       "label": "P 12",
       "content": "Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.",
       "original": "Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.",
-      "source": "<p>Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.</p>"
+      "source": "<p>Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.</p>",
+      "originalText": "Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.",
+      "text": "Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty."
     },
     {
       "key": "p-13",
       "label": "P 13",
       "content": "Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.",
       "original": "Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.",
-      "source": "<p>Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.</p>"
+      "source": "<p>Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.</p>",
+      "originalText": "Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.",
+      "text": "Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush."
     },
     {
       "key": "h2-5",
       "label": "H2 5",
       "content": "How Do You Build a Technical Fix Priority Plan?",
       "original": "How Do You Build a Technical Fix Priority Plan?",
-      "source": "<h2>How Do You Build a Technical Fix Priority Plan?</h2>"
+      "source": "<h2>How Do You Build a Technical Fix Priority Plan?</h2>",
+      "originalText": "How Do You Build a Technical Fix Priority Plan?",
+      "text": "How Do You Build a Technical Fix Priority Plan?"
     },
     {
       "key": "p-14",
       "label": "P 14",
       "content": "Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.",
       "original": "Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.",
-      "source": "<p class=\"answer-snippet\">Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.</p>"
+      "source": "<p class=\"answer-snippet\">Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.</p>",
+      "originalText": "Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.",
+      "text": "Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters."
     },
     {
       "key": "p-15",
       "label": "P 15",
       "content": "Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.",
       "original": "Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.",
-      "source": "<p>Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.</p>"
+      "source": "<p>Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.</p>",
+      "originalText": "Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.",
+      "text": "Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster."
     },
     {
       "key": "p-16",
       "label": "P 16",
       "content": "Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&amp;#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.",
       "original": "Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&amp;#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.",
-      "source": "<p>Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&amp;#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.</p>"
+      "source": "<p>Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&amp;#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.</p>",
+      "originalText": "Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.",
+      "text": "Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts."
     },
     {
       "key": "p-17",
       "label": "P 17",
       "content": "Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.",
       "original": "Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.",
-      "source": "<p>Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.</p>"
+      "source": "<p>Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.</p>",
+      "originalText": "Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.",
+      "text": "Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords."
     },
     {
       "key": "p-18",
       "label": "P 18",
       "content": "This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.",
       "original": "This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.",
-      "source": "<p>This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.</p>"
+      "source": "<p>This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.</p>",
+      "originalText": "This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.",
+      "text": "This compound growth strategy delivers results faster than targeting high-difficulty terms from the start."
     },
     {
       "key": "h2-6",
       "label": "H2 6",
       "content": "What Are the References for This Page?",
       "original": "What Are the References for This Page?",
-      "source": "<h2>What Are the References for This Page?</h2>"
+      "source": "<h2>What Are the References for This Page?</h2>",
+      "originalText": "What Are the References for This Page?",
+      "text": "What Are the References for This Page?"
     },
     {
       "key": "p-19",
       "label": "P 19",
       "content": "SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides",
       "original": "SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides",
-      "source": "<p class=\"answer-snippet\">SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides</p>"
+      "source": "<p class=\"answer-snippet\">SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides</p>",
+      "originalText": "SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides",
+      "text": "SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides"
     },
     {
       "key": "h3-1",
       "label": "H3 1",
       "content": "Get Started Today",
       "original": "Get Started Today",
-      "source": "<h3>Get Started Today</h3>"
+      "source": "<h3>Get Started Today</h3>",
+      "originalText": "Get Started Today",
+      "text": "Get Started Today"
     },
     {
       "key": "p-20",
       "label": "P 20",
       "content": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
       "original": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
-      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>"
+      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
+      "originalText": "Access 50+ premium SEO tools from $5/month",
+      "text": "Access 50+ premium SEO tools from $5/month"
     },
     {
       "key": "h3-2",
       "label": "H3 2",
       "content": "Tool Categories",
       "original": "Tool Categories",
-      "source": "<h3>Tool Categories</h3>"
+      "source": "<h3>Tool Categories</h3>",
+      "originalText": "Tool Categories",
+      "text": "Tool Categories"
     },
     {
       "key": "li-13",
       "label": "LI 13",
       "content": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
       "original": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
-      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>"
+      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
+      "originalText": "🔍 SEO Tools 12",
+      "text": "🔍 SEO Tools 12"
     },
     {
       "key": "li-14",
       "label": "LI 14",
       "content": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
+      "originalText": "🎨 Design Tools 5",
+      "text": "🎨 Design Tools 5"
     },
     {
       "key": "li-15",
       "label": "LI 15",
       "content": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
+      "originalText": "🕵️ Spy & Ad Intelligence 5",
+      "text": "🕵️ Spy & Ad Intelligence 5"
     },
     {
       "key": "li-16",
       "label": "LI 16",
       "content": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "✍️ AI Writing Tools 4",
+      "text": "✍️ AI Writing Tools 4"
     },
     {
       "key": "li-17",
       "label": "LI 17",
       "content": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "🛒 E-commerce Tools 4",
+      "text": "🛒 E-commerce Tools 4"
     },
     {
       "key": "li-18",
       "label": "LI 18",
       "content": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "📱 Social Media Tools 3",
+      "text": "📱 Social Media Tools 3"
     },
     {
       "key": "li-19",
       "label": "LI 19",
       "content": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "🎓 Education Tools 3",
+      "text": "🎓 Education Tools 3"
     },
     {
       "key": "h3-3",
       "label": "H3 3",
       "content": "Popular Tools",
       "original": "Popular Tools",
-      "source": "<h3>Popular Tools</h3>"
+      "source": "<h3>Popular Tools</h3>",
+      "originalText": "Popular Tools",
+      "text": "Popular Tools"
     },
     {
       "key": "li-20",
       "label": "LI 20",
       "content": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
       "original": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
+      "originalText": "SEMrush Group Buy",
+      "text": "SEMrush Group Buy"
     },
     {
       "key": "li-21",
       "label": "LI 21",
       "content": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
       "original": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
+      "originalText": "Ahrefs Group Buy",
+      "text": "Ahrefs Group Buy"
     },
     {
       "key": "li-22",
       "label": "LI 22",
       "content": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
       "original": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
+      "originalText": "Moz Pro Group Buy",
+      "text": "Moz Pro Group Buy"
     },
     {
       "key": "li-23",
       "label": "LI 23",
       "content": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
       "original": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
+      "originalText": "Surfer SEO Group Buy",
+      "text": "Surfer SEO Group Buy"
     },
     {
       "key": "li-24",
       "label": "LI 24",
       "content": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
       "original": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
-      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
+      "originalText": "Canva Pro Group Buy",
+      "text": "Canva Pro Group Buy"
     },
     {
       "key": "li-25",
       "label": "LI 25",
       "content": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
       "original": "<a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "h3-4",
       "label": "H3 4",
       "content": "Why Choose Us",
       "original": "Why Choose Us",
-      "source": "<h3>Why Choose Us</h3>"
+      "source": "<h3>Why Choose Us</h3>",
+      "originalText": "Why Choose Us",
+      "text": "Why Choose Us"
     },
     {
       "key": "li-26",
       "label": "LI 26",
       "content": "✓ 50+ Premium Tools",
       "original": "✓ 50+ Premium Tools",
-      "source": "<li>✓ 50+ Premium Tools</li>"
+      "source": "<li>✓ 50+ Premium Tools</li>",
+      "originalText": "✓ 50+ Premium Tools",
+      "text": "✓ 50+ Premium Tools"
     },
     {
       "key": "li-27",
       "label": "LI 27",
       "content": "✓ 90%+ Uptime Guaranteed",
       "original": "✓ 90%+ Uptime Guaranteed",
-      "source": "<li>✓ 90%+ Uptime Guaranteed</li>"
+      "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
+      "originalText": "✓ 90%+ Uptime Guaranteed",
+      "text": "✓ 90%+ Uptime Guaranteed"
     },
     {
       "key": "li-28",
       "label": "LI 28",
       "content": "✓ Instant Access Setup",
       "original": "✓ Instant Access Setup",
-      "source": "<li>✓ Instant Access Setup</li>"
+      "source": "<li>✓ Instant Access Setup</li>",
+      "originalText": "✓ Instant Access Setup",
+      "text": "✓ Instant Access Setup"
     },
     {
       "key": "li-29",
       "label": "LI 29",
       "content": "✓ 24/7 Support",
       "original": "✓ 24/7 Support",
-      "source": "<li>✓ 24/7 Support</li>"
+      "source": "<li>✓ 24/7 Support</li>",
+      "originalText": "✓ 24/7 Support",
+      "text": "✓ 24/7 Support"
     },
     {
       "key": "li-30",
       "label": "LI 30",
       "content": "✓ Secure Payments",
       "original": "✓ Secure Payments",
-      "source": "<li>✓ Secure Payments</li>"
+      "source": "<li>✓ Secure Payments</li>",
+      "originalText": "✓ Secure Payments",
+      "text": "✓ Secure Payments"
     },
     {
       "key": "h2-7",
       "label": "H2 7",
       "content": "Ready to Get Started?",
       "original": "Ready to Get Started?",
-      "source": "<h2>Ready to Get Started?</h2>"
+      "source": "<h2>Ready to Get Started?</h2>",
+      "originalText": "Ready to Get Started?",
+      "text": "Ready to Get Started?"
     },
     {
       "key": "p-21",
       "label": "P 21",
       "content": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
       "original": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
-      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>"
+      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
+      "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+      "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee."
     },
     {
       "key": "p-22",
       "label": "P 22",
       "content": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
       "original": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
-      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>"
+      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>",
+      "originalText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
+      "text": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
     },
     {
       "key": "h4-1",
       "label": "H4 1",
       "content": "Categories",
       "original": "Categories",
-      "source": "<h4>Categories</h4>"
+      "source": "<h4>Categories</h4>",
+      "originalText": "Categories",
+      "text": "Categories"
     },
     {
       "key": "li-31",
       "label": "LI 31",
       "content": "<a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": "<a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "SEO Tools",
+      "text": "SEO Tools"
     },
     {
       "key": "li-32",
       "label": "LI 32",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-33",
       "label": "LI 33",
       "content": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
       "original": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>",
+      "originalText": "Spy & Ad Tools",
+      "text": "Spy & Ad Tools"
     },
     {
       "key": "li-34",
       "label": "LI 34",
       "content": "<a href=\"../../ai-writing-tools/\">AI Writing</a>",
       "original": "<a href=\"../../ai-writing-tools/\">AI Writing</a>",
-      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing</a></li>"
+      "source": "<li><a href=\"../../ai-writing-tools/\">AI Writing</a></li>",
+      "originalText": "AI Writing",
+      "text": "AI Writing"
     },
     {
       "key": "li-35",
       "label": "LI 35",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>",
+      "originalText": "E-commerce",
+      "text": "E-commerce"
     },
     {
       "key": "li-36",
       "label": "LI 36",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "h4-2",
       "label": "H4 2",
       "content": "Resources",
       "original": "Resources",
-      "source": "<h4>Resources</h4>"
+      "source": "<h4>Resources</h4>",
+      "originalText": "Resources",
+      "text": "Resources"
     },
     {
       "key": "li-37",
       "label": "LI 37",
       "content": "<a href=\"../../how-it-works/\">How It Works</a>",
       "original": "<a href=\"../../how-it-works/\">How It Works</a>",
-      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>"
+      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>",
+      "originalText": "How It Works",
+      "text": "How It Works"
     },
     {
       "key": "li-38",
       "label": "LI 38",
       "content": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
       "original": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
-      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>"
+      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>",
+      "originalText": "Is It Safe?",
+      "text": "Is It Safe?"
     },
     {
       "key": "li-39",
       "label": "LI 39",
       "content": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
       "original": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
-      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>"
+      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>",
+      "originalText": "Is It Legal?",
+      "text": "Is It Legal?"
     },
     {
       "key": "li-40",
       "label": "LI 40",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-41",
       "label": "LI 41",
       "content": "<a href=\"../../best-providers/\">Best Providers</a>",
       "original": "<a href=\"../../best-providers/\">Best Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>",
+      "originalText": "Best Providers",
+      "text": "Best Providers"
     },
     {
       "key": "li-42",
       "label": "LI 42",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "h4-3",
       "label": "H4 3",
       "content": "Guides",
       "original": "Guides",
-      "source": "<h4>Guides</h4>"
+      "source": "<h4>Guides</h4>",
+      "originalText": "Guides",
+      "text": "Guides"
     },
     {
       "key": "li-43",
       "label": "LI 43",
       "content": "<a href=\"../keyword-research/\">Keyword Research</a>",
       "original": "<a href=\"../keyword-research/\">Keyword Research</a>",
-      "source": "<li><a href=\"../keyword-research/\">Keyword Research</a></li>"
+      "source": "<li><a href=\"../keyword-research/\">Keyword Research</a></li>",
+      "originalText": "Keyword Research",
+      "text": "Keyword Research"
     },
     {
       "key": "li-44",
       "label": "LI 44",
       "content": "<a href=\"../backlink-analysis/\">Backlink Analysis</a>",
       "original": "<a href=\"../backlink-analysis/\">Backlink Analysis</a>",
-      "source": "<li><a href=\"../backlink-analysis/\">Backlink Analysis</a></li>"
+      "source": "<li><a href=\"../backlink-analysis/\">Backlink Analysis</a></li>",
+      "originalText": "Backlink Analysis",
+      "text": "Backlink Analysis"
     },
     {
       "key": "li-45",
       "label": "LI 45",
       "content": "<a href=\"./\">Technical SEO Audit</a>",
       "original": "<a href=\"./\">Technical SEO Audit</a>",
-      "source": "<li><a href=\"./\">Technical SEO Audit</a></li>"
+      "source": "<li><a href=\"./\">Technical SEO Audit</a></li>",
+      "originalText": "Technical SEO Audit",
+      "text": "Technical SEO Audit"
     },
     {
       "key": "li-46",
       "label": "LI 46",
       "content": "<a href=\"../content-optimization/\">Content Optimization</a>",
       "original": "<a href=\"../content-optimization/\">Content Optimization</a>",
-      "source": "<li><a href=\"../content-optimization/\">Content Optimization</a></li>"
+      "source": "<li><a href=\"../content-optimization/\">Content Optimization</a></li>",
+      "originalText": "Content Optimization",
+      "text": "Content Optimization"
     },
     {
       "key": "li-47",
       "label": "LI 47",
       "content": "<a href=\"../ppc-ad-spy-research/\">PPC Research</a>",
       "original": "<a href=\"../ppc-ad-spy-research/\">PPC Research</a>",
-      "source": "<li><a href=\"../ppc-ad-spy-research/\">PPC Research</a></li>"
+      "source": "<li><a href=\"../ppc-ad-spy-research/\">PPC Research</a></li>",
+      "originalText": "PPC Research",
+      "text": "PPC Research"
     },
     {
       "key": "li-48",
       "label": "LI 48",
       "content": "<a href=\"../ecommerce-product-research/\">Amazon Selling</a>",
       "original": "<a href=\"../ecommerce-product-research/\">Amazon Selling</a>",
-      "source": "<li><a href=\"../ecommerce-product-research/\">Amazon Selling</a></li>"
+      "source": "<li><a href=\"../ecommerce-product-research/\">Amazon Selling</a></li>",
+      "originalText": "Amazon Selling",
+      "text": "Amazon Selling"
     },
     {
       "key": "h4-4",
       "label": "H4 4",
       "content": "Trust & Safety",
       "original": "Trust & Safety",
-      "source": "<h4>Trust & Safety</h4>"
+      "source": "<h4>Trust & Safety</h4>",
+      "originalText": "Trust & Safety",
+      "text": "Trust & Safety"
     },
     {
       "key": "li-49",
       "label": "LI 49",
       "content": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
       "original": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
-      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>"
+      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>",
+      "originalText": "Are They Legitimate?",
+      "text": "Are They Legitimate?"
     },
     {
       "key": "li-50",
       "label": "LI 50",
       "content": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
       "original": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
-      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>"
+      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>",
+      "originalText": "Choose Provider",
+      "text": "Choose Provider"
     },
     {
       "key": "li-51",
       "label": "LI 51",
       "content": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
       "original": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
-      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>"
+      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>",
+      "originalText": "Avoid Scams",
+      "text": "Avoid Scams"
     },
     {
       "key": "li-52",
       "label": "LI 52",
       "content": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
       "original": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
-      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>"
+      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>",
+      "originalText": "Tool Downtime",
+      "text": "Tool Downtime"
     },
     {
       "key": "li-53",
       "label": "LI 53",
       "content": "<a href=\"../../trust/countries/\">Countries</a>",
       "original": "<a href=\"../../trust/countries/\">Countries</a>",
-      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>"
+      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>",
+      "originalText": "Countries",
+      "text": "Countries"
     },
     {
       "key": "p-23",
       "label": "P 23",
       "content": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
       "original": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
-      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>"
+      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>",
+      "originalText": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms",
+      "text": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms"
+    }
+  ],
+  "links": [
+    {
+      "url": "../../seo-tools/semrush/",
+      "originalUrl": "../../seo-tools/semrush/",
+      "text": "SEMrush Group Buy",
+      "originalText": "SEMrush Group Buy",
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/kwfinder/",
+      "originalUrl": "../../seo-tools/kwfinder/",
+      "text": "KWFinder Group Buy",
+      "originalText": "KWFinder Group Buy",
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/ubersuggest/",
+      "originalUrl": "../../seo-tools/ubersuggest/",
+      "text": "Ubersuggest Group Buy",
+      "originalText": "Ubersuggest Group Buy",
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/",
+      "originalUrl": "../../seo-tools/",
+      "text": "SEO Tools",
+      "originalText": "SEO Tools",
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+    },
+    {
+      "url": "../../seo-tools/semrush/",
+      "originalUrl": "../../seo-tools/semrush/",
+      "text": "SEMrush Group Buy",
+      "originalText": "SEMrush Group Buy",
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/kwfinder/",
+      "originalUrl": "../../seo-tools/kwfinder/",
+      "text": "KWFinder Group Buy",
+      "originalText": "KWFinder Group Buy",
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/ubersuggest/",
+      "originalUrl": "../../seo-tools/ubersuggest/",
+      "text": "Ubersuggest Group Buy",
+      "originalText": "Ubersuggest Group Buy",
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/",
+      "originalUrl": "../../seo-tools/",
+      "text": "SEO Tools",
+      "originalText": "SEO Tools",
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+    },
+    {
+      "url": "../../seo-tools/semrush/",
+      "originalUrl": "../../seo-tools/semrush/",
+      "text": "SEMrush Group Buy",
+      "originalText": "SEMrush Group Buy",
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/kwfinder/",
+      "originalUrl": "../../seo-tools/kwfinder/",
+      "text": "KWFinder Group Buy",
+      "originalText": "KWFinder Group Buy",
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/ubersuggest/",
+      "originalUrl": "../../seo-tools/ubersuggest/",
+      "text": "Ubersuggest Group Buy",
+      "originalText": "Ubersuggest Group Buy",
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/",
+      "originalUrl": "../../seo-tools/",
+      "text": "SEO Tools",
+      "originalText": "SEO Tools",
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+    },
+    {
+      "url": "../../seo-tools/semrush/",
+      "originalUrl": "../../seo-tools/semrush/",
+      "text": "SEMrush Group Buy",
+      "originalText": "SEMrush Group Buy",
+      "source": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/kwfinder/",
+      "originalUrl": "../../seo-tools/kwfinder/",
+      "text": "KWFinder Group Buy",
+      "originalText": "KWFinder Group Buy",
+      "source": "<a href=\"../../seo-tools/kwfinder/\">KWFinder Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/ubersuggest/",
+      "originalUrl": "../../seo-tools/ubersuggest/",
+      "text": "Ubersuggest Group Buy",
+      "originalText": "Ubersuggest Group Buy",
+      "source": "<a href=\"../../seo-tools/ubersuggest/\">Ubersuggest Group Buy</a>"
+    },
+    {
+      "url": "../../seo-tools/",
+      "originalUrl": "../../seo-tools/",
+      "text": "SEO Tools",
+      "originalText": "SEO Tools",
+      "source": "<a href=\"../../seo-tools/\">SEO Tools</a>"
+    }
+  ],
+  "images": [],
+  "editorContent": [
+    {
+      "text": "How Do You Use SEO Group Buy Tools for Technical SEO Audit?",
+      "originalText": "How Do You Use SEO Group Buy Tools for Technical SEO Audit?",
+      "source": "<h2>How Do You Use SEO Group Buy Tools for Technical SEO Audit?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.",
+      "originalText": "Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.",
+      "source": "<p class=\"answer-snippet\">Keyword research is the foundation of every successful SEO campaign, and SEO Group Buy Tools provide access to premium site audit and crawl tools that reveal crawl errors and indexing issues.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Which Tools Are Best for Technical SEO Audit?",
+      "originalText": "Which Tools Are Best for Technical SEO Audit?",
+      "source": "<h2>Which Tools Are Best for Technical SEO Audit?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.",
+      "originalText": "SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.",
+      "source": "<p class=\"answer-snippet\">SEMrush Site Audit tool offers the largest keyword database with 20B+ entries, Ahrefs provides the most accurate difficulty scores, and Ubersuggest gives free baseline data for initial exploration. SEMrush&amp;#x27;s Site Audit tool is the most comprehensive technical SEO audit tool available.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.",
+      "originalText": "Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.",
+      "source": "<p>Enter a seed keyword and it generates thousands of related terms with search volume, trend data, site health score, and competitive density. The filtering options allow precise segmentation by word count, SERP features, and intent. Ahrefs Keywords Explorer excels in site health score accuracy.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&#x27;s current authority.",
+      "originalText": "Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&#x27;s current authority.",
+      "source": "<p>Its KD score is calculated based on the actual referring domains of top-ranking pages, giving you a realistic assessment of ranking difficulty. This prevents wasted effort on keywords that are too competitive for your site&amp;#x27;s current authority.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&#x27;s own keyword suggestions for your seed terms.",
+      "originalText": "Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&#x27;s own keyword suggestions for your seed terms.",
+      "source": "<p>Google Keyword Planner provides the foundational search volume data directly from Google. While less feature-rich than SEMrush or Ahrefs, its data comes from the source. Use it to validate search volumes from third-party tools and discover Google&amp;#x27;s own keyword suggestions for your seed terms.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "How Do You Find Critical Site Issues?",
+      "originalText": "How Do You Find Critical Site Issues?",
+      "source": "<h2>How Do You Find Critical Site Issues?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.",
+      "originalText": "Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.",
+      "source": "<p class=\"answer-snippet\">Find profitable keywords by starting with seed terms in SEMrush, filtering for commercial intent, targeting keywords with volume above 100 and difficulty below 40, then validating with Ahrefs difficulty data. Begin with 5–10 seed keywords that describe your business, products, or services.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Enter each into SEMrush&#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.",
+      "originalText": "Enter each into SEMrush&#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.",
+      "source": "<p>Enter each into SEMrush&amp;#x27;s Site Audit tool to generate hundreds of related terms. Focus on question-based keywords and long-tail phrases that indicate specific search intent, as these convert at higher rates.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.",
+      "originalText": "Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.",
+      "source": "<p>Apply filters to narrow your list: minimum search volume of 100/month, site health score below 40 for newer sites or below 60 for established domains, and commercial or transactional intent where possible. Export the filtered list and cross-reference with Google Keyword Planner for volume validation.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &#x27;Missing&#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.",
+      "originalText": "Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &#x27;Missing&#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.",
+      "source": "<p>Identify keyword gaps by analyzing which keywords your competitors rank for that you do not. In SEMrush, use the Keyword Gap tool to compare your domain against 3–4 competitors. The &amp;#x27;Missing&amp;#x27; tab reveals keywords driving traffic to competitors that you are not yet targeting, providing immediate opportunity.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "How Do You Assess Crawl & Indexing Health?",
+      "originalText": "How Do You Assess Crawl & Indexing Health?",
+      "source": "<h2>How Do You Assess Crawl & Indexing Health?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.",
+      "originalText": "Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.",
+      "source": "<p class=\"answer-snippet\">Assess site health score by checking Ahrefs KD score, analyzing the Domain Rating of top 10 ranking pages, examining their backlink counts, and determining if SERP features like featured snippets reduce effective competition. Ahrefs&amp;#x27; KD score provides the quickest difficulty assessment on a 0–100 scale.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.",
+      "originalText": "Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.",
+      "source": "<p>Keywords scoring 0–20 are easy targets for new sites, 20–40 are moderate and achievable with good content, 40–60 require strong content plus link building, and 60+ demand significant domain authority to compete. Beyond the numerical KD score, analyze the actual top 10 ranking pages.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.",
+      "originalText": "Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.",
+      "source": "<p>Check their Domain Rating, number of referring domains, and content quality. If several low-DR pages rank in the top 10, the keyword may be easier than its KD score suggests. Conversely, high-DR sites dominating the SERP indicates a harder path. SERP features impact effective difficulty.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.",
+      "originalText": "Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.",
+      "source": "<p>Keywords triggering featured snippets, People Also Ask boxes, or knowledge panels change the competitive landscape. Featured snippets can be won with well-structured content even against stronger domains. Check which SERP features appear for your target keywords using SEMrush.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "How Do You Build a Technical Fix Priority Plan?",
+      "originalText": "How Do You Build a Technical Fix Priority Plan?",
+      "source": "<h2>How Do You Build a Technical Fix Priority Plan?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.",
+      "originalText": "Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.",
+      "source": "<p class=\"answer-snippet\">Build a keyword strategy by clustering related terms into topic clusters, mapping keywords to pages, prioritizing by business value and difficulty, and creating a content calendar that targets quick wins before competitive terms. Organize your technical SEO audit into topic clusters.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.",
+      "originalText": "Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.",
+      "source": "<p>Each cluster centers on a pillar keyword (broad term) surrounded by cluster keywords (specific long-tail variations). Map each cluster to a pillar page and supporting content pieces. This structure signals topical authority to search engines and improves rankings across the cluster.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.",
+      "originalText": "Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.",
+      "source": "<p>Map keywords to specific pages on your site. Each page should target one primary keyword and 2–5 secondary keywords. Avoid keyword cannibalization where multiple pages compete for the same term. Use SEMrush&amp;#x27;s Position Tracking to monitor which pages rank for which keywords and identify conflicts.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.",
+      "originalText": "Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.",
+      "source": "<p>Create a prioritized content calendar based on the quick-wins-first approach. Target low-difficulty keywords initially to build traffic momentum and domain authority. As your site gains strength, tackle progressively more competitive keywords.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.",
+      "originalText": "This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.",
+      "source": "<p>This compound growth strategy delivers results faster than targeting high-difficulty terms from the start.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "What Are the References for This Page?",
+      "originalText": "What Are the References for This Page?",
+      "source": "<h2>What Are the References for This Page?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides",
+      "originalText": "SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides",
+      "source": "<p class=\"answer-snippet\">SEMrush Technical SEO Audit Guide – semrush.com/blog/keyword-research Ahrefs Crawl & Indexing Health Explained – ahrefs.com/blog/keyword-difficulty Google Keyword Planner Tutorial – support.google.com/google-ads Topic Cluster Strategy Guide – hubspot.com/topic-clusters SEO Group Buy Technical SEO Audit Workflow – seogroupsbuytools.com/guides</p>",
+      "tag": "p"
     }
   ]
 }

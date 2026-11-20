@@ -13,735 +13,1262 @@
       "label": "LI 1",
       "content": "<a href=\"../\">Home</a>",
       "original": "<a href=\"../\">Home</a>",
-      "source": "<li><a href=\"../\">Home</a></li>"
+      "source": "<li><a href=\"../\">Home</a></li>",
+      "originalText": "Home",
+      "text": "Home"
     },
     {
       "key": "li-2",
       "label": "LI 2",
       "content": " <a href=\"../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../seo-tools/\">SEO Tools</a>",
       "original": " <a href=\"../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../seo-tools/\">SEO Tools</a>",
-      "source": "<li class=\"has-dropdown\"> <a href=\"../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li class=\"has-dropdown\"> <a href=\"../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "Tools ▾ SEO Tools",
+      "text": "Tools ▾ SEO Tools"
     },
     {
       "key": "li-3",
       "label": "LI 3",
       "content": "<a href=\"../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-4",
       "label": "LI 4",
       "content": "<a href=\"../spy-tools/\">Spy & Ad Intelligence</a>",
       "original": "<a href=\"../spy-tools/\">Spy & Ad Intelligence</a>",
-      "source": "<li><a href=\"../spy-tools/\">Spy & Ad Intelligence</a></li>"
+      "source": "<li><a href=\"../spy-tools/\">Spy & Ad Intelligence</a></li>",
+      "originalText": "Spy & Ad Intelligence",
+      "text": "Spy & Ad Intelligence"
     },
     {
       "key": "li-5",
       "label": "LI 5",
       "content": "<a href=\"../ai-writing-tools/\">AI Writing Tools</a>",
       "original": "<a href=\"../ai-writing-tools/\">AI Writing Tools</a>",
-      "source": "<li><a href=\"../ai-writing-tools/\">AI Writing Tools</a></li>"
+      "source": "<li><a href=\"../ai-writing-tools/\">AI Writing Tools</a></li>",
+      "originalText": "AI Writing Tools",
+      "text": "AI Writing Tools"
     },
     {
       "key": "li-6",
       "label": "LI 6",
       "content": "<a href=\"../ecommerce-tools/\">E-commerce Tools</a>",
       "original": "<a href=\"../ecommerce-tools/\">E-commerce Tools</a>",
-      "source": "<li><a href=\"../ecommerce-tools/\">E-commerce Tools</a></li>"
+      "source": "<li><a href=\"../ecommerce-tools/\">E-commerce Tools</a></li>",
+      "originalText": "E-commerce Tools",
+      "text": "E-commerce Tools"
     },
     {
       "key": "li-7",
       "label": "LI 7",
       "content": "<a href=\"./\">Social Media</a>",
       "original": "<a href=\"./\">Social Media</a>",
-      "source": "<li><a href=\"./\">Social Media</a></li>"
+      "source": "<li><a href=\"./\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "li-8",
       "label": "LI 8",
       "content": "<a href=\"../education-tools/\">Education</a>",
       "original": "<a href=\"../education-tools/\">Education</a>",
-      "source": "<li><a href=\"../education-tools/\">Education</a></li>"
+      "source": "<li><a href=\"../education-tools/\">Education</a></li>",
+      "originalText": "Education",
+      "text": "Education"
     },
     {
       "key": "li-9",
       "label": "LI 9",
       "content": "<a href=\"../pricing/\">Pricing</a>",
       "original": "<a href=\"../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "li-10",
       "label": "LI 10",
       "content": "<a href=\"../best-providers/\">Providers</a>",
       "original": "<a href=\"../best-providers/\">Providers</a>",
-      "source": "<li><a href=\"../best-providers/\">Providers</a></li>"
+      "source": "<li><a href=\"../best-providers/\">Providers</a></li>",
+      "originalText": "Providers",
+      "text": "Providers"
     },
     {
       "key": "li-11",
       "label": "LI 11",
       "content": "<a href=\"../faq/\">FAQ</a>",
       "original": "<a href=\"../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-12",
       "label": "LI 12",
       "content": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
       "original": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
-      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>"
+      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>",
+      "originalText": "Get Started",
+      "text": "Get Started"
     },
     {
       "key": "h1-1",
       "label": "H1 1",
       "content": "Social Media Tools Group Buy",
       "original": "Social Media Tools Group Buy",
-      "source": "<h1>Social Media Tools Group Buy</h1>"
+      "source": "<h1>Social Media Tools Group Buy</h1>",
+      "originalText": "Social Media Tools Group Buy",
+      "text": "Social Media Tools Group Buy"
     },
     {
       "key": "h2-1",
       "label": "H2 1",
       "content": "What Social Media Tools Are Available Through SEO Group Buy Tools?",
       "original": "What Social Media Tools Are Available Through SEO Group Buy Tools?",
-      "source": "<h2>What Social Media Tools Are Available Through SEO Group Buy Tools?</h2>"
+      "source": "<h2>What Social Media Tools Are Available Through SEO Group Buy Tools?</h2>",
+      "originalText": "What Social Media Tools Are Available Through SEO Group Buy Tools?",
+      "text": "What Social Media Tools Are Available Through SEO Group Buy Tools?"
     },
     {
       "key": "p-1",
       "label": "P 1",
       "content": "SEO Group Buy Tools include social media management and YouTube optimization platforms that help content creators, agencies, and marketers manage accounts, analyze performance, and grow audiences across major social platforms.",
       "original": "SEO Group Buy Tools include social media management and YouTube optimization platforms that help content creators, agencies, and marketers manage accounts, analyze performance, and grow audiences across major social platforms.",
-      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools include social media management and YouTube optimization platforms that help content creators, agencies, and marketers manage accounts, analyze performance, and grow audiences across major social platforms.</p>"
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools include social media management and YouTube optimization platforms that help content creators, agencies, and marketers manage accounts, analyze performance, and grow audiences across major social platforms.</p>",
+      "originalText": "SEO Group Buy Tools include social media management and YouTube optimization platforms that help content creators, agencies, and marketers manage accounts, analyze performance, and grow audiences across major social platforms.",
+      "text": "SEO Group Buy Tools include social media management and YouTube optimization platforms that help content creators, agencies, and marketers manage accounts, analyze performance, and grow audiences across major social platforms."
     },
     {
       "key": "p-2",
       "label": "P 2",
       "content": "Group buy access makes these typically expensive management tools available at a fraction of individual subscription costs, enabling small teams and individual creators to compete with larger operations that can afford full-priced subscriptions.",
       "original": "Group buy access makes these typically expensive management tools available at a fraction of individual subscription costs, enabling small teams and individual creators to compete with larger operations that can afford full-priced subscriptions.",
-      "source": "<p>Group buy access makes these typically expensive management tools available at a fraction of individual subscription costs, enabling small teams and individual creators to compete with larger operations that can afford full-priced subscriptions.</p>"
+      "source": "<p>Group buy access makes these typically expensive management tools available at a fraction of individual subscription costs, enabling small teams and individual creators to compete with larger operations that can afford full-priced subscriptions.</p>",
+      "originalText": "Group buy access makes these typically expensive management tools available at a fraction of individual subscription costs, enabling small teams and individual creators to compete with larger operations that can afford full-priced subscriptions.",
+      "text": "Group buy access makes these typically expensive management tools available at a fraction of individual subscription costs, enabling small teams and individual creators to compete with larger operations that can afford full-priced subscriptions."
     },
     {
       "key": "h2-2",
       "label": "H2 2",
       "content": "What social media tools are available in SEO Group Buy Tools?",
       "original": "What social media tools are available in SEO Group Buy Tools?",
-      "source": "<h2>What social media tools are available in SEO Group Buy Tools?</h2>"
+      "source": "<h2>What social media tools are available in SEO Group Buy Tools?</h2>",
+      "originalText": "What social media tools are available in SEO Group Buy Tools?",
+      "text": "What social media tools are available in SEO Group Buy Tools?"
     },
     {
       "key": "p-3",
       "label": "P 3",
       "content": "SEO Group Buy Tools provide access to Hootsuite for social management, VidIQ and TubeRanker for YouTube optimization, Smhack for social media management, and KeywordSearch for YouTube ad targeting and research.",
       "original": "SEO Group Buy Tools provide access to Hootsuite for social management, VidIQ and TubeRanker for YouTube optimization, Smhack for social media management, and KeywordSearch for YouTube ad targeting and research.",
-      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide access to Hootsuite for social management, VidIQ and TubeRanker for YouTube optimization, Smhack for social media management, and KeywordSearch for YouTube ad targeting and research.</p>"
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide access to Hootsuite for social management, VidIQ and TubeRanker for YouTube optimization, Smhack for social media management, and KeywordSearch for YouTube ad targeting and research.</p>",
+      "originalText": "SEO Group Buy Tools provide access to Hootsuite for social management, VidIQ and TubeRanker for YouTube optimization, Smhack for social media management, and KeywordSearch for YouTube ad targeting and research.",
+      "text": "SEO Group Buy Tools provide access to Hootsuite for social management, VidIQ and TubeRanker for YouTube optimization, Smhack for social media management, and KeywordSearch for YouTube ad targeting and research."
     },
     {
       "key": "p-4",
       "label": "P 4",
       "content": "The social media tools category within SEO Group Buy Tools covers two primary use cases: social media management across multiple platforms and YouTube-specific optimization for video creators.",
       "original": "The social media tools category within SEO Group Buy Tools covers two primary use cases: social media management across multiple platforms and YouTube-specific optimization for video creators.",
-      "source": "<p>The social media tools category within SEO Group Buy Tools covers two primary use cases: social media management across multiple platforms and YouTube-specific optimization for video creators.</p>"
+      "source": "<p>The social media tools category within SEO Group Buy Tools covers two primary use cases: social media management across multiple platforms and YouTube-specific optimization for video creators.</p>",
+      "originalText": "The social media tools category within SEO Group Buy Tools covers two primary use cases: social media management across multiple platforms and YouTube-specific optimization for video creators.",
+      "text": "The social media tools category within SEO Group Buy Tools covers two primary use cases: social media management across multiple platforms and YouTube-specific optimization for video creators."
     },
     {
       "key": "p-5",
       "label": "P 5",
       "content": "These tools help users schedule content, analyze engagement metrics, research keywords for video titles, and track channel performance without paying individual subscription prices that range from $15 to $99 per month.",
       "original": "These tools help users schedule content, analyze engagement metrics, research keywords for video titles, and track channel performance without paying individual subscription prices that range from $15 to $99 per month.",
-      "source": "<p>These tools help users schedule content, analyze engagement metrics, research keywords for video titles, and track channel performance without paying individual subscription prices that range from $15 to $99 per month.</p>"
+      "source": "<p>These tools help users schedule content, analyze engagement metrics, research keywords for video titles, and track channel performance without paying individual subscription prices that range from $15 to $99 per month.</p>",
+      "originalText": "These tools help users schedule content, analyze engagement metrics, research keywords for video titles, and track channel performance without paying individual subscription prices that range from $15 to $99 per month.",
+      "text": "These tools help users schedule content, analyze engagement metrics, research keywords for video titles, and track channel performance without paying individual subscription prices that range from $15 to $99 per month."
     },
     {
       "key": "p-6",
       "label": "P 6",
       "content": "Hootsuite serves as the primary social media management platform, allowing users to schedule posts, monitor mentions, and analyze performance across Facebook, Twitter, Instagram, LinkedIn, and other networks from a single dashboard.",
       "original": "Hootsuite serves as the primary social media management platform, allowing users to schedule posts, monitor mentions, and analyze performance across Facebook, Twitter, Instagram, LinkedIn, and other networks from a single dashboard.",
-      "source": "<p>Hootsuite serves as the primary social media management platform, allowing users to schedule posts, monitor mentions, and analyze performance across Facebook, Twitter, Instagram, LinkedIn, and other networks from a single dashboard.</p>"
+      "source": "<p>Hootsuite serves as the primary social media management platform, allowing users to schedule posts, monitor mentions, and analyze performance across Facebook, Twitter, Instagram, LinkedIn, and other networks from a single dashboard.</p>",
+      "originalText": "Hootsuite serves as the primary social media management platform, allowing users to schedule posts, monitor mentions, and analyze performance across Facebook, Twitter, Instagram, LinkedIn, and other networks from a single dashboard.",
+      "text": "Hootsuite serves as the primary social media management platform, allowing users to schedule posts, monitor mentions, and analyze performance across Facebook, Twitter, Instagram, LinkedIn, and other networks from a single dashboard."
     },
     {
       "key": "p-7",
       "label": "P 7",
       "content": "VidIQ provides YouTube-specific analytics including keyword research, tag suggestions, competitor analysis, and thumbnail optimization. TubeRanker offers YouTube rank tracking and keyword tools with a focus on video SEO.",
       "original": "VidIQ provides YouTube-specific analytics including keyword research, tag suggestions, competitor analysis, and thumbnail optimization. TubeRanker offers YouTube rank tracking and keyword tools with a focus on video SEO.",
-      "source": "<p>VidIQ provides YouTube-specific analytics including keyword research, tag suggestions, competitor analysis, and thumbnail optimization. TubeRanker offers YouTube rank tracking and keyword tools with a focus on video SEO.</p>"
+      "source": "<p>VidIQ provides YouTube-specific analytics including keyword research, tag suggestions, competitor analysis, and thumbnail optimization. TubeRanker offers YouTube rank tracking and keyword tools with a focus on video SEO.</p>",
+      "originalText": "VidIQ provides YouTube-specific analytics including keyword research, tag suggestions, competitor analysis, and thumbnail optimization. TubeRanker offers YouTube rank tracking and keyword tools with a focus on video SEO.",
+      "text": "VidIQ provides YouTube-specific analytics including keyword research, tag suggestions, competitor analysis, and thumbnail optimization. TubeRanker offers YouTube rank tracking and keyword tools with a focus on video SEO."
     },
     {
       "key": "p-8",
       "label": "P 8",
       "content": "Smhack provides a simpler social media management alternative to Hootsuite with scheduling, analytics, and team collaboration features at a lower price point.",
       "original": "Smhack provides a simpler social media management alternative to Hootsuite with scheduling, analytics, and team collaboration features at a lower price point.",
-      "source": "<p>Smhack provides a simpler social media management alternative to Hootsuite with scheduling, analytics, and team collaboration features at a lower price point.</p>"
+      "source": "<p>Smhack provides a simpler social media management alternative to Hootsuite with scheduling, analytics, and team collaboration features at a lower price point.</p>",
+      "originalText": "Smhack provides a simpler social media management alternative to Hootsuite with scheduling, analytics, and team collaboration features at a lower price point.",
+      "text": "Smhack provides a simpler social media management alternative to Hootsuite with scheduling, analytics, and team collaboration features at a lower price point."
     },
     {
       "key": "p-9",
       "label": "P 9",
       "content": "KeywordSearch specializes in YouTube advertising research, helping marketers find the most effective keywords for video ad campaigns and discover what their competitors are targeting.",
       "original": "KeywordSearch specializes in YouTube advertising research, helping marketers find the most effective keywords for video ad campaigns and discover what their competitors are targeting.",
-      "source": "<p>KeywordSearch specializes in YouTube advertising research, helping marketers find the most effective keywords for video ad campaigns and discover what their competitors are targeting.</p>"
+      "source": "<p>KeywordSearch specializes in YouTube advertising research, helping marketers find the most effective keywords for video ad campaigns and discover what their competitors are targeting.</p>",
+      "originalText": "KeywordSearch specializes in YouTube advertising research, helping marketers find the most effective keywords for video ad campaigns and discover what their competitors are targeting.",
+      "text": "KeywordSearch specializes in YouTube advertising research, helping marketers find the most effective keywords for video ad campaigns and discover what their competitors are targeting."
     },
     {
       "key": "h2-3",
       "label": "H2 3",
       "content": "Which social media tool in SEO Group Buy Tools is best for YouTube growth?",
       "original": "Which social media tool in SEO Group Buy Tools is best for YouTube growth?",
-      "source": "<h2>Which social media tool in SEO Group Buy Tools is best for YouTube growth?</h2>"
+      "source": "<h2>Which social media tool in SEO Group Buy Tools is best for YouTube growth?</h2>",
+      "originalText": "Which social media tool in SEO Group Buy Tools is best for YouTube growth?",
+      "text": "Which social media tool in SEO Group Buy Tools is best for YouTube growth?"
     },
     {
       "key": "p-10",
       "label": "P 10",
       "content": "For YouTube growth in SEO Group Buy Tools, VidIQ provides the most comprehensive analytics and keyword research tools, while TubeRanker offers focused rank tracking that complements VidIQ's broader feature set.",
       "original": "For YouTube growth in SEO Group Buy Tools, VidIQ provides the most comprehensive analytics and keyword research tools, while TubeRanker offers focused rank tracking that complements VidIQ's broader feature set.",
-      "source": "<p class=\"answer-snippet\">For YouTube growth in SEO Group Buy Tools, VidIQ provides the most comprehensive analytics and keyword research tools, while TubeRanker offers focused rank tracking that complements VidIQ's broader feature set.</p>"
+      "source": "<p class=\"answer-snippet\">For YouTube growth in SEO Group Buy Tools, VidIQ provides the most comprehensive analytics and keyword research tools, while TubeRanker offers focused rank tracking that complements VidIQ's broader feature set.</p>",
+      "originalText": "For YouTube growth in SEO Group Buy Tools, VidIQ provides the most comprehensive analytics and keyword research tools, while TubeRanker offers focused rank tracking that complements VidIQ's broader feature set.",
+      "text": "For YouTube growth in SEO Group Buy Tools, VidIQ provides the most comprehensive analytics and keyword research tools, while TubeRanker offers focused rank tracking that complements VidIQ's broader feature set."
     },
     {
       "key": "p-11",
       "label": "P 11",
       "content": "YouTube growth depends on optimizing video titles, descriptions, tags, and thumbnails for both search discoverability and suggested video placement.",
       "original": "YouTube growth depends on optimizing video titles, descriptions, tags, and thumbnails for both search discoverability and suggested video placement.",
-      "source": "<p>YouTube growth depends on optimizing video titles, descriptions, tags, and thumbnails for both search discoverability and suggested video placement.</p>"
+      "source": "<p>YouTube growth depends on optimizing video titles, descriptions, tags, and thumbnails for both search discoverability and suggested video placement.</p>",
+      "originalText": "YouTube growth depends on optimizing video titles, descriptions, tags, and thumbnails for both search discoverability and suggested video placement.",
+      "text": "YouTube growth depends on optimizing video titles, descriptions, tags, and thumbnails for both search discoverability and suggested video placement."
     },
     {
       "key": "p-12",
       "label": "P 12",
       "content": "VidIQ within SEO Group Buy Tools provides the most complete toolkit for these tasks, with keyword research showing search volume and competition, tag suggestions based on trending topics, and competitor analysis revealing what strategies successful channels employ.",
       "original": "VidIQ within SEO Group Buy Tools provides the most complete toolkit for these tasks, with keyword research showing search volume and competition, tag suggestions based on trending topics, and competitor analysis revealing what strategies successful channels employ.",
-      "source": "<p>VidIQ within SEO Group Buy Tools provides the most complete toolkit for these tasks, with keyword research showing search volume and competition, tag suggestions based on trending topics, and competitor analysis revealing what strategies successful channels employ.</p>"
+      "source": "<p>VidIQ within SEO Group Buy Tools provides the most complete toolkit for these tasks, with keyword research showing search volume and competition, tag suggestions based on trending topics, and competitor analysis revealing what strategies successful channels employ.</p>",
+      "originalText": "VidIQ within SEO Group Buy Tools provides the most complete toolkit for these tasks, with keyword research showing search volume and competition, tag suggestions based on trending topics, and competitor analysis revealing what strategies successful channels employ.",
+      "text": "VidIQ within SEO Group Buy Tools provides the most complete toolkit for these tasks, with keyword research showing search volume and competition, tag suggestions based on trending topics, and competitor analysis revealing what strategies successful channels employ."
     },
     {
       "key": "p-13",
       "label": "P 13",
       "content": "TubeRanker complements VidIQ by providing specialized rank tracking that monitors where specific videos appear in YouTube search results over time. This tracking helps creators understand whether their optimization efforts are producing measurable improvements in visibility.",
       "original": "TubeRanker complements VidIQ by providing specialized rank tracking that monitors where specific videos appear in YouTube search results over time. This tracking helps creators understand whether their optimization efforts are producing measurable improvements in visibility.",
-      "source": "<p>TubeRanker complements VidIQ by providing specialized rank tracking that monitors where specific videos appear in YouTube search results over time. This tracking helps creators understand whether their optimization efforts are producing measurable improvements in visibility.</p>"
+      "source": "<p>TubeRanker complements VidIQ by providing specialized rank tracking that monitors where specific videos appear in YouTube search results over time. This tracking helps creators understand whether their optimization efforts are producing measurable improvements in visibility.</p>",
+      "originalText": "TubeRanker complements VidIQ by providing specialized rank tracking that monitors where specific videos appear in YouTube search results over time. This tracking helps creators understand whether their optimization efforts are producing measurable improvements in visibility.",
+      "text": "TubeRanker complements VidIQ by providing specialized rank tracking that monitors where specific videos appear in YouTube search results over time. This tracking helps creators understand whether their optimization efforts are producing measurable improvements in visibility."
     },
     {
       "key": "p-14",
       "label": "P 14",
       "content": "The keyword tool also identifies related keywords that VidIQ might miss, giving creators a broader pool of ranking opportunities. For creators serious about YouTube growth, using both VidIQ and TubeRanker through SEO Group Buy Tools creates a comprehensive optimization workflow.",
       "original": "The keyword tool also identifies related keywords that VidIQ might miss, giving creators a broader pool of ranking opportunities. For creators serious about YouTube growth, using both VidIQ and TubeRanker through SEO Group Buy Tools creates a comprehensive optimization workflow.",
-      "source": "<p>The keyword tool also identifies related keywords that VidIQ might miss, giving creators a broader pool of ranking opportunities. For creators serious about YouTube growth, using both VidIQ and TubeRanker through SEO Group Buy Tools creates a comprehensive optimization workflow.</p>"
+      "source": "<p>The keyword tool also identifies related keywords that VidIQ might miss, giving creators a broader pool of ranking opportunities. For creators serious about YouTube growth, using both VidIQ and TubeRanker through SEO Group Buy Tools creates a comprehensive optimization workflow.</p>",
+      "originalText": "The keyword tool also identifies related keywords that VidIQ might miss, giving creators a broader pool of ranking opportunities. For creators serious about YouTube growth, using both VidIQ and TubeRanker through SEO Group Buy Tools creates a comprehensive optimization workflow.",
+      "text": "The keyword tool also identifies related keywords that VidIQ might miss, giving creators a broader pool of ranking opportunities. For creators serious about YouTube growth, using both VidIQ and TubeRanker through SEO Group Buy Tools creates a comprehensive optimization workflow."
     },
     {
       "key": "p-15",
       "label": "P 15",
       "content": "VidIQ handles the research and analysis phase, while TubeRanker tracks the results and identifies new opportunities based on ranking changes. This combined approach provides more data than either tool offers individually, at a fraction of the combined individual subscription cost.",
       "original": "VidIQ handles the research and analysis phase, while TubeRanker tracks the results and identifies new opportunities based on ranking changes. This combined approach provides more data than either tool offers individually, at a fraction of the combined individual subscription cost.",
-      "source": "<p>VidIQ handles the research and analysis phase, while TubeRanker tracks the results and identifies new opportunities based on ranking changes. This combined approach provides more data than either tool offers individually, at a fraction of the combined individual subscription cost.</p>"
+      "source": "<p>VidIQ handles the research and analysis phase, while TubeRanker tracks the results and identifies new opportunities based on ranking changes. This combined approach provides more data than either tool offers individually, at a fraction of the combined individual subscription cost.</p>",
+      "originalText": "VidIQ handles the research and analysis phase, while TubeRanker tracks the results and identifies new opportunities based on ranking changes. This combined approach provides more data than either tool offers individually, at a fraction of the combined individual subscription cost.",
+      "text": "VidIQ handles the research and analysis phase, while TubeRanker tracks the results and identifies new opportunities based on ranking changes. This combined approach provides more data than either tool offers individually, at a fraction of the combined individual subscription cost."
     },
     {
       "key": "h2-4",
       "label": "H2 4",
       "content": "Which social media tool in SEO Group Buy Tools is best for managing multiple accounts?",
       "original": "Which social media tool in SEO Group Buy Tools is best for managing multiple accounts?",
-      "source": "<h2>Which social media tool in SEO Group Buy Tools is best for managing multiple accounts?</h2>"
+      "source": "<h2>Which social media tool in SEO Group Buy Tools is best for managing multiple accounts?</h2>",
+      "originalText": "Which social media tool in SEO Group Buy Tools is best for managing multiple accounts?",
+      "text": "Which social media tool in SEO Group Buy Tools is best for managing multiple accounts?"
     },
     {
       "key": "p-16",
       "label": "P 16",
       "content": "For managing multiple social accounts in SEO Group Buy Tools, Hootsuite provides the most comprehensive scheduling and analytics platform, though session conflicts from shared access may occasionally affect posting schedules.",
       "original": "For managing multiple social accounts in SEO Group Buy Tools, Hootsuite provides the most comprehensive scheduling and analytics platform, though session conflicts from shared access may occasionally affect posting schedules.",
-      "source": "<p class=\"answer-snippet\">For managing multiple social accounts in SEO Group Buy Tools, Hootsuite provides the most comprehensive scheduling and analytics platform, though session conflicts from shared access may occasionally affect posting schedules.</p>"
+      "source": "<p class=\"answer-snippet\">For managing multiple social accounts in SEO Group Buy Tools, Hootsuite provides the most comprehensive scheduling and analytics platform, though session conflicts from shared access may occasionally affect posting schedules.</p>",
+      "originalText": "For managing multiple social accounts in SEO Group Buy Tools, Hootsuite provides the most comprehensive scheduling and analytics platform, though session conflicts from shared access may occasionally affect posting schedules.",
+      "text": "For managing multiple social accounts in SEO Group Buy Tools, Hootsuite provides the most comprehensive scheduling and analytics platform, though session conflicts from shared access may occasionally affect posting schedules."
     },
     {
       "key": "p-17",
       "label": "P 17",
       "content": "Social media managers who handle accounts across multiple platforms need a centralized scheduling and analytics tool, and Hootsuite within SEO Group Buy Tools provides the most robust option.",
       "original": "Social media managers who handle accounts across multiple platforms need a centralized scheduling and analytics tool, and Hootsuite within SEO Group Buy Tools provides the most robust option.",
-      "source": "<p>Social media managers who handle accounts across multiple platforms need a centralized scheduling and analytics tool, and Hootsuite within SEO Group Buy Tools provides the most robust option.</p>"
+      "source": "<p>Social media managers who handle accounts across multiple platforms need a centralized scheduling and analytics tool, and Hootsuite within SEO Group Buy Tools provides the most robust option.</p>",
+      "originalText": "Social media managers who handle accounts across multiple platforms need a centralized scheduling and analytics tool, and Hootsuite within SEO Group Buy Tools provides the most robust option.",
+      "text": "Social media managers who handle accounts across multiple platforms need a centralized scheduling and analytics tool, and Hootsuite within SEO Group Buy Tools provides the most robust option."
     },
     {
       "key": "p-18",
       "label": "P 18",
       "content": "Its dashboard supports scheduling posts across Facebook, Twitter, Instagram, LinkedIn, and YouTube from a single interface, with analytics showing engagement metrics, follower growth, and content performance across all connected accounts.",
       "original": "Its dashboard supports scheduling posts across Facebook, Twitter, Instagram, LinkedIn, and YouTube from a single interface, with analytics showing engagement metrics, follower growth, and content performance across all connected accounts.",
-      "source": "<p>Its dashboard supports scheduling posts across Facebook, Twitter, Instagram, LinkedIn, and YouTube from a single interface, with analytics showing engagement metrics, follower growth, and content performance across all connected accounts.</p>"
+      "source": "<p>Its dashboard supports scheduling posts across Facebook, Twitter, Instagram, LinkedIn, and YouTube from a single interface, with analytics showing engagement metrics, follower growth, and content performance across all connected accounts.</p>",
+      "originalText": "Its dashboard supports scheduling posts across Facebook, Twitter, Instagram, LinkedIn, and YouTube from a single interface, with analytics showing engagement metrics, follower growth, and content performance across all connected accounts.",
+      "text": "Its dashboard supports scheduling posts across Facebook, Twitter, Instagram, LinkedIn, and YouTube from a single interface, with analytics showing engagement metrics, follower growth, and content performance across all connected accounts."
     },
     {
       "key": "p-19",
       "label": "P 19",
       "content": "Smhack offers a simpler alternative for users who find Hootsuite's interface overwhelming or who primarily need basic scheduling without advanced analytics.",
       "original": "Smhack offers a simpler alternative for users who find Hootsuite's interface overwhelming or who primarily need basic scheduling without advanced analytics.",
-      "source": "<p>Smhack offers a simpler alternative for users who find Hootsuite's interface overwhelming or who primarily need basic scheduling without advanced analytics.</p>"
+      "source": "<p>Smhack offers a simpler alternative for users who find Hootsuite's interface overwhelming or who primarily need basic scheduling without advanced analytics.</p>",
+      "originalText": "Smhack offers a simpler alternative for users who find Hootsuite's interface overwhelming or who primarily need basic scheduling without advanced analytics.",
+      "text": "Smhack offers a simpler alternative for users who find Hootsuite's interface overwhelming or who primarily need basic scheduling without advanced analytics."
     },
     {
       "key": "p-20",
       "label": "P 20",
       "content": "Its team collaboration features allow multiple team members to manage shared social accounts with approval workflows, though these features may have limited functionality in the shared group buy environment where account access is not individualized.",
       "original": "Its team collaboration features allow multiple team members to manage shared social accounts with approval workflows, though these features may have limited functionality in the shared group buy environment where account access is not individualized.",
-      "source": "<p>Its team collaboration features allow multiple team members to manage shared social accounts with approval workflows, though these features may have limited functionality in the shared group buy environment where account access is not individualized.</p>"
+      "source": "<p>Its team collaboration features allow multiple team members to manage shared social accounts with approval workflows, though these features may have limited functionality in the shared group buy environment where account access is not individualized.</p>",
+      "originalText": "Its team collaboration features allow multiple team members to manage shared social accounts with approval workflows, though these features may have limited functionality in the shared group buy environment where account access is not individualized.",
+      "text": "Its team collaboration features allow multiple team members to manage shared social accounts with approval workflows, though these features may have limited functionality in the shared group buy environment where account access is not individualized."
     },
     {
       "key": "p-21",
       "label": "P 21",
       "content": "Both Hootsuite and Smhack face a unique challenge within SEO Group Buy Tools: social media management requires authenticated access to actual social accounts, and shared login sessions can create conflicts if multiple users attempt to post simultaneously.",
       "original": "Both Hootsuite and Smhack face a unique challenge within SEO Group Buy Tools: social media management requires authenticated access to actual social accounts, and shared login sessions can create conflicts if multiple users attempt to post simultaneously.",
-      "source": "<p>Both Hootsuite and Smhack face a unique challenge within SEO Group Buy Tools: social media management requires authenticated access to actual social accounts, and shared login sessions can create conflicts if multiple users attempt to post simultaneously.</p>"
+      "source": "<p>Both Hootsuite and Smhack face a unique challenge within SEO Group Buy Tools: social media management requires authenticated access to actual social accounts, and shared login sessions can create conflicts if multiple users attempt to post simultaneously.</p>",
+      "originalText": "Both Hootsuite and Smhack face a unique challenge within SEO Group Buy Tools: social media management requires authenticated access to actual social accounts, and shared login sessions can create conflicts if multiple users attempt to post simultaneously.",
+      "text": "Both Hootsuite and Smhack face a unique challenge within SEO Group Buy Tools: social media management requires authenticated access to actual social accounts, and shared login sessions can create conflicts if multiple users attempt to post simultaneously."
     },
     {
       "key": "p-22",
       "label": "P 22",
       "content": "Users should coordinate their posting schedules and avoid peak usage times to minimize session conflicts when using social management tools through SEO Group Buy Tools.",
       "original": "Users should coordinate their posting schedules and avoid peak usage times to minimize session conflicts when using social management tools through SEO Group Buy Tools.",
-      "source": "<p>Users should coordinate their posting schedules and avoid peak usage times to minimize session conflicts when using social management tools through SEO Group Buy Tools.</p>"
+      "source": "<p>Users should coordinate their posting schedules and avoid peak usage times to minimize session conflicts when using social management tools through SEO Group Buy Tools.</p>",
+      "originalText": "Users should coordinate their posting schedules and avoid peak usage times to minimize session conflicts when using social management tools through SEO Group Buy Tools.",
+      "text": "Users should coordinate their posting schedules and avoid peak usage times to minimize session conflicts when using social management tools through SEO Group Buy Tools."
     },
     {
       "key": "h2-5",
       "label": "H2 5",
       "content": "What should you know before using social media tools in SEO Group Buy Tools?",
       "original": "What should you know before using social media tools in SEO Group Buy Tools?",
-      "source": "<h2>What should you know before using social media tools in SEO Group Buy Tools?</h2>"
+      "source": "<h2>What should you know before using social media tools in SEO Group Buy Tools?</h2>",
+      "originalText": "What should you know before using social media tools in SEO Group Buy Tools?",
+      "text": "What should you know before using social media tools in SEO Group Buy Tools?"
     },
     {
       "key": "p-23",
       "label": "P 23",
       "content": "Before using social media tools in SEO Group Buy Tools, understand that YouTube tools work more reliably than multi-platform management tools because they avoid session conflicts from multiple users accessing the same social accounts simultaneously.",
       "original": "Before using social media tools in SEO Group Buy Tools, understand that YouTube tools work more reliably than multi-platform management tools because they avoid session conflicts from multiple users accessing the same social accounts simultaneously.",
-      "source": "<p class=\"answer-snippet\">Before using social media tools in SEO Group Buy Tools, understand that YouTube tools work more reliably than multi-platform management tools because they avoid session conflicts from multiple users accessing the same social accounts simultaneously.</p>"
+      "source": "<p class=\"answer-snippet\">Before using social media tools in SEO Group Buy Tools, understand that YouTube tools work more reliably than multi-platform management tools because they avoid session conflicts from multiple users accessing the same social accounts simultaneously.</p>",
+      "originalText": "Before using social media tools in SEO Group Buy Tools, understand that YouTube tools work more reliably than multi-platform management tools because they avoid session conflicts from multiple users accessing the same social accounts simultaneously.",
+      "text": "Before using social media tools in SEO Group Buy Tools, understand that YouTube tools work more reliably than multi-platform management tools because they avoid session conflicts from multiple users accessing the same social accounts simultaneously."
     },
     {
       "key": "p-24",
       "label": "P 24",
       "content": "Social media tools within SEO Group Buy Tools have different reliability profiles based on their architecture. YouTube-specific tools like VidIQ and TubeRanker work reliably because they analyze public video data and search results rather than requiring authenticated access to user accounts.",
       "original": "Social media tools within SEO Group Buy Tools have different reliability profiles based on their architecture. YouTube-specific tools like VidIQ and TubeRanker work reliably because they analyze public video data and search results rather than requiring authenticated access to user accounts.",
-      "source": "<p>Social media tools within SEO Group Buy Tools have different reliability profiles based on their architecture. YouTube-specific tools like VidIQ and TubeRanker work reliably because they analyze public video data and search results rather than requiring authenticated access to user accounts.</p>"
+      "source": "<p>Social media tools within SEO Group Buy Tools have different reliability profiles based on their architecture. YouTube-specific tools like VidIQ and TubeRanker work reliably because they analyze public video data and search results rather than requiring authenticated access to user accounts.</p>",
+      "originalText": "Social media tools within SEO Group Buy Tools have different reliability profiles based on their architecture. YouTube-specific tools like VidIQ and TubeRanker work reliably because they analyze public video data and search results rather than requiring authenticated access to user accounts.",
+      "text": "Social media tools within SEO Group Buy Tools have different reliability profiles based on their architecture. YouTube-specific tools like VidIQ and TubeRanker work reliably because they analyze public video data and search results rather than requiring authenticated access to user accounts."
     },
     {
       "key": "p-25",
       "label": "P 25",
       "content": "This public data approach aligns well with the shared access model of SEO Group Buy Tools.",
       "original": "This public data approach aligns well with the shared access model of SEO Group Buy Tools.",
-      "source": "<p>This public data approach aligns well with the shared access model of SEO Group Buy Tools.</p>"
+      "source": "<p>This public data approach aligns well with the shared access model of SEO Group Buy Tools.</p>",
+      "originalText": "This public data approach aligns well with the shared access model of SEO Group Buy Tools.",
+      "text": "This public data approach aligns well with the shared access model of SEO Group Buy Tools."
     },
     {
       "key": "p-26",
       "label": "P 26",
       "content": "Multi-platform management tools like Hootsuite and Smhack require authenticated connections to actual social media accounts, creating potential conflicts when multiple users operate through the same shared session.",
       "original": "Multi-platform management tools like Hootsuite and Smhack require authenticated connections to actual social media accounts, creating potential conflicts when multiple users operate through the same shared session.",
-      "source": "<p>Multi-platform management tools like Hootsuite and Smhack require authenticated connections to actual social media accounts, creating potential conflicts when multiple users operate through the same shared session.</p>"
+      "source": "<p>Multi-platform management tools like Hootsuite and Smhack require authenticated connections to actual social media accounts, creating potential conflicts when multiple users operate through the same shared session.</p>",
+      "originalText": "Multi-platform management tools like Hootsuite and Smhack require authenticated connections to actual social media accounts, creating potential conflicts when multiple users operate through the same shared session.",
+      "text": "Multi-platform management tools like Hootsuite and Smhack require authenticated connections to actual social media accounts, creating potential conflicts when multiple users operate through the same shared session."
     },
     {
       "key": "p-27",
       "label": "P 27",
       "content": "These conflicts can result in failed posts, disconnected accounts, or scheduling errors that affect publishing consistency. Users managing business-critical social accounts should consider whether the cost savings justify the reliability trade-offs.",
       "original": "These conflicts can result in failed posts, disconnected accounts, or scheduling errors that affect publishing consistency. Users managing business-critical social accounts should consider whether the cost savings justify the reliability trade-offs.",
-      "source": "<p>These conflicts can result in failed posts, disconnected accounts, or scheduling errors that affect publishing consistency. Users managing business-critical social accounts should consider whether the cost savings justify the reliability trade-offs.</p>"
+      "source": "<p>These conflicts can result in failed posts, disconnected accounts, or scheduling errors that affect publishing consistency. Users managing business-critical social accounts should consider whether the cost savings justify the reliability trade-offs.</p>",
+      "originalText": "These conflicts can result in failed posts, disconnected accounts, or scheduling errors that affect publishing consistency. Users managing business-critical social accounts should consider whether the cost savings justify the reliability trade-offs.",
+      "text": "These conflicts can result in failed posts, disconnected accounts, or scheduling errors that affect publishing consistency. Users managing business-critical social accounts should consider whether the cost savings justify the reliability trade-offs."
     },
     {
       "key": "p-28",
       "label": "P 28",
       "content": "The most practical approach within SEO Group Buy Tools prioritizes YouTube tools for content optimization and limits social management tools to lower-stakes accounts or supplementary scheduling.",
       "original": "The most practical approach within SEO Group Buy Tools prioritizes YouTube tools for content optimization and limits social management tools to lower-stakes accounts or supplementary scheduling.",
-      "source": "<p>The most practical approach within SEO Group Buy Tools prioritizes YouTube tools for content optimization and limits social management tools to lower-stakes accounts or supplementary scheduling.</p>"
+      "source": "<p>The most practical approach within SEO Group Buy Tools prioritizes YouTube tools for content optimization and limits social management tools to lower-stakes accounts or supplementary scheduling.</p>",
+      "originalText": "The most practical approach within SEO Group Buy Tools prioritizes YouTube tools for content optimization and limits social management tools to lower-stakes accounts or supplementary scheduling.",
+      "text": "The most practical approach within SEO Group Buy Tools prioritizes YouTube tools for content optimization and limits social management tools to lower-stakes accounts or supplementary scheduling."
     },
     {
       "key": "p-29",
       "label": "P 29",
       "content": "This strategy maximizes the value of reliable tools while minimizing the risk of disruptions from less stable shared management access. SEO Group Buy Tools continue to evolve, and provider reliability for social management tools may improve as access methods mature.",
       "original": "This strategy maximizes the value of reliable tools while minimizing the risk of disruptions from less stable shared management access. SEO Group Buy Tools continue to evolve, and provider reliability for social management tools may improve as access methods mature.",
-      "source": "<p>This strategy maximizes the value of reliable tools while minimizing the risk of disruptions from less stable shared management access. SEO Group Buy Tools continue to evolve, and provider reliability for social management tools may improve as access methods mature.</p>"
+      "source": "<p>This strategy maximizes the value of reliable tools while minimizing the risk of disruptions from less stable shared management access. SEO Group Buy Tools continue to evolve, and provider reliability for social management tools may improve as access methods mature.</p>",
+      "originalText": "This strategy maximizes the value of reliable tools while minimizing the risk of disruptions from less stable shared management access. SEO Group Buy Tools continue to evolve, and provider reliability for social management tools may improve as access methods mature.",
+      "text": "This strategy maximizes the value of reliable tools while minimizing the risk of disruptions from less stable shared management access. SEO Group Buy Tools continue to evolve, and provider reliability for social management tools may improve as access methods mature."
     },
     {
       "key": "h2-6",
       "label": "H2 6",
       "content": "References",
       "original": "References",
-      "source": "<h2>References</h2>"
+      "source": "<h2>References</h2>",
+      "originalText": "References",
+      "text": "References"
     },
     {
       "key": "li-13",
       "label": "LI 13",
       "content": "Hootsuite plans and pricing — hootsuite.com/plans — Verified June 2026",
       "original": "Hootsuite plans and pricing — hootsuite.com/plans — Verified June 2026",
-      "source": "<li>Hootsuite plans and pricing — hootsuite.com/plans — Verified June 2026</li>"
+      "source": "<li>Hootsuite plans and pricing — hootsuite.com/plans — Verified June 2026</li>",
+      "originalText": "Hootsuite plans and pricing — hootsuite.com/plans — Verified June 2026",
+      "text": "Hootsuite plans and pricing — hootsuite.com/plans — Verified June 2026"
     },
     {
       "key": "li-14",
       "label": "LI 14",
       "content": "VidIQ official pricing — vidiq.com/plans — Verified June 2026",
       "original": "VidIQ official pricing — vidiq.com/plans — Verified June 2026",
-      "source": "<li>VidIQ official pricing — vidiq.com/plans — Verified June 2026</li>"
+      "source": "<li>VidIQ official pricing — vidiq.com/plans — Verified June 2026</li>",
+      "originalText": "VidIQ official pricing — vidiq.com/plans — Verified June 2026",
+      "text": "VidIQ official pricing — vidiq.com/plans — Verified June 2026"
     },
     {
       "key": "li-15",
       "label": "LI 15",
       "content": "TubeRanker features — tuberanker.com — Verified June 2026",
       "original": "TubeRanker features — tuberanker.com — Verified June 2026",
-      "source": "<li>TubeRanker features — tuberanker.com — Verified June 2026</li>"
+      "source": "<li>TubeRanker features — tuberanker.com — Verified June 2026</li>",
+      "originalText": "TubeRanker features — tuberanker.com — Verified June 2026",
+      "text": "TubeRanker features — tuberanker.com — Verified June 2026"
     },
     {
       "key": "h3-1",
       "label": "H3 1",
       "content": "Get Started Today",
       "original": "Get Started Today",
-      "source": "<h3>Get Started Today</h3>"
+      "source": "<h3>Get Started Today</h3>",
+      "originalText": "Get Started Today",
+      "text": "Get Started Today"
     },
     {
       "key": "p-30",
       "label": "P 30",
       "content": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
       "original": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
-      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>"
+      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
+      "originalText": "Access 50+ premium SEO tools from $5/month",
+      "text": "Access 50+ premium SEO tools from $5/month"
     },
     {
       "key": "h3-2",
       "label": "H3 2",
       "content": "Tool Categories",
       "original": "Tool Categories",
-      "source": "<h3>Tool Categories</h3>"
+      "source": "<h3>Tool Categories</h3>",
+      "originalText": "Tool Categories",
+      "text": "Tool Categories"
     },
     {
       "key": "li-16",
       "label": "LI 16",
       "content": "<a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
       "original": "<a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
-      "source": "<li><a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>"
+      "source": "<li><a href=\"../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
+      "originalText": "🔍 SEO Tools 12",
+      "text": "🔍 SEO Tools 12"
     },
     {
       "key": "li-17",
       "label": "LI 17",
       "content": "<a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
+      "originalText": "🎨 Design Tools 5",
+      "text": "🎨 Design Tools 5"
     },
     {
       "key": "li-18",
       "label": "LI 18",
       "content": "<a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
+      "originalText": "🕵️ Spy & Ad Intelligence 5",
+      "text": "🕵️ Spy & Ad Intelligence 5"
     },
     {
       "key": "li-19",
       "label": "LI 19",
       "content": "<a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../ai-writing-tools/\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "✍️ AI Writing Tools 4",
+      "text": "✍️ AI Writing Tools 4"
     },
     {
       "key": "li-20",
       "label": "LI 20",
       "content": "<a href=\"../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "🛒 E-commerce Tools 4",
+      "text": "🛒 E-commerce Tools 4"
     },
     {
       "key": "li-21",
       "label": "LI 21",
       "content": "<a href=\"./\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"./\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"./\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"./\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "📱 Social Media Tools 3",
+      "text": "📱 Social Media Tools 3"
     },
     {
       "key": "li-22",
       "label": "LI 22",
       "content": "<a href=\"../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "🎓 Education Tools 3",
+      "text": "🎓 Education Tools 3"
     },
     {
       "key": "h3-3",
       "label": "H3 3",
       "content": "Popular Tools",
       "original": "Popular Tools",
-      "source": "<h3>Popular Tools</h3>"
+      "source": "<h3>Popular Tools</h3>",
+      "originalText": "Popular Tools",
+      "text": "Popular Tools"
     },
     {
       "key": "li-23",
       "label": "LI 23",
       "content": "<a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a>",
       "original": "<a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a>",
-      "source": "<li><a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a></li>"
+      "source": "<li><a href=\"../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
+      "originalText": "SEMrush Group Buy",
+      "text": "SEMrush Group Buy"
     },
     {
       "key": "li-24",
       "label": "LI 24",
       "content": "<a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
       "original": "<a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
-      "source": "<li><a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>"
+      "source": "<li><a href=\"../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
+      "originalText": "Ahrefs Group Buy",
+      "text": "Ahrefs Group Buy"
     },
     {
       "key": "li-25",
       "label": "LI 25",
       "content": "<a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
       "original": "<a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
-      "source": "<li><a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
+      "originalText": "Moz Pro Group Buy",
+      "text": "Moz Pro Group Buy"
     },
     {
       "key": "li-26",
       "label": "LI 26",
       "content": "<a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
       "original": "<a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
-      "source": "<li><a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>"
+      "source": "<li><a href=\"../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
+      "originalText": "Surfer SEO Group Buy",
+      "text": "Surfer SEO Group Buy"
     },
     {
       "key": "li-27",
       "label": "LI 27",
       "content": "<a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
       "original": "<a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
-      "source": "<li><a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
+      "originalText": "Canva Pro Group Buy",
+      "text": "Canva Pro Group Buy"
     },
     {
       "key": "li-28",
       "label": "LI 28",
       "content": "<a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
       "original": "<a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a>",
-      "source": "<li><a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>"
+      "source": "<li><a href=\"../ai-writing-tools/quillbot/\">Quillbot Group Buy</a></li>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "h3-4",
       "label": "H3 4",
       "content": "Why Choose Us",
       "original": "Why Choose Us",
-      "source": "<h3>Why Choose Us</h3>"
+      "source": "<h3>Why Choose Us</h3>",
+      "originalText": "Why Choose Us",
+      "text": "Why Choose Us"
     },
     {
       "key": "li-29",
       "label": "LI 29",
       "content": "✓ 50+ Premium Tools",
       "original": "✓ 50+ Premium Tools",
-      "source": "<li>✓ 50+ Premium Tools</li>"
+      "source": "<li>✓ 50+ Premium Tools</li>",
+      "originalText": "✓ 50+ Premium Tools",
+      "text": "✓ 50+ Premium Tools"
     },
     {
       "key": "li-30",
       "label": "LI 30",
       "content": "✓ 90%+ Uptime Guaranteed",
       "original": "✓ 90%+ Uptime Guaranteed",
-      "source": "<li>✓ 90%+ Uptime Guaranteed</li>"
+      "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
+      "originalText": "✓ 90%+ Uptime Guaranteed",
+      "text": "✓ 90%+ Uptime Guaranteed"
     },
     {
       "key": "li-31",
       "label": "LI 31",
       "content": "✓ Instant Access Setup",
       "original": "✓ Instant Access Setup",
-      "source": "<li>✓ Instant Access Setup</li>"
+      "source": "<li>✓ Instant Access Setup</li>",
+      "originalText": "✓ Instant Access Setup",
+      "text": "✓ Instant Access Setup"
     },
     {
       "key": "li-32",
       "label": "LI 32",
       "content": "✓ 24/7 Support",
       "original": "✓ 24/7 Support",
-      "source": "<li>✓ 24/7 Support</li>"
+      "source": "<li>✓ 24/7 Support</li>",
+      "originalText": "✓ 24/7 Support",
+      "text": "✓ 24/7 Support"
     },
     {
       "key": "li-33",
       "label": "LI 33",
       "content": "✓ Secure Payments",
       "original": "✓ Secure Payments",
-      "source": "<li>✓ Secure Payments</li>"
+      "source": "<li>✓ Secure Payments</li>",
+      "originalText": "✓ Secure Payments",
+      "text": "✓ Secure Payments"
     },
     {
       "key": "h2-7",
       "label": "H2 7",
       "content": "Ready to Get Started?",
       "original": "Ready to Get Started?",
-      "source": "<h2>Ready to Get Started?</h2>"
+      "source": "<h2>Ready to Get Started?</h2>",
+      "originalText": "Ready to Get Started?",
+      "text": "Ready to Get Started?"
     },
     {
       "key": "p-31",
       "label": "P 31",
       "content": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
       "original": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
-      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>"
+      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
+      "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+      "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee."
     },
     {
       "key": "p-32",
       "label": "P 32",
       "content": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
       "original": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
-      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>"
+      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>",
+      "originalText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
+      "text": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
     },
     {
       "key": "h4-1",
       "label": "H4 1",
       "content": "Categories",
       "original": "Categories",
-      "source": "<h4>Categories</h4>"
+      "source": "<h4>Categories</h4>",
+      "originalText": "Categories",
+      "text": "Categories"
     },
     {
       "key": "li-34",
       "label": "LI 34",
       "content": "<a href=\"../seo-tools/\">SEO Tools</a>",
       "original": "<a href=\"../seo-tools/\">SEO Tools</a>",
-      "source": "<li><a href=\"../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li><a href=\"../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "SEO Tools",
+      "text": "SEO Tools"
     },
     {
       "key": "li-35",
       "label": "LI 35",
       "content": "<a href=\"../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-36",
       "label": "LI 36",
       "content": "<a href=\"../spy-tools/\">Spy &amp; Ad Tools</a>",
       "original": "<a href=\"../spy-tools/\">Spy &amp; Ad Tools</a>",
-      "source": "<li><a href=\"../spy-tools/\">Spy &amp; Ad Tools</a></li>"
+      "source": "<li><a href=\"../spy-tools/\">Spy &amp; Ad Tools</a></li>",
+      "originalText": "Spy & Ad Tools",
+      "text": "Spy & Ad Tools"
     },
     {
       "key": "li-37",
       "label": "LI 37",
       "content": "<a href=\"../ai-writing-tools/\">AI Writing</a>",
       "original": "<a href=\"../ai-writing-tools/\">AI Writing</a>",
-      "source": "<li><a href=\"../ai-writing-tools/\">AI Writing</a></li>"
+      "source": "<li><a href=\"../ai-writing-tools/\">AI Writing</a></li>",
+      "originalText": "AI Writing",
+      "text": "AI Writing"
     },
     {
       "key": "li-38",
       "label": "LI 38",
       "content": "<a href=\"../ecommerce-tools/\">E-commerce</a>",
       "original": "<a href=\"../ecommerce-tools/\">E-commerce</a>",
-      "source": "<li><a href=\"../ecommerce-tools/\">E-commerce</a></li>"
+      "source": "<li><a href=\"../ecommerce-tools/\">E-commerce</a></li>",
+      "originalText": "E-commerce",
+      "text": "E-commerce"
     },
     {
       "key": "li-39",
       "label": "LI 39",
       "content": "<a href=\"./\">Social Media</a>",
       "original": "<a href=\"./\">Social Media</a>",
-      "source": "<li><a href=\"./\">Social Media</a></li>"
+      "source": "<li><a href=\"./\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "h4-2",
       "label": "H4 2",
       "content": "Resources",
       "original": "Resources",
-      "source": "<h4>Resources</h4>"
+      "source": "<h4>Resources</h4>",
+      "originalText": "Resources",
+      "text": "Resources"
     },
     {
       "key": "li-40",
       "label": "LI 40",
       "content": "<a href=\"../how-it-works/\">How It Works</a>",
       "original": "<a href=\"../how-it-works/\">How It Works</a>",
-      "source": "<li><a href=\"../how-it-works/\">How It Works</a></li>"
+      "source": "<li><a href=\"../how-it-works/\">How It Works</a></li>",
+      "originalText": "How It Works",
+      "text": "How It Works"
     },
     {
       "key": "li-41",
       "label": "LI 41",
       "content": "<a href=\"../is-it-safe/\">Is It Safe?</a>",
       "original": "<a href=\"../is-it-safe/\">Is It Safe?</a>",
-      "source": "<li><a href=\"../is-it-safe/\">Is It Safe?</a></li>"
+      "source": "<li><a href=\"../is-it-safe/\">Is It Safe?</a></li>",
+      "originalText": "Is It Safe?",
+      "text": "Is It Safe?"
     },
     {
       "key": "li-42",
       "label": "LI 42",
       "content": "<a href=\"../is-it-legal/\">Is It Legal?</a>",
       "original": "<a href=\"../is-it-legal/\">Is It Legal?</a>",
-      "source": "<li><a href=\"../is-it-legal/\">Is It Legal?</a></li>"
+      "source": "<li><a href=\"../is-it-legal/\">Is It Legal?</a></li>",
+      "originalText": "Is It Legal?",
+      "text": "Is It Legal?"
     },
     {
       "key": "li-43",
       "label": "LI 43",
       "content": "<a href=\"../faq/\">FAQ</a>",
       "original": "<a href=\"../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-44",
       "label": "LI 44",
       "content": "<a href=\"../best-providers/\">Best Providers</a>",
       "original": "<a href=\"../best-providers/\">Best Providers</a>",
-      "source": "<li><a href=\"../best-providers/\">Best Providers</a></li>"
+      "source": "<li><a href=\"../best-providers/\">Best Providers</a></li>",
+      "originalText": "Best Providers",
+      "text": "Best Providers"
     },
     {
       "key": "li-45",
       "label": "LI 45",
       "content": "<a href=\"../pricing/\">Pricing</a>",
       "original": "<a href=\"../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "h4-3",
       "label": "H4 3",
       "content": "Guides",
       "original": "Guides",
-      "source": "<h4>Guides</h4>"
+      "source": "<h4>Guides</h4>",
+      "originalText": "Guides",
+      "text": "Guides"
     },
     {
       "key": "li-46",
       "label": "LI 46",
       "content": "<a href=\"../guides/keyword-research/\">Keyword Research</a>",
       "original": "<a href=\"../guides/keyword-research/\">Keyword Research</a>",
-      "source": "<li><a href=\"../guides/keyword-research/\">Keyword Research</a></li>"
+      "source": "<li><a href=\"../guides/keyword-research/\">Keyword Research</a></li>",
+      "originalText": "Keyword Research",
+      "text": "Keyword Research"
     },
     {
       "key": "li-47",
       "label": "LI 47",
       "content": "<a href=\"../guides/backlink-analysis/\">Backlink Analysis</a>",
       "original": "<a href=\"../guides/backlink-analysis/\">Backlink Analysis</a>",
-      "source": "<li><a href=\"../guides/backlink-analysis/\">Backlink Analysis</a></li>"
+      "source": "<li><a href=\"../guides/backlink-analysis/\">Backlink Analysis</a></li>",
+      "originalText": "Backlink Analysis",
+      "text": "Backlink Analysis"
     },
     {
       "key": "li-48",
       "label": "LI 48",
       "content": "<a href=\"../guides/technical-seo-audit/\">Technical SEO Audit</a>",
       "original": "<a href=\"../guides/technical-seo-audit/\">Technical SEO Audit</a>",
-      "source": "<li><a href=\"../guides/technical-seo-audit/\">Technical SEO Audit</a></li>"
+      "source": "<li><a href=\"../guides/technical-seo-audit/\">Technical SEO Audit</a></li>",
+      "originalText": "Technical SEO Audit",
+      "text": "Technical SEO Audit"
     },
     {
       "key": "li-49",
       "label": "LI 49",
       "content": "<a href=\"../guides/content-optimization/\">Content Optimization</a>",
       "original": "<a href=\"../guides/content-optimization/\">Content Optimization</a>",
-      "source": "<li><a href=\"../guides/content-optimization/\">Content Optimization</a></li>"
+      "source": "<li><a href=\"../guides/content-optimization/\">Content Optimization</a></li>",
+      "originalText": "Content Optimization",
+      "text": "Content Optimization"
     },
     {
       "key": "li-50",
       "label": "LI 50",
       "content": "<a href=\"../guides/ppc-ad-spy-research/\">PPC Research</a>",
       "original": "<a href=\"../guides/ppc-ad-spy-research/\">PPC Research</a>",
-      "source": "<li><a href=\"../guides/ppc-ad-spy-research/\">PPC Research</a></li>"
+      "source": "<li><a href=\"../guides/ppc-ad-spy-research/\">PPC Research</a></li>",
+      "originalText": "PPC Research",
+      "text": "PPC Research"
     },
     {
       "key": "li-51",
       "label": "LI 51",
       "content": "<a href=\"../guides/ecommerce-product-research/\">Amazon Selling</a>",
       "original": "<a href=\"../guides/ecommerce-product-research/\">Amazon Selling</a>",
-      "source": "<li><a href=\"../guides/ecommerce-product-research/\">Amazon Selling</a></li>"
+      "source": "<li><a href=\"../guides/ecommerce-product-research/\">Amazon Selling</a></li>",
+      "originalText": "Amazon Selling",
+      "text": "Amazon Selling"
     },
     {
       "key": "h4-4",
       "label": "H4 4",
       "content": "Trust & Safety",
       "original": "Trust & Safety",
-      "source": "<h4>Trust & Safety</h4>"
+      "source": "<h4>Trust & Safety</h4>",
+      "originalText": "Trust & Safety",
+      "text": "Trust & Safety"
     },
     {
       "key": "li-52",
       "label": "LI 52",
       "content": "<a href=\"../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
       "original": "<a href=\"../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
-      "source": "<li><a href=\"../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>"
+      "source": "<li><a href=\"../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>",
+      "originalText": "Are They Legitimate?",
+      "text": "Are They Legitimate?"
     },
     {
       "key": "li-53",
       "label": "LI 53",
       "content": "<a href=\"../trust/choose-provider/\">Choose Provider</a>",
       "original": "<a href=\"../trust/choose-provider/\">Choose Provider</a>",
-      "source": "<li><a href=\"../trust/choose-provider/\">Choose Provider</a></li>"
+      "source": "<li><a href=\"../trust/choose-provider/\">Choose Provider</a></li>",
+      "originalText": "Choose Provider",
+      "text": "Choose Provider"
     },
     {
       "key": "li-54",
       "label": "LI 54",
       "content": "<a href=\"../trust/scams-to-avoid/\">Avoid Scams</a>",
       "original": "<a href=\"../trust/scams-to-avoid/\">Avoid Scams</a>",
-      "source": "<li><a href=\"../trust/scams-to-avoid/\">Avoid Scams</a></li>"
+      "source": "<li><a href=\"../trust/scams-to-avoid/\">Avoid Scams</a></li>",
+      "originalText": "Avoid Scams",
+      "text": "Avoid Scams"
     },
     {
       "key": "li-55",
       "label": "LI 55",
       "content": "<a href=\"../trust/tool-downtime/\">Tool Downtime</a>",
       "original": "<a href=\"../trust/tool-downtime/\">Tool Downtime</a>",
-      "source": "<li><a href=\"../trust/tool-downtime/\">Tool Downtime</a></li>"
+      "source": "<li><a href=\"../trust/tool-downtime/\">Tool Downtime</a></li>",
+      "originalText": "Tool Downtime",
+      "text": "Tool Downtime"
     },
     {
       "key": "li-56",
       "label": "LI 56",
       "content": "<a href=\"../trust/countries/\">Countries</a>",
       "original": "<a href=\"../trust/countries/\">Countries</a>",
-      "source": "<li><a href=\"../trust/countries/\">Countries</a></li>"
+      "source": "<li><a href=\"../trust/countries/\">Countries</a></li>",
+      "originalText": "Countries",
+      "text": "Countries"
     },
     {
       "key": "p-33",
       "label": "P 33",
       "content": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../privacy-policy/\">Privacy Policy</a> · <a href=\"../terms/\">Terms</a>",
       "original": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../privacy-policy/\">Privacy Policy</a> · <a href=\"../terms/\">Terms</a>",
-      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../privacy-policy/\">Privacy Policy</a> · <a href=\"../terms/\">Terms</a></p>"
+      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../privacy-policy/\">Privacy Policy</a> · <a href=\"../terms/\">Terms</a></p>",
+      "originalText": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms",
+      "text": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms"
+    }
+  ],
+  "links": [
+    {
+      "url": "../",
+      "originalUrl": "../",
+      "text": "What Is SEO Group Buy Tools?",
+      "originalText": "What Is SEO Group Buy Tools?",
+      "source": "<a href=\"../\">What Is SEO Group Buy Tools?</a>"
+    },
+    {
+      "url": "../ecommerce-tools/merch-informer/",
+      "originalUrl": "../ecommerce-tools/merch-informer/",
+      "text": "VidIQ Group Buy",
+      "originalText": "VidIQ Group Buy",
+      "source": "<a href=\"../ecommerce-tools/merch-informer/\">VidIQ Group Buy</a>"
+    },
+    {
+      "url": "../how-it-works/",
+      "originalUrl": "../how-it-works/",
+      "text": "How Does SEO Group Buy Tools Work?",
+      "originalText": "How Does SEO Group Buy Tools Work?",
+      "source": "<a href=\"../how-it-works/\">How Does SEO Group Buy Tools Work?</a>"
+    },
+    {
+      "url": "../ecommerce-tools/merch-informer/",
+      "originalUrl": "../ecommerce-tools/merch-informer/",
+      "text": "VidIQ Group Buy",
+      "originalText": "VidIQ Group Buy",
+      "source": "<a href=\"../ecommerce-tools/merch-informer/\">VidIQ Group Buy</a>"
+    },
+    {
+      "url": "../spy-tools/",
+      "originalUrl": "../spy-tools/",
+      "text": "Spy & Ad Intelligence Tools Group Buy",
+      "originalText": "Spy & Ad Intelligence Tools Group Buy",
+      "source": "<a href=\"../spy-tools/\">Spy &amp; Ad Intelligence Tools Group Buy</a>"
+    },
+    {
+      "url": "../how-it-works/",
+      "originalUrl": "../how-it-works/",
+      "text": "How Does SEO Group Buy Tools Work?",
+      "originalText": "How Does SEO Group Buy Tools Work?",
+      "source": "<a href=\"../how-it-works/\">How Does SEO Group Buy Tools Work?</a>"
+    },
+    {
+      "url": "../",
+      "originalUrl": "../",
+      "text": "What Is SEO Group Buy Tools?",
+      "originalText": "What Is SEO Group Buy Tools?",
+      "source": "<a href=\"../\">What Is SEO Group Buy Tools?</a>"
+    },
+    {
+      "url": "../is-it-safe/",
+      "originalUrl": "../is-it-safe/",
+      "text": "Is SEO Group Buy Tools Safe?",
+      "originalText": "Is SEO Group Buy Tools Safe?",
+      "source": "<a href=\"../is-it-safe/\">Is SEO Group Buy Tools Safe?</a>"
+    },
+    {
+      "url": "../best-providers/",
+      "originalUrl": "../best-providers/",
+      "text": "SEO Group Buy Tools Providers",
+      "originalText": "SEO Group Buy Tools Providers",
+      "source": "<a href=\"../best-providers/\">SEO Group Buy Tools Providers</a>"
+    },
+    {
+      "url": "../is-it-safe/",
+      "originalUrl": "../is-it-safe/",
+      "text": "Is SEO Group Buy Tools Safe?",
+      "originalText": "Is SEO Group Buy Tools Safe?",
+      "source": "<a href=\"../is-it-safe/\">Is SEO Group Buy Tools Safe?</a>"
+    },
+    {
+      "url": "../how-it-works/",
+      "originalUrl": "../how-it-works/",
+      "text": "How Does SEO Group Buy Tools Work?",
+      "originalText": "How Does SEO Group Buy Tools Work?",
+      "source": "<a href=\"../how-it-works/\">How Does SEO Group Buy Tools Work?</a>"
+    },
+    {
+      "url": "../pricing/",
+      "originalUrl": "../pricing/",
+      "text": "SEO Group Buy Tools Pricing",
+      "originalText": "SEO Group Buy Tools Pricing",
+      "source": "<a href=\"../pricing/\">SEO Group Buy Tools Pricing</a>"
+    }
+  ],
+  "images": [],
+  "editorContent": [
+    {
+      "text": "What Social Media Tools Are Available Through SEO Group Buy Tools?",
+      "originalText": "What Social Media Tools Are Available Through SEO Group Buy Tools?",
+      "source": "<h2>What Social Media Tools Are Available Through SEO Group Buy Tools?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "SEO Group Buy Tools include social media management and YouTube optimization platforms that help content creators, agencies, and marketers manage accounts, analyze performance, and grow audiences across major social platforms.",
+      "originalText": "SEO Group Buy Tools include social media management and YouTube optimization platforms that help content creators, agencies, and marketers manage accounts, analyze performance, and grow audiences across major social platforms.",
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools include social media management and YouTube optimization platforms that help content creators, agencies, and marketers manage accounts, analyze performance, and grow audiences across major social platforms.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Group buy access makes these typically expensive management tools available at a fraction of individual subscription costs, enabling small teams and individual creators to compete with larger operations that can afford full-priced subscriptions.",
+      "originalText": "Group buy access makes these typically expensive management tools available at a fraction of individual subscription costs, enabling small teams and individual creators to compete with larger operations that can afford full-priced subscriptions.",
+      "source": "<p>Group buy access makes these typically expensive management tools available at a fraction of individual subscription costs, enabling small teams and individual creators to compete with larger operations that can afford full-priced subscriptions.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "What social media tools are available in SEO Group Buy Tools?",
+      "originalText": "What social media tools are available in SEO Group Buy Tools?",
+      "source": "<h2>What social media tools are available in SEO Group Buy Tools?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "SEO Group Buy Tools provide access to Hootsuite for social management, VidIQ and TubeRanker for YouTube optimization, Smhack for social media management, and KeywordSearch for YouTube ad targeting and research.",
+      "originalText": "SEO Group Buy Tools provide access to Hootsuite for social management, VidIQ and TubeRanker for YouTube optimization, Smhack for social media management, and KeywordSearch for YouTube ad targeting and research.",
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide access to Hootsuite for social management, VidIQ and TubeRanker for YouTube optimization, Smhack for social media management, and KeywordSearch for YouTube ad targeting and research.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The social media tools category within SEO Group Buy Tools covers two primary use cases: social media management across multiple platforms and YouTube-specific optimization for video creators.",
+      "originalText": "The social media tools category within SEO Group Buy Tools covers two primary use cases: social media management across multiple platforms and YouTube-specific optimization for video creators.",
+      "source": "<p>The social media tools category within SEO Group Buy Tools covers two primary use cases: social media management across multiple platforms and YouTube-specific optimization for video creators.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "These tools help users schedule content, analyze engagement metrics, research keywords for video titles, and track channel performance without paying individual subscription prices that range from $15 to $99 per month.",
+      "originalText": "These tools help users schedule content, analyze engagement metrics, research keywords for video titles, and track channel performance without paying individual subscription prices that range from $15 to $99 per month.",
+      "source": "<p>These tools help users schedule content, analyze engagement metrics, research keywords for video titles, and track channel performance without paying individual subscription prices that range from $15 to $99 per month.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Hootsuite serves as the primary social media management platform, allowing users to schedule posts, monitor mentions, and analyze performance across Facebook, Twitter, Instagram, LinkedIn, and other networks from a single dashboard.",
+      "originalText": "Hootsuite serves as the primary social media management platform, allowing users to schedule posts, monitor mentions, and analyze performance across Facebook, Twitter, Instagram, LinkedIn, and other networks from a single dashboard.",
+      "source": "<p>Hootsuite serves as the primary social media management platform, allowing users to schedule posts, monitor mentions, and analyze performance across Facebook, Twitter, Instagram, LinkedIn, and other networks from a single dashboard.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "VidIQ provides YouTube-specific analytics including keyword research, tag suggestions, competitor analysis, and thumbnail optimization. TubeRanker offers YouTube rank tracking and keyword tools with a focus on video SEO.",
+      "originalText": "VidIQ provides YouTube-specific analytics including keyword research, tag suggestions, competitor analysis, and thumbnail optimization. TubeRanker offers YouTube rank tracking and keyword tools with a focus on video SEO.",
+      "source": "<p>VidIQ provides YouTube-specific analytics including keyword research, tag suggestions, competitor analysis, and thumbnail optimization. TubeRanker offers YouTube rank tracking and keyword tools with a focus on video SEO.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Smhack provides a simpler social media management alternative to Hootsuite with scheduling, analytics, and team collaboration features at a lower price point.",
+      "originalText": "Smhack provides a simpler social media management alternative to Hootsuite with scheduling, analytics, and team collaboration features at a lower price point.",
+      "source": "<p>Smhack provides a simpler social media management alternative to Hootsuite with scheduling, analytics, and team collaboration features at a lower price point.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "KeywordSearch specializes in YouTube advertising research, helping marketers find the most effective keywords for video ad campaigns and discover what their competitors are targeting.",
+      "originalText": "KeywordSearch specializes in YouTube advertising research, helping marketers find the most effective keywords for video ad campaigns and discover what their competitors are targeting.",
+      "source": "<p>KeywordSearch specializes in YouTube advertising research, helping marketers find the most effective keywords for video ad campaigns and discover what their competitors are targeting.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Which social media tool in SEO Group Buy Tools is best for YouTube growth?",
+      "originalText": "Which social media tool in SEO Group Buy Tools is best for YouTube growth?",
+      "source": "<h2>Which social media tool in SEO Group Buy Tools is best for YouTube growth?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "For YouTube growth in SEO Group Buy Tools, VidIQ provides the most comprehensive analytics and keyword research tools, while TubeRanker offers focused rank tracking that complements VidIQ's broader feature set.",
+      "originalText": "For YouTube growth in SEO Group Buy Tools, VidIQ provides the most comprehensive analytics and keyword research tools, while TubeRanker offers focused rank tracking that complements VidIQ's broader feature set.",
+      "source": "<p class=\"answer-snippet\">For YouTube growth in SEO Group Buy Tools, VidIQ provides the most comprehensive analytics and keyword research tools, while TubeRanker offers focused rank tracking that complements VidIQ's broader feature set.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "YouTube growth depends on optimizing video titles, descriptions, tags, and thumbnails for both search discoverability and suggested video placement.",
+      "originalText": "YouTube growth depends on optimizing video titles, descriptions, tags, and thumbnails for both search discoverability and suggested video placement.",
+      "source": "<p>YouTube growth depends on optimizing video titles, descriptions, tags, and thumbnails for both search discoverability and suggested video placement.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "VidIQ within SEO Group Buy Tools provides the most complete toolkit for these tasks, with keyword research showing search volume and competition, tag suggestions based on trending topics, and competitor analysis revealing what strategies successful channels employ.",
+      "originalText": "VidIQ within SEO Group Buy Tools provides the most complete toolkit for these tasks, with keyword research showing search volume and competition, tag suggestions based on trending topics, and competitor analysis revealing what strategies successful channels employ.",
+      "source": "<p>VidIQ within SEO Group Buy Tools provides the most complete toolkit for these tasks, with keyword research showing search volume and competition, tag suggestions based on trending topics, and competitor analysis revealing what strategies successful channels employ.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "TubeRanker complements VidIQ by providing specialized rank tracking that monitors where specific videos appear in YouTube search results over time. This tracking helps creators understand whether their optimization efforts are producing measurable improvements in visibility.",
+      "originalText": "TubeRanker complements VidIQ by providing specialized rank tracking that monitors where specific videos appear in YouTube search results over time. This tracking helps creators understand whether their optimization efforts are producing measurable improvements in visibility.",
+      "source": "<p>TubeRanker complements VidIQ by providing specialized rank tracking that monitors where specific videos appear in YouTube search results over time. This tracking helps creators understand whether their optimization efforts are producing measurable improvements in visibility.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The keyword tool also identifies related keywords that VidIQ might miss, giving creators a broader pool of ranking opportunities. For creators serious about YouTube growth, using both VidIQ and TubeRanker through SEO Group Buy Tools creates a comprehensive optimization workflow.",
+      "originalText": "The keyword tool also identifies related keywords that VidIQ might miss, giving creators a broader pool of ranking opportunities. For creators serious about YouTube growth, using both VidIQ and TubeRanker through SEO Group Buy Tools creates a comprehensive optimization workflow.",
+      "source": "<p>The keyword tool also identifies related keywords that VidIQ might miss, giving creators a broader pool of ranking opportunities. For creators serious about YouTube growth, using both VidIQ and TubeRanker through SEO Group Buy Tools creates a comprehensive optimization workflow.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "VidIQ handles the research and analysis phase, while TubeRanker tracks the results and identifies new opportunities based on ranking changes. This combined approach provides more data than either tool offers individually, at a fraction of the combined individual subscription cost.",
+      "originalText": "VidIQ handles the research and analysis phase, while TubeRanker tracks the results and identifies new opportunities based on ranking changes. This combined approach provides more data than either tool offers individually, at a fraction of the combined individual subscription cost.",
+      "source": "<p>VidIQ handles the research and analysis phase, while TubeRanker tracks the results and identifies new opportunities based on ranking changes. This combined approach provides more data than either tool offers individually, at a fraction of the combined individual subscription cost.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Which social media tool in SEO Group Buy Tools is best for managing multiple accounts?",
+      "originalText": "Which social media tool in SEO Group Buy Tools is best for managing multiple accounts?",
+      "source": "<h2>Which social media tool in SEO Group Buy Tools is best for managing multiple accounts?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "For managing multiple social accounts in SEO Group Buy Tools, Hootsuite provides the most comprehensive scheduling and analytics platform, though session conflicts from shared access may occasionally affect posting schedules.",
+      "originalText": "For managing multiple social accounts in SEO Group Buy Tools, Hootsuite provides the most comprehensive scheduling and analytics platform, though session conflicts from shared access may occasionally affect posting schedules.",
+      "source": "<p class=\"answer-snippet\">For managing multiple social accounts in SEO Group Buy Tools, Hootsuite provides the most comprehensive scheduling and analytics platform, though session conflicts from shared access may occasionally affect posting schedules.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Social media managers who handle accounts across multiple platforms need a centralized scheduling and analytics tool, and Hootsuite within SEO Group Buy Tools provides the most robust option.",
+      "originalText": "Social media managers who handle accounts across multiple platforms need a centralized scheduling and analytics tool, and Hootsuite within SEO Group Buy Tools provides the most robust option.",
+      "source": "<p>Social media managers who handle accounts across multiple platforms need a centralized scheduling and analytics tool, and Hootsuite within SEO Group Buy Tools provides the most robust option.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Its dashboard supports scheduling posts across Facebook, Twitter, Instagram, LinkedIn, and YouTube from a single interface, with analytics showing engagement metrics, follower growth, and content performance across all connected accounts.",
+      "originalText": "Its dashboard supports scheduling posts across Facebook, Twitter, Instagram, LinkedIn, and YouTube from a single interface, with analytics showing engagement metrics, follower growth, and content performance across all connected accounts.",
+      "source": "<p>Its dashboard supports scheduling posts across Facebook, Twitter, Instagram, LinkedIn, and YouTube from a single interface, with analytics showing engagement metrics, follower growth, and content performance across all connected accounts.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Smhack offers a simpler alternative for users who find Hootsuite's interface overwhelming or who primarily need basic scheduling without advanced analytics.",
+      "originalText": "Smhack offers a simpler alternative for users who find Hootsuite's interface overwhelming or who primarily need basic scheduling without advanced analytics.",
+      "source": "<p>Smhack offers a simpler alternative for users who find Hootsuite's interface overwhelming or who primarily need basic scheduling without advanced analytics.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Its team collaboration features allow multiple team members to manage shared social accounts with approval workflows, though these features may have limited functionality in the shared group buy environment where account access is not individualized.",
+      "originalText": "Its team collaboration features allow multiple team members to manage shared social accounts with approval workflows, though these features may have limited functionality in the shared group buy environment where account access is not individualized.",
+      "source": "<p>Its team collaboration features allow multiple team members to manage shared social accounts with approval workflows, though these features may have limited functionality in the shared group buy environment where account access is not individualized.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Both Hootsuite and Smhack face a unique challenge within SEO Group Buy Tools: social media management requires authenticated access to actual social accounts, and shared login sessions can create conflicts if multiple users attempt to post simultaneously.",
+      "originalText": "Both Hootsuite and Smhack face a unique challenge within SEO Group Buy Tools: social media management requires authenticated access to actual social accounts, and shared login sessions can create conflicts if multiple users attempt to post simultaneously.",
+      "source": "<p>Both Hootsuite and Smhack face a unique challenge within SEO Group Buy Tools: social media management requires authenticated access to actual social accounts, and shared login sessions can create conflicts if multiple users attempt to post simultaneously.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Users should coordinate their posting schedules and avoid peak usage times to minimize session conflicts when using social management tools through SEO Group Buy Tools.",
+      "originalText": "Users should coordinate their posting schedules and avoid peak usage times to minimize session conflicts when using social management tools through SEO Group Buy Tools.",
+      "source": "<p>Users should coordinate their posting schedules and avoid peak usage times to minimize session conflicts when using social management tools through SEO Group Buy Tools.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "What should you know before using social media tools in SEO Group Buy Tools?",
+      "originalText": "What should you know before using social media tools in SEO Group Buy Tools?",
+      "source": "<h2>What should you know before using social media tools in SEO Group Buy Tools?</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Before using social media tools in SEO Group Buy Tools, understand that YouTube tools work more reliably than multi-platform management tools because they avoid session conflicts from multiple users accessing the same social accounts simultaneously.",
+      "originalText": "Before using social media tools in SEO Group Buy Tools, understand that YouTube tools work more reliably than multi-platform management tools because they avoid session conflicts from multiple users accessing the same social accounts simultaneously.",
+      "source": "<p class=\"answer-snippet\">Before using social media tools in SEO Group Buy Tools, understand that YouTube tools work more reliably than multi-platform management tools because they avoid session conflicts from multiple users accessing the same social accounts simultaneously.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Social media tools within SEO Group Buy Tools have different reliability profiles based on their architecture. YouTube-specific tools like VidIQ and TubeRanker work reliably because they analyze public video data and search results rather than requiring authenticated access to user accounts.",
+      "originalText": "Social media tools within SEO Group Buy Tools have different reliability profiles based on their architecture. YouTube-specific tools like VidIQ and TubeRanker work reliably because they analyze public video data and search results rather than requiring authenticated access to user accounts.",
+      "source": "<p>Social media tools within SEO Group Buy Tools have different reliability profiles based on their architecture. YouTube-specific tools like VidIQ and TubeRanker work reliably because they analyze public video data and search results rather than requiring authenticated access to user accounts.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "This public data approach aligns well with the shared access model of SEO Group Buy Tools.",
+      "originalText": "This public data approach aligns well with the shared access model of SEO Group Buy Tools.",
+      "source": "<p>This public data approach aligns well with the shared access model of SEO Group Buy Tools.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "Multi-platform management tools like Hootsuite and Smhack require authenticated connections to actual social media accounts, creating potential conflicts when multiple users operate through the same shared session.",
+      "originalText": "Multi-platform management tools like Hootsuite and Smhack require authenticated connections to actual social media accounts, creating potential conflicts when multiple users operate through the same shared session.",
+      "source": "<p>Multi-platform management tools like Hootsuite and Smhack require authenticated connections to actual social media accounts, creating potential conflicts when multiple users operate through the same shared session.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "These conflicts can result in failed posts, disconnected accounts, or scheduling errors that affect publishing consistency. Users managing business-critical social accounts should consider whether the cost savings justify the reliability trade-offs.",
+      "originalText": "These conflicts can result in failed posts, disconnected accounts, or scheduling errors that affect publishing consistency. Users managing business-critical social accounts should consider whether the cost savings justify the reliability trade-offs.",
+      "source": "<p>These conflicts can result in failed posts, disconnected accounts, or scheduling errors that affect publishing consistency. Users managing business-critical social accounts should consider whether the cost savings justify the reliability trade-offs.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "The most practical approach within SEO Group Buy Tools prioritizes YouTube tools for content optimization and limits social management tools to lower-stakes accounts or supplementary scheduling.",
+      "originalText": "The most practical approach within SEO Group Buy Tools prioritizes YouTube tools for content optimization and limits social management tools to lower-stakes accounts or supplementary scheduling.",
+      "source": "<p>The most practical approach within SEO Group Buy Tools prioritizes YouTube tools for content optimization and limits social management tools to lower-stakes accounts or supplementary scheduling.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "This strategy maximizes the value of reliable tools while minimizing the risk of disruptions from less stable shared management access. SEO Group Buy Tools continue to evolve, and provider reliability for social management tools may improve as access methods mature.",
+      "originalText": "This strategy maximizes the value of reliable tools while minimizing the risk of disruptions from less stable shared management access. SEO Group Buy Tools continue to evolve, and provider reliability for social management tools may improve as access methods mature.",
+      "source": "<p>This strategy maximizes the value of reliable tools while minimizing the risk of disruptions from less stable shared management access. SEO Group Buy Tools continue to evolve, and provider reliability for social management tools may improve as access methods mature.</p>",
+      "tag": "p"
+    },
+    {
+      "text": "References",
+      "originalText": "References",
+      "source": "<h2>References</h2>",
+      "tag": "h2"
+    },
+    {
+      "text": "Hootsuite plans and pricing — hootsuite.com/plans — Verified June 2026",
+      "originalText": "Hootsuite plans and pricing — hootsuite.com/plans — Verified June 2026",
+      "source": "<li>Hootsuite plans and pricing — hootsuite.com/plans — Verified June 2026</li>",
+      "tag": "li"
+    },
+    {
+      "text": "VidIQ official pricing — vidiq.com/plans — Verified June 2026",
+      "originalText": "VidIQ official pricing — vidiq.com/plans — Verified June 2026",
+      "source": "<li>VidIQ official pricing — vidiq.com/plans — Verified June 2026</li>",
+      "tag": "li"
+    },
+    {
+      "text": "TubeRanker features — tuberanker.com — Verified June 2026",
+      "originalText": "TubeRanker features — tuberanker.com — Verified June 2026",
+      "source": "<li>TubeRanker features — tuberanker.com — Verified June 2026</li>",
+      "tag": "li"
     }
   ]
 }

@@ -13,812 +13,1044 @@
       "label": "LI 1",
       "content": "<a href=\"../../\">Home</a>",
       "original": "<a href=\"../../\">Home</a>",
-      "source": "<li><a href=\"../../\">Home</a></li>"
+      "source": "<li><a href=\"../../\">Home</a></li>",
+      "originalText": "Home",
+      "text": "Home"
     },
     {
       "key": "li-2",
       "label": "LI 2",
       "content": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": " <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li class=\"has-dropdown\"> <a href=\"../../seo-tools/\">Tools ▾</a> <ul class=\"dropdown\"> <li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "Tools ▾ SEO Tools",
+      "text": "Tools ▾ SEO Tools"
     },
     {
       "key": "li-3",
       "label": "LI 3",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-4",
       "label": "LI 4",
       "content": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
       "original": "<a href=\"../../spy-tools/\">Spy & Ad Intelligence</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy & Ad Intelligence</a></li>",
+      "originalText": "Spy & Ad Intelligence",
+      "text": "Spy & Ad Intelligence"
     },
     {
       "key": "li-5",
       "label": "LI 5",
       "content": "<a href=\"../\">AI Writing Tools</a>",
       "original": "<a href=\"../\">AI Writing Tools</a>",
-      "source": "<li><a href=\"../\">AI Writing Tools</a></li>"
+      "source": "<li><a href=\"../\">AI Writing Tools</a></li>",
+      "originalText": "AI Writing Tools",
+      "text": "AI Writing Tools"
     },
     {
       "key": "li-6",
       "label": "LI 6",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce Tools</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce Tools</a></li>",
+      "originalText": "E-commerce Tools",
+      "text": "E-commerce Tools"
     },
     {
       "key": "li-7",
       "label": "LI 7",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "li-8",
       "label": "LI 8",
       "content": "<a href=\"../../education-tools/\">Education</a>",
       "original": "<a href=\"../../education-tools/\">Education</a>",
-      "source": "<li><a href=\"../../education-tools/\">Education</a></li>"
+      "source": "<li><a href=\"../../education-tools/\">Education</a></li>",
+      "originalText": "Education",
+      "text": "Education"
     },
     {
       "key": "li-9",
       "label": "LI 9",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "li-10",
       "label": "LI 10",
       "content": "<a href=\"../../best-providers/\">Providers</a>",
       "original": "<a href=\"../../best-providers/\">Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Providers</a></li>",
+      "originalText": "Providers",
+      "text": "Providers"
     },
     {
       "key": "li-11",
       "label": "LI 11",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-12",
       "label": "LI 12",
       "content": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
       "original": "<a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a>",
-      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>"
+      "source": "<li><a href=\"https://wa.me/447845432224?text=Hi%21%20I%27m%20interested%20in%20SEO%20Group%20Buy%20Tools.%20Please%20share%20pricing%20and%20available%20plans.\" class=\"btn btn-primary nav-cta\" target=\"_blank\" rel=\"noopener\">Get Started</a></li>",
+      "originalText": "Get Started",
+      "text": "Get Started"
     },
     {
       "key": "h1-1",
       "label": "H1 1",
       "content": "Quillbot Group Buy",
       "original": "Quillbot Group Buy",
-      "source": "<h1>Quillbot Group Buy</h1>"
+      "source": "<h1>Quillbot Group Buy</h1>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "p-1",
       "label": "P 1",
       "content": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…",
       "original": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…",
-      "source": "<p class=\"product-hero-tagline\">Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…</p>"
+      "source": "<p class=\"product-hero-tagline\">Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…</p>",
+      "originalText": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…",
+      "text": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…"
     },
     {
       "key": "li-13",
       "label": "LI 13",
       "content": "Instant Access",
       "original": "Instant Access",
-      "source": "<li>Instant Access</li>"
+      "source": "<li>Instant Access</li>",
+      "originalText": "Instant Access",
+      "text": "Instant Access"
     },
     {
       "key": "li-14",
       "label": "LI 14",
       "content": "24/7 WhatsApp Support",
       "original": "24/7 WhatsApp Support",
-      "source": "<li>24/7 WhatsApp Support</li>"
+      "source": "<li>24/7 WhatsApp Support</li>",
+      "originalText": "24/7 WhatsApp Support",
+      "text": "24/7 WhatsApp Support"
     },
     {
       "key": "li-15",
       "label": "LI 15",
       "content": "Secure Payment",
       "original": "Secure Payment",
-      "source": "<li>Secure Payment</li>"
+      "source": "<li>Secure Payment</li>",
+      "originalText": "Secure Payment",
+      "text": "Secure Payment"
     },
     {
       "key": "h2-1",
       "label": "H2 1",
       "content": "What Is Quillbot Group Buy Through SEO Group Buy Tools?",
       "original": "What Is Quillbot Group Buy Through SEO Group Buy Tools?",
-      "source": "<h2>What Is Quillbot Group Buy Through SEO Group Buy Tools?</h2>"
+      "source": "<h2>What Is Quillbot Group Buy Through SEO Group Buy Tools?</h2>",
+      "originalText": "What Is Quillbot Group Buy Through SEO Group Buy Tools?",
+      "text": "What Is Quillbot Group Buy Through SEO Group Buy Tools?"
     },
     {
       "key": "p-2",
       "label": "P 2",
       "content": "SEO Group Buy Tools provide shared access to Quillbot, the most popular AI paraphrasing and grammar-checking tool used by students, content writers, and professionals who need to rewrite, polish, and improve written content efficiently.",
       "original": "SEO Group Buy Tools provide shared access to Quillbot, the most popular AI paraphrasing and grammar-checking tool used by students, content writers, and professionals who need to rewrite, polish, and improve written content efficiently.",
-      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to Quillbot, the most popular AI paraphrasing and grammar-checking tool used by students, content writers, and professionals who need to rewrite, polish, and improve written content efficiently.</p>"
+      "source": "<p class=\"answer-snippet\">SEO Group Buy Tools provide shared access to Quillbot, the most popular AI paraphrasing and grammar-checking tool used by students, content writers, and professionals who need to rewrite, polish, and improve written content efficiently.</p>",
+      "originalText": "SEO Group Buy Tools provide shared access to Quillbot, the most popular AI paraphrasing and grammar-checking tool used by students, content writers, and professionals who need to rewrite, polish, and improve written content efficiently.",
+      "text": "SEO Group Buy Tools provide shared access to Quillbot, the most popular AI paraphrasing and grammar-checking tool used by students, content writers, and professionals who need to rewrite, polish, and improve written content efficiently."
     },
     {
       "key": "p-3",
       "label": "P 3",
       "content": "The official Quillbot Premium subscription costs $10 per month, while group buy access through SEO Group Buy Tools starts at just $3 per month.",
       "original": "The official Quillbot Premium subscription costs $10 per month, while group buy access through SEO Group Buy Tools starts at just $3 per month.",
-      "source": "<p>The official Quillbot Premium subscription costs $10 per month, while group buy access through SEO Group Buy Tools starts at just $3 per month.</p>"
+      "source": "<p>The official Quillbot Premium subscription costs $10 per month, while group buy access through SEO Group Buy Tools starts at just $3 per month.</p>",
+      "originalText": "The official Quillbot Premium subscription costs $10 per month, while group buy access through SEO Group Buy Tools starts at just $3 per month.",
+      "text": "The official Quillbot Premium subscription costs $10 per month, while group buy access through SEO Group Buy Tools starts at just $3 per month."
     },
     {
       "key": "p-4",
       "label": "P 4",
       "content": "Unlike most group buy tools that suffer from shared credit drains, Quillbot does not use a credit-based system, making it one of the most stable and reliable tools available through SEO Group Buy Tools.",
       "original": "Unlike most group buy tools that suffer from shared credit drains, Quillbot does not use a credit-based system, making it one of the most stable and reliable tools available through SEO Group Buy Tools.",
-      "source": "<p>Unlike most group buy tools that suffer from shared credit drains, Quillbot does not use a credit-based system, making it one of the most stable and reliable tools available through SEO Group Buy Tools.</p>"
+      "source": "<p>Unlike most group buy tools that suffer from shared credit drains, Quillbot does not use a credit-based system, making it one of the most stable and reliable tools available through SEO Group Buy Tools.</p>",
+      "originalText": "Unlike most group buy tools that suffer from shared credit drains, Quillbot does not use a credit-based system, making it one of the most stable and reliable tools available through SEO Group Buy Tools.",
+      "text": "Unlike most group buy tools that suffer from shared credit drains, Quillbot does not use a credit-based system, making it one of the most stable and reliable tools available through SEO Group Buy Tools."
     },
     {
       "key": "h2-2",
       "label": "H2 2",
       "content": "What is Quillbot group buy?",
       "original": "What is Quillbot group buy?",
-      "source": "<h2>What is Quillbot group buy?</h2>"
+      "source": "<h2>What is Quillbot group buy?</h2>",
+      "originalText": "What is Quillbot group buy?",
+      "text": "What is Quillbot group buy?"
     },
     {
       "key": "p-5",
       "label": "P 5",
       "content": "Quillbot group buy through SEO Group Buy Tools provides shared access to Quillbot Premium for paraphrasing, grammar checking, and summarization at $3–$6 per month versus $10 official pricing, with exceptional stability since Quillbot uses no credits.",
       "original": "Quillbot group buy through SEO Group Buy Tools provides shared access to Quillbot Premium for paraphrasing, grammar checking, and summarization at $3–$6 per month versus $10 official pricing, with exceptional stability since Quillbot uses no credits.",
-      "source": "<p class=\"answer-snippet\">Quillbot group buy through SEO Group Buy Tools provides shared access to Quillbot Premium for paraphrasing, grammar checking, and summarization at $3–$6 per month versus $10 official pricing, with exceptional stability since Quillbot uses no credits.</p>"
+      "source": "<p class=\"answer-snippet\">Quillbot group buy through SEO Group Buy Tools provides shared access to Quillbot Premium for paraphrasing, grammar checking, and summarization at $3–$6 per month versus $10 official pricing, with exceptional stability since Quillbot uses no credits.</p>",
+      "originalText": "Quillbot group buy through SEO Group Buy Tools provides shared access to Quillbot Premium for paraphrasing, grammar checking, and summarization at $3–$6 per month versus $10 official pricing, with exceptional stability since Quillbot uses no credits.",
+      "text": "Quillbot group buy through SEO Group Buy Tools provides shared access to Quillbot Premium for paraphrasing, grammar checking, and summarization at $3–$6 per month versus $10 official pricing, with exceptional stability since Quillbot uses no credits."
     },
     {
       "key": "p-6",
       "label": "P 6",
       "content": "Quillbot group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Quillbot Premium account.",
       "original": "Quillbot group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Quillbot Premium account.",
-      "source": "<p>Quillbot group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Quillbot Premium account.</p>"
+      "source": "<p>Quillbot group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Quillbot Premium account.</p>",
+      "originalText": "Quillbot group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Quillbot Premium account.",
+      "text": "Quillbot group buy operates through the shared-access model within SEO Group Buy Tools, allowing multiple users to access a single Quillbot Premium account."
     },
     {
       "key": "p-7",
       "label": "P 7",
       "content": "Unlike SEMrush or Ahrefs group buy, where shared credits deplete quickly from multiple users, Quillbot does not rely on a credit-based system, making it one of the most stable tools in the entire group buy market.",
       "original": "Unlike SEMrush or Ahrefs group buy, where shared credits deplete quickly from multiple users, Quillbot does not rely on a credit-based system, making it one of the most stable tools in the entire group buy market.",
-      "source": "<p>Unlike SEMrush or Ahrefs group buy, where shared credits deplete quickly from multiple users, Quillbot does not rely on a credit-based system, making it one of the most stable tools in the entire group buy market.</p>"
+      "source": "<p>Unlike SEMrush or Ahrefs group buy, where shared credits deplete quickly from multiple users, Quillbot does not rely on a credit-based system, making it one of the most stable tools in the entire group buy market.</p>",
+      "originalText": "Unlike SEMrush or Ahrefs group buy, where shared credits deplete quickly from multiple users, Quillbot does not rely on a credit-based system, making it one of the most stable tools in the entire group buy market.",
+      "text": "Unlike SEMrush or Ahrefs group buy, where shared credits deplete quickly from multiple users, Quillbot does not rely on a credit-based system, making it one of the most stable tools in the entire group buy market."
     },
     {
       "key": "p-8",
       "label": "P 8",
       "content": "Users can paraphrase, check grammar, and summarize content without worrying about credit exhaustion affecting their workflow. The stability of Quillbot group buy through SEO Group Buy Tools stems from its subscription-based access model rather than a per-use credit system.",
       "original": "Users can paraphrase, check grammar, and summarize content without worrying about credit exhaustion affecting their workflow. The stability of Quillbot group buy through SEO Group Buy Tools stems from its subscription-based access model rather than a per-use credit system.",
-      "source": "<p>Users can paraphrase, check grammar, and summarize content without worrying about credit exhaustion affecting their workflow. The stability of Quillbot group buy through SEO Group Buy Tools stems from its subscription-based access model rather than a per-use credit system.</p>"
+      "source": "<p>Users can paraphrase, check grammar, and summarize content without worrying about credit exhaustion affecting their workflow. The stability of Quillbot group buy through SEO Group Buy Tools stems from its subscription-based access model rather than a per-use credit system.</p>",
+      "originalText": "Users can paraphrase, check grammar, and summarize content without worrying about credit exhaustion affecting their workflow. The stability of Quillbot group buy through SEO Group Buy Tools stems from its subscription-based access model rather than a per-use credit system.",
+      "text": "Users can paraphrase, check grammar, and summarize content without worrying about credit exhaustion affecting their workflow. The stability of Quillbot group buy through SEO Group Buy Tools stems from its subscription-based access model rather than a per-use credit system."
     },
     {
       "key": "p-9",
       "label": "P 9",
       "content": "Quillbot Premium simply unlocks all writing modes, removes word limits on paraphrasing, and provides full grammar checking without metering usage.",
       "original": "Quillbot Premium simply unlocks all writing modes, removes word limits on paraphrasing, and provides full grammar checking without metering usage.",
-      "source": "<p>Quillbot Premium simply unlocks all writing modes, removes word limits on paraphrasing, and provides full grammar checking without metering usage.</p>"
+      "source": "<p>Quillbot Premium simply unlocks all writing modes, removes word limits on paraphrasing, and provides full grammar checking without metering usage.</p>",
+      "originalText": "Quillbot Premium simply unlocks all writing modes, removes word limits on paraphrasing, and provides full grammar checking without metering usage.",
+      "text": "Quillbot Premium simply unlocks all writing modes, removes word limits on paraphrasing, and provides full grammar checking without metering usage."
     },
     {
       "key": "p-10",
       "label": "P 10",
       "content": "This fundamental design difference means shared access has virtually no impact on feature availability, making Quillbot the most reliable group buy tool for content creators who need consistent daily access.",
       "original": "This fundamental design difference means shared access has virtually no impact on feature availability, making Quillbot the most reliable group buy tool for content creators who need consistent daily access.",
-      "source": "<p>This fundamental design difference means shared access has virtually no impact on feature availability, making Quillbot the most reliable group buy tool for content creators who need consistent daily access.</p>"
+      "source": "<p>This fundamental design difference means shared access has virtually no impact on feature availability, making Quillbot the most reliable group buy tool for content creators who need consistent daily access.</p>",
+      "originalText": "This fundamental design difference means shared access has virtually no impact on feature availability, making Quillbot the most reliable group buy tool for content creators who need consistent daily access.",
+      "text": "This fundamental design difference means shared access has virtually no impact on feature availability, making Quillbot the most reliable group buy tool for content creators who need consistent daily access."
     },
     {
       "key": "h2-3",
       "label": "H2 3",
       "content": "What features are available?",
       "original": "What features are available?",
-      "source": "<h2>What features are available?</h2>"
+      "source": "<h2>What features are available?</h2>",
+      "originalText": "What features are available?",
+      "text": "What features are available?"
     },
     {
       "key": "p-11",
       "label": "P 11",
       "content": "Quillbot group buy through SEO Group Buy Tools provides all Premium paraphrasing modes, grammar checker, summarizer, citation generator, plagiarism checker, and translation features with no credit-based limitations.",
       "original": "Quillbot group buy through SEO Group Buy Tools provides all Premium paraphrasing modes, grammar checker, summarizer, citation generator, plagiarism checker, and translation features with no credit-based limitations.",
-      "source": "<p class=\"answer-snippet\">Quillbot group buy through SEO Group Buy Tools provides all Premium paraphrasing modes, grammar checker, summarizer, citation generator, plagiarism checker, and translation features with no credit-based limitations.</p>"
+      "source": "<p class=\"answer-snippet\">Quillbot group buy through SEO Group Buy Tools provides all Premium paraphrasing modes, grammar checker, summarizer, citation generator, plagiarism checker, and translation features with no credit-based limitations.</p>",
+      "originalText": "Quillbot group buy through SEO Group Buy Tools provides all Premium paraphrasing modes, grammar checker, summarizer, citation generator, plagiarism checker, and translation features with no credit-based limitations.",
+      "text": "Quillbot group buy through SEO Group Buy Tools provides all Premium paraphrasing modes, grammar checker, summarizer, citation generator, plagiarism checker, and translation features with no credit-based limitations."
     },
     {
       "key": "p-12",
       "label": "P 12",
       "content": "The Quillbot Premium features available through SEO Group Buy Tools include the full suite of paraphrasing modes: Standard, Fluency, Formal, Academic, Simple, Creative, Expand, and Shorten.",
       "original": "The Quillbot Premium features available through SEO Group Buy Tools include the full suite of paraphrasing modes: Standard, Fluency, Formal, Academic, Simple, Creative, Expand, and Shorten.",
-      "source": "<p>The Quillbot Premium features available through SEO Group Buy Tools include the full suite of paraphrasing modes: Standard, Fluency, Formal, Academic, Simple, Creative, Expand, and Shorten.</p>"
+      "source": "<p>The Quillbot Premium features available through SEO Group Buy Tools include the full suite of paraphrasing modes: Standard, Fluency, Formal, Academic, Simple, Creative, Expand, and Shorten.</p>",
+      "originalText": "The Quillbot Premium features available through SEO Group Buy Tools include the full suite of paraphrasing modes: Standard, Fluency, Formal, Academic, Simple, Creative, Expand, and Shorten.",
+      "text": "The Quillbot Premium features available through SEO Group Buy Tools include the full suite of paraphrasing modes: Standard, Fluency, Formal, Academic, Simple, Creative, Expand, and Shorten."
     },
     {
       "key": "p-13",
       "label": "P 13",
       "content": "Each mode rewrites text with different stylistic goals, allowing users to adapt content for various audiences and purposes. The word limit on paraphrasing is removed in Premium, enabling full-document rewrites without truncation.",
       "original": "Each mode rewrites text with different stylistic goals, allowing users to adapt content for various audiences and purposes. The word limit on paraphrasing is removed in Premium, enabling full-document rewrites without truncation.",
-      "source": "<p>Each mode rewrites text with different stylistic goals, allowing users to adapt content for various audiences and purposes. The word limit on paraphrasing is removed in Premium, enabling full-document rewrites without truncation.</p>"
+      "source": "<p>Each mode rewrites text with different stylistic goals, allowing users to adapt content for various audiences and purposes. The word limit on paraphrasing is removed in Premium, enabling full-document rewrites without truncation.</p>",
+      "originalText": "Each mode rewrites text with different stylistic goals, allowing users to adapt content for various audiences and purposes. The word limit on paraphrasing is removed in Premium, enabling full-document rewrites without truncation.",
+      "text": "Each mode rewrites text with different stylistic goals, allowing users to adapt content for various audiences and purposes. The word limit on paraphrasing is removed in Premium, enabling full-document rewrites without truncation."
     },
     {
       "key": "p-14",
       "label": "P 14",
       "content": "The Grammar Checker identifies and corrects errors in spelling, punctuation, and grammar across entire documents. The Summarizer condenses long articles into key points with adjustable summary length. The Citation Generator creates properly formatted citations in APA, MLA, and Chicago styles.",
       "original": "The Grammar Checker identifies and corrects errors in spelling, punctuation, and grammar across entire documents. The Summarizer condenses long articles into key points with adjustable summary length. The Citation Generator creates properly formatted citations in APA, MLA, and Chicago styles.",
-      "source": "<p>The Grammar Checker identifies and corrects errors in spelling, punctuation, and grammar across entire documents. The Summarizer condenses long articles into key points with adjustable summary length. The Citation Generator creates properly formatted citations in APA, MLA, and Chicago styles.</p>"
+      "source": "<p>The Grammar Checker identifies and corrects errors in spelling, punctuation, and grammar across entire documents. The Summarizer condenses long articles into key points with adjustable summary length. The Citation Generator creates properly formatted citations in APA, MLA, and Chicago styles.</p>",
+      "originalText": "The Grammar Checker identifies and corrects errors in spelling, punctuation, and grammar across entire documents. The Summarizer condenses long articles into key points with adjustable summary length. The Citation Generator creates properly formatted citations in APA, MLA, and Chicago styles.",
+      "text": "The Grammar Checker identifies and corrects errors in spelling, punctuation, and grammar across entire documents. The Summarizer condenses long articles into key points with adjustable summary length. The Citation Generator creates properly formatted citations in APA, MLA, and Chicago styles."
     },
     {
       "key": "p-15",
       "label": "P 15",
       "content": "The Plagiarism Checker scans text against online sources to identify similarity. All these features are available without credit restrictions through SEO Group Buy Tools, making Quillbot one of the most complete writing assistants in the group buy market.",
       "original": "The Plagiarism Checker scans text against online sources to identify similarity. All these features are available without credit restrictions through SEO Group Buy Tools, making Quillbot one of the most complete writing assistants in the group buy market.",
-      "source": "<p>The Plagiarism Checker scans text against online sources to identify similarity. All these features are available without credit restrictions through SEO Group Buy Tools, making Quillbot one of the most complete writing assistants in the group buy market.</p>"
+      "source": "<p>The Plagiarism Checker scans text against online sources to identify similarity. All these features are available without credit restrictions through SEO Group Buy Tools, making Quillbot one of the most complete writing assistants in the group buy market.</p>",
+      "originalText": "The Plagiarism Checker scans text against online sources to identify similarity. All these features are available without credit restrictions through SEO Group Buy Tools, making Quillbot one of the most complete writing assistants in the group buy market.",
+      "text": "The Plagiarism Checker scans text against online sources to identify similarity. All these features are available without credit restrictions through SEO Group Buy Tools, making Quillbot one of the most complete writing assistants in the group buy market."
     },
     {
       "key": "p-16",
       "label": "P 16",
       "content": "The Quillbot Chrome extension and Microsoft Word integration also work with group buy access, allowing users to paraphrase and check grammar directly within their browser and word processor.",
       "original": "The Quillbot Chrome extension and Microsoft Word integration also work with group buy access, allowing users to paraphrase and check grammar directly within their browser and word processor.",
-      "source": "<p>The Quillbot Chrome extension and Microsoft Word integration also work with group buy access, allowing users to paraphrase and check grammar directly within their browser and word processor.</p>"
+      "source": "<p>The Quillbot Chrome extension and Microsoft Word integration also work with group buy access, allowing users to paraphrase and check grammar directly within their browser and word processor.</p>",
+      "originalText": "The Quillbot Chrome extension and Microsoft Word integration also work with group buy access, allowing users to paraphrase and check grammar directly within their browser and word processor.",
+      "text": "The Quillbot Chrome extension and Microsoft Word integration also work with group buy access, allowing users to paraphrase and check grammar directly within their browser and word processor."
     },
     {
       "key": "p-17",
       "label": "P 17",
       "content": "These integrations maintain their functionality through SEO Group Buy Tools because they authenticate against the shared Premium account without requiring separate per-user licensing, providing a seamless writing enhancement experience across multiple platforms.",
       "original": "These integrations maintain their functionality through SEO Group Buy Tools because they authenticate against the shared Premium account without requiring separate per-user licensing, providing a seamless writing enhancement experience across multiple platforms.",
-      "source": "<p>These integrations maintain their functionality through SEO Group Buy Tools because they authenticate against the shared Premium account without requiring separate per-user licensing, providing a seamless writing enhancement experience across multiple platforms.</p>"
+      "source": "<p>These integrations maintain their functionality through SEO Group Buy Tools because they authenticate against the shared Premium account without requiring separate per-user licensing, providing a seamless writing enhancement experience across multiple platforms.</p>",
+      "originalText": "These integrations maintain their functionality through SEO Group Buy Tools because they authenticate against the shared Premium account without requiring separate per-user licensing, providing a seamless writing enhancement experience across multiple platforms.",
+      "text": "These integrations maintain their functionality through SEO Group Buy Tools because they authenticate against the shared Premium account without requiring separate per-user licensing, providing a seamless writing enhancement experience across multiple platforms."
     },
     {
       "key": "h2-4",
       "label": "H2 4",
       "content": "How much does it cost?",
       "original": "How much does it cost?",
-      "source": "<h2>How much does it cost?</h2>"
+      "source": "<h2>How much does it cost?</h2>",
+      "originalText": "How much does it cost?",
+      "text": "How much does it cost?"
     },
     {
       "key": "p-18",
       "label": "P 18",
       "content": "Quillbot group buy through SEO Group Buy Tools costs $3–$6 per month compared to official pricing of $10 per month or $100 per year, delivering annual savings of $48–$84 with the most stable group buy access available.",
       "original": "Quillbot group buy through SEO Group Buy Tools costs $3–$6 per month compared to official pricing of $10 per month or $100 per year, delivering annual savings of $48–$84 with the most stable group buy access available.",
-      "source": "<p class=\"answer-snippet\">Quillbot group buy through SEO Group Buy Tools costs $3–$6 per month compared to official pricing of $10 per month or $100 per year, delivering annual savings of $48–$84 with the most stable group buy access available.</p>"
+      "source": "<p class=\"answer-snippet\">Quillbot group buy through SEO Group Buy Tools costs $3–$6 per month compared to official pricing of $10 per month or $100 per year, delivering annual savings of $48–$84 with the most stable group buy access available.</p>",
+      "originalText": "Quillbot group buy through SEO Group Buy Tools costs $3–$6 per month compared to official pricing of $10 per month or $100 per year, delivering annual savings of $48–$84 with the most stable group buy access available.",
+      "text": "Quillbot group buy through SEO Group Buy Tools costs $3–$6 per month compared to official pricing of $10 per month or $100 per year, delivering annual savings of $48–$84 with the most stable group buy access available."
     },
     {
       "key": "p-19",
       "label": "P 19",
       "content": "The pricing for Quillbot group buy through SEO Group Buy Tools represents exceptional value even by group buy standards. The official Quillbot Premium subscription costs $10 per month when billed monthly or $100 per year when billed annually, which works out to $8.33 per month.",
       "original": "The pricing for Quillbot group buy through SEO Group Buy Tools represents exceptional value even by group buy standards. The official Quillbot Premium subscription costs $10 per month when billed monthly or $100 per year when billed annually, which works out to $8.33 per month.",
-      "source": "<p>The pricing for Quillbot group buy through SEO Group Buy Tools represents exceptional value even by group buy standards. The official Quillbot Premium subscription costs $10 per month when billed monthly or $100 per year when billed annually, which works out to $8.33 per month.</p>"
+      "source": "<p>The pricing for Quillbot group buy through SEO Group Buy Tools represents exceptional value even by group buy standards. The official Quillbot Premium subscription costs $10 per month when billed monthly or $100 per year when billed annually, which works out to $8.33 per month.</p>",
+      "originalText": "The pricing for Quillbot group buy through SEO Group Buy Tools represents exceptional value even by group buy standards. The official Quillbot Premium subscription costs $10 per month when billed monthly or $100 per year when billed annually, which works out to $8.33 per month.",
+      "text": "The pricing for Quillbot group buy through SEO Group Buy Tools represents exceptional value even by group buy standards. The official Quillbot Premium subscription costs $10 per month when billed monthly or $100 per year when billed annually, which works out to $8.33 per month."
     },
     {
       "key": "p-20",
       "label": "P 20",
       "content": "Group buy access through SEO Group Buy Tools starts at just $3 per month and typically ranges up to $6, making it one of the most affordable Premium tool access options available. Annual savings calculations confirm Quillbot group buy as a strong value proposition through SEO Group Buy Tools.",
       "original": "Group buy access through SEO Group Buy Tools starts at just $3 per month and typically ranges up to $6, making it one of the most affordable Premium tool access options available. Annual savings calculations confirm Quillbot group buy as a strong value proposition through SEO Group Buy Tools.",
-      "source": "<p>Group buy access through SEO Group Buy Tools starts at just $3 per month and typically ranges up to $6, making it one of the most affordable Premium tool access options available. Annual savings calculations confirm Quillbot group buy as a strong value proposition through SEO Group Buy Tools.</p>"
+      "source": "<p>Group buy access through SEO Group Buy Tools starts at just $3 per month and typically ranges up to $6, making it one of the most affordable Premium tool access options available. Annual savings calculations confirm Quillbot group buy as a strong value proposition through SEO Group Buy Tools.</p>",
+      "originalText": "Group buy access through SEO Group Buy Tools starts at just $3 per month and typically ranges up to $6, making it one of the most affordable Premium tool access options available. Annual savings calculations confirm Quillbot group buy as a strong value proposition through SEO Group Buy Tools.",
+      "text": "Group buy access through SEO Group Buy Tools starts at just $3 per month and typically ranges up to $6, making it one of the most affordable Premium tool access options available. Annual savings calculations confirm Quillbot group buy as a strong value proposition through SEO Group Buy Tools."
     },
     {
       "key": "p-21",
       "label": "P 21",
       "content": "At the monthly official rate, Quillbot Premium costs $120 per year, while group buy users pay $36–$72 annually, saving between $48 and $84 per year.",
       "original": "At the monthly official rate, Quillbot Premium costs $120 per year, while group buy users pay $36–$72 annually, saving between $48 and $84 per year.",
-      "source": "<p>At the monthly official rate, Quillbot Premium costs $120 per year, while group buy users pay $36–$72 annually, saving between $48 and $84 per year.</p>"
+      "source": "<p>At the monthly official rate, Quillbot Premium costs $120 per year, while group buy users pay $36–$72 annually, saving between $48 and $84 per year.</p>",
+      "originalText": "At the monthly official rate, Quillbot Premium costs $120 per year, while group buy users pay $36–$72 annually, saving between $48 and $84 per year.",
+      "text": "At the monthly official rate, Quillbot Premium costs $120 per year, while group buy users pay $36–$72 annually, saving between $48 and $84 per year."
     },
     {
       "key": "p-22",
       "label": "P 22",
       "content": "Given that Quillbot is one of the most stable group buy tools available due to its non-credit-based model, the savings come with minimal reliability trade-offs, making it an excellent entry point for users new to the group buy model.",
       "original": "Given that Quillbot is one of the most stable group buy tools available due to its non-credit-based model, the savings come with minimal reliability trade-offs, making it an excellent entry point for users new to the group buy model.",
-      "source": "<p>Given that Quillbot is one of the most stable group buy tools available due to its non-credit-based model, the savings come with minimal reliability trade-offs, making it an excellent entry point for users new to the group buy model.</p>"
+      "source": "<p>Given that Quillbot is one of the most stable group buy tools available due to its non-credit-based model, the savings come with minimal reliability trade-offs, making it an excellent entry point for users new to the group buy model.</p>",
+      "originalText": "Given that Quillbot is one of the most stable group buy tools available due to its non-credit-based model, the savings come with minimal reliability trade-offs, making it an excellent entry point for users new to the group buy model.",
+      "text": "Given that Quillbot is one of the most stable group buy tools available due to its non-credit-based model, the savings come with minimal reliability trade-offs, making it an excellent entry point for users new to the group buy model."
     },
     {
       "key": "h2-5",
       "label": "H2 5",
       "content": "Is it reliable?",
       "original": "Is it reliable?",
-      "source": "<h2>Is it reliable?</h2>"
+      "source": "<h2>Is it reliable?</h2>",
+      "originalText": "Is it reliable?",
+      "text": "Is it reliable?"
     },
     {
       "key": "p-23",
       "label": "P 23",
       "content": "Quillbot group buy through SEO Group Buy Tools is the most reliable group buy tool available because Quillbot uses no credit system, meaning shared access has virtually no impact on feature availability or usage consistency.",
       "original": "Quillbot group buy through SEO Group Buy Tools is the most reliable group buy tool available because Quillbot uses no credit system, meaning shared access has virtually no impact on feature availability or usage consistency.",
-      "source": "<p class=\"answer-snippet\">Quillbot group buy through SEO Group Buy Tools is the most reliable group buy tool available because Quillbot uses no credit system, meaning shared access has virtually no impact on feature availability or usage consistency.</p>"
+      "source": "<p class=\"answer-snippet\">Quillbot group buy through SEO Group Buy Tools is the most reliable group buy tool available because Quillbot uses no credit system, meaning shared access has virtually no impact on feature availability or usage consistency.</p>",
+      "originalText": "Quillbot group buy through SEO Group Buy Tools is the most reliable group buy tool available because Quillbot uses no credit system, meaning shared access has virtually no impact on feature availability or usage consistency.",
+      "text": "Quillbot group buy through SEO Group Buy Tools is the most reliable group buy tool available because Quillbot uses no credit system, meaning shared access has virtually no impact on feature availability or usage consistency."
     },
     {
       "key": "p-24",
       "label": "P 24",
       "content": "Quillbot group buy through SEO Group Buy Tools stands out as the most reliable tool in the entire group buy ecosystem because its subscription model does not allocate credits or meter usage.",
       "original": "Quillbot group buy through SEO Group Buy Tools stands out as the most reliable tool in the entire group buy ecosystem because its subscription model does not allocate credits or meter usage.",
-      "source": "<p>Quillbot group buy through SEO Group Buy Tools stands out as the most reliable tool in the entire group buy ecosystem because its subscription model does not allocate credits or meter usage.</p>"
+      "source": "<p>Quillbot group buy through SEO Group Buy Tools stands out as the most reliable tool in the entire group buy ecosystem because its subscription model does not allocate credits or meter usage.</p>",
+      "originalText": "Quillbot group buy through SEO Group Buy Tools stands out as the most reliable tool in the entire group buy ecosystem because its subscription model does not allocate credits or meter usage.",
+      "text": "Quillbot group buy through SEO Group Buy Tools stands out as the most reliable tool in the entire group buy ecosystem because its subscription model does not allocate credits or meter usage."
     },
     {
       "key": "p-25",
       "label": "P 25",
       "content": "Unlike SEMrush, Ahrefs, and other credit-based tools where shared access causes rapid depletion of the available credit pool, Quillbot Premium simply unlocks features without tracking individual usage volume.",
       "original": "Unlike SEMrush, Ahrefs, and other credit-based tools where shared access causes rapid depletion of the available credit pool, Quillbot Premium simply unlocks features without tracking individual usage volume.",
-      "source": "<p>Unlike SEMrush, Ahrefs, and other credit-based tools where shared access causes rapid depletion of the available credit pool, Quillbot Premium simply unlocks features without tracking individual usage volume.</p>"
+      "source": "<p>Unlike SEMrush, Ahrefs, and other credit-based tools where shared access causes rapid depletion of the available credit pool, Quillbot Premium simply unlocks features without tracking individual usage volume.</p>",
+      "originalText": "Unlike SEMrush, Ahrefs, and other credit-based tools where shared access causes rapid depletion of the available credit pool, Quillbot Premium simply unlocks features without tracking individual usage volume.",
+      "text": "Unlike SEMrush, Ahrefs, and other credit-based tools where shared access causes rapid depletion of the available credit pool, Quillbot Premium simply unlocks features without tracking individual usage volume."
     },
     {
       "key": "p-26",
       "label": "P 26",
       "content": "This design means one user's heavy paraphrasing does not affect another user's ability to use the tool. The only reliability concern with Quillbot group buy through SEO Group Buy Tools involves concurrent access limits and occasional session management.",
       "original": "This design means one user's heavy paraphrasing does not affect another user's ability to use the tool. The only reliability concern with Quillbot group buy through SEO Group Buy Tools involves concurrent access limits and occasional session management.",
-      "source": "<p>This design means one user's heavy paraphrasing does not affect another user's ability to use the tool. The only reliability concern with Quillbot group buy through SEO Group Buy Tools involves concurrent access limits and occasional session management.</p>"
+      "source": "<p>This design means one user's heavy paraphrasing does not affect another user's ability to use the tool. The only reliability concern with Quillbot group buy through SEO Group Buy Tools involves concurrent access limits and occasional session management.</p>",
+      "originalText": "This design means one user's heavy paraphrasing does not affect another user's ability to use the tool. The only reliability concern with Quillbot group buy through SEO Group Buy Tools involves concurrent access limits and occasional session management.",
+      "text": "This design means one user's heavy paraphrasing does not affect another user's ability to use the tool. The only reliability concern with Quillbot group buy through SEO Group Buy Tools involves concurrent access limits and occasional session management."
     },
     {
       "key": "p-27",
       "label": "P 27",
       "content": "If too many users access the shared account simultaneously, some may experience temporary disconnections or need to refresh their browser session.",
       "original": "If too many users access the shared account simultaneously, some may experience temporary disconnections or need to refresh their browser session.",
-      "source": "<p>If too many users access the shared account simultaneously, some may experience temporary disconnections or need to refresh their browser session.</p>"
+      "source": "<p>If too many users access the shared account simultaneously, some may experience temporary disconnections or need to refresh their browser session.</p>",
+      "originalText": "If too many users access the shared account simultaneously, some may experience temporary disconnections or need to refresh their browser session.",
+      "text": "If too many users access the shared account simultaneously, some may experience temporary disconnections or need to refresh their browser session."
     },
     {
       "key": "p-28",
       "label": "P 28",
       "content": "However, these interruptions are minor compared to the complete feature unavailability caused by credit exhaustion in other group buy tools, making Quillbot the recommended starting point for users evaluating the group buy model.",
       "original": "However, these interruptions are minor compared to the complete feature unavailability caused by credit exhaustion in other group buy tools, making Quillbot the recommended starting point for users evaluating the group buy model.",
-      "source": "<p>However, these interruptions are minor compared to the complete feature unavailability caused by credit exhaustion in other group buy tools, making Quillbot the recommended starting point for users evaluating the group buy model.</p>"
+      "source": "<p>However, these interruptions are minor compared to the complete feature unavailability caused by credit exhaustion in other group buy tools, making Quillbot the recommended starting point for users evaluating the group buy model.</p>",
+      "originalText": "However, these interruptions are minor compared to the complete feature unavailability caused by credit exhaustion in other group buy tools, making Quillbot the recommended starting point for users evaluating the group buy model.",
+      "text": "However, these interruptions are minor compared to the complete feature unavailability caused by credit exhaustion in other group buy tools, making Quillbot the recommended starting point for users evaluating the group buy model."
     },
     {
       "key": "p-29",
       "label": "P 29",
       "content": "Content writers, students, and professionals who use paraphrasing and grammar tools daily will find Quillbot group buy through SEO Group Buy Tools delivers consistent, predictable access that rivals individual subscriptions in terms of reliability.",
       "original": "Content writers, students, and professionals who use paraphrasing and grammar tools daily will find Quillbot group buy through SEO Group Buy Tools delivers consistent, predictable access that rivals individual subscriptions in terms of reliability.",
-      "source": "<p>Content writers, students, and professionals who use paraphrasing and grammar tools daily will find Quillbot group buy through SEO Group Buy Tools delivers consistent, predictable access that rivals individual subscriptions in terms of reliability.</p>"
+      "source": "<p>Content writers, students, and professionals who use paraphrasing and grammar tools daily will find Quillbot group buy through SEO Group Buy Tools delivers consistent, predictable access that rivals individual subscriptions in terms of reliability.</p>",
+      "originalText": "Content writers, students, and professionals who use paraphrasing and grammar tools daily will find Quillbot group buy through SEO Group Buy Tools delivers consistent, predictable access that rivals individual subscriptions in terms of reliability.",
+      "text": "Content writers, students, and professionals who use paraphrasing and grammar tools daily will find Quillbot group buy through SEO Group Buy Tools delivers consistent, predictable access that rivals individual subscriptions in terms of reliability."
     },
     {
       "key": "p-30",
       "label": "P 30",
       "content": "The non-credit-based model eliminates the primary pain point that makes most other group buy tools unreliable during peak usage periods.",
       "original": "The non-credit-based model eliminates the primary pain point that makes most other group buy tools unreliable during peak usage periods.",
-      "source": "<p>The non-credit-based model eliminates the primary pain point that makes most other group buy tools unreliable during peak usage periods.</p>"
+      "source": "<p>The non-credit-based model eliminates the primary pain point that makes most other group buy tools unreliable during peak usage periods.</p>",
+      "originalText": "The non-credit-based model eliminates the primary pain point that makes most other group buy tools unreliable during peak usage periods.",
+      "text": "The non-credit-based model eliminates the primary pain point that makes most other group buy tools unreliable during peak usage periods."
     },
     {
       "key": "h2-6",
       "label": "H2 6",
       "content": "References",
       "original": "References",
-      "source": "<h2>References</h2>"
+      "source": "<h2>References</h2>",
+      "originalText": "References",
+      "text": "References"
     },
     {
       "key": "li-16",
       "label": "LI 16",
       "content": "Quillbot official pricing — quillbot.com/premium — Verified June 2026",
       "original": "Quillbot official pricing — quillbot.com/premium — Verified June 2026",
-      "source": "<li>Quillbot official pricing — quillbot.com/premium — Verified June 2026</li>"
+      "source": "<li>Quillbot official pricing — quillbot.com/premium — Verified June 2026</li>",
+      "originalText": "Quillbot official pricing — quillbot.com/premium — Verified June 2026",
+      "text": "Quillbot official pricing — quillbot.com/premium — Verified June 2026"
     },
     {
       "key": "li-17",
       "label": "LI 17",
       "content": "Quillbot feature comparison — quillbot.com/features — Verified June 2026",
       "original": "Quillbot feature comparison — quillbot.com/features — Verified June 2026",
-      "source": "<li>Quillbot feature comparison — quillbot.com/features — Verified June 2026</li>"
+      "source": "<li>Quillbot feature comparison — quillbot.com/features — Verified June 2026</li>",
+      "originalText": "Quillbot feature comparison — quillbot.com/features — Verified June 2026",
+      "text": "Quillbot feature comparison — quillbot.com/features — Verified June 2026"
     },
     {
       "key": "li-18",
       "label": "LI 18",
       "content": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026",
       "original": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026",
-      "source": "<li>Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026</li>"
+      "source": "<li>Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026</li>",
+      "originalText": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026",
+      "text": "Group buy provider pricing comparison — seogroupsbuytools.com/providers — Verified June 2026"
     },
     {
       "key": "h2-7",
       "label": "H2 7",
       "content": "Available AI Writing Tools in Group Buy",
       "original": "Available AI Writing Tools in Group Buy",
-      "source": "<h2>Available AI Writing Tools in Group Buy</h2>"
+      "source": "<h2>Available AI Writing Tools in Group Buy</h2>",
+      "originalText": "Available AI Writing Tools in Group Buy",
+      "text": "Available AI Writing Tools in Group Buy"
     },
     {
       "key": "h4-1",
       "label": "H4 1",
       "content": "Copy.ai Group Buy",
       "original": "Copy.ai Group Buy",
-      "source": "<h4>Copy.ai Group Buy</h4>"
+      "source": "<h4>Copy.ai Group Buy</h4>",
+      "originalText": "Copy.ai Group Buy",
+      "text": "Copy.ai Group Buy"
     },
     {
       "key": "p-31",
       "label": "P 31",
       "content": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...",
       "original": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...",
-      "source": "<p>Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...</p>"
+      "source": "<p>Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...</p>",
+      "originalText": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month...",
+      "text": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month..."
     },
     {
       "key": "h4-2",
       "label": "H4 2",
       "content": "WordAI Group Buy",
       "original": "WordAI Group Buy",
-      "source": "<h4>WordAI Group Buy</h4>"
+      "source": "<h4>WordAI Group Buy</h4>",
+      "originalText": "WordAI Group Buy",
+      "text": "WordAI Group Buy"
     },
     {
       "key": "p-32",
       "label": "P 32",
       "content": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ...",
       "original": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ...",
-      "source": "<p>Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ...</p>"
+      "source": "<p>Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ...</p>",
+      "originalText": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ...",
+      "text": "Access WordAI group buy through SEO Group Buy Tools for AI-powered article spinning and content rewriting at a fraction ..."
     },
     {
       "key": "h4-3",
       "label": "H4 3",
       "content": "Writecream Group Buy",
       "original": "Writecream Group Buy",
-      "source": "<h4>Writecream Group Buy</h4>"
+      "source": "<h4>Writecream Group Buy</h4>",
+      "originalText": "Writecream Group Buy",
+      "text": "Writecream Group Buy"
     },
     {
       "key": "p-33",
       "label": "P 33",
       "content": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati...",
       "original": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati...",
-      "source": "<p>Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati...</p>"
+      "source": "<p>Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati...</p>",
+      "originalText": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati...",
+      "text": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalizati..."
     },
     {
       "key": "h3-1",
       "label": "H3 1",
       "content": "Get Started Today",
       "original": "Get Started Today",
-      "source": "<h3>Get Started Today</h3>"
+      "source": "<h3>Get Started Today</h3>",
+      "originalText": "Get Started Today",
+      "text": "Get Started Today"
     },
     {
       "key": "p-34",
       "label": "P 34",
       "content": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
       "original": "Access 50+ premium SEO tools from <strong>$5/month</strong>",
-      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>"
+      "source": "<p>Access 50+ premium SEO tools from <strong>$5/month</strong></p>",
+      "originalText": "Access 50+ premium SEO tools from $5/month",
+      "text": "Access 50+ premium SEO tools from $5/month"
     },
     {
       "key": "h3-2",
       "label": "H3 2",
       "content": "Tool Categories",
       "original": "Tool Categories",
-      "source": "<h3>Tool Categories</h3>"
+      "source": "<h3>Tool Categories</h3>",
+      "originalText": "Tool Categories",
+      "text": "Tool Categories"
     },
     {
       "key": "li-19",
       "label": "LI 19",
       "content": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
       "original": "<a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span>",
-      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>"
+      "source": "<li><a href=\"../../seo-tools/\"><span class=\"cat-icon\">🔍</span> SEO Tools</a> <span class=\"count\">12</span></li>",
+      "originalText": "🔍 SEO Tools 12",
+      "text": "🔍 SEO Tools 12"
     },
     {
       "key": "li-20",
       "label": "LI 20",
       "content": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../design-tools/\"><span class=\"cat-icon\">🎨</span> Design Tools</a> <span class=\"count\">5</span></li>",
+      "originalText": "🎨 Design Tools 5",
+      "text": "🎨 Design Tools 5"
     },
     {
       "key": "li-21",
       "label": "LI 21",
       "content": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
       "original": "<a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span>",
-      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>"
+      "source": "<li><a href=\"../../spy-tools/\"><span class=\"cat-icon\">🕵️</span> Spy & Ad Intelligence</a> <span class=\"count\">5</span></li>",
+      "originalText": "🕵️ Spy & Ad Intelligence 5",
+      "text": "🕵️ Spy & Ad Intelligence 5"
     },
     {
       "key": "li-22",
       "label": "LI 22",
       "content": "<a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../\"><span class=\"cat-icon\">✍️</span> AI Writing Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "✍️ AI Writing Tools 4",
+      "text": "✍️ AI Writing Tools 4"
     },
     {
       "key": "li-23",
       "label": "LI 23",
       "content": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
       "original": "<a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span>",
-      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\"><span class=\"cat-icon\">🛒</span> E-commerce Tools</a> <span class=\"count\">4</span></li>",
+      "originalText": "🛒 E-commerce Tools 4",
+      "text": "🛒 E-commerce Tools 4"
     },
     {
       "key": "li-24",
       "label": "LI 24",
       "content": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../social-media-tools/\"><span class=\"cat-icon\">📱</span> Social Media Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "📱 Social Media Tools 3",
+      "text": "📱 Social Media Tools 3"
     },
     {
       "key": "li-25",
       "label": "LI 25",
       "content": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
       "original": "<a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span>",
-      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>"
+      "source": "<li><a href=\"../../education-tools/\"><span class=\"cat-icon\">🎓</span> Education Tools</a> <span class=\"count\">3</span></li>",
+      "originalText": "🎓 Education Tools 3",
+      "text": "🎓 Education Tools 3"
     },
     {
       "key": "h3-3",
       "label": "H3 3",
       "content": "Popular Tools",
       "original": "Popular Tools",
-      "source": "<h3>Popular Tools</h3>"
+      "source": "<h3>Popular Tools</h3>",
+      "originalText": "Popular Tools",
+      "text": "Popular Tools"
     },
     {
       "key": "li-26",
       "label": "LI 26",
       "content": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
       "original": "<a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/semrush/\">SEMrush Group Buy</a></li>",
+      "originalText": "SEMrush Group Buy",
+      "text": "SEMrush Group Buy"
     },
     {
       "key": "li-27",
       "label": "LI 27",
       "content": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
       "original": "<a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/ahrefs/\">Ahrefs Group Buy</a></li>",
+      "originalText": "Ahrefs Group Buy",
+      "text": "Ahrefs Group Buy"
     },
     {
       "key": "li-28",
       "label": "LI 28",
       "content": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
       "original": "<a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/moz-pro/\">Moz Pro Group Buy</a></li>",
+      "originalText": "Moz Pro Group Buy",
+      "text": "Moz Pro Group Buy"
     },
     {
       "key": "li-29",
       "label": "LI 29",
       "content": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
       "original": "<a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a>",
-      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>"
+      "source": "<li><a href=\"../../seo-tools/surfer-seo/\">Surfer SEO Group Buy</a></li>",
+      "originalText": "Surfer SEO Group Buy",
+      "text": "Surfer SEO Group Buy"
     },
     {
       "key": "li-30",
       "label": "LI 30",
       "content": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
       "original": "<a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a>",
-      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>"
+      "source": "<li><a href=\"../../design-tools/canva-pro/\">Canva Pro Group Buy</a></li>",
+      "originalText": "Canva Pro Group Buy",
+      "text": "Canva Pro Group Buy"
     },
     {
       "key": "li-31",
       "label": "LI 31",
       "content": "<a href=\"./\">Quillbot Group Buy</a>",
       "original": "<a href=\"./\">Quillbot Group Buy</a>",
-      "source": "<li><a href=\"./\">Quillbot Group Buy</a></li>"
+      "source": "<li><a href=\"./\">Quillbot Group Buy</a></li>",
+      "originalText": "Quillbot Group Buy",
+      "text": "Quillbot Group Buy"
     },
     {
       "key": "h3-4",
       "label": "H3 4",
       "content": "Why Choose Us",
       "original": "Why Choose Us",
-      "source": "<h3>Why Choose Us</h3>"
+      "source": "<h3>Why Choose Us</h3>",
+      "originalText": "Why Choose Us",
+      "text": "Why Choose Us"
     },
     {
       "key": "li-32",
       "label": "LI 32",
       "content": "✓ 50+ Premium Tools",
       "original": "✓ 50+ Premium Tools",
-      "source": "<li>✓ 50+ Premium Tools</li>"
+      "source": "<li>✓ 50+ Premium Tools</li>",
+      "originalText": "✓ 50+ Premium Tools",
+      "text": "✓ 50+ Premium Tools"
     },
     {
       "key": "li-33",
       "label": "LI 33",
       "content": "✓ 90%+ Uptime Guaranteed",
       "original": "✓ 90%+ Uptime Guaranteed",
-      "source": "<li>✓ 90%+ Uptime Guaranteed</li>"
+      "source": "<li>✓ 90%+ Uptime Guaranteed</li>",
+      "originalText": "✓ 90%+ Uptime Guaranteed",
+      "text": "✓ 90%+ Uptime Guaranteed"
     },
     {
       "key": "li-34",
       "label": "LI 34",
       "content": "✓ Instant Access Setup",
       "original": "✓ Instant Access Setup",
-      "source": "<li>✓ Instant Access Setup</li>"
+      "source": "<li>✓ Instant Access Setup</li>",
+      "originalText": "✓ Instant Access Setup",
+      "text": "✓ Instant Access Setup"
     },
     {
       "key": "li-35",
       "label": "LI 35",
       "content": "✓ 24/7 Support",
       "original": "✓ 24/7 Support",
-      "source": "<li>✓ 24/7 Support</li>"
+      "source": "<li>✓ 24/7 Support</li>",
+      "originalText": "✓ 24/7 Support",
+      "text": "✓ 24/7 Support"
     },
     {
       "key": "li-36",
       "label": "LI 36",
       "content": "✓ Secure Payments",
       "original": "✓ Secure Payments",
-      "source": "<li>✓ Secure Payments</li>"
+      "source": "<li>✓ Secure Payments</li>",
+      "originalText": "✓ Secure Payments",
+      "text": "✓ Secure Payments"
     },
     {
       "key": "h2-8",
       "label": "H2 8",
       "content": "Ready to Get Started?",
       "original": "Ready to Get Started?",
-      "source": "<h2>Ready to Get Started?</h2>"
+      "source": "<h2>Ready to Get Started?</h2>",
+      "originalText": "Ready to Get Started?",
+      "text": "Ready to Get Started?"
     },
     {
       "key": "p-35",
       "label": "P 35",
       "content": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
       "original": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
-      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>"
+      "source": "<p>Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.</p>",
+      "originalText": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee.",
+      "text": "Join 10,000+ freelancers, agencies, and bloggers saving 80-96% on premium SEO tools. Instant access, 24/7 support, money-back guarantee."
     },
     {
       "key": "p-36",
       "label": "P 36",
       "content": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
       "original": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
-      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>"
+      "source": "<p>Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.</p>",
+      "originalText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
+      "text": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
     },
     {
       "key": "h4-4",
       "label": "H4 4",
       "content": "Categories",
       "original": "Categories",
-      "source": "<h4>Categories</h4>"
+      "source": "<h4>Categories</h4>",
+      "originalText": "Categories",
+      "text": "Categories"
     },
     {
       "key": "li-37",
       "label": "LI 37",
       "content": "<a href=\"../../seo-tools/\">SEO Tools</a>",
       "original": "<a href=\"../../seo-tools/\">SEO Tools</a>",
-      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>"
+      "source": "<li><a href=\"../../seo-tools/\">SEO Tools</a></li>",
+      "originalText": "SEO Tools",
+      "text": "SEO Tools"
     },
     {
       "key": "li-38",
       "label": "LI 38",
       "content": "<a href=\"../../design-tools/\">Design Tools</a>",
       "original": "<a href=\"../../design-tools/\">Design Tools</a>",
-      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>"
+      "source": "<li><a href=\"../../design-tools/\">Design Tools</a></li>",
+      "originalText": "Design Tools",
+      "text": "Design Tools"
     },
     {
       "key": "li-39",
       "label": "LI 39",
       "content": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
       "original": "<a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a>",
-      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>"
+      "source": "<li><a href=\"../../spy-tools/\">Spy &amp; Ad Tools</a></li>",
+      "originalText": "Spy & Ad Tools",
+      "text": "Spy & Ad Tools"
     },
     {
       "key": "li-40",
       "label": "LI 40",
       "content": "<a href=\"../\">AI Writing</a>",
       "original": "<a href=\"../\">AI Writing</a>",
-      "source": "<li><a href=\"../\">AI Writing</a></li>"
+      "source": "<li><a href=\"../\">AI Writing</a></li>",
+      "originalText": "AI Writing",
+      "text": "AI Writing"
     },
     {
       "key": "li-41",
       "label": "LI 41",
       "content": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
       "original": "<a href=\"../../ecommerce-tools/\">E-commerce</a>",
-      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>"
+      "source": "<li><a href=\"../../ecommerce-tools/\">E-commerce</a></li>",
+      "originalText": "E-commerce",
+      "text": "E-commerce"
     },
     {
       "key": "li-42",
       "label": "LI 42",
       "content": "<a href=\"../../social-media-tools/\">Social Media</a>",
       "original": "<a href=\"../../social-media-tools/\">Social Media</a>",
-      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>"
+      "source": "<li><a href=\"../../social-media-tools/\">Social Media</a></li>",
+      "originalText": "Social Media",
+      "text": "Social Media"
     },
     {
       "key": "h4-5",
       "label": "H4 5",
       "content": "Resources",
       "original": "Resources",
-      "source": "<h4>Resources</h4>"
+      "source": "<h4>Resources</h4>",
+      "originalText": "Resources",
+      "text": "Resources"
     },
     {
       "key": "li-43",
       "label": "LI 43",
       "content": "<a href=\"../../how-it-works/\">How It Works</a>",
       "original": "<a href=\"../../how-it-works/\">How It Works</a>",
-      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>"
+      "source": "<li><a href=\"../../how-it-works/\">How It Works</a></li>",
+      "originalText": "How It Works",
+      "text": "How It Works"
     },
     {
       "key": "li-44",
       "label": "LI 44",
       "content": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
       "original": "<a href=\"../../is-it-safe/\">Is It Safe?</a>",
-      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>"
+      "source": "<li><a href=\"../../is-it-safe/\">Is It Safe?</a></li>",
+      "originalText": "Is It Safe?",
+      "text": "Is It Safe?"
     },
     {
       "key": "li-45",
       "label": "LI 45",
       "content": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
       "original": "<a href=\"../../is-it-legal/\">Is It Legal?</a>",
-      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>"
+      "source": "<li><a href=\"../../is-it-legal/\">Is It Legal?</a></li>",
+      "originalText": "Is It Legal?",
+      "text": "Is It Legal?"
     },
     {
       "key": "li-46",
       "label": "LI 46",
       "content": "<a href=\"../../faq/\">FAQ</a>",
       "original": "<a href=\"../../faq/\">FAQ</a>",
-      "source": "<li><a href=\"../../faq/\">FAQ</a></li>"
+      "source": "<li><a href=\"../../faq/\">FAQ</a></li>",
+      "originalText": "FAQ",
+      "text": "FAQ"
     },
     {
       "key": "li-47",
       "label": "LI 47",
       "content": "<a href=\"../../best-providers/\">Best Providers</a>",
       "original": "<a href=\"../../best-providers/\">Best Providers</a>",
-      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>"
+      "source": "<li><a href=\"../../best-providers/\">Best Providers</a></li>",
+      "originalText": "Best Providers",
+      "text": "Best Providers"
     },
     {
       "key": "li-48",
       "label": "LI 48",
       "content": "<a href=\"../../pricing/\">Pricing</a>",
       "original": "<a href=\"../../pricing/\">Pricing</a>",
-      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>"
+      "source": "<li><a href=\"../../pricing/\">Pricing</a></li>",
+      "originalText": "Pricing",
+      "text": "Pricing"
     },
     {
       "key": "h4-6",
       "label": "H4 6",
       "content": "Guides",
       "original": "Guides",
-      "source": "<h4>Guides</h4>"
+      "source": "<h4>Guides</h4>",
+      "originalText": "Guides",
+      "text": "Guides"
     },
     {
       "key": "li-49",
       "label": "LI 49",
       "content": "<a href=\"../../guides/keyword-research/\">Keyword Research</a>",
       "original": "<a href=\"../../guides/keyword-research/\">Keyword Research</a>",
-      "source": "<li><a href=\"../../guides/keyword-research/\">Keyword Research</a></li>"
+      "source": "<li><a href=\"../../guides/keyword-research/\">Keyword Research</a></li>",
+      "originalText": "Keyword Research",
+      "text": "Keyword Research"
     },
     {
       "key": "li-50",
       "label": "LI 50",
       "content": "<a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a>",
       "original": "<a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a>",
-      "source": "<li><a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a></li>"
+      "source": "<li><a href=\"../../guides/backlink-analysis/\">Backlink Analysis</a></li>",
+      "originalText": "Backlink Analysis",
+      "text": "Backlink Analysis"
     },
     {
       "key": "li-51",
       "label": "LI 51",
       "content": "<a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a>",
       "original": "<a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a>",
-      "source": "<li><a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a></li>"
+      "source": "<li><a href=\"../../guides/technical-seo-audit/\">Technical SEO Audit</a></li>",
+      "originalText": "Technical SEO Audit",
+      "text": "Technical SEO Audit"
     },
     {
       "key": "li-52",
       "label": "LI 52",
       "content": "<a href=\"../../guides/content-optimization/\">Content Optimization</a>",
       "original": "<a href=\"../../guides/content-optimization/\">Content Optimization</a>",
-      "source": "<li><a href=\"../../guides/content-optimization/\">Content Optimization</a></li>"
+      "source": "<li><a href=\"../../guides/content-optimization/\">Content Optimization</a></li>",
+      "originalText": "Content Optimization",
+      "text": "Content Optimization"
     },
     {
       "key": "li-53",
       "label": "LI 53",
       "content": "<a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a>",
       "original": "<a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a>",
-      "source": "<li><a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a></li>"
+      "source": "<li><a href=\"../../guides/ppc-ad-spy-research/\">PPC Research</a></li>",
+      "originalText": "PPC Research",
+      "text": "PPC Research"
     },
     {
       "key": "li-54",
       "label": "LI 54",
       "content": "<a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a>",
       "original": "<a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a>",
-      "source": "<li><a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a></li>"
+      "source": "<li><a href=\"../../guides/ecommerce-product-research/\">Amazon Selling</a></li>",
+      "originalText": "Amazon Selling",
+      "text": "Amazon Selling"
     },
     {
       "key": "h4-7",
       "label": "H4 7",
       "content": "Trust & Safety",
       "original": "Trust & Safety",
-      "source": "<h4>Trust & Safety</h4>"
+      "source": "<h4>Trust & Safety</h4>",
+      "originalText": "Trust & Safety",
+      "text": "Trust & Safety"
     },
     {
       "key": "li-55",
       "label": "LI 55",
       "content": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
       "original": "<a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a>",
-      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>"
+      "source": "<li><a href=\"../../trust/why-seo-tools-expensive/\">Are They Legitimate?</a></li>",
+      "originalText": "Are They Legitimate?",
+      "text": "Are They Legitimate?"
     },
     {
       "key": "li-56",
       "label": "LI 56",
       "content": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
       "original": "<a href=\"../../trust/choose-provider/\">Choose Provider</a>",
-      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>"
+      "source": "<li><a href=\"../../trust/choose-provider/\">Choose Provider</a></li>",
+      "originalText": "Choose Provider",
+      "text": "Choose Provider"
     },
     {
       "key": "li-57",
       "label": "LI 57",
       "content": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
       "original": "<a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a>",
-      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>"
+      "source": "<li><a href=\"../../trust/scams-to-avoid/\">Avoid Scams</a></li>",
+      "originalText": "Avoid Scams",
+      "text": "Avoid Scams"
     },
     {
       "key": "li-58",
       "label": "LI 58",
       "content": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
       "original": "<a href=\"../../trust/tool-downtime/\">Tool Downtime</a>",
-      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>"
+      "source": "<li><a href=\"../../trust/tool-downtime/\">Tool Downtime</a></li>",
+      "originalText": "Tool Downtime",
+      "text": "Tool Downtime"
     },
     {
       "key": "li-59",
       "label": "LI 59",
       "content": "<a href=\"../../trust/countries/\">Countries</a>",
       "original": "<a href=\"../../trust/countries/\">Countries</a>",
-      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>"
+      "source": "<li><a href=\"../../trust/countries/\">Countries</a></li>",
+      "originalText": "Countries",
+      "text": "Countries"
     },
     {
       "key": "p-37",
       "label": "P 37",
       "content": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
       "original": "&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a>",
-      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>"
+      "source": "<p>&copy; 2026 SEO Group Buy Tools. All rights reserved. <a href=\"../../privacy-policy/\">Privacy Policy</a> · <a href=\"../../terms/\">Terms</a></p>",
+      "originalText": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms",
+      "text": "&copy; 2026 SEO Group Buy Tools. All rights reserved. Privacy Policy · Terms"
     }
   ],
   "editorContent": [
