@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seogroupsbuytools.com/sitemap.xml

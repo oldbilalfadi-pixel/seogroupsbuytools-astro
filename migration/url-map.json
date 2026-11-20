@@ -1,0 +1,362 @@
+[
+  {
+    "route": "/404/",
+    "source": "404.html",
+    "content": "content/pages/404.json"
+  },
+  {
+    "route": "/",
+    "source": "index.html",
+    "content": "content/homepage.json"
+  },
+  {
+    "route": "/for-freelancers/",
+    "source": "for-freelancers/index.html",
+    "content": "content/pages/for-freelancers.json"
+  },
+  {
+    "route": "/for-bloggers/",
+    "source": "for-bloggers/index.html",
+    "content": "content/pages/for-bloggers.json"
+  },
+  {
+    "route": "/is-it-safe/",
+    "source": "is-it-safe/index.html",
+    "content": "content/pages/is-it-safe.json"
+  },
+  {
+    "route": "/pricing/",
+    "source": "pricing/index.html",
+    "content": "content/pages/pricing.json"
+  },
+  {
+    "route": "/pricing/combo-plans/",
+    "source": "pricing/combo-plans/index.html",
+    "content": "content/pages/pricing__combo-plans.json"
+  },
+  {
+    "route": "/faq/",
+    "source": "faq/index.html",
+    "content": "content/pages/faq.json"
+  },
+  {
+    "route": "/spy-tools/",
+    "source": "spy-tools/index.html",
+    "content": "content/pages/spy-tools.json"
+  },
+  {
+    "route": "/spy-tools/dropispy/",
+    "source": "spy-tools/dropispy/index.html",
+    "content": "content/products/spy-tools__dropispy.json"
+  },
+  {
+    "route": "/spy-tools/anstrex/",
+    "source": "spy-tools/anstrex/index.html",
+    "content": "content/products/spy-tools__anstrex.json"
+  },
+  {
+    "route": "/spy-tools/adspy/",
+    "source": "spy-tools/adspy/index.html",
+    "content": "content/products/spy-tools__adspy.json"
+  },
+  {
+    "route": "/spy-tools/pipiads/",
+    "source": "spy-tools/pipiads/index.html",
+    "content": "content/products/spy-tools__pipiads.json"
+  },
+  {
+    "route": "/spy-tools/poweradspy/",
+    "source": "spy-tools/poweradspy/index.html",
+    "content": "content/products/spy-tools__poweradspy.json"
+  },
+  {
+    "route": "/education-tools/",
+    "source": "education-tools/index.html",
+    "content": "content/pages/education-tools.json"
+  },
+  {
+    "route": "/guides/technical-seo-audit/",
+    "source": "guides/technical-seo-audit/index.html",
+    "content": "content/pages/guides__technical-seo-audit.json"
+  },
+  {
+    "route": "/guides/ecommerce-product-research/",
+    "source": "guides/ecommerce-product-research/index.html",
+    "content": "content/pages/guides__ecommerce-product-research.json"
+  },
+  {
+    "route": "/guides/content-optimization/",
+    "source": "guides/content-optimization/index.html",
+    "content": "content/pages/guides__content-optimization.json"
+  },
+  {
+    "route": "/guides/ppc-ad-spy-research/",
+    "source": "guides/ppc-ad-spy-research/index.html",
+    "content": "content/pages/guides__ppc-ad-spy-research.json"
+  },
+  {
+    "route": "/guides/keyword-research/",
+    "source": "guides/keyword-research/index.html",
+    "content": "content/pages/guides__keyword-research.json"
+  },
+  {
+    "route": "/guides/competitor-analysis/",
+    "source": "guides/competitor-analysis/index.html",
+    "content": "content/pages/guides__competitor-analysis.json"
+  },
+  {
+    "route": "/guides/backlink-analysis/",
+    "source": "guides/backlink-analysis/index.html",
+    "content": "content/pages/guides__backlink-analysis.json"
+  },
+  {
+    "route": "/ecommerce-tools/",
+    "source": "ecommerce-tools/index.html",
+    "content": "content/pages/ecommerce-tools.json"
+  },
+  {
+    "route": "/ecommerce-tools/helium-10/",
+    "source": "ecommerce-tools/helium-10/index.html",
+    "content": "content/products/ecommerce-tools__helium-10.json"
+  },
+  {
+    "route": "/ecommerce-tools/jungle-scout/",
+    "source": "ecommerce-tools/jungle-scout/index.html",
+    "content": "content/products/ecommerce-tools__jungle-scout.json"
+  },
+  {
+    "route": "/ecommerce-tools/zonguru/",
+    "source": "ecommerce-tools/zonguru/index.html",
+    "content": "content/products/ecommerce-tools__zonguru.json"
+  },
+  {
+    "route": "/ecommerce-tools/merch-informer/",
+    "source": "ecommerce-tools/merch-informer/index.html",
+    "content": "content/products/ecommerce-tools__merch-informer.json"
+  },
+  {
+    "route": "/compare/free-vs-group-buy/",
+    "source": "compare/free-vs-group-buy/index.html",
+    "content": "content/pages/compare__free-vs-group-buy.json"
+  },
+  {
+    "route": "/compare/semrush-vs-ahrefs/",
+    "source": "compare/semrush-vs-ahrefs/index.html",
+    "content": "content/pages/compare__semrush-vs-ahrefs.json"
+  },
+  {
+    "route": "/compare/group-buy-vs-alternatives/",
+    "source": "compare/group-buy-vs-alternatives/index.html",
+    "content": "content/pages/compare__group-buy-vs-alternatives.json"
+  },
+  {
+    "route": "/compare/group-buy-vs-individual/",
+    "source": "compare/group-buy-vs-individual/index.html",
+    "content": "content/pages/compare__group-buy-vs-individual.json"
+  },
+  {
+    "route": "/compare/seo-vs-design-group-buy/",
+    "source": "compare/seo-vs-design-group-buy/index.html",
+    "content": "content/pages/compare__seo-vs-design-group-buy.json"
+  },
+  {
+    "route": "/privacy-policy/",
+    "source": "privacy-policy/index.html",
+    "content": "content/pages/privacy-policy.json"
+  },
+  {
+    "route": "/design-tools/",
+    "source": "design-tools/index.html",
+    "content": "content/pages/design-tools.json"
+  },
+  {
+    "route": "/design-tools/adobe-creative-cloud/",
+    "source": "design-tools/adobe-creative-cloud/index.html",
+    "content": "content/products/design-tools__adobe-creative-cloud.json"
+  },
+  {
+    "route": "/design-tools/stencil/",
+    "source": "design-tools/stencil/index.html",
+    "content": "content/products/design-tools__stencil.json"
+  },
+  {
+    "route": "/design-tools/crello/",
+    "source": "design-tools/crello/index.html",
+    "content": "content/products/design-tools__crello.json"
+  },
+  {
+    "route": "/design-tools/picmonkey/",
+    "source": "design-tools/picmonkey/index.html",
+    "content": "content/products/design-tools__picmonkey.json"
+  },
+  {
+    "route": "/design-tools/canva-pro/",
+    "source": "design-tools/canva-pro/index.html",
+    "content": "content/products/design-tools__canva-pro.json"
+  },
+  {
+    "route": "/for-beginners/",
+    "source": "for-beginners/index.html",
+    "content": "content/pages/for-beginners.json"
+  },
+  {
+    "route": "/is-it-legal/",
+    "source": "is-it-legal/index.html",
+    "content": "content/pages/is-it-legal.json"
+  },
+  {
+    "route": "/best-providers/",
+    "source": "best-providers/index.html",
+    "content": "content/pages/best-providers.json"
+  },
+  {
+    "route": "/social-media-tools/",
+    "source": "social-media-tools/index.html",
+    "content": "content/pages/social-media-tools.json"
+  },
+  {
+    "route": "/trust/why-seo-tools-expensive/",
+    "source": "trust/why-seo-tools-expensive/index.html",
+    "content": "content/pages/trust__why-seo-tools-expensive.json"
+  },
+  {
+    "route": "/trust/choose-provider/",
+    "source": "trust/choose-provider/index.html",
+    "content": "content/pages/trust__choose-provider.json"
+  },
+  {
+    "route": "/trust/tool-downtime/",
+    "source": "trust/tool-downtime/index.html",
+    "content": "content/pages/trust__tool-downtime.json"
+  },
+  {
+    "route": "/trust/countries/",
+    "source": "trust/countries/index.html",
+    "content": "content/pages/trust__countries.json"
+  },
+  {
+    "route": "/trust/scams-to-avoid/",
+    "source": "trust/scams-to-avoid/index.html",
+    "content": "content/pages/trust__scams-to-avoid.json"
+  },
+  {
+    "route": "/for-agencies/",
+    "source": "for-agencies/index.html",
+    "content": "content/pages/for-agencies.json"
+  },
+  {
+    "route": "/trends/price-increases/",
+    "source": "trends/price-increases/index.html",
+    "content": "content/pages/trends__price-increases.json"
+  },
+  {
+    "route": "/trends/hardest-tools-to-get/",
+    "source": "trends/hardest-tools-to-get/index.html",
+    "content": "content/pages/trends__hardest-tools-to-get.json"
+  },
+  {
+    "route": "/trends/whats-new-2026/",
+    "source": "trends/whats-new-2026/index.html",
+    "content": "content/pages/trends__whats-new-2026.json"
+  },
+  {
+    "route": "/ai-writing-tools/",
+    "source": "ai-writing-tools/index.html",
+    "content": "content/pages/ai-writing-tools.json"
+  },
+  {
+    "route": "/ai-writing-tools/writecream/",
+    "source": "ai-writing-tools/writecream/index.html",
+    "content": "content/products/ai-writing-tools__writecream.json"
+  },
+  {
+    "route": "/ai-writing-tools/wordai/",
+    "source": "ai-writing-tools/wordai/index.html",
+    "content": "content/products/ai-writing-tools__wordai.json"
+  },
+  {
+    "route": "/ai-writing-tools/quillbot/",
+    "source": "ai-writing-tools/quillbot/index.html",
+    "content": "content/products/ai-writing-tools__quillbot.json"
+  },
+  {
+    "route": "/ai-writing-tools/copy-ai/",
+    "source": "ai-writing-tools/copy-ai/index.html",
+    "content": "content/products/ai-writing-tools__copy-ai.json"
+  },
+  {
+    "route": "/seo-tools/",
+    "source": "seo-tools/index.html",
+    "content": "content/pages/seo-tools.json"
+  },
+  {
+    "route": "/seo-tools/serpstat/",
+    "source": "seo-tools/serpstat/index.html",
+    "content": "content/products/seo-tools__serpstat.json"
+  },
+  {
+    "route": "/seo-tools/ahrefs/",
+    "source": "seo-tools/ahrefs/index.html",
+    "content": "content/products/seo-tools__ahrefs.json"
+  },
+  {
+    "route": "/seo-tools/kwfinder/",
+    "source": "seo-tools/kwfinder/index.html",
+    "content": "content/products/seo-tools__kwfinder.json"
+  },
+  {
+    "route": "/seo-tools/ubersuggest/",
+    "source": "seo-tools/ubersuggest/index.html",
+    "content": "content/products/seo-tools__ubersuggest.json"
+  },
+  {
+    "route": "/seo-tools/buzzsumo/",
+    "source": "seo-tools/buzzsumo/index.html",
+    "content": "content/products/seo-tools__buzzsumo.json"
+  },
+  {
+    "route": "/seo-tools/crazy-egg/",
+    "source": "seo-tools/crazy-egg/index.html",
+    "content": "content/products/seo-tools__crazy-egg.json"
+  },
+  {
+    "route": "/seo-tools/spyfu/",
+    "source": "seo-tools/spyfu/index.html",
+    "content": "content/products/seo-tools__spyfu.json"
+  },
+  {
+    "route": "/seo-tools/semrush/",
+    "source": "seo-tools/semrush/index.html",
+    "content": "content/products/seo-tools__semrush.json"
+  },
+  {
+    "route": "/seo-tools/surfer-seo/",
+    "source": "seo-tools/surfer-seo/index.html",
+    "content": "content/products/seo-tools__surfer-seo.json"
+  },
+  {
+    "route": "/seo-tools/similarweb/",
+    "source": "seo-tools/similarweb/index.html",
+    "content": "content/products/seo-tools__similarweb.json"
+  },
+  {
+    "route": "/seo-tools/majestic-seo/",
+    "source": "seo-tools/majestic-seo/index.html",
+    "content": "content/products/seo-tools__majestic-seo.json"
+  },
+  {
+    "route": "/seo-tools/moz-pro/",
+    "source": "seo-tools/moz-pro/index.html",
+    "content": "content/products/seo-tools__moz-pro.json"
+  },
+  {
+    "route": "/terms/",
+    "source": "terms/index.html",
+    "content": "content/pages/terms.json"
+  },
+  {
+    "route": "/how-it-works/",
+    "source": "how-it-works/index.html",
+    "content": "content/pages/how-it-works.json"
+  }
+]
