@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
     paths:
-      - seogroupsbuytools-astro-seogroupsbuytools-astro-project.zip
+      - seogroupsbuytools-astro-project.zip
       - .github/workflows/import-project.yml
   workflow_dispatch:
 permissions:
