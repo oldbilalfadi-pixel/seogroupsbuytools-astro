@@ -47,7 +47,7 @@ function build(page) {
     originalAlt:m[0].match(/\balt="([^"]*)"/i)?.[1] || '',
     source:m[0]
   }));
-  page.priceValues = [...main.matchAll(/<(span|div)\b[^>]*class="[^"]*(?:price-tag|product-hero-price|pricing-price|(?:^|[ -])price(?:[ -]|$))[^"]*"[^>]*>[\s\S]*?<\/\1>/gi)]
+  page.priceValues = [...main.matchAll(/<(span|div)\b[^>]*class="[^"]*\b(?:price|price-tag|product-hero-price|pricing-price)\b[^"]*"[^>]*>[\s\S]*?<\/\1>/gi)]
     .map(m=>({value:plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')),originalValue:plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')),source:m[0]}))
     .filter(x=>x.value && x.value.length<100 && !/<[a-z]/i.test(x.source.replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')));
 }
@@ -57,7 +57,17 @@ for (const file of files) {
   assert.ok(page.html && page.route, file);
   page.seoTitle ??= page.title || '';
   page.seoDescription ??= page.description || '';
+  page.originalPageTitle ??= page.title;
+  page.originalSeoTitle ??= page.seoTitle;
+  page.originalSeoDescription ??= page.seoDescription;
+  if(page.hero && !page.originalHero) page.originalHero = structuredClone(page.hero);
   if (!Array.isArray(page.contentGroups)) build(page);
+  if (!page.priceValues?.length) {
+    const main=page.html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i)?.[1]||page.html;
+    page.priceValues=[...main.matchAll(/<(span|div)\b[^>]*class="[^"]*\b(?:price|price-tag|product-hero-price|pricing-price)\b[^"]*"[^>]*>[\s\S]*?<\/\1>/gi)]
+      .map(m=>({value:plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')),originalValue:plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')),source:m[0]}))
+      .filter(x=>x.value&&x.value.length<100&&!/<[a-z]/i.test(x.source.replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')));
+  }
   for(const group of page.contentGroups) {
     if (group.headingSource) assert.ok(page.html.includes(group.headingSource),file+' heading');
     for(const entry of group.items) assert.ok(page.html.includes(entry.source),file+' entry');
