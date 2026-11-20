@@ -4,7 +4,7 @@ import path from 'node:path';
 import renderPage from '../src/lib/render.js';
 const files=['content/homepage.json',...['products','pages'].flatMap(dir=>fs.readdirSync('content/'+dir).filter(x=>x.endsWith('.json')).map(f=>'content/'+dir+'/'+f))];
 const site=JSON.parse(fs.readFileSync('content/settings.json','utf8'));
-const totals={pages:0,groups:0,outsideGroups:0,editableText:0,buttons:0,cards:0,images:0,prices:0,seo:0,hero:0,global:0,products:0,productFields:0,labels:0,offsets:0,nested:0,duplicates:0};
+const totals={pages:0,groups:0,outsideGroups:0,editableText:0,buttons:0,cards:0,images:0,prices:0,seo:0,hero:0,global:0,products:0,productFields:0,labels:0,offsets:0,nested:0,duplicates:0,inlineFormatting:0};
 for (const file of files) {
   const page=JSON.parse(fs.readFileSync(file,'utf8'));
   assert.equal(renderPage(page,site),page.html,'Unedited page HTML changed: '+file);
@@ -137,6 +137,15 @@ for (const file of files) {
     totals.nested++;
   }
 
+  const formatted=[...page.contentGroups,...page.outsideGroups].flatMap(g=>g.items).find(item=>item.source.includes('<strong>') && item.text.includes('$5/month'));
+  if(formatted) {
+    const edit=structuredClone(page);
+    const target=[...edit.contentGroups,...edit.outsideGroups].flatMap(g=>g.items).find(x=>x.sourceOffset===formatted.sourceOffset && x.source===formatted.source);
+    target.text=target.text.replace('$5/month','$9/month');
+    const out=renderPage(edit,site);
+    assert.ok(out.includes('<strong>$9/month</strong>'),file+' lost bold inline formatting');
+    totals.inlineFormatting++;
+  }
   if (page.html.includes('<title>')) {
     const edit=structuredClone(page);
     edit.seoTitle='CMS SEO TITLE VALIDATION';
@@ -168,7 +177,7 @@ for (const file of files) {
 assert.equal(totals.pages,72);
 assert.equal(totals.products,30);
 assert.ok(totals.productFields>=180);
-assert.ok(totals.offsets>2000 && totals.duplicates>0 && totals.nested>0);
+assert.ok(totals.offsets>2000 && totals.duplicates>0 && totals.nested>0 && totals.inlineFormatting>0);
 assert.ok(totals.groups>100 && totals.outsideGroups>20 && totals.editableText>500 && totals.buttons>100 && totals.cards>50 && totals.images>50 && totals.prices>10 && totals.labels>20);
 assert.ok(site.siteChrome?.headerLinks.length>5 && site.siteChrome?.footerLinks.length>5);
 for(const file of ['content/homepage.json','content/pages/pricing.json','content/products/seo-tools__ahrefs.json']){
