@@ -89,6 +89,31 @@ function addProductHero(page) {
   if(priceSource)page.priceValues=page.priceValues.filter(x=>x.source!==priceSource);
 }
 
+
+function addVisibleLabels(page) {
+  if (Array.isArray(page.labelTexts)) return;
+  const body=page.html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i)?.[1]||page.html;
+  const core=body.replace(/<header\b[^>]*>[\s\S]*?<\/header>/gi,'')
+    .replace(/<footer\b[^>]*>[\s\S]*?<\/footer>/gi,'')
+    .replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1>/gi,'');
+  const covered=[
+    ...[...(page.contentGroups||[]),...(page.outsideGroups||[])].flatMap(g=>[g.headingSource,...g.items.map(e=>e.source)]),
+    ...(page.priceValues||[]).map(p=>p.source),
+    ...(page.buttons||[]).map(b=>b.source),
+    ...(page.productHero?[page.productHero.nameSource,page.productHero.descriptionSource,page.productHero.priceSource,...page.productHero.features.map(f=>f.source)]:[])
+  ].filter(Boolean);
+  const ordinals=new Map();
+  page.labelTexts=[];
+  for(const m of core.matchAll(/<(span|small|strong|em|label|div)\b[^>]*>([^<>]+)<\/\1>/gi)){
+    const source=m[0],value=plain(m[2]);
+    if(!value||value.length>300||!/[\p{L}\p{N}$£€]/u.test(value))continue;
+    if(covered.some(s=>s.includes(source)))continue;
+    const ordinal=ordinals.get(source)||0;
+    ordinals.set(source,ordinal+1);
+    page.labelTexts.push({text:value,originalText:value,source,ordinal});
+  }
+}
+
 function addOutsideContent(page) {
   const body=page.html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i)?.[1] || page.html;
   const core=body.replace(/<header\b[^>]*>[\s\S]*?<\/header>/gi,'')
@@ -176,6 +201,7 @@ for (const file of files) {
   }
   addOutsideContent(page);
   if(file.startsWith('content/products/')) addProductHero(page);
+  addVisibleLabels(page);
   for(const group of [...page.contentGroups,...page.outsideGroups]) {
     if (group.headingSource) assert.ok(page.html.includes(group.headingSource),file+' heading');
     for(const entry of group.items) assert.ok(page.html.includes(entry.source),file+' entry');
