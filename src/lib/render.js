@@ -20,10 +20,21 @@ function preserveInline(source,newPlain,originalPlain) {
     const fragments=inner.split(/(<[^>]*>)/g);
     const matches=[];
     for(let i=0;i<fragments.length;i+=2) {
-      const at=fragments[i].indexOf(oldChanged);
-      if(at>=0)matches.push([i,at]);
+      let at=fragments[i].indexOf(oldChanged);
+      while(at>=0) {
+        let score=0;
+        while(at-score-1>=0 && front-score-1>=0 &&
+          fragments[i][at-score-1]===before[front-score-1])score++;
+        let forward=0;
+        while(at+oldChanged.length+forward<fragments[i].length &&
+          front+oldChanged.length+forward<before.length &&
+          fragments[i][at+oldChanged.length+forward]===before[front+oldChanged.length+forward])forward++;
+        matches.push([i,at,score+forward]);
+        at=fragments[i].indexOf(oldChanged,at+1);
+      }
     }
-    if(matches.length===1) {
+    matches.sort((a,b)=>b[2]-a[2]);
+    if(matches.length && (matches.length===1 || matches[0][2]>matches[1][2])) {
       const [i,at]=matches[0];
       fragments[i]=fragments[i].slice(0,at)+text(newChanged)+fragments[i].slice(at+oldChanged.length);
       return source.slice(0,open)+fragments.join('')+source.slice(end);
