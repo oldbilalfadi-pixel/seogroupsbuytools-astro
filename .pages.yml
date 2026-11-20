@@ -33,6 +33,8 @@ content:
             summary: "{heading}"
         fields: &section_fields
           - { name: heading, label: Heading, type: string }
+          - { name: originalHeading, type: string, hidden: true }
+          - { name: headingSource, type: text, hidden: true }
           - name: items
             label: Paragraphs, features and card text
             type: object
@@ -42,6 +44,9 @@ content:
                 summary: "{text}"
             fields:
               - { name: text, label: Content, type: text }
+              - { name: originalText, type: text, hidden: true }
+              - { name: source, type: text, hidden: true }
+              - { name: tag, type: string, hidden: true }
       - name: contentGroups
         label: Page sections
         type: object
@@ -60,6 +65,9 @@ content:
         fields: &button_fields
           - { name: text, label: Button label, type: string }
           - { name: url, label: Button destination, type: string }
+          - { name: originalText, type: text, hidden: true }
+          - { name: originalUrl, type: string, hidden: true }
+          - { name: source, type: text, hidden: true }
       - name: cardLinks
         label: Product cards and visual links
         type: object
@@ -69,6 +77,9 @@ content:
             summary: "{label}"
         fields: &card_link_fields
           - { name: url, label: Card destination, type: string }
+          - { name: label, type: string, hidden: true }
+          - { name: originalUrl, type: string, hidden: true }
+          - { name: source, type: text, hidden: true }
       - name: mediaImages
         label: Images
         type: object
@@ -79,6 +90,9 @@ content:
         fields: &image_fields
           - { name: src, label: Image file or URL, type: image, options: { media: uploads } }
           - { name: alt, label: Image description, type: string }
+          - { name: originalSrc, type: string, hidden: true }
+          - { name: originalAlt, type: string, hidden: true }
+          - { name: source, type: text, hidden: true }
       - name: priceValues
         label: Prices
         type: object
@@ -88,6 +102,9 @@ content:
             summary: "{value}"
         fields: &price_fields
           - { name: value, label: Price, type: string }
+          - { name: originalValue, type: string, hidden: true }
+          - { name: source, type: text, hidden: true }
+          - { name: mode, type: string, hidden: true }
       - { name: seoTitle, label: SEO title, type: string }
       - { name: seoDescription, label: SEO description, type: text }
   - name: products
@@ -168,12 +185,14 @@ content:
     fields:
       - { name: siteUrl, label: Website URL, type: string }
       - { name: siteName, label: Website name, type: string }
+      - { name: originalSiteName, type: string, hidden: true }
       - { name: previewNoindex, label: Hide preview from Google, type: boolean }
       - name: siteChrome
         label: Header and footer
         type: object
         fields:
           - { name: headerLogo, label: Header logo, type: image, options: { media: uploads } }
+          - { name: originalHeaderLogo, type: string, hidden: true }
           - name: headerLinks
             label: Main menu
             type: object
@@ -184,8 +203,12 @@ content:
             fields:
               - { name: text, label: Menu label, type: string }
               - { name: url, label: Menu link, type: string }
+              - { name: originalText, type: string, hidden: true }
+              - { name: originalUrl, type: string, hidden: true }
           - { name: footerLogo, label: Footer logo, type: image, options: { media: uploads } }
+          - { name: originalFooterLogo, type: string, hidden: true }
           - { name: footerText, label: Footer description, type: text }
+          - { name: originalFooterText, type: text, hidden: true }
           - name: footerLinks
             label: Footer links
             type: object
@@ -196,3 +219,5 @@ content:
             fields:
               - { name: text, label: Link text, type: string }
               - { name: url, label: Destination, type: string }
+              - { name: originalText, type: string, hidden: true }
+              - { name: originalUrl, type: string, hidden: true }
