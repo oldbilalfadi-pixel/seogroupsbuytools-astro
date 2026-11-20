@@ -24,6 +24,24 @@ content:
           - { name: headingHighlight, label: Highlighted heading, type: string }
           - { name: headingAfter, label: Heading ending, type: string }
           - { name: description, label: Intro description, type: text }
+      - name: outsideGroups
+        label: Hero, pricing and visual sections
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{heading}"
+        fields: &section_fields
+          - { name: heading, label: Heading, type: string }
+          - name: items
+            label: Paragraphs, features and card text
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{text}"
+            fields:
+              - { name: text, label: Content, type: text }
       - name: contentGroups
         label: Page sections
         type: object
@@ -31,7 +49,7 @@ content:
           collapsible:
             collapsed: true
             summary: "{heading}"
-        fields: &section_fields
+        fields: *section_fields
           - { name: heading, label: Heading, type: string }
           - name: items
             label: Paragraphs, subheadings and features
@@ -93,6 +111,14 @@ content:
     fields: &page_fields
       - { name: title, label: Product or page title, type: string }
       - { name: description, label: Short description, type: text }
+      - name: outsideGroups
+        label: Hero, pricing and visual sections
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{heading}"
+        fields: *section_fields
       - name: contentGroups
         label: Content sections
         type: object
