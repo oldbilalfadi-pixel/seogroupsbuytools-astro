@@ -11,6 +11,14 @@ content:
     operations:
       delete: false
     fields: &page_fields
+      - name: hero
+        label: Homepage hero (editable content)
+        type: object
+        fields:
+          - {name: headingBefore, label: Heading start, type: string}
+          - {name: headingHighlight, label: Highlighted words, type: string}
+          - {name: headingAfter, label: Heading ending, type: string}
+          - {name: description, label: Hero description, type: text}
       - name: route
         label: Page URL path
         type: string
