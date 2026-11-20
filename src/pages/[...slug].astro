@@ -38,6 +38,20 @@ for (const section of page.sections || []) {
   renderedHtml = renderedHtml.replace(section.source, open + section.content + close);
 }
 
+for (const link of page.links || []) {
+  if (!link.source || (link.url === link.originalUrl && link.text === link.originalText)) continue;
+  let updated = link.source;
+  if (link.url !== link.originalUrl) updated = updated.replace('href="' + link.originalUrl + '"', 'href="' + String(link.url).replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '"');
+  if (link.text !== link.originalText) updated = updated.replace(/(>)[^<>]*(<\/a>)$/i, (_, a, b) => a + String(link.text).replace(/&/g, '&amp;').replace(/</g, '&lt;') + b);
+  renderedHtml = renderedHtml.replace(link.source, updated);
+}
+for (const image of page.images || []) {
+  if (!image.source || (image.src === image.originalSrc && image.alt === image.originalAlt)) continue;
+  let updated = image.source;
+  if (image.src !== image.originalSrc) updated = updated.replace('src="' + image.originalSrc + '"', 'src="' + String(image.src).replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '"');
+  if (image.alt !== image.originalAlt) updated = updated.replace('alt="' + image.originalAlt + '"', 'alt="' + String(image.alt).replace(/&/g, '&amp;').replace(/"/g, '&quot;') + '"');
+  renderedHtml = renderedHtml.replace(image.source, updated);
+}
 if (page.route === '/' && page.hero) {
   const escapeHtml = (value) => String(value ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
   const heading = escapeHtml(page.hero.headingBefore) + '<span class="hero-highlight">' + escapeHtml(page.hero.headingHighlight) + '</span>' + escapeHtml(page.hero.headingAfter);
