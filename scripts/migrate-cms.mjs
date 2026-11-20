@@ -1,76 +1,73 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import assert from 'node:assert/strict';
-const root='content';
-const plain=(s)=>String(s||'').replace(/<[^>]*>/g,' ').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/\s+/g,' ').trim();
-const esc=(s)=>String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 
-function buildEditor(page) {
-  const html=page.html;
-  const main=html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i)?.[1] || html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] || html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i)?.[1] || html;
-  const re=/<(h[1-6]|p|li)\b[^>]*>([\s\S]*?)<\/\1>/gi;
-  const out=[];
-  for(const m of main.matchAll(re)){
-    const value=plain(m[2]);
-    if(!value || value.length>3000 || /<(script|style|svg|iframe)\b/i.test(m[2]))continue;
-    if(out.some(x=>x.source===m[0]))continue;
-    out.push({text:value,originalText:value,source:m[0],tag:m[1].toLowerCase()});
+const plain = s => String(s ?? '').replace(/<[^>]*>/g, ' ').replace(/&nbsp;/gi, ' ').replace(/&amp;/gi, '&').replace(/&lt;/gi, '<').replace(/&gt;/gi, '>').replace(/&quot;/gi, '"').replace(/&#39;|&apos;/gi, "'").replace(/\s+/g, ' ').trim();
+const directories = ['content/products', 'content/pages'];
+const files = ['content/homepage.json', ...directories.flatMap(d => fs.readdirSync(d).filter(f => f.endsWith('.json')).map(f => path.join(d, f)))];
+function build(page) {
+  const html = page.html;
+  const main = html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i)?.[1] ||
+    html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] ||
+    html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i)?.[1] || html;
+  // Headings and content appear in document order. CSS and markup remain in the original HTML.
+  const entries = [];
+  const re = /<(h[1-6]|p|li|button|td|th)\b[^>]*>[\s\S]*?<\/\1>/gi;
+  for (const match of main.matchAll(re)) {
+    const source = match[0], tag = match[1].toLowerCase();
+    const start = source.indexOf('>')+1, end = source.lastIndexOf('</');
+    const content = source.slice(start,end);
+    const value = plain(content);
+    if (!value || value.length > 5000 || /<(script|style|svg|iframe|form|textarea)\b/i.test(content)) continue;
+    entries.push({tag,text:value,originalText:value,source});
   }
-  page.editorContent=out;
-  page.links=[...main.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)].filter(m=>!/<[a-z]/i.test(m[2]) && plain(m[2])).map(m=>({url:m[1],originalUrl:m[1],text:plain(m[2]),originalText:plain(m[2]),source:m[0]}));
-  page.images=[...main.matchAll(/<img\b[^>]*>/gi)].map(m=>({source:m[0],src:m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',originalSrc:m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',alt:m[0].match(/\balt="([^"]*)"/i)?.[1]||'',originalAlt:m[0].match(/\balt="([^"]*)"/i)?.[1]||''}));
-}
-
-let changed=0, sections=0;
-for(const group of ['products','pages']){
-  const dir=path.join(root,group);
-  for(const name of fs.readdirSync(dir).filter(x=>x.endsWith('.json'))){
-    const file=path.join(dir,name), page=JSON.parse(fs.readFileSync(file,'utf8'));
-    if(typeof page.html!=='string') continue;
-    page.slug ??= name.slice(0,-5);
-    page.seoTitle ??= page.title||'';
-    page.seoDescription ??= page.description||'';
-    page.sections ??= [];
-    if(!page.sections.length){
-      // Preserve the original complete HTML. Each section stores its exact source
-      // tag so editing is an opt-in replacement and untouched pages remain identical.
-      const re=/<(h[1-6]|p|li)\b[^>]*>[\s\S]*?<\/\1>/gi;
-      const matches=[...page.html.matchAll(re)];
-      const counts=new Map();
-      for(const m of matches){
-        const tag=m[1].toLowerCase(),n=(counts.get(tag)||0)+1;counts.set(tag,n);
-        const inner=m[0].replace(/^<[^>]+>/,'').replace(/<\/[^>]+>$/,'');
-        if(!inner.trim() || /<(script|style|svg|iframe)\b/i.test(inner)) continue;
-        page.sections.push({key:tag+'-'+n,label:tag.toUpperCase()+' '+n,content:inner,original:inner,source:m[0]});
+  const groups = [];
+  let current = null;
+  for (const entry of entries) {
+    if (/^h[12]$/.test(entry.tag)) {
+      current = {heading:entry.text,originalHeading:entry.text,headingSource:entry.source,items:[]};
+      groups.push(current);
+    } else {
+      if (!current) {
+        current={heading:'',originalHeading:'',headingSource:'',items:[]};
+        groups.push(current);
       }
+      current.items.push(entry);
     }
-    for(const s of page.sections){s.originalText ??= plain(s.original||s.content);s.text ??= s.originalText;}
-    page.links ??= [...page.html.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)].filter(m=>!/<[a-z]/i.test(m[2])).map((m,i)=>({url:m[1],originalUrl:m[1],text:plain(m[2]),originalText:plain(m[2]),source:m[0]}));
-    page.images ??= [...page.html.matchAll(/<img\b[^>]*>/gi)].map(m=>({source:m[0],src:m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',originalSrc:m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',alt:m[0].match(/\balt="([^"]*)"/i)?.[1]||'',originalAlt:m[0].match(/\balt="([^"]*)"/i)?.[1]||''}));
-    buildEditor(page);
-    sections+=page.editorContent.length;
-    fs.writeFileSync(file,JSON.stringify(page,null,2)+'\n');
-    changed++;
   }
+  // Discard any purely empty sections; keep their original ordering.
+  page.contentGroups = groups.filter(g=>g.heading || g.items.length);
+  page.buttons = [...main.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)]
+    .filter(m => plain(m[2]) && !/<(a|ul|li|div|span|svg|img)\b/i.test(m[2]))
+    .map(m=>({text:plain(m[2]),originalText:plain(m[2]),url:m[1],originalUrl:m[1],source:m[0]}));
+  page.mediaImages = [...main.matchAll(/<img\b[^>]*>/gi)].map(m=>({
+    src:m[0].match(/\bsrc="([^"]*)"/i)?.[1] || '',
+    originalSrc:m[0].match(/\bsrc="([^"]*)"/i)?.[1] || '',
+    alt:m[0].match(/\balt="([^"]*)"/i)?.[1] || '',
+    originalAlt:m[0].match(/\balt="([^"]*)"/i)?.[1] || '',
+    source:m[0]
+  }));
+  page.priceValues = [...main.matchAll(/<(span|div)\b[^>]*class="[^"]*(?:price-tag|product-hero-price|pricing-price|(?:^|[ -])price(?:[ -]|$))[^"]*"[^>]*>[\s\S]*?<\/\1>/gi)]
+    .map(m=>({value:plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')),originalValue:plain(m[0].replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')),source:m[0]}))
+    .filter(x=>x.value && x.value.length<100 && !/<[a-z]/i.test(x.source.replace(/^<[^>]*>/,'').replace(/<\/[^>]*>$/,'')));
 }
-const homeFile=path.join(root,'homepage.json');
-const home=JSON.parse(fs.readFileSync(homeFile,'utf8'));
-home.slug ??= 'home';
-home.seoTitle ??= home.title||'';
-home.seoDescription ??= home.description||'';
-home.sections ??= [];
-if(!home.sections.length){
-  const re=/<(h[1-6]|p|li)\b[^>]*>[\s\S]*?<\/\1>/gi;
-  const counts=new Map();
-  for(const m of home.html.matchAll(re)){
-    const tag=m[1].toLowerCase(),n=(counts.get(tag)||0)+1;counts.set(tag,n);
-    const inner=m[0].replace(/^<[^>]+>/,'').replace(/<\/[^>]+>$/,'');
-    if(inner.trim()&&!/<(script|style|svg|iframe)\b/i.test(inner))home.sections.push({key:tag+'-'+n,label:tag.toUpperCase()+' '+n,content:inner,original:inner,source:m[0]});
+let groups=0, items=0, images=0, buttons=0, prices=0;
+for (const file of files) {
+  const page=JSON.parse(fs.readFileSync(file,'utf8'));
+  assert.ok(page.html && page.route, file);
+  page.seoTitle ??= page.title || '';
+  page.seoDescription ??= page.description || '';
+  if (!Array.isArray(page.contentGroups)) build(page);
+  for(const group of page.contentGroups) {
+    if (group.headingSource) assert.ok(page.html.includes(group.headingSource),file+' heading');
+    for(const entry of group.items) assert.ok(page.html.includes(entry.source),file+' entry');
   }
+  groups+=page.contentGroups.length;
+  items+=page.contentGroups.reduce((n,g)=>n+g.items.length,0);
+  images+=page.mediaImages?.length||0;
+  buttons+=page.buttons?.length||0;
+  prices+=page.priceValues?.length||0;
+  fs.writeFileSync(file,JSON.stringify(page,null,2)+'\n');
 }
-for(const s of home.sections){s.originalText ??= plain(s.original||s.content);s.text ??= s.originalText;}
-home.links ??= [...home.html.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)].filter(m=>!/<[a-z]/i.test(m[2])).map(m=>({url:m[1],originalUrl:m[1],text:plain(m[2]),originalText:plain(m[2]),source:m[0]}));
-home.images ??= [...home.html.matchAll(/<img\b[^>]*>/gi)].map(m=>({source:m[0],src:m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',originalSrc:m[0].match(/\bsrc="([^"]*)"/i)?.[1]||'',alt:m[0].match(/\balt="([^"]*)"/i)?.[1]||'',originalAlt:m[0].match(/\balt="([^"]*)"/i)?.[1]||''}));
-buildEditor(home);
-fs.writeFileSync(homeFile,JSON.stringify(home,null,2)+'\n');
-console.log(JSON.stringify({pages:changed+1,sections:sections+home.sections.length}));
+assert.equal(files.length,72);
+console.log(JSON.stringify({pages:files.length,groups,items,images,buttons,prices,originalMarkupPreserved:true}));
