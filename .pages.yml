@@ -1,67 +1,69 @@
 media:
-  input: public/assets/images
-  output: /assets/images
-
+  - name: uploads
+    label: Images
+    input: public/assets/images
+    output: /assets/images
+    categories: [image]
 settings:
   content:
     merge: true
-
 content:
   - name: homepage
     label: Homepage
     type: file
     path: content/homepage.json
     format: json
-    fields:
+    fields: &fields
+      - { name: slug, label: File slug, type: string, readonly: true }
+      - { name: route, label: Page URL, type: string, readonly: true }
+      - { name: seoTitle, label: SEO title, type: string }
+      - { name: seoDescription, label: SEO description, type: text }
       - name: hero
         label: Homepage hero
         type: object
         fields:
-          - {name: headingBefore, label: Heading start, type: string}
-          - {name: headingHighlight, label: Highlighted words, type: string}
-          - {name: headingAfter, label: Heading ending, type: string}
-          - {name: description, label: Hero description, type: text}
-      - {name: title, label: SEO title, type: string}
-      - {name: description, label: SEO description, type: text}
-      - {name: route, label: URL path, type: string, readonly: true}
-      - {name: html, label: Legacy HTML source, type: code, readonly: true, options: {format: html}}
-      - {name: sourceFile, label: Source file, type: string, readonly: true}
-
+          - { name: headingBefore, label: Heading start, type: string }
+          - { name: headingHighlight, label: Highlighted words, type: string }
+          - { name: headingAfter, label: Heading end, type: string }
+          - { name: description, label: Hero description, type: text }
+      - name: sections
+        label: Editable content sections
+        type: object
+        list: true
+        fields:
+          - { name: key, label: Section ID, type: string, readonly: true }
+          - { name: label, label: Section name, type: string, readonly: true }
+          - { name: content, label: Edit content, type: rich-text, options: { format: html, media: uploads, switcher: true } }
+          - { name: original, label: Original content, type: text, readonly: true }
+          - { name: source, label: Original HTML tag, type: text, readonly: true }
+      - { name: html, label: Original HTML source - do not edit, type: code, readonly: true, options: { format: html } }
+      - { name: title, label: Original title, type: string, readonly: true }
+      - { name: description, label: Original description, type: text, readonly: true }
+      - { name: sourceFile, label: Original source file, type: string, readonly: true }
   - name: products
     label: Products
     type: collection
     path: content/products
     format: json
-    filename: "{primary}.json"
-    view:
-      fields: [title, route]
-      primary: title
-      search: [title, route]
-    fields: &page_fields
-      - {name: title, label: SEO title, type: string}
-      - {name: description, label: SEO description, type: text}
-      - {name: route, label: URL path, type: string, readonly: true}
-      - {name: html, label: Legacy HTML source, type: code, readonly: true, options: {format: html}}
-      - {name: sourceFile, label: Source file, type: string, readonly: true}
-
+    filename: "{slug}.json"
+    view: { primary: seoTitle, fields: [seoTitle, route] }
+    operations: { rename: false, delete: false }
+    fields: *fields
   - name: pages
     label: Pages and guides
     type: collection
     path: content/pages
     format: json
-    filename: "{primary}.json"
-    view:
-      fields: [title, route]
-      primary: title
-      search: [title, route]
-    fields: *page_fields
-
+    filename: "{slug}.json"
+    view: { primary: seoTitle, fields: [seoTitle, route] }
+    operations: { rename: false, delete: false }
+    fields: *fields
   - name: settings
     label: Site settings
     type: file
     path: content/settings.json
     format: json
     fields:
-      - {name: siteUrl, label: Production URL, type: string}
-      - {name: siteName, label: Site name, type: string}
-      - {name: previewNoindex, label: Preview noindex, type: boolean}
+      - { name: siteUrl, label: Production URL, type: string }
+      - { name: siteName, label: Site name, type: string }
+      - { name: previewNoindex, label: Preview noindex, type: boolean }
