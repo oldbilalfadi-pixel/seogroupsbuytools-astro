@@ -31,6 +31,7 @@ jobs:
       - name: Verify blog output, metadata and featured image
         run: |
           test -f dist/blog/cms-test/index.html
+          test -f dist/404.html
           grep -q 'CMS BLOG RENDER VALIDATION' dist/blog/cms-test/index.html
           grep -q 'CMS Blog SEO Title' dist/blog/cms-test/index.html
           grep -q 'CMS Blog SEO Description' dist/blog/cms-test/index.html
