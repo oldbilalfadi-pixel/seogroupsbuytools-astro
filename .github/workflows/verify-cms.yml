@@ -30,8 +30,12 @@ jobs:
           cat > content/posts/cms-test.json <<'JSON'
           {"title":"CMS Blog Test","excerpt":"Temporary verification excerpt","featuredImage":"/assets/images/logo-header.png","body":"<h2>CMS BLOG RENDER VALIDATION</h2><p>Article content editable without HTML source mode.</p>","seoTitle":"CMS Blog SEO Title","seoDescription":"CMS Blog SEO Description"}
           JSON
+      - name: Apply sample content edits to temporary CI worktree
+        run: node scripts/verify-build-output.mjs apply
       - name: Build static website including temporary blog
         run: npm run build
+      - name: Verify CMS edits changed generated website pages
+        run: node scripts/verify-build-output.mjs check
       - name: Verify blog output, metadata and featured image
         run: |
           test -f dist/blog/cms-test/index.html
