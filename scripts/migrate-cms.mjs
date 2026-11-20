@@ -91,27 +91,32 @@ function addProductHero(page) {
 
 
 function addVisibleLabels(page) {
-  if (Array.isArray(page.labelTexts)) return;
-  const body=page.html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i)?.[1]||page.html;
-  const core=body.replace(/<header\b[^>]*>[\s\S]*?<\/header>/gi,'')
-    .replace(/<footer\b[^>]*>[\s\S]*?<\/footer>/gi,'')
-    .replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1>/gi,'');
+  const previous=Array.isArray(page.labelTexts)?page.labelTexts:[];
+  const bodyMatch=page.html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i);
+  const body=bodyMatch?.[1]||page.html;
+  const bodyStart=bodyMatch?bodyMatch.index+bodyMatch[0].indexOf('>')+1:0;
+  // Mask uneditable chrome and scripts without changing offsets.
+  const core=body.replace(/<header\b[^>]*>[\s\S]*?<\/header>/gi,m=>' '.repeat(m.length))
+    .replace(/<footer\b[^>]*>[\s\S]*?<\/footer>/gi,m=>' '.repeat(m.length))
+    .replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1>/gi,m=>' '.repeat(m.length));
   const covered=[
     ...[...(page.contentGroups||[]),...(page.outsideGroups||[])].flatMap(g=>[g.headingSource,...g.items.map(e=>e.source)]),
     ...(page.priceValues||[]).map(p=>p.source),
     ...(page.buttons||[]).map(b=>b.source),
     ...(page.productHero?[page.productHero.nameSource,page.productHero.descriptionSource,page.productHero.priceSource,...page.productHero.features.map(f=>f.source)]:[])
   ].filter(Boolean);
-  const ordinals=new Map();
-  page.labelTexts=[];
+  const occurrence=new Map(), labelTexts=[];
   for(const m of core.matchAll(/<(span|small|strong|em|label|div)\b[^>]*>([^<>]+)<\/\1>/gi)){
-    const source=m[0],value=plain(m[2]);
+    const source=m[0],value=plain(m[2]),sourceOffset=bodyStart+m.index;
     if(!value||value.length>300||!/[\p{L}\p{N}$£€]/u.test(value))continue;
     if(covered.some(s=>s.includes(source)))continue;
-    const ordinal=ordinals.get(source)||0;
-    ordinals.set(source,ordinal+1);
-    page.labelTexts.push({text:value,originalText:value,source,ordinal});
+    if(page.route==='/' && source.includes('hero-highlight'))continue;
+    if(page.html.slice(sourceOffset,sourceOffset+source.length)!==source)continue;
+    const ordinal=occurrence.get(source)||0;occurrence.set(source,ordinal+1);
+    const old=previous.find(x=>x.sourceOffset===sourceOffset && x.source===source)||previous.find(x=>x.source===source&&x.ordinal===ordinal);
+    labelTexts.push({text:old?.text??value,originalText:value,source,sourceOffset,ordinal});
   }
+  page.labelTexts=labelTexts;
 }
 
 function addOutsideContent(page) {
