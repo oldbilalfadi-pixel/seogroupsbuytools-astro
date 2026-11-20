@@ -106,6 +106,52 @@ function mergeUnlabelledGroups(groups) {
   return result;
 }
 
+
+function assignSourceOffsets(page) {
+  const html=page.html;
+  const mask = source => source.replace(/<header\b[^>]*>[\s\S]*?<\/header>/gi,m=>' '.repeat(m.length))
+    .replace(/<footer\b[^>]*>[\s\S]*?<\/footer>/gi,m=>' '.repeat(m.length));
+  const body=mask(html);
+  const main=body.replace(/^([\s\S]*?<main\b[^>]*>)/i,m=>' '.repeat(m.length))
+    .replace(/<\/main>[\s\S]*$/i,m=>' '.repeat(m.length));
+  const outside=body.replace(/<main\b[^>]*>[\s\S]*?<\/main>/gi,m=>' '.repeat(m.length));
+  const init=()=>new Map();
+  const index=(field,source,haystack,used)=>{
+    if(!source) return;
+    if(typeof field.sourceOffset==='number' && html.slice(field.sourceOffset,field.sourceOffset+source.length)===source)return;
+    const starts=[];
+    let pos=haystack.indexOf(source);
+    while(pos>=0) { starts.push(pos);pos=haystack.indexOf(source,pos+1); }
+    const ordinal=used.get(source)||0;
+    used.set(source,ordinal+1);
+    const selected=starts[Math.min(ordinal,starts.length-1)];
+    if(selected!==undefined && html.slice(selected,selected+source.length)===source)
+      field.sourceOffset=selected;
+  };
+  for(const [list,haystack] of [[page.contentGroups||[],main],[page.outsideGroups||[],outside]]) {
+    const used=init();
+    for(const group of list) {
+      if(group.headingSource) {
+        // The heading and the field items may share text but not source HTML.
+        index(group,group.headingSource,haystack,used);
+      }
+      for(const field of group.items||[])index(field,field.source,haystack,used);
+    }
+  }
+  for(const [key,haystack] of [['buttons',body],['cardLinks',body],['mediaImages',body],['priceValues',body]]) {
+    const used=init();
+    for(const field of page[key]||[])index(field,field.source,haystack,used);
+  }
+  if(page.productHero) {
+    const h=page.productHero,used=init();
+    for(const [sourceKey,offsetKey] of [['nameSource','nameOffset'],['descriptionSource','descriptionOffset'],['priceSource','priceOffset'],['imageSource','imageOffset'],['buttonSource','buttonOffset']]) {
+      const target={};index(target,h[sourceKey],body,used);
+      if(typeof target.sourceOffset==='number')h[offsetKey]=target.sourceOffset;
+    }
+    for(const field of h.features||[])index(field,field.source,body,used);
+  }
+}
+
 function addVisibleLabels(page) {
   const previous=Array.isArray(page.labelTexts)?page.labelTexts:[];
   const bodyMatch=page.html.match(/<body\b[^>]*>([\s\S]*?)<\/body>/i);
@@ -225,6 +271,7 @@ for (const file of files) {
   page.contentGroups=mergeUnlabelledGroups(page.contentGroups);
   page.outsideGroups=mergeUnlabelledGroups(page.outsideGroups);
   addVisibleLabels(page);
+  assignSourceOffsets(page);
   for(const group of [...page.contentGroups,...page.outsideGroups]) {
     if (group.headingSource) assert.ok(page.html.includes(group.headingSource),file+' heading');
     for(const entry of group.items) assert.ok(page.html.includes(entry.source),file+' entry');
