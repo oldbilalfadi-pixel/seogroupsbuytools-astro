@@ -1,0 +1,24 @@
+name: Live vs preview parity audit
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compare production and preview pages and SEO
+        run: python3 scripts/compare-live-preview.py
+        env:
+          LIVE_URL: https://seogroupsbuytools.com
+          PREVIEW_URL: https://seogroupsbuytools-astro.oldbilalfadi.workers.dev
+      - name: Upload detailed audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: production-preview-parity
+          path: audit-results/
