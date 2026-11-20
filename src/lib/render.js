@@ -52,6 +52,14 @@ function renderChrome(html, settings) {
 
 export function renderPage(page,settings={}) {
   let html=page.html;
+  // Replace labelled text at its exact original HTML offset, in reverse document order.
+  // This prevents identical badges in different cards changing together.
+  for(const label of [...(page.labelTexts||[])].sort((a,b)=>(b.sourceOffset??-1)-(a.sourceOffset??-1))) {
+    if (!label.source || typeof label.text!=='string' || label.text===label.originalText) continue;
+    const at=label.sourceOffset;
+    if(typeof at!=='number' || html.slice(at,at+label.source.length)!==label.source)continue;
+    html=html.slice(0,at)+innerReplace(label.source,label.text)+html.slice(at+label.source.length);
+  }
   if (typeof page.title === 'string' && page.originalPageTitle !== undefined && page.title!==page.originalPageTitle) {
     html=html.replace(/<h1\b[^>]*>[\s\S]*?<\/h1>/i,m=>innerReplace(m,page.title));
   }
@@ -62,18 +70,6 @@ export function renderPage(page,settings={}) {
       if (!item.source || typeof item.text!=='string' || item.text===item.originalText) continue;
       html=replaceOriginal(html,item.source,innerReplace(item.source,item.text));
     }
-  }
-  for(const label of page.labelTexts||[]) {
-    if (!label.source || typeof label.text!=='string' || label.text===label.originalText) continue;
-    const original=label.source;
-    let from=0, at=-1;
-    for(let i=0;i<= (label.ordinal||0);i++) {
-      at=html.indexOf(original,from);
-      if(at<0) break;
-      from=at+original.length;
-    }
-    if(at>=0)
-      html=html.slice(0,at)+innerReplace(original,label.text)+html.slice(at+original.length);
   }
   for(const price of page.priceValues||[]) {
     if (!price.source || price.value===price.originalValue) continue;
