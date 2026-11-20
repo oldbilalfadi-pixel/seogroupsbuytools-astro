@@ -1,0 +1,57 @@
+name: Import CMS-ready Astro project ZIP
+on:
+  push:
+    branches: [main]
+    paths:
+      - seogroupsbuytools-cms-ready-local.zip
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Extract and verify CMS-ready project
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from zipfile import ZipFile
+          archive=Path('seogroupsbuytools-cms-ready-local.zip')
+          if not archive.exists():
+              raise SystemExit('Upload seogroupsbuytools-cms-ready-local.zip to repository root first')
+          with ZipFile(archive) as z:
+              for member in z.infolist():
+                  p=Path(member.filename)
+                  if p.is_absolute() or '..' in p.parts:
+                      raise SystemExit('Unsafe archive member: '+member.filename)
+                  if not member.filename.startswith('seogroupsbuytools-cms-local/'):
+                      raise SystemExit('Unexpected archive root: '+member.filename)
+              for member in z.infolist():
+                  if member.is_dir(): continue
+                  rel=Path(member.filename).relative_to('seogroupsbuytools-cms-local')
+                  if rel.parts[0] in ('dist-local', 'node_modules', '.git'): continue
+                  target=Path(rel)
+                  target.parent.mkdir(parents=True,exist_ok=True)
+                  target.write_bytes(z.read(member))
+          archive.unlink()
+          PY
+          node scripts/verify-cms.mjs
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install and build Astro
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+      - name: Commit CMS-ready website
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Import complete CMS-ready Astro website"
+            git push
+          fi
