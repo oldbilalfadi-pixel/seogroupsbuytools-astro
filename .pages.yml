@@ -115,9 +115,41 @@ content:
     filename: "{slug}.json"
     view: { primary: title, fields: [title, route] }
     operations: { rename: false, delete: false }
-    fields: &page_fields
-      - { name: title, label: Product or page title, type: string }
-      - { name: description, label: Short description, type: text }
+    fields:
+      - name: productHero
+        label: Product details
+        type: object
+        fields:
+          - { name: name, label: Product name, type: string }
+          - { name: description, label: Short description, type: text }
+          - { name: price, label: Product price, type: string }
+          - { name: image, label: Product image, type: image, options: { media: uploads } }
+          - { name: imageAlt, label: Image description, type: string }
+          - { name: buttonLabel, label: Buy Now button text, type: string }
+          - { name: buttonUrl, label: Buy Now or checkout link, type: string }
+          - name: features
+            label: Key product features
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{text}"
+            fields:
+              - { name: text, label: Feature, type: string }
+              - { name: originalText, type: string, hidden: true }
+              - { name: source, type: text, hidden: true }
+          - { name: originalName, type: string, hidden: true }
+          - { name: nameSource, type: text, hidden: true }
+          - { name: originalDescription, type: text, hidden: true }
+          - { name: descriptionSource, type: text, hidden: true }
+          - { name: originalPrice, type: string, hidden: true }
+          - { name: priceSource, type: text, hidden: true }
+          - { name: originalImage, type: string, hidden: true }
+          - { name: originalImageAlt, type: string, hidden: true }
+          - { name: imageSource, type: text, hidden: true }
+          - { name: originalButtonLabel, type: string, hidden: true }
+          - { name: originalButtonUrl, type: string, hidden: true }
+          - { name: buttonSource, type: text, hidden: true }
       - name: outsideGroups
         label: Hero, pricing and visual sections
         type: object
@@ -176,7 +208,58 @@ content:
     filename: "{slug}.json"
     view: { primary: title, fields: [title, route] }
     operations: { rename: false, delete: false }
-    fields: *page_fields
+    fields:
+      - { name: title, label: Page title, type: string }
+      - name: outsideGroups
+        label: Hero, pricing and visual sections
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{heading}"
+        fields: *section_fields
+      - name: contentGroups
+        label: Content sections
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{heading}"
+        fields: *section_fields
+      - name: priceValues
+        label: Pricing
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{value}"
+        fields: *price_fields
+      - name: buttons
+        label: Buttons and destinations
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{text}"
+        fields: *button_fields
+      - name: cardLinks
+        label: Product cards and visual links
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields: *card_link_fields
+      - name: mediaImages
+        label: Images
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{alt}"
+        fields: *image_fields
+      - { name: seoTitle, label: SEO title, type: string }
+      - { name: seoDescription, label: SEO description, type: text }
   - name: settings
     label: Site settings
     type: file
