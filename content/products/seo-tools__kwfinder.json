@@ -2896,24 +2896,28 @@
       "text": "KWFinder Group Buy",
       "originalText": "KWFinder Group Buy",
       "source": "<span>KWFinder Group Buy</span>",
+      "sourceOffset": 4644,
       "ordinal": 0
     },
     {
       "text": "Premium Group Buy",
       "originalText": "Premium Group Buy",
       "source": "<span class=\"product-hero-badge\">Premium Group Buy</span>",
+      "sourceOffset": 4681,
       "ordinal": 0
     },
     {
       "text": "/mo",
       "originalText": "/mo",
       "source": "<span>/mo</span>",
+      "sourceOffset": 5051,
       "ordinal": 0
     },
     {
       "text": "Save 80%+ vs official price",
       "originalText": "Save 80%+ vs official price",
       "source": "<span class=\"product-hero-save\">Save 80%+ vs official price</span>",
+      "sourceOffset": 5074,
       "ordinal": 0
     }
   ]

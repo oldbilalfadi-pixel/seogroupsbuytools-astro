@@ -2551,24 +2551,28 @@
       "text": "BuzzSumo Group Buy",
       "originalText": "BuzzSumo Group Buy",
       "source": "<span>BuzzSumo Group Buy</span>",
+      "sourceOffset": 4556,
       "ordinal": 0
     },
     {
       "text": "Premium Group Buy",
       "originalText": "Premium Group Buy",
       "source": "<span class=\"product-hero-badge\">Premium Group Buy</span>",
+      "sourceOffset": 4593,
       "ordinal": 0
     },
     {
       "text": "/mo",
       "originalText": "/mo",
       "source": "<span>/mo</span>",
+      "sourceOffset": 4965,
       "ordinal": 0
     },
     {
       "text": "Save 80%+ vs official price",
       "originalText": "Save 80%+ vs official price",
       "source": "<span class=\"product-hero-save\">Save 80%+ vs official price</span>",
+      "sourceOffset": 4988,
       "ordinal": 0
     }
   ]

@@ -2670,24 +2670,28 @@
       "text": "Dropispy Group Buy",
       "originalText": "Dropispy Group Buy",
       "source": "<span>Dropispy Group Buy</span>",
+      "sourceOffset": 4565,
       "ordinal": 0
     },
     {
       "text": "Premium Group Buy",
       "originalText": "Premium Group Buy",
       "source": "<span class=\"product-hero-badge\">Premium Group Buy</span>",
+      "sourceOffset": 4602,
       "ordinal": 0
     },
     {
       "text": "/mo",
       "originalText": "/mo",
       "source": "<span>/mo</span>",
+      "sourceOffset": 4971,
       "ordinal": 0
     },
     {
       "text": "Save 80%+ vs official price",
       "originalText": "Save 80%+ vs official price",
       "source": "<span class=\"product-hero-save\">Save 80%+ vs official price</span>",
+      "sourceOffset": 4994,
       "ordinal": 0
     }
   ]

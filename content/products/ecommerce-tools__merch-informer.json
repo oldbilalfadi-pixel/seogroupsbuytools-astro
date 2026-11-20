@@ -2519,24 +2519,28 @@
       "text": "Merch Informer Group Buy",
       "originalText": "Merch Informer Group Buy",
       "source": "<span>Merch Informer Group Buy</span>",
+      "sourceOffset": 4517,
       "ordinal": 0
     },
     {
       "text": "Premium Group Buy",
       "originalText": "Premium Group Buy",
       "source": "<span class=\"product-hero-badge\">Premium Group Buy</span>",
+      "sourceOffset": 4560,
       "ordinal": 0
     },
     {
       "text": "/mo",
       "originalText": "/mo",
       "source": "<span>/mo</span>",
+      "sourceOffset": 4914,
       "ordinal": 0
     },
     {
       "text": "Save 80%+ vs official price",
       "originalText": "Save 80%+ vs official price",
       "source": "<span class=\"product-hero-save\">Save 80%+ vs official price</span>",
+      "sourceOffset": 4937,
       "ordinal": 0
     }
   ]

@@ -2498,24 +2498,28 @@
       "text": "Quillbot Group Buy",
       "originalText": "Quillbot Group Buy",
       "source": "<span>Quillbot Group Buy</span>",
+      "sourceOffset": 4666,
       "ordinal": 0
     },
     {
       "text": "Premium Group Buy",
       "originalText": "Premium Group Buy",
       "source": "<span class=\"product-hero-badge\">Premium Group Buy</span>",
+      "sourceOffset": 4703,
       "ordinal": 0
     },
     {
       "text": "/mo",
       "originalText": "/mo",
       "source": "<span>/mo</span>",
+      "sourceOffset": 5075,
       "ordinal": 0
     },
     {
       "text": "Save 80%+ vs official price",
       "originalText": "Save 80%+ vs official price",
       "source": "<span class=\"product-hero-save\">Save 80%+ vs official price</span>",
+      "sourceOffset": 5098,
       "ordinal": 0
     }
   ]

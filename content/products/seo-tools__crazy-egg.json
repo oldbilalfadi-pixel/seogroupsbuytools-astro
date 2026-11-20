@@ -2582,24 +2582,28 @@
       "text": "Crazy Egg Group Buy",
       "originalText": "Crazy Egg Group Buy",
       "source": "<span>Crazy Egg Group Buy</span>",
+      "sourceOffset": 4469,
       "ordinal": 0
     },
     {
       "text": "Premium Group Buy",
       "originalText": "Premium Group Buy",
       "source": "<span class=\"product-hero-badge\">Premium Group Buy</span>",
+      "sourceOffset": 4507,
       "ordinal": 0
     },
     {
       "text": "/mo",
       "originalText": "/mo",
       "source": "<span>/mo</span>",
+      "sourceOffset": 4866,
       "ordinal": 0
     },
     {
       "text": "Save 80%+ vs official price",
       "originalText": "Save 80%+ vs official price",
       "source": "<span class=\"product-hero-save\">Save 80%+ vs official price</span>",
+      "sourceOffset": 4889,
       "ordinal": 0
     }
   ]

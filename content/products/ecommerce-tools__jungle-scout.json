@@ -2597,24 +2597,28 @@
       "text": "Jungle Scout Group Buy",
       "originalText": "Jungle Scout Group Buy",
       "source": "<span>Jungle Scout Group Buy</span>",
+      "sourceOffset": 4627,
       "ordinal": 0
     },
     {
       "text": "Premium Group Buy",
       "originalText": "Premium Group Buy",
       "source": "<span class=\"product-hero-badge\">Premium Group Buy</span>",
+      "sourceOffset": 4668,
       "ordinal": 0
     },
     {
       "text": "/mo",
       "originalText": "/mo",
       "source": "<span>/mo</span>",
+      "sourceOffset": 5042,
       "ordinal": 0
     },
     {
       "text": "Save 80%+ vs official price",
       "originalText": "Save 80%+ vs official price",
       "source": "<span class=\"product-hero-save\">Save 80%+ vs official price</span>",
+      "sourceOffset": 5065,
       "ordinal": 0
     }
   ]

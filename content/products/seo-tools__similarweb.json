@@ -2926,24 +2926,28 @@
       "text": "Similarweb Group Buy",
       "originalText": "Similarweb Group Buy",
       "source": "<span>Similarweb Group Buy</span>",
+      "sourceOffset": 4693,
       "ordinal": 0
     },
     {
       "text": "Premium Group Buy",
       "originalText": "Premium Group Buy",
       "source": "<span class=\"product-hero-badge\">Premium Group Buy</span>",
+      "sourceOffset": 4732,
       "ordinal": 0
     },
     {
       "text": "/mo",
       "originalText": "/mo",
       "source": "<span>/mo</span>",
+      "sourceOffset": 5106,
       "ordinal": 0
     },
     {
       "text": "Save 80%+ vs official price",
       "originalText": "Save 80%+ vs official price",
       "source": "<span class=\"product-hero-save\">Save 80%+ vs official price</span>",
+      "sourceOffset": 5129,
       "ordinal": 0
     }
   ]

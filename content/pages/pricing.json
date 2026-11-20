@@ -2629,24 +2629,28 @@
       "text": "/month",
       "originalText": "/month",
       "source": "<span class=\"period\">/month</span>",
+      "sourceOffset": 14485,
       "ordinal": 0
     },
     {
       "text": "⭐ Most Popular",
       "originalText": "⭐ Most Popular",
       "source": "<div class=\"popular-badge\">⭐ Most Popular</div>",
+      "sourceOffset": 15013,
       "ordinal": 0
     },
     {
       "text": "/month",
       "originalText": "/month",
       "source": "<span class=\"period\">/month</span>",
+      "sourceOffset": 15153,
       "ordinal": 1
     },
     {
       "text": "/month",
       "originalText": "/month",
       "source": "<span class=\"period\">/month</span>",
+      "sourceOffset": 15783,
       "ordinal": 2
     }
   ]
