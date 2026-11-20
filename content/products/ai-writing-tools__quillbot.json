@@ -2097,13 +2097,6 @@
       "source": "<a href=\"../\">AI Writing Tools</a>"
     },
     {
-      "text": "💬 Buy Now on WhatsApp",
-      "originalText": "💬 Buy Now on WhatsApp",
-      "url": "https://seogroupsbuy.com/users/cart/index/product/id/43/c/",
-      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/43/c/",
-      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/43/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
-    },
-    {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
@@ -2195,13 +2188,6 @@
       "alt": "Writecream logo",
       "originalAlt": "Writecream logo",
       "source": "<img src=\"../../assets/images/tools/writecream-com.png\" alt=\"Writecream logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
-    },
-    {
-      "src": "../../assets/images/tools/quillbot-com.png",
-      "originalSrc": "../../assets/images/tools/quillbot-com.png",
-      "alt": "Quillbot logo",
-      "originalAlt": "Quillbot logo",
-      "source": "<img src=\"../../assets/images/tools/quillbot-com.png\" alt=\"Quillbot logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2219,12 +2205,6 @@
       "value": "From $4/mo",
       "originalValue": "From $4/mo",
       "source": "<span class=\"price-tag\">From $4/mo</span>"
-    },
-    {
-      "value": "$3",
-      "originalValue": "$3",
-      "source": "<span class=\"product-hero-price\">$3",
-      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Quillbot Group Buy — AI Paraphrasing Tool from $3/month | SEO Group Buy Tools",
@@ -2299,37 +2279,6 @@
     }
   ],
   "outsideGroups": [
-    {
-      "heading": "Quillbot Group Buy",
-      "originalHeading": "Quillbot Group Buy",
-      "headingSource": "<h1>Quillbot Group Buy</h1>",
-      "items": [
-        {
-          "text": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…",
-          "originalText": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…",
-          "source": "<p class=\"product-hero-tagline\">Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…</p>",
-          "tag": "p"
-        },
-        {
-          "text": "Instant Access",
-          "originalText": "Instant Access",
-          "source": "<li>Instant Access</li>",
-          "tag": "li"
-        },
-        {
-          "text": "24/7 WhatsApp Support",
-          "originalText": "24/7 WhatsApp Support",
-          "source": "<li>24/7 WhatsApp Support</li>",
-          "tag": "li"
-        },
-        {
-          "text": "Secure Payment",
-          "originalText": "Secure Payment",
-          "source": "<li>Secure Payment</li>",
-          "tag": "li"
-        }
-      ]
-    },
     {
       "heading": "Get Started Today",
       "originalHeading": "Get Started Today",
@@ -2485,5 +2434,43 @@
         }
       ]
     }
-  ]
+  ],
+  "productHero": {
+    "name": "Quillbot Group Buy",
+    "originalName": "Quillbot Group Buy",
+    "nameSource": "<h1>Quillbot Group Buy</h1>",
+    "description": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…",
+    "originalDescription": "Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…",
+    "descriptionSource": "<p class=\"product-hero-tagline\">Access Quillbot group buy through SEO Group Buy Tools for AI paraphrasing, grammar checking, summarization, and citation generation at a fraction of $10/month. Most stable group bu…</p>",
+    "price": "$3",
+    "originalPrice": "$3",
+    "priceSource": "<span class=\"product-hero-price\">$3",
+    "image": "../../assets/images/tools/quillbot-com.png",
+    "originalImage": "../../assets/images/tools/quillbot-com.png",
+    "imageAlt": "Quillbot logo",
+    "originalImageAlt": "Quillbot logo",
+    "imageSource": "<img src=\"../../assets/images/tools/quillbot-com.png\" alt=\"Quillbot logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
+    "buttonLabel": "💬 Buy Now on WhatsApp",
+    "originalButtonLabel": "💬 Buy Now on WhatsApp",
+    "buttonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/43/c/",
+    "originalButtonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/43/c/",
+    "buttonSource": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/43/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>",
+    "features": [
+      {
+        "text": "Instant Access",
+        "originalText": "Instant Access",
+        "source": "<li>Instant Access</li>"
+      },
+      {
+        "text": "24/7 WhatsApp Support",
+        "originalText": "24/7 WhatsApp Support",
+        "source": "<li>24/7 WhatsApp Support</li>"
+      },
+      {
+        "text": "Secure Payment",
+        "originalText": "Secure Payment",
+        "source": "<li>Secure Payment</li>"
+      }
+    ]
+  }
 }

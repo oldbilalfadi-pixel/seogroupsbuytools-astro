@@ -2055,13 +2055,6 @@
       "source": "<a href=\"../\">AI Writing Tools</a>"
     },
     {
-      "text": "💬 Buy Now on WhatsApp",
-      "originalText": "💬 Buy Now on WhatsApp",
-      "url": "https://seogroupsbuy.com/users/signup",
-      "originalUrl": "https://seogroupsbuy.com/users/signup",
-      "source": "<a href=\"https://seogroupsbuy.com/users/signup\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
-    },
-    {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
@@ -2153,13 +2146,6 @@
       "alt": "WordAI logo",
       "originalAlt": "WordAI logo",
       "source": "<img src=\"../../assets/images/tools/wordai-com.png\" alt=\"WordAI logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
-    },
-    {
-      "src": "../../assets/images/tools/writecream-com.png",
-      "originalSrc": "../../assets/images/tools/writecream-com.png",
-      "alt": "Writecream logo",
-      "originalAlt": "Writecream logo",
-      "source": "<img src=\"../../assets/images/tools/writecream-com.png\" alt=\"Writecream logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2177,12 +2163,6 @@
       "value": "From $4/mo",
       "originalValue": "From $4/mo",
       "source": "<span class=\"price-tag\">From $4/mo</span>"
-    },
-    {
-      "value": "$4",
-      "originalValue": "$4",
-      "source": "<span class=\"product-hero-price\">$4",
-      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Writecream Group Buy — AI Content & Cold Email Tool from $4/month | SEO Group Buy Tools",
@@ -2257,37 +2237,6 @@
     }
   ],
   "outsideGroups": [
-    {
-      "heading": "Writecream Group Buy",
-      "originalHeading": "Writecream Group Buy",
-      "headingSource": "<h1>Writecream Group Buy</h1>",
-      "items": [
-        {
-          "text": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…",
-          "originalText": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…",
-          "source": "<p class=\"product-hero-tagline\">Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…</p>",
-          "tag": "p"
-        },
-        {
-          "text": "Instant Access",
-          "originalText": "Instant Access",
-          "source": "<li>Instant Access</li>",
-          "tag": "li"
-        },
-        {
-          "text": "24/7 WhatsApp Support",
-          "originalText": "24/7 WhatsApp Support",
-          "source": "<li>24/7 WhatsApp Support</li>",
-          "tag": "li"
-        },
-        {
-          "text": "Secure Payment",
-          "originalText": "Secure Payment",
-          "source": "<li>Secure Payment</li>",
-          "tag": "li"
-        }
-      ]
-    },
     {
       "heading": "Get Started Today",
       "originalHeading": "Get Started Today",
@@ -2443,5 +2392,43 @@
         }
       ]
     }
-  ]
+  ],
+  "productHero": {
+    "name": "Writecream Group Buy",
+    "originalName": "Writecream Group Buy",
+    "nameSource": "<h1>Writecream Group Buy</h1>",
+    "description": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…",
+    "originalDescription": "Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…",
+    "descriptionSource": "<p class=\"product-hero-tagline\">Access Writecream group buy through SEO Group Buy Tools for multi-format AI content generation, cold email personalization, and voiceover creation at a fraction of $49/month offici…</p>",
+    "price": "$4",
+    "originalPrice": "$4",
+    "priceSource": "<span class=\"product-hero-price\">$4",
+    "image": "../../assets/images/tools/writecream-com.png",
+    "originalImage": "../../assets/images/tools/writecream-com.png",
+    "imageAlt": "Writecream logo",
+    "originalImageAlt": "Writecream logo",
+    "imageSource": "<img src=\"../../assets/images/tools/writecream-com.png\" alt=\"Writecream logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
+    "buttonLabel": "💬 Buy Now on WhatsApp",
+    "originalButtonLabel": "💬 Buy Now on WhatsApp",
+    "buttonUrl": "https://seogroupsbuy.com/users/signup",
+    "originalButtonUrl": "https://seogroupsbuy.com/users/signup",
+    "buttonSource": "<a href=\"https://seogroupsbuy.com/users/signup\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>",
+    "features": [
+      {
+        "text": "Instant Access",
+        "originalText": "Instant Access",
+        "source": "<li>Instant Access</li>"
+      },
+      {
+        "text": "24/7 WhatsApp Support",
+        "originalText": "24/7 WhatsApp Support",
+        "source": "<li>24/7 WhatsApp Support</li>"
+      },
+      {
+        "text": "Secure Payment",
+        "originalText": "Secure Payment",
+        "source": "<li>Secure Payment</li>"
+      }
+    ]
+  }
 }

@@ -2097,13 +2097,6 @@
       "source": "<a href=\"../\">AI Writing Tools</a>"
     },
     {
-      "text": "💬 Buy Now on WhatsApp",
-      "originalText": "💬 Buy Now on WhatsApp",
-      "url": "https://seogroupsbuy.com/users/cart/index/product/id/36/c/",
-      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/36/c/",
-      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/36/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
-    },
-    {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
@@ -2188,13 +2181,6 @@
       "alt": "Writecream logo",
       "originalAlt": "Writecream logo",
       "source": "<img src=\"../../assets/images/tools/writecream-com.png\" alt=\"Writecream logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
-    },
-    {
-      "src": "../../assets/images/tools/copy-ai.png",
-      "originalSrc": "../../assets/images/tools/copy-ai.png",
-      "alt": "Copy.ai logo",
-      "originalAlt": "Copy.ai logo",
-      "source": "<img src=\"../../assets/images/tools/copy-ai.png\" alt=\"Copy.ai logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2212,12 +2198,6 @@
       "value": "From $4/mo",
       "originalValue": "From $4/mo",
       "source": "<span class=\"price-tag\">From $4/mo</span>"
-    },
-    {
-      "value": "$5",
-      "originalValue": "$5",
-      "source": "<span class=\"product-hero-price\">$5",
-      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Copy.ai Group Buy — AI Copywriting Tool from $5/month | SEO Group Buy Tools",
@@ -2292,37 +2272,6 @@
     }
   ],
   "outsideGroups": [
-    {
-      "heading": "Copy.ai Group Buy",
-      "originalHeading": "Copy.ai Group Buy",
-      "headingSource": "<h1>Copy.ai Group Buy</h1>",
-      "items": [
-        {
-          "text": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month. Note: credit-based system means shared credits drain fast",
-          "originalText": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month. Note: credit-based system means shared credits drain fast",
-          "source": "<p class=\"product-hero-tagline\">Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month. Note: credit-based system means shared credits drain fast</p>",
-          "tag": "p"
-        },
-        {
-          "text": "Instant Access",
-          "originalText": "Instant Access",
-          "source": "<li>Instant Access</li>",
-          "tag": "li"
-        },
-        {
-          "text": "24/7 WhatsApp Support",
-          "originalText": "24/7 WhatsApp Support",
-          "source": "<li>24/7 WhatsApp Support</li>",
-          "tag": "li"
-        },
-        {
-          "text": "Secure Payment",
-          "originalText": "Secure Payment",
-          "source": "<li>Secure Payment</li>",
-          "tag": "li"
-        }
-      ]
-    },
     {
       "heading": "Get Started Today",
       "originalHeading": "Get Started Today",
@@ -2478,5 +2427,43 @@
         }
       ]
     }
-  ]
+  ],
+  "productHero": {
+    "name": "Copy.ai Group Buy",
+    "originalName": "Copy.ai Group Buy",
+    "nameSource": "<h1>Copy.ai Group Buy</h1>",
+    "description": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month. Note: credit-based system means shared credits drain fast",
+    "originalDescription": "Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month. Note: credit-based system means shared credits drain fast",
+    "descriptionSource": "<p class=\"product-hero-tagline\">Access Copy.ai group buy through SEO Group Buy Tools for AI-powered marketing copy generation at a fraction of $49/month. Note: credit-based system means shared credits drain fast</p>",
+    "price": "$5",
+    "originalPrice": "$5",
+    "priceSource": "<span class=\"product-hero-price\">$5",
+    "image": "../../assets/images/tools/copy-ai.png",
+    "originalImage": "../../assets/images/tools/copy-ai.png",
+    "imageAlt": "Copy.ai logo",
+    "originalImageAlt": "Copy.ai logo",
+    "imageSource": "<img src=\"../../assets/images/tools/copy-ai.png\" alt=\"Copy.ai logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
+    "buttonLabel": "💬 Buy Now on WhatsApp",
+    "originalButtonLabel": "💬 Buy Now on WhatsApp",
+    "buttonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/36/c/",
+    "originalButtonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/36/c/",
+    "buttonSource": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/36/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>",
+    "features": [
+      {
+        "text": "Instant Access",
+        "originalText": "Instant Access",
+        "source": "<li>Instant Access</li>"
+      },
+      {
+        "text": "24/7 WhatsApp Support",
+        "originalText": "24/7 WhatsApp Support",
+        "source": "<li>24/7 WhatsApp Support</li>"
+      },
+      {
+        "text": "Secure Payment",
+        "originalText": "Secure Payment",
+        "source": "<li>Secure Payment</li>"
+      }
+    ]
+  }
 }

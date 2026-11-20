@@ -1903,13 +1903,6 @@
       "source": "<a href=\"../\">Design Tools</a>"
     },
     {
-      "text": "💬 Buy Now on WhatsApp",
-      "originalText": "💬 Buy Now on WhatsApp",
-      "url": "https://seogroupsbuy.com/users/cart/index/product/id/119/c/",
-      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/119/c/",
-      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/119/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
-    },
-    {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
@@ -2008,13 +2001,6 @@
       "alt": "Stencil logo",
       "originalAlt": "Stencil logo",
       "source": "<img src=\"../../assets/images/tools/stencil-com.png\" alt=\"Stencil logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
-    },
-    {
-      "src": "../../assets/images/tools/adobe-com.png",
-      "originalSrc": "../../assets/images/tools/adobe-com.png",
-      "alt": "Adobe Creative Cloud logo",
-      "originalAlt": "Adobe Creative Cloud logo",
-      "source": "<img src=\"../../assets/images/tools/adobe-com.png\" alt=\"Adobe Creative Cloud logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2037,12 +2023,6 @@
       "value": "From $2-$5/month/mo",
       "originalValue": "From $2-$5/month/mo",
       "source": "<span class=\"price-tag\">From $2-$5/month/mo</span>"
-    },
-    {
-      "value": "$5",
-      "originalValue": "$5",
-      "source": "<span class=\"product-hero-price\">$5",
-      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Adobe Creative Cloud Group Buy — Professional Design Tools | SEO Group Buy Tools",
@@ -2123,37 +2103,6 @@
     }
   ],
   "outsideGroups": [
-    {
-      "heading": "Adobe Creative Cloud Group Buy",
-      "originalHeading": "Adobe Creative Cloud Group Buy",
-      "headingSource": "<h1>Adobe Creative Cloud Group Buy</h1>",
-      "items": [
-        {
-          "text": "Access Adobe Creative Cloud for $10-$20/month through SEO Group Buy Tools. Get Photoshop, Illustrator, Premiere Pro and more. Official price: $55/month. Less reliable than Canva Pr…",
-          "originalText": "Access Adobe Creative Cloud for $10-$20/month through SEO Group Buy Tools. Get Photoshop, Illustrator, Premiere Pro and more. Official price: $55/month. Less reliable than Canva Pr…",
-          "source": "<p class=\"product-hero-tagline\">Access Adobe Creative Cloud for $10-$20/month through SEO Group Buy Tools. Get Photoshop, Illustrator, Premiere Pro and more. Official price: $55/month. Less reliable than Canva Pr…</p>",
-          "tag": "p"
-        },
-        {
-          "text": "Instant Access",
-          "originalText": "Instant Access",
-          "source": "<li>Instant Access</li>",
-          "tag": "li"
-        },
-        {
-          "text": "24/7 WhatsApp Support",
-          "originalText": "24/7 WhatsApp Support",
-          "source": "<li>24/7 WhatsApp Support</li>",
-          "tag": "li"
-        },
-        {
-          "text": "Secure Payment",
-          "originalText": "Secure Payment",
-          "source": "<li>Secure Payment</li>",
-          "tag": "li"
-        }
-      ]
-    },
     {
       "heading": "Get Started Today",
       "originalHeading": "Get Started Today",
@@ -2309,5 +2258,43 @@
         }
       ]
     }
-  ]
+  ],
+  "productHero": {
+    "name": "Adobe Creative Cloud Group Buy",
+    "originalName": "Adobe Creative Cloud Group Buy",
+    "nameSource": "<h1>Adobe Creative Cloud Group Buy</h1>",
+    "description": "Access Adobe Creative Cloud for $10-$20/month through SEO Group Buy Tools. Get Photoshop, Illustrator, Premiere Pro and more. Official price: $55/month. Less reliable than Canva Pr…",
+    "originalDescription": "Access Adobe Creative Cloud for $10-$20/month through SEO Group Buy Tools. Get Photoshop, Illustrator, Premiere Pro and more. Official price: $55/month. Less reliable than Canva Pr…",
+    "descriptionSource": "<p class=\"product-hero-tagline\">Access Adobe Creative Cloud for $10-$20/month through SEO Group Buy Tools. Get Photoshop, Illustrator, Premiere Pro and more. Official price: $55/month. Less reliable than Canva Pr…</p>",
+    "price": "$5",
+    "originalPrice": "$5",
+    "priceSource": "<span class=\"product-hero-price\">$5",
+    "image": "../../assets/images/tools/adobe-com.png",
+    "originalImage": "../../assets/images/tools/adobe-com.png",
+    "imageAlt": "Adobe Creative Cloud logo",
+    "originalImageAlt": "Adobe Creative Cloud logo",
+    "imageSource": "<img src=\"../../assets/images/tools/adobe-com.png\" alt=\"Adobe Creative Cloud logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
+    "buttonLabel": "💬 Buy Now on WhatsApp",
+    "originalButtonLabel": "💬 Buy Now on WhatsApp",
+    "buttonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/119/c/",
+    "originalButtonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/119/c/",
+    "buttonSource": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/119/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>",
+    "features": [
+      {
+        "text": "Instant Access",
+        "originalText": "Instant Access",
+        "source": "<li>Instant Access</li>"
+      },
+      {
+        "text": "24/7 WhatsApp Support",
+        "originalText": "24/7 WhatsApp Support",
+        "source": "<li>24/7 WhatsApp Support</li>"
+      },
+      {
+        "text": "Secure Payment",
+        "originalText": "Secure Payment",
+        "source": "<li>Secure Payment</li>"
+      }
+    ]
+  }
 }

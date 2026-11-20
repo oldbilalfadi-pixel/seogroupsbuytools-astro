@@ -2118,13 +2118,6 @@
       "source": "<a href=\"../\">E-commerce Tools</a>"
     },
     {
-      "text": "💬 Buy Now on WhatsApp",
-      "originalText": "💬 Buy Now on WhatsApp",
-      "url": "https://seogroupsbuy.com/users/signup",
-      "originalUrl": "https://seogroupsbuy.com/users/signup",
-      "source": "<a href=\"https://seogroupsbuy.com/users/signup\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
-    },
-    {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
@@ -2216,13 +2209,6 @@
       "alt": "ZonGuru logo",
       "originalAlt": "ZonGuru logo",
       "source": "<img src=\"../../assets/images/tools/zonguru-com.png\" alt=\"ZonGuru logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
-    },
-    {
-      "src": "../../assets/images/tools/merchinformer-com.png",
-      "originalSrc": "../../assets/images/tools/merchinformer-com.png",
-      "alt": "Merch Informer logo",
-      "originalAlt": "Merch Informer logo",
-      "source": "<img src=\"../../assets/images/tools/merchinformer-com.png\" alt=\"Merch Informer logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2240,12 +2226,6 @@
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
       "source": "<span class=\"price-tag\">From $5/mo</span>"
-    },
-    {
-      "value": "$5",
-      "originalValue": "$5",
-      "source": "<span class=\"product-hero-price\">$5",
-      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Merch Informer Group Buy — Amazon Merch Research from $5/month | SEO Group Buy Tools",
@@ -2320,37 +2300,6 @@
     }
   ],
   "outsideGroups": [
-    {
-      "heading": "Merch Informer Group Buy",
-      "originalHeading": "Merch Informer Group Buy",
-      "headingSource": "<h1>Merch Informer Group Buy</h1>",
-      "items": [
-        {
-          "text": "Access Merch Informer group buy through SEO Group Buy Tools for Amazon Merch by Amazon niche research, trademark checks, and design trends at shared pricing.",
-          "originalText": "Access Merch Informer group buy through SEO Group Buy Tools for Amazon Merch by Amazon niche research, trademark checks, and design trends at shared pricing.",
-          "source": "<p class=\"product-hero-tagline\">Access Merch Informer group buy through SEO Group Buy Tools for Amazon Merch by Amazon niche research, trademark checks, and design trends at shared pricing.</p>",
-          "tag": "p"
-        },
-        {
-          "text": "Instant Access",
-          "originalText": "Instant Access",
-          "source": "<li>Instant Access</li>",
-          "tag": "li"
-        },
-        {
-          "text": "24/7 WhatsApp Support",
-          "originalText": "24/7 WhatsApp Support",
-          "source": "<li>24/7 WhatsApp Support</li>",
-          "tag": "li"
-        },
-        {
-          "text": "Secure Payment",
-          "originalText": "Secure Payment",
-          "source": "<li>Secure Payment</li>",
-          "tag": "li"
-        }
-      ]
-    },
     {
       "heading": "Get Started Today",
       "originalHeading": "Get Started Today",
@@ -2506,5 +2455,43 @@
         }
       ]
     }
-  ]
+  ],
+  "productHero": {
+    "name": "Merch Informer Group Buy",
+    "originalName": "Merch Informer Group Buy",
+    "nameSource": "<h1>Merch Informer Group Buy</h1>",
+    "description": "Access Merch Informer group buy through SEO Group Buy Tools for Amazon Merch by Amazon niche research, trademark checks, and design trends at shared pricing.",
+    "originalDescription": "Access Merch Informer group buy through SEO Group Buy Tools for Amazon Merch by Amazon niche research, trademark checks, and design trends at shared pricing.",
+    "descriptionSource": "<p class=\"product-hero-tagline\">Access Merch Informer group buy through SEO Group Buy Tools for Amazon Merch by Amazon niche research, trademark checks, and design trends at shared pricing.</p>",
+    "price": "$5",
+    "originalPrice": "$5",
+    "priceSource": "<span class=\"product-hero-price\">$5",
+    "image": "../../assets/images/tools/merchinformer-com.png",
+    "originalImage": "../../assets/images/tools/merchinformer-com.png",
+    "imageAlt": "Merch Informer logo",
+    "originalImageAlt": "Merch Informer logo",
+    "imageSource": "<img src=\"../../assets/images/tools/merchinformer-com.png\" alt=\"Merch Informer logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
+    "buttonLabel": "💬 Buy Now on WhatsApp",
+    "originalButtonLabel": "💬 Buy Now on WhatsApp",
+    "buttonUrl": "https://seogroupsbuy.com/users/signup",
+    "originalButtonUrl": "https://seogroupsbuy.com/users/signup",
+    "buttonSource": "<a href=\"https://seogroupsbuy.com/users/signup\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>",
+    "features": [
+      {
+        "text": "Instant Access",
+        "originalText": "Instant Access",
+        "source": "<li>Instant Access</li>"
+      },
+      {
+        "text": "24/7 WhatsApp Support",
+        "originalText": "24/7 WhatsApp Support",
+        "source": "<li>24/7 WhatsApp Support</li>"
+      },
+      {
+        "text": "Secure Payment",
+        "originalText": "Secure Payment",
+        "source": "<li>Secure Payment</li>"
+      }
+    ]
+  }
 }

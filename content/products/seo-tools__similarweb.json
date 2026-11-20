@@ -2393,13 +2393,6 @@
       "source": "<a href=\"../\">SEO Tools</a>"
     },
     {
-      "text": "💬 Buy Now on WhatsApp",
-      "originalText": "💬 Buy Now on WhatsApp",
-      "url": "https://seogroupsbuy.com/users/cart/index/product/id/57/c/",
-      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/57/c/",
-      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/57/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
-    },
-    {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
@@ -2540,13 +2533,6 @@
       "alt": "Crazy Egg logo",
       "originalAlt": "Crazy Egg logo",
       "source": "<img src=\"../../assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
-    },
-    {
-      "src": "../../assets/images/tools/similarweb-com.png",
-      "originalSrc": "../../assets/images/tools/similarweb-com.png",
-      "alt": "Similarweb logo",
-      "originalAlt": "Similarweb logo",
-      "source": "<img src=\"../../assets/images/tools/similarweb-com.png\" alt=\"Similarweb logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2599,12 +2585,6 @@
       "value": "From $3-$8/month/mo",
       "originalValue": "From $3-$8/month/mo",
       "source": "<span class=\"price-tag\">From $3-$8/month/mo</span>"
-    },
-    {
-      "value": "$5",
-      "originalValue": "$5",
-      "source": "<span class=\"product-hero-price\">$5",
-      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Similarweb Group Buy — Website Traffic Analysis from $5/month | SEO Group Buy Tools",
@@ -2727,37 +2707,6 @@
     }
   ],
   "outsideGroups": [
-    {
-      "heading": "Similarweb Group Buy",
-      "originalHeading": "Similarweb Group Buy",
-      "headingSource": "<h1>Similarweb Group Buy</h1>",
-      "items": [
-        {
-          "text": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and industry benchmarks. See any website&#x27;s traffic sources witho…",
-          "originalText": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and industry benchmarks. See any website&#x27;s traffic sources witho…",
-          "source": "<p class=\"product-hero-tagline\">Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and industry benchmarks. See any website&#x27;s traffic sources witho…</p>",
-          "tag": "p"
-        },
-        {
-          "text": "Instant Access",
-          "originalText": "Instant Access",
-          "source": "<li>Instant Access</li>",
-          "tag": "li"
-        },
-        {
-          "text": "24/7 WhatsApp Support",
-          "originalText": "24/7 WhatsApp Support",
-          "source": "<li>24/7 WhatsApp Support</li>",
-          "tag": "li"
-        },
-        {
-          "text": "Secure Payment",
-          "originalText": "Secure Payment",
-          "source": "<li>Secure Payment</li>",
-          "tag": "li"
-        }
-      ]
-    },
     {
       "heading": "Get Started Today",
       "originalHeading": "Get Started Today",
@@ -2913,5 +2862,43 @@
         }
       ]
     }
-  ]
+  ],
+  "productHero": {
+    "name": "Similarweb Group Buy",
+    "originalName": "Similarweb Group Buy",
+    "nameSource": "<h1>Similarweb Group Buy</h1>",
+    "description": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and industry benchmarks. See any website&#x27;s traffic sources witho…",
+    "originalDescription": "Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and industry benchmarks. See any website&#x27;s traffic sources witho…",
+    "descriptionSource": "<p class=\"product-hero-tagline\">Access Similarweb group buy through SEO Group Buy Tools for website traffic analysis, competitor intelligence, and industry benchmarks. See any website&#x27;s traffic sources witho…</p>",
+    "price": "$5",
+    "originalPrice": "$5",
+    "priceSource": "<span class=\"product-hero-price\">$5",
+    "image": "../../assets/images/tools/similarweb-com.png",
+    "originalImage": "../../assets/images/tools/similarweb-com.png",
+    "imageAlt": "Similarweb logo",
+    "originalImageAlt": "Similarweb logo",
+    "imageSource": "<img src=\"../../assets/images/tools/similarweb-com.png\" alt=\"Similarweb logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
+    "buttonLabel": "💬 Buy Now on WhatsApp",
+    "originalButtonLabel": "💬 Buy Now on WhatsApp",
+    "buttonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/57/c/",
+    "originalButtonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/57/c/",
+    "buttonSource": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/57/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>",
+    "features": [
+      {
+        "text": "Instant Access",
+        "originalText": "Instant Access",
+        "source": "<li>Instant Access</li>"
+      },
+      {
+        "text": "24/7 WhatsApp Support",
+        "originalText": "24/7 WhatsApp Support",
+        "source": "<li>24/7 WhatsApp Support</li>"
+      },
+      {
+        "text": "Secure Payment",
+        "originalText": "Secure Payment",
+        "source": "<li>Secure Payment</li>"
+      }
+    ]
+  }
 }

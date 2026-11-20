@@ -2378,13 +2378,6 @@
       "source": "<a href=\"../\">SEO Tools</a>"
     },
     {
-      "text": "💬 Buy Now on WhatsApp",
-      "originalText": "💬 Buy Now on WhatsApp",
-      "url": "https://seogroupsbuy.com/users/cart/index/product/id/169/c/",
-      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/169/c/",
-      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/169/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
-    },
-    {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
@@ -2532,13 +2525,6 @@
       "alt": "Crazy Egg logo",
       "originalAlt": "Crazy Egg logo",
       "source": "<img src=\"../../assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
-    },
-    {
-      "src": "../../assets/images/tools/surfer-seo.png",
-      "originalSrc": "../../assets/images/tools/surfer-seo.png",
-      "alt": "Surfer SEO logo",
-      "originalAlt": "Surfer SEO logo",
-      "source": "<img src=\"../../assets/images/tools/surfer-seo.png\" alt=\"Surfer SEO logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2591,12 +2577,6 @@
       "value": "From $3-$8/month/mo",
       "originalValue": "From $3-$8/month/mo",
       "source": "<span class=\"price-tag\">From $3-$8/month/mo</span>"
-    },
-    {
-      "value": "$5",
-      "originalValue": "$5",
-      "source": "<span class=\"product-hero-price\">$5",
-      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Surfer SEO Group Buy — Content Optimization Tool from $5/month | SEO Group Buy Tools",
@@ -2719,37 +2699,6 @@
     }
   ],
   "outsideGroups": [
-    {
-      "heading": "Surfer SEO Group Buy",
-      "originalHeading": "Surfer SEO Group Buy",
-      "headingSource": "<h1>Surfer SEO Group Buy</h1>",
-      "items": [
-        {
-          "text": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Optimize content for higher rankings without paying $89/month o…",
-          "originalText": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Optimize content for higher rankings without paying $89/month o…",
-          "source": "<p class=\"product-hero-tagline\">Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Optimize content for higher rankings without paying $89/month o…</p>",
-          "tag": "p"
-        },
-        {
-          "text": "Instant Access",
-          "originalText": "Instant Access",
-          "source": "<li>Instant Access</li>",
-          "tag": "li"
-        },
-        {
-          "text": "24/7 WhatsApp Support",
-          "originalText": "24/7 WhatsApp Support",
-          "source": "<li>24/7 WhatsApp Support</li>",
-          "tag": "li"
-        },
-        {
-          "text": "Secure Payment",
-          "originalText": "Secure Payment",
-          "source": "<li>Secure Payment</li>",
-          "tag": "li"
-        }
-      ]
-    },
     {
       "heading": "Get Started Today",
       "originalHeading": "Get Started Today",
@@ -2905,5 +2854,43 @@
         }
       ]
     }
-  ]
+  ],
+  "productHero": {
+    "name": "Surfer SEO Group Buy",
+    "originalName": "Surfer SEO Group Buy",
+    "nameSource": "<h1>Surfer SEO Group Buy</h1>",
+    "description": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Optimize content for higher rankings without paying $89/month o…",
+    "originalDescription": "Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Optimize content for higher rankings without paying $89/month o…",
+    "descriptionSource": "<p class=\"product-hero-tagline\">Get Surfer SEO group buy access through SEO Group Buy Tools for Content Editor, SERP Analyzer, and keyword research. Optimize content for higher rankings without paying $89/month o…</p>",
+    "price": "$5",
+    "originalPrice": "$5",
+    "priceSource": "<span class=\"product-hero-price\">$5",
+    "image": "../../assets/images/tools/surfer-seo.png",
+    "originalImage": "../../assets/images/tools/surfer-seo.png",
+    "imageAlt": "Surfer SEO logo",
+    "originalImageAlt": "Surfer SEO logo",
+    "imageSource": "<img src=\"../../assets/images/tools/surfer-seo.png\" alt=\"Surfer SEO logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
+    "buttonLabel": "💬 Buy Now on WhatsApp",
+    "originalButtonLabel": "💬 Buy Now on WhatsApp",
+    "buttonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/169/c/",
+    "originalButtonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/169/c/",
+    "buttonSource": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/169/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>",
+    "features": [
+      {
+        "text": "Instant Access",
+        "originalText": "Instant Access",
+        "source": "<li>Instant Access</li>"
+      },
+      {
+        "text": "24/7 WhatsApp Support",
+        "originalText": "24/7 WhatsApp Support",
+        "source": "<li>24/7 WhatsApp Support</li>"
+      },
+      {
+        "text": "Secure Payment",
+        "originalText": "Secure Payment",
+        "source": "<li>Secure Payment</li>"
+      }
+    ]
+  }
 }

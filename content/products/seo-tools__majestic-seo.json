@@ -2384,13 +2384,6 @@
       "source": "<a href=\"../\">SEO Tools</a>"
     },
     {
-      "text": "💬 Buy Now on WhatsApp",
-      "originalText": "💬 Buy Now on WhatsApp",
-      "url": "https://seogroupsbuy.com/users/cart/index/product/id/31/c/",
-      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/31/c/",
-      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/31/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
-    },
-    {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
@@ -2524,13 +2517,6 @@
       "alt": "Crazy Egg logo",
       "originalAlt": "Crazy Egg logo",
       "source": "<img src=\"../../assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
-    },
-    {
-      "src": "../../assets/images/tools/majestic-com.png",
-      "originalSrc": "../../assets/images/tools/majestic-com.png",
-      "alt": "Majestic SEO logo",
-      "originalAlt": "Majestic SEO logo",
-      "source": "<img src=\"../../assets/images/tools/majestic-com.png\" alt=\"Majestic SEO logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -2583,12 +2569,6 @@
       "value": "From $3-$8/month/mo",
       "originalValue": "From $3-$8/month/mo",
       "source": "<span class=\"price-tag\">From $3-$8/month/mo</span>"
-    },
-    {
-      "value": "$5",
-      "originalValue": "$5",
-      "source": "<span class=\"product-hero-price\">$5",
-      "mode": "prefix"
     }
   ],
   "originalPageTitle": "Majestic SEO Group Buy — Backlink Intelligence from $5/month | SEO Group Buy Tools",
@@ -2711,37 +2691,6 @@
     }
   ],
   "outsideGroups": [
-    {
-      "heading": "Majestic SEO Group Buy",
-      "originalHeading": "Majestic SEO Group Buy",
-      "headingSource": "<h1>Majestic SEO Group Buy</h1>",
-      "items": [
-        {
-          "text": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index. Analyze link quality and discover link building opportuniti…",
-          "originalText": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index. Analyze link quality and discover link building opportuniti…",
-          "source": "<p class=\"product-hero-tagline\">Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index. Analyze link quality and discover link building opportuniti…</p>",
-          "tag": "p"
-        },
-        {
-          "text": "Instant Access",
-          "originalText": "Instant Access",
-          "source": "<li>Instant Access</li>",
-          "tag": "li"
-        },
-        {
-          "text": "24/7 WhatsApp Support",
-          "originalText": "24/7 WhatsApp Support",
-          "source": "<li>24/7 WhatsApp Support</li>",
-          "tag": "li"
-        },
-        {
-          "text": "Secure Payment",
-          "originalText": "Secure Payment",
-          "source": "<li>Secure Payment</li>",
-          "tag": "li"
-        }
-      ]
-    },
     {
       "heading": "Get Started Today",
       "originalHeading": "Get Started Today",
@@ -2897,5 +2846,43 @@
         }
       ]
     }
-  ]
+  ],
+  "productHero": {
+    "name": "Majestic SEO Group Buy",
+    "originalName": "Majestic SEO Group Buy",
+    "nameSource": "<h1>Majestic SEO Group Buy</h1>",
+    "description": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index. Analyze link quality and discover link building opportuniti…",
+    "originalDescription": "Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index. Analyze link quality and discover link building opportuniti…",
+    "descriptionSource": "<p class=\"product-hero-tagline\">Access Majestic SEO group buy through SEO Group Buy Tools for Trust Flow, Citation Flow, and the largest backlink index. Analyze link quality and discover link building opportuniti…</p>",
+    "price": "$5",
+    "originalPrice": "$5",
+    "priceSource": "<span class=\"product-hero-price\">$5",
+    "image": "../../assets/images/tools/majestic-com.png",
+    "originalImage": "../../assets/images/tools/majestic-com.png",
+    "imageAlt": "Majestic SEO logo",
+    "originalImageAlt": "Majestic SEO logo",
+    "imageSource": "<img src=\"../../assets/images/tools/majestic-com.png\" alt=\"Majestic SEO logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
+    "buttonLabel": "💬 Buy Now on WhatsApp",
+    "originalButtonLabel": "💬 Buy Now on WhatsApp",
+    "buttonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/31/c/",
+    "originalButtonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/31/c/",
+    "buttonSource": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/31/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>",
+    "features": [
+      {
+        "text": "Instant Access",
+        "originalText": "Instant Access",
+        "source": "<li>Instant Access</li>"
+      },
+      {
+        "text": "24/7 WhatsApp Support",
+        "originalText": "24/7 WhatsApp Support",
+        "source": "<li>24/7 WhatsApp Support</li>"
+      },
+      {
+        "text": "Secure Payment",
+        "originalText": "Secure Payment",
+        "source": "<li>Secure Payment</li>"
+      }
+    ]
+  }
 }

@@ -1619,13 +1619,6 @@
       "source": "<a href=\"../\">Spy & Ad Intelligence</a>"
     },
     {
-      "text": "💬 Buy Now on WhatsApp",
-      "originalText": "💬 Buy Now on WhatsApp",
-      "url": "https://seogroupsbuy.com/users/cart/index/product/id/109/c/",
-      "originalUrl": "https://seogroupsbuy.com/users/cart/index/product/id/109/c/",
-      "source": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/109/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>"
-    },
-    {
       "text": "View Pricing",
       "originalText": "View Pricing",
       "url": "../../pricing/",
@@ -1724,13 +1717,6 @@
       "alt": "Anstrex logo",
       "originalAlt": "Anstrex logo",
       "source": "<img src=\"../../assets/images/tools/anstrex-com.png\" alt=\"Anstrex logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">"
-    },
-    {
-      "src": "../../assets/images/tools/adspy-com.png",
-      "originalSrc": "../../assets/images/tools/adspy-com.png",
-      "alt": "AdSpy logo",
-      "originalAlt": "AdSpy logo",
-      "source": "<img src=\"../../assets/images/tools/adspy-com.png\" alt=\"AdSpy logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">"
     }
   ],
   "priceValues": [
@@ -1753,12 +1739,6 @@
       "value": "From $5/mo",
       "originalValue": "From $5/mo",
       "source": "<span class=\"price-tag\">From $5/mo</span>"
-    },
-    {
-      "value": "$5",
-      "originalValue": "$5",
-      "source": "<span class=\"product-hero-price\">$5",
-      "mode": "prefix"
     }
   ],
   "originalPageTitle": "AdSpy Group Buy — Largest Facebook Ad Database | SEO Group Buy Tools",
@@ -1839,37 +1819,6 @@
     }
   ],
   "outsideGroups": [
-    {
-      "heading": "AdSpy Group Buy",
-      "originalHeading": "AdSpy Group Buy",
-      "headingSource": "<h1>AdSpy Group Buy</h1>",
-      "items": [
-        {
-          "text": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and find winning products. Official price: $149/month.",
-          "originalText": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and find winning products. Official price: $149/month.",
-          "source": "<p class=\"product-hero-tagline\">Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and find winning products. Official price: $149/month.</p>",
-          "tag": "p"
-        },
-        {
-          "text": "Instant Access",
-          "originalText": "Instant Access",
-          "source": "<li>Instant Access</li>",
-          "tag": "li"
-        },
-        {
-          "text": "24/7 WhatsApp Support",
-          "originalText": "24/7 WhatsApp Support",
-          "source": "<li>24/7 WhatsApp Support</li>",
-          "tag": "li"
-        },
-        {
-          "text": "Secure Payment",
-          "originalText": "Secure Payment",
-          "source": "<li>Secure Payment</li>",
-          "tag": "li"
-        }
-      ]
-    },
     {
       "heading": "Get Started Today",
       "originalHeading": "Get Started Today",
@@ -2025,5 +1974,43 @@
         }
       ]
     }
-  ]
+  ],
+  "productHero": {
+    "name": "AdSpy Group Buy",
+    "originalName": "AdSpy Group Buy",
+    "nameSource": "<h1>AdSpy Group Buy</h1>",
+    "description": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and find winning products. Official price: $149/month.",
+    "originalDescription": "Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and find winning products. Official price: $149/month.",
+    "descriptionSource": "<p class=\"product-hero-tagline\">Access AdSpy for $8-$20/month through SEO Group Buy Tools. Search 100M+ Facebook ads, analyze competitor campaigns, and find winning products. Official price: $149/month.</p>",
+    "price": "$5",
+    "originalPrice": "$5",
+    "priceSource": "<span class=\"product-hero-price\">$5",
+    "image": "../../assets/images/tools/adspy-com.png",
+    "originalImage": "../../assets/images/tools/adspy-com.png",
+    "imageAlt": "AdSpy logo",
+    "originalImageAlt": "AdSpy logo",
+    "imageSource": "<img src=\"../../assets/images/tools/adspy-com.png\" alt=\"AdSpy logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
+    "buttonLabel": "💬 Buy Now on WhatsApp",
+    "originalButtonLabel": "💬 Buy Now on WhatsApp",
+    "buttonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/109/c/",
+    "originalButtonUrl": "https://seogroupsbuy.com/users/cart/index/product/id/109/c/",
+    "buttonSource": "<a href=\"https://seogroupsbuy.com/users/cart/index/product/id/109/c/\" class=\"btn btn-success btn-lg product-buy-btn\" target=\"_blank\" rel=\"noopener\">💬 Buy Now on WhatsApp</a>",
+    "features": [
+      {
+        "text": "Instant Access",
+        "originalText": "Instant Access",
+        "source": "<li>Instant Access</li>"
+      },
+      {
+        "text": "24/7 WhatsApp Support",
+        "originalText": "24/7 WhatsApp Support",
+        "source": "<li>24/7 WhatsApp Support</li>"
+      },
+      {
+        "text": "Secure Payment",
+        "originalText": "Secure Payment",
+        "source": "<li>Secure Payment</li>"
+      }
+    ]
+  }
 }
