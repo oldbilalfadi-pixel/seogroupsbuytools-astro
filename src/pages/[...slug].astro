@@ -18,49 +18,9 @@ export async function getStaticPaths() {
       props: { page }
     }));
 }
+import renderPage from '../lib/render.js';
 const { page } = Astro.props;
-let renderedHtml = page.html;
-const escapeText = (s) => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-const escapeAttr = (s) => escapeText(s).replace(/"/g,'&quot;');
-for (const entry of page.editorContent || []) {
-  if (!entry.source || entry.text === entry.originalText || typeof entry.text !== 'string') continue;
-  const openEnd = entry.source.indexOf('>') + 1;
-  const closeStart = entry.source.lastIndexOf('</');
-  if (openEnd < 1 || closeStart < openEnd) continue;
-  renderedHtml = renderedHtml.replace(entry.source, entry.source.slice(0,openEnd) + escapeText(entry.text) + entry.source.slice(closeStart));
-}
-for (const link of page.links || []) {
-  if (!link.source || (link.url === link.originalUrl && link.text === link.originalText)) continue;
-  let updated = link.source;
-  if (link.url !== link.originalUrl) updated = updated.replace('href="' + link.originalUrl + '"', 'href="' + escapeAttr(link.url) + '"');
-  if (link.text !== link.originalText) {
-    const i = updated.indexOf('>'), j = updated.lastIndexOf('</');
-    if (i >= 0 && j > i) updated = updated.slice(0,i+1) + escapeText(link.text) + updated.slice(j);
-  }
-  renderedHtml = renderedHtml.replace(link.source, updated);
-}
-for (const image of page.images || []) {
-  if (!image.source || (image.src === image.originalSrc && image.alt === image.originalAlt)) continue;
-  let updated = image.source;
-  if (image.src !== image.originalSrc) updated = updated.replace('src="' + image.originalSrc + '"', 'src="' + escapeAttr(image.src) + '"');
-  if (image.alt !== image.originalAlt) updated = updated.replace('alt="' + image.originalAlt + '"', 'alt="' + escapeAttr(image.alt) + '"');
-  renderedHtml = renderedHtml.replace(image.source, updated);
-}
-if (page.seoTitle && page.seoTitle !== page.title) {
-  renderedHtml = renderedHtml.replace(/<title>[^<]*<\/title>/i,'<title>' + escapeText(page.seoTitle) + '</title>');
-  renderedHtml = renderedHtml.replace(/(<meta\s+property="og:title"\s+content=")[^"]*(")/i, (_,a,b)=>a+escapeAttr(page.seoTitle)+b);
-}
-if (page.seoDescription && page.seoDescription !== page.description) {
-  renderedHtml = renderedHtml.replace(/(<meta\s+name="description"\s+content=")[^"]*(")/i, (_,a,b)=>a+escapeAttr(page.seoDescription)+b);
-  renderedHtml = renderedHtml.replace(/(<meta\s+property="og:description"\s+content=")[^"]*(")/i, (_,a,b)=>a+escapeAttr(page.seoDescription)+b);
-}
-
-if (page.route === '/' && page.hero) {
-  const escapeHtml = (value) => String(value ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-  const heading = escapeHtml(page.hero.headingBefore) + '<span class="hero-highlight">' + escapeHtml(page.hero.headingHighlight) + '</span>' + escapeHtml(page.hero.headingAfter);
-  renderedHtml = renderedHtml.replace(/(<h1>)[\s\S]*?(<\/h1>)/i, (_, start, end) => start + heading + end);
-  renderedHtml = renderedHtml.replace(/(<p class="hero-live-desc">)[\s\S]*?(<\/p>)/i, (_, start, end) => start + escapeHtml(page.hero.description) + end);
-}
+const renderedHtml = renderPage(page);
 
 ---
 <Fragment set:html={renderedHtml} />
