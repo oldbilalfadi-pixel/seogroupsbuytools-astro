@@ -4,7 +4,7 @@ import path from 'node:path';
 import renderPage from '../src/lib/render.js';
 const files=['content/homepage.json',...['products','pages'].flatMap(dir=>fs.readdirSync('content/'+dir).filter(x=>x.endsWith('.json')).map(f=>'content/'+dir+'/'+f))];
 const site=JSON.parse(fs.readFileSync('content/settings.json','utf8'));
-const totals={pages:0,groups:0,outsideGroups:0,editableText:0,buttons:0,cards:0,images:0,prices:0,seo:0,hero:0,global:0,products:0,productFields:0,labels:0};
+const totals={pages:0,groups:0,outsideGroups:0,editableText:0,buttons:0,cards:0,images:0,prices:0,seo:0,hero:0,global:0,products:0,productFields:0,labels:0,offsets:0,nested:0,duplicates:0};
 for (const file of files) {
   const page=JSON.parse(fs.readFileSync(file,'utf8'));
   assert.equal(renderPage(page,site),page.html,'Unedited page HTML changed: '+file);
@@ -81,6 +81,62 @@ for (const file of files) {
     assert.ok(renderPage(edit).includes('$98765'),file+' price edit');
     totals.prices+=page.priceValues.length;
   }
+  // Every editable field must point at its own exact original HTML tag,
+  // not the first matching tag on the page.
+  const mapped=[
+    ...[...page.contentGroups,...page.outsideGroups].flatMap(g=>[
+      ...(g.headingSource?[{source:g.headingSource,sourceOffset:g.sourceOffset}]:[]),
+      ...g.items
+    ]),
+    ...(page.buttons||[]),...(page.cardLinks||[]),...(page.mediaImages||[]),
+    ...(page.priceValues||[]),...(page.labelTexts||[]),
+    ...(page.productHero?[
+      {source:page.productHero.nameSource,sourceOffset:page.productHero.nameOffset},
+      {source:page.productHero.descriptionSource,sourceOffset:page.productHero.descriptionOffset},
+      {source:page.productHero.priceSource,sourceOffset:page.productHero.priceOffset},
+      {source:page.productHero.imageSource,sourceOffset:page.productHero.imageOffset},
+      {source:page.productHero.buttonSource,sourceOffset:page.productHero.buttonOffset},
+      ...page.productHero.features
+    ]:[])
+  ].filter(x=>x.source);
+  for(const entry of mapped) {
+    assert.ok(Number.isInteger(entry.sourceOffset),file+' missing exact offset for '+entry.source.slice(0,45));
+    assert.equal(page.html.slice(entry.sourceOffset,entry.sourceOffset+entry.source.length),entry.source,file+' wrong source offset');
+    totals.offsets++;
+  }
+  const bySource=new Map();
+  for(const entry of [...page.contentGroups,...page.outsideGroups].flatMap(g=>g.items))
+    if(entry.source) {
+      const list=bySource.get(entry.source)||[];
+      list.push(entry);
+      bySource.set(entry.source,list);
+    }
+  for(const pair of bySource.values()) {
+    const unique=[...new Set(pair.map(e=>e.sourceOffset))];
+    if(pair.length>=2 && unique.length>=2) {
+      const target=pair.find(e=>e.sourceOffset===unique[1]);
+      const edit=structuredClone(page);
+      const record=[...edit.contentGroups,...edit.outsideGroups].flatMap(g=>g.items).find(e=>e.sourceOffset===target.sourceOffset&&e.source===target.source);
+      record.text='CMS SECOND DUPLICATE VALIDATION';
+      const out=renderPage(edit,site);
+      assert.ok(out.includes('CMS SECOND DUPLICATE VALIDATION'),file+' repeated text not updated');
+      const first=pair[0];
+      assert.ok(out.slice(first.sourceOffset,first.sourceOffset+first.source.length).includes(first.originalText.slice(0,Math.min(8,first.originalText.length))) || out.includes(first.source),file+' repeated first item changed');
+      totals.duplicates++;
+      break;
+    }
+  }
+  const nestedCard=(page.cardLinks||[]).find(card=>(page.mediaImages||[]).some(img=>img.sourceOffset>card.sourceOffset && img.sourceOffset+img.source.length<=card.sourceOffset+card.source.length));
+  if(nestedCard) {
+    const img=page.mediaImages.find(i=>i.sourceOffset>nestedCard.sourceOffset&&i.sourceOffset+i.source.length<=nestedCard.sourceOffset+nestedCard.source.length);
+    const edit=structuredClone(page);
+    edit.cardLinks.find(c=>c.sourceOffset===nestedCard.sourceOffset).url='/cms-nested-card-validation/';
+    edit.mediaImages.find(i=>i.sourceOffset===img.sourceOffset).src='/assets/images/cms-nested-image-validation.png';
+    const out=renderPage(edit,site);
+    assert.ok(out.includes('href="/cms-nested-card-validation/"')&&out.includes('src="/assets/images/cms-nested-image-validation.png"'),file+' nested card and image failed');
+    totals.nested++;
+  }
+
   if (page.html.includes('<title>')) {
     const edit=structuredClone(page);
     edit.seoTitle='CMS SEO TITLE VALIDATION';
@@ -112,6 +168,7 @@ for (const file of files) {
 assert.equal(totals.pages,72);
 assert.equal(totals.products,30);
 assert.ok(totals.productFields>=180);
+assert.ok(totals.offsets>2000 && totals.duplicates>0 && totals.nested>0);
 assert.ok(totals.groups>100 && totals.outsideGroups>20 && totals.editableText>500 && totals.buttons>100 && totals.cards>50 && totals.images>50 && totals.prices>10 && totals.labels>20);
 assert.ok(site.siteChrome?.headerLinks.length>5 && site.siteChrome?.footerLinks.length>5);
 for(const file of ['content/homepage.json','content/pages/pricing.json','content/products/seo-tools__ahrefs.json']){
