@@ -19,5 +19,13 @@ export async function getStaticPaths() {
     }));
 }
 const { page } = Astro.props;
+let renderedHtml = page.html;
+if (page.route === '/' && page.hero) {
+  const escapeHtml = (value) => String(value ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  const heading = escapeHtml(page.hero.headingBefore) + '<span class="hero-highlight">' + escapeHtml(page.hero.headingHighlight) + '</span>' + escapeHtml(page.hero.headingAfter);
+  renderedHtml = renderedHtml.replace(/(<h1>)[\s\S]*?(<\/h1>)/i, (_, start, end) => start + heading + end);
+  renderedHtml = renderedHtml.replace(/(<p class="hero-live-desc">)[\s\S]*?(<\/p>)/i, (_, start, end) => start + escapeHtml(page.hero.description) + end);
+}
+
 ---
-<Fragment set:html={page.html} />
+<Fragment set:html={renderedHtml} />
