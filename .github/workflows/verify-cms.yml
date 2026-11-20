@@ -17,6 +17,8 @@ jobs:
       - name: Validate Pages CMS configuration YAML
         run: |
           ruby -e 'require "yaml"; c=YAML.load_file(".pages.yml", aliases: true); abort "Missing CMS collections" unless c.fetch("content").length == 5; abort "Merge protection disabled" unless c.dig("settings", "content", "merge") == true; puts "Pages CMS configuration syntax valid"'
+      - name: Confirm every CMS list has a descriptive label and populated content
+        run: ruby scripts/verify-editor-population.rb
       - name: Validate CMS content and editable fields
         run: node scripts/verify-cms.mjs
       - name: Verify blog editor and post route rendering
