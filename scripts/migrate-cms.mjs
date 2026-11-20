@@ -82,6 +82,16 @@ for (const file of files) {
     if(value && !page.priceValues.some(p=>p.source===source))
       page.priceValues.push({value,originalValue:value,source,mode:'prefix'});
   }
+  if (!Array.isArray(page.cardLinks)) {
+    const mainLinks=page.html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i)?.[1]||page.html;
+    page.cardLinks=[...mainLinks.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)]
+      .filter(m=>/<(img|svg|div|span|h[2-6])\b/i.test(m[2]) && m[0].length<20000)
+      .map(m=>{
+        const title=plain(m[2].match(/<h[2-6]\b[^>]*>([\s\S]*?)<\/h[2-6]>/i)?.[1]
+          || m[2].match(/<img\b[^>]*alt="([^"]*)"/i)?.[1] || m[2]).slice(0,100);
+        return {label:title||'Card link',url:m[1],originalUrl:m[1],source:m[0]};
+      });
+  }
   for(const group of page.contentGroups) {
     if (group.headingSource) assert.ok(page.html.includes(group.headingSource),file+' heading');
     for(const entry of group.items) assert.ok(page.html.includes(entry.source),file+' entry');
