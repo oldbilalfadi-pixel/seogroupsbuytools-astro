@@ -33,6 +33,7 @@ content:
           - { name: heading, label: Heading, type: string }
           - { name: originalHeading, type: string, hidden: true }
           - { name: headingSource, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
           - name: items
             label: Paragraphs, features and card text
             type: object
@@ -44,7 +45,10 @@ content:
               - { name: text, label: Content, type: text }
               - { name: originalText, type: text, hidden: true }
               - { name: source, type: text, hidden: true }
+              - { name: sourceOffset, type: number, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
               - { name: tag, type: string, hidden: true }
+              - { name: sourceOffset, type: number, hidden: true }
       - name: contentGroups
         label: Page sections
         type: object
@@ -66,6 +70,7 @@ content:
           - { name: originalText, type: text, hidden: true }
           - { name: originalUrl, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
       - name: cardLinks
         label: Product cards and visual links
         type: object
@@ -78,6 +83,7 @@ content:
           - { name: label, type: string, hidden: true }
           - { name: originalUrl, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
       - name: mediaImages
         label: Images
         type: object
@@ -91,6 +97,7 @@ content:
           - { name: originalSrc, type: string, hidden: true }
           - { name: originalAlt, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
       - name: labelTexts
         label: Badges, stats and small labels
         type: object
@@ -102,6 +109,7 @@ content:
           - { name: text, label: Label text, type: string }
           - { name: originalText, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
           - { name: sourceOffset, type: number, hidden: true }
           - { name: ordinal, type: number, hidden: true }
       - name: priceValues
@@ -115,6 +123,7 @@ content:
           - { name: value, label: Price, type: string }
           - { name: originalValue, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
           - { name: mode, type: string, hidden: true }
       - { name: seoTitle, label: SEO title, type: string }
       - { name: seoDescription, label: SEO description, type: text }
@@ -149,18 +158,24 @@ content:
               - { name: text, label: Feature, type: string }
               - { name: originalText, type: string, hidden: true }
               - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
           - { name: originalName, type: string, hidden: true }
           - { name: nameSource, type: text, hidden: true }
+          - { name: nameOffset, type: number, hidden: true }
           - { name: originalDescription, type: text, hidden: true }
           - { name: descriptionSource, type: text, hidden: true }
+          - { name: descriptionOffset, type: number, hidden: true }
           - { name: originalPrice, type: string, hidden: true }
           - { name: priceSource, type: text, hidden: true }
+          - { name: priceOffset, type: number, hidden: true }
           - { name: originalImage, type: string, hidden: true }
           - { name: originalImageAlt, type: string, hidden: true }
           - { name: imageSource, type: text, hidden: true }
+          - { name: imageOffset, type: number, hidden: true }
           - { name: originalButtonLabel, type: string, hidden: true }
           - { name: originalButtonUrl, type: string, hidden: true }
           - { name: buttonSource, type: text, hidden: true }
+          - { name: buttonOffset, type: number, hidden: true }
       - name: outsideGroups
         label: Hero, pricing and visual sections
         type: object
@@ -188,6 +203,7 @@ content:
           - { name: text, label: Label text, type: string }
           - { name: originalText, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
           - { name: sourceOffset, type: number, hidden: true }
           - { name: ordinal, type: number, hidden: true }
       - name: priceValues
@@ -261,6 +277,7 @@ content:
           - { name: text, label: Label text, type: string }
           - { name: originalText, type: string, hidden: true }
           - { name: source, type: text, hidden: true }
+          - { name: sourceOffset, type: number, hidden: true }
           - { name: sourceOffset, type: number, hidden: true }
           - { name: ordinal, type: number, hidden: true }
       - name: priceValues
