@@ -29,5 +29,5 @@ for(const file of files) {
   lines.push('');
 }
 lines.splice(7,0,'**Pages:** '+totals.pages+' (including the existing 404 source entry). **Products:** '+totals.products+'. **Headings:** '+totals.headings+'. **Text entries:** '+totals.paragraphs+'. **Prices:** '+totals.prices+'. **Images:** '+totals.images+'. **Buttons:** '+totals.buttons+'. **Cards:** '+totals.cards+'. **Small labels:** '+totals.labels+'.');
-fs.writeFileSync('CMS-EDITABLE-CONTENT-REPORT.md',lines.join('\n')+'\n');
+fs.writeFileSync('content/CMS-EDITABLE-CONTENT-REPORT.md',lines.join('\n')+'\n');
 console.log('Report generated:',JSON.stringify(totals));
