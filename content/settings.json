@@ -241,10 +241,10 @@
         "originalUrl": "terms/"
       }
     ],
-    "headerLogo": "assets/images/logo-header.png",
-    "originalHeaderLogo": "assets/images/logo-header.png",
-    "footerLogo": "assets/images/logo-header.png",
-    "originalFooterLogo": "assets/images/logo-header.png",
+    "headerLogo": "/assets/images/logo-header.png",
+    "originalHeaderLogo": "/assets/images/logo-header.png",
+    "footerLogo": "/assets/images/logo-header.png",
+    "originalFooterLogo": "/assets/images/logo-header.png",
     "footerText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions.",
     "originalFooterText": "Affordable access to 50+ premium SEO, design, and marketing tools. Save 80-96% on individual subscriptions."
   },

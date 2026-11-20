@@ -2288,32 +2288,32 @@
   ],
   "mediaImages": [
     {
-      "src": "../../assets/images/tools/quillbot-com.png",
-      "originalSrc": "../../assets/images/tools/quillbot-com.png",
+      "src": "/assets/images/tools/quillbot-com.png",
+      "originalSrc": "/assets/images/tools/quillbot-com.png",
       "alt": "Quillbot logo",
       "originalAlt": "Quillbot logo",
       "source": "<img src=\"../../assets/images/tools/quillbot-com.png\" alt=\"Quillbot logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 15194
     },
     {
-      "src": "../../assets/images/tools/wordai-com.png",
-      "originalSrc": "../../assets/images/tools/wordai-com.png",
+      "src": "/assets/images/tools/wordai-com.png",
+      "originalSrc": "/assets/images/tools/wordai-com.png",
       "alt": "WordAI logo",
       "originalAlt": "WordAI logo",
       "source": "<img src=\"../../assets/images/tools/wordai-com.png\" alt=\"WordAI logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 15666
     },
     {
-      "src": "../../assets/images/tools/writecream-com.png",
-      "originalSrc": "../../assets/images/tools/writecream-com.png",
+      "src": "/assets/images/tools/writecream-com.png",
+      "originalSrc": "/assets/images/tools/writecream-com.png",
       "alt": "Writecream logo",
       "originalAlt": "Writecream logo",
       "source": "<img src=\"../../assets/images/tools/writecream-com.png\" alt=\"Writecream logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 16136
     },
     {
-      "src": "../../assets/images/tools/copy-ai.png",
-      "originalSrc": "../../assets/images/tools/copy-ai.png",
+      "src": "/assets/images/tools/copy-ai.png",
+      "originalSrc": "/assets/images/tools/copy-ai.png",
       "alt": "Copy.ai logo",
       "originalAlt": "Copy.ai logo",
       "source": "<img src=\"../../assets/images/tools/copy-ai.png\" alt=\"Copy.ai logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
@@ -2621,8 +2621,8 @@
     "price": "$5",
     "originalPrice": "$5",
     "priceSource": "<span class=\"product-hero-price\">$5",
-    "image": "../../assets/images/tools/copy-ai.png",
-    "originalImage": "../../assets/images/tools/copy-ai.png",
+    "image": "/assets/images/tools/copy-ai.png",
+    "originalImage": "/assets/images/tools/copy-ai.png",
     "imageAlt": "Copy.ai logo",
     "originalImageAlt": "Copy.ai logo",
     "imageSource": "<img src=\"../../assets/images/tools/copy-ai.png\" alt=\"Copy.ai logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",

@@ -3825,280 +3825,280 @@
   ],
   "mediaImages": [
     {
-      "src": "assets/images/hero-banner.png",
-      "originalSrc": "assets/images/hero-banner.png",
+      "src": "/assets/images/hero-banner.png",
+      "originalSrc": "/assets/images/hero-banner.png",
       "alt": "SEO Group Buy Tools — premium SEO tools at shared pricing",
       "originalAlt": "SEO Group Buy Tools — premium SEO tools at shared pricing",
       "source": "<img src=\"assets/images/hero-banner.png\" alt=\"SEO Group Buy Tools — premium SEO tools at shared pricing\" class=\"hero-live-img\" width=\"1200\" height=\"400\" loading=\"eager\" fetchpriority=\"high\">",
       "sourceOffset": 3906
     },
     {
-      "src": "assets/images/categories/seo.svg",
-      "originalSrc": "assets/images/categories/seo.svg",
+      "src": "/assets/images/categories/seo.svg",
+      "originalSrc": "/assets/images/categories/seo.svg",
       "alt": "SEO tools category",
       "originalAlt": "SEO tools category",
       "source": "<img src=\"assets/images/categories/seo.svg\" alt=\"SEO tools category\" width=\"24\" height=\"24\">",
       "sourceOffset": 8192
     },
     {
-      "src": "assets/images/categories/keyword.svg",
-      "originalSrc": "assets/images/categories/keyword.svg",
+      "src": "/assets/images/categories/keyword.svg",
+      "originalSrc": "/assets/images/categories/keyword.svg",
       "alt": "Keyword research category",
       "originalAlt": "Keyword research category",
       "source": "<img src=\"assets/images/categories/keyword.svg\" alt=\"Keyword research category\" width=\"24\" height=\"24\">",
       "sourceOffset": 8391
     },
     {
-      "src": "assets/images/categories/ai.svg",
-      "originalSrc": "assets/images/categories/ai.svg",
+      "src": "/assets/images/categories/ai.svg",
+      "originalSrc": "/assets/images/categories/ai.svg",
       "alt": "AI tools category",
       "originalAlt": "AI tools category",
       "source": "<img src=\"assets/images/categories/ai.svg\" alt=\"AI tools category\" width=\"24\" height=\"24\">",
       "sourceOffset": 8604
     },
     {
-      "src": "assets/images/categories/writing.svg",
-      "originalSrc": "assets/images/categories/writing.svg",
+      "src": "/assets/images/categories/writing.svg",
+      "originalSrc": "/assets/images/categories/writing.svg",
       "alt": "Writing tools category",
       "originalAlt": "Writing tools category",
       "source": "<img src=\"assets/images/categories/writing.svg\" alt=\"Writing tools category\" width=\"24\" height=\"24\">",
       "sourceOffset": 8799
     },
     {
-      "src": "assets/images/tools/copy-ai.png",
-      "originalSrc": "assets/images/tools/copy-ai.png",
+      "src": "/assets/images/tools/copy-ai.png",
+      "originalSrc": "/assets/images/tools/copy-ai.png",
       "alt": "Copy.ai logo",
       "originalAlt": "Copy.ai logo",
       "source": "<img src=\"assets/images/tools/copy-ai.png\" alt=\"Copy.ai logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 9441
     },
     {
-      "src": "assets/images/tools/quillbot-com.png",
-      "originalSrc": "assets/images/tools/quillbot-com.png",
+      "src": "/assets/images/tools/quillbot-com.png",
+      "originalSrc": "/assets/images/tools/quillbot-com.png",
       "alt": "Quillbot logo",
       "originalAlt": "Quillbot logo",
       "source": "<img src=\"assets/images/tools/quillbot-com.png\" alt=\"Quillbot logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 10390
     },
     {
-      "src": "assets/images/tools/wordai-com.png",
-      "originalSrc": "assets/images/tools/wordai-com.png",
+      "src": "/assets/images/tools/wordai-com.png",
+      "originalSrc": "/assets/images/tools/wordai-com.png",
       "alt": "WordAI logo",
       "originalAlt": "WordAI logo",
       "source": "<img src=\"assets/images/tools/wordai-com.png\" alt=\"WordAI logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 11348
     },
     {
-      "src": "assets/images/tools/writecream-com.png",
-      "originalSrc": "assets/images/tools/writecream-com.png",
+      "src": "/assets/images/tools/writecream-com.png",
+      "originalSrc": "/assets/images/tools/writecream-com.png",
       "alt": "Writecream logo",
       "originalAlt": "Writecream logo",
       "source": "<img src=\"assets/images/tools/writecream-com.png\" alt=\"Writecream logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 12319
     },
     {
-      "src": "assets/images/tools/adobe-com.png",
-      "originalSrc": "assets/images/tools/adobe-com.png",
+      "src": "/assets/images/tools/adobe-com.png",
+      "originalSrc": "/assets/images/tools/adobe-com.png",
       "alt": "Adobe Creative Cloud logo",
       "originalAlt": "Adobe Creative Cloud logo",
       "source": "<img src=\"assets/images/tools/adobe-com.png\" alt=\"Adobe Creative Cloud logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 13298
     },
     {
-      "src": "assets/images/tools/canva-com.png",
-      "originalSrc": "assets/images/tools/canva-com.png",
+      "src": "/assets/images/tools/canva-com.png",
+      "originalSrc": "/assets/images/tools/canva-com.png",
       "alt": "Canva Pro logo",
       "originalAlt": "Canva Pro logo",
       "source": "<img src=\"assets/images/tools/canva-com.png\" alt=\"Canva Pro logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 14175
     },
     {
-      "src": "assets/images/tools/crello-com.png",
-      "originalSrc": "assets/images/tools/crello-com.png",
+      "src": "/assets/images/tools/crello-com.png",
+      "originalSrc": "/assets/images/tools/crello-com.png",
       "alt": "Crello logo",
       "originalAlt": "Crello logo",
       "source": "<img src=\"assets/images/tools/crello-com.png\" alt=\"Crello logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 15019
     },
     {
-      "src": "assets/images/tools/picmonkey-com.png",
-      "originalSrc": "assets/images/tools/picmonkey-com.png",
+      "src": "/assets/images/tools/picmonkey-com.png",
+      "originalSrc": "/assets/images/tools/picmonkey-com.png",
       "alt": "PicMonkey logo",
       "originalAlt": "PicMonkey logo",
       "source": "<img src=\"assets/images/tools/picmonkey-com.png\" alt=\"PicMonkey logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 15867
     },
     {
-      "src": "assets/images/tools/stencil-com.png",
-      "originalSrc": "assets/images/tools/stencil-com.png",
+      "src": "/assets/images/tools/stencil-com.png",
+      "originalSrc": "/assets/images/tools/stencil-com.png",
       "alt": "Stencil logo",
       "originalAlt": "Stencil logo",
       "source": "<img src=\"assets/images/tools/stencil-com.png\" alt=\"Stencil logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 16732
     },
     {
-      "src": "assets/images/tools/helium10-com.png",
-      "originalSrc": "assets/images/tools/helium10-com.png",
+      "src": "/assets/images/tools/helium10-com.png",
+      "originalSrc": "/assets/images/tools/helium10-com.png",
       "alt": "Helium 10 logo",
       "originalAlt": "Helium 10 logo",
       "source": "<img src=\"assets/images/tools/helium10-com.png\" alt=\"Helium 10 logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 17601
     },
     {
-      "src": "assets/images/tools/junglescout-com.png",
-      "originalSrc": "assets/images/tools/junglescout-com.png",
+      "src": "/assets/images/tools/junglescout-com.png",
+      "originalSrc": "/assets/images/tools/junglescout-com.png",
       "alt": "Jungle Scout logo",
       "originalAlt": "Jungle Scout logo",
       "source": "<img src=\"assets/images/tools/junglescout-com.png\" alt=\"Jungle Scout logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 18476
     },
     {
-      "src": "assets/images/tools/merchinformer-com.png",
-      "originalSrc": "assets/images/tools/merchinformer-com.png",
+      "src": "/assets/images/tools/merchinformer-com.png",
+      "originalSrc": "/assets/images/tools/merchinformer-com.png",
       "alt": "Merch Informer logo",
       "originalAlt": "Merch Informer logo",
       "source": "<img src=\"assets/images/tools/merchinformer-com.png\" alt=\"Merch Informer logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 19365
     },
     {
-      "src": "assets/images/tools/zonguru-com.png",
-      "originalSrc": "assets/images/tools/zonguru-com.png",
+      "src": "/assets/images/tools/zonguru-com.png",
+      "originalSrc": "/assets/images/tools/zonguru-com.png",
       "alt": "ZonGuru logo",
       "originalAlt": "ZonGuru logo",
       "source": "<img src=\"assets/images/tools/zonguru-com.png\" alt=\"ZonGuru logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 20243
     },
     {
-      "src": "assets/images/tools/ahrefs-com.png",
-      "originalSrc": "assets/images/tools/ahrefs-com.png",
+      "src": "/assets/images/tools/ahrefs-com.png",
+      "originalSrc": "/assets/images/tools/ahrefs-com.png",
       "alt": "Ahrefs logo",
       "originalAlt": "Ahrefs logo",
       "source": "<img src=\"assets/images/tools/ahrefs-com.png\" alt=\"Ahrefs logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 21100
     },
     {
-      "src": "assets/images/tools/buzzsumo-com.png",
-      "originalSrc": "assets/images/tools/buzzsumo-com.png",
+      "src": "/assets/images/tools/buzzsumo-com.png",
+      "originalSrc": "/assets/images/tools/buzzsumo-com.png",
       "alt": "BuzzSumo logo",
       "originalAlt": "BuzzSumo logo",
       "source": "<img src=\"assets/images/tools/buzzsumo-com.png\" alt=\"BuzzSumo logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 22020
     },
     {
-      "src": "assets/images/tools/crazyegg-com.png",
-      "originalSrc": "assets/images/tools/crazyegg-com.png",
+      "src": "/assets/images/tools/crazyegg-com.png",
+      "originalSrc": "/assets/images/tools/crazyegg-com.png",
       "alt": "Crazy Egg logo",
       "originalAlt": "Crazy Egg logo",
       "source": "<img src=\"assets/images/tools/crazyegg-com.png\" alt=\"Crazy Egg logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 22855
     },
     {
-      "src": "assets/images/tools/kwfinder-com.png",
-      "originalSrc": "assets/images/tools/kwfinder-com.png",
+      "src": "/assets/images/tools/kwfinder-com.png",
+      "originalSrc": "/assets/images/tools/kwfinder-com.png",
       "alt": "KWFinder logo",
       "originalAlt": "KWFinder logo",
       "source": "<img src=\"assets/images/tools/kwfinder-com.png\" alt=\"KWFinder logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 23719
     },
     {
-      "src": "assets/images/tools/majestic-com.png",
-      "originalSrc": "assets/images/tools/majestic-com.png",
+      "src": "/assets/images/tools/majestic-com.png",
+      "originalSrc": "/assets/images/tools/majestic-com.png",
       "alt": "Majestic SEO logo",
       "originalAlt": "Majestic SEO logo",
       "source": "<img src=\"assets/images/tools/majestic-com.png\" alt=\"Majestic SEO logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 24676
     },
     {
-      "src": "assets/images/tools/moz-com.png",
-      "originalSrc": "assets/images/tools/moz-com.png",
+      "src": "/assets/images/tools/moz-com.png",
+      "originalSrc": "/assets/images/tools/moz-com.png",
       "alt": "Moz Pro logo",
       "originalAlt": "Moz Pro logo",
       "source": "<img src=\"assets/images/tools/moz-com.png\" alt=\"Moz Pro logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 25549
     },
     {
-      "src": "assets/images/tools/semrush-com.png",
-      "originalSrc": "assets/images/tools/semrush-com.png",
+      "src": "/assets/images/tools/semrush-com.png",
+      "originalSrc": "/assets/images/tools/semrush-com.png",
       "alt": "SEMrush logo",
       "originalAlt": "SEMrush logo",
       "source": "<img src=\"assets/images/tools/semrush-com.png\" alt=\"SEMrush logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 26497
     },
     {
-      "src": "assets/images/tools/serpstat-com.png",
-      "originalSrc": "assets/images/tools/serpstat-com.png",
+      "src": "/assets/images/tools/serpstat-com.png",
+      "originalSrc": "/assets/images/tools/serpstat-com.png",
       "alt": "Serpstat logo",
       "originalAlt": "Serpstat logo",
       "source": "<img src=\"assets/images/tools/serpstat-com.png\" alt=\"Serpstat logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 27445
     },
     {
-      "src": "assets/images/tools/similarweb-com.png",
-      "originalSrc": "assets/images/tools/similarweb-com.png",
+      "src": "/assets/images/tools/similarweb-com.png",
+      "originalSrc": "/assets/images/tools/similarweb-com.png",
       "alt": "Similarweb logo",
       "originalAlt": "Similarweb logo",
       "source": "<img src=\"assets/images/tools/similarweb-com.png\" alt=\"Similarweb logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 28383
     },
     {
-      "src": "assets/images/tools/spyfu-com.png",
-      "originalSrc": "assets/images/tools/spyfu-com.png",
+      "src": "/assets/images/tools/spyfu-com.png",
+      "originalSrc": "/assets/images/tools/spyfu-com.png",
       "alt": "SpyFu logo",
       "originalAlt": "SpyFu logo",
       "source": "<img src=\"assets/images/tools/spyfu-com.png\" alt=\"SpyFu logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 29265
     },
     {
-      "src": "assets/images/tools/surfer-seo.png",
-      "originalSrc": "assets/images/tools/surfer-seo.png",
+      "src": "/assets/images/tools/surfer-seo.png",
+      "originalSrc": "/assets/images/tools/surfer-seo.png",
       "alt": "Surfer SEO logo",
       "originalAlt": "Surfer SEO logo",
       "source": "<img src=\"assets/images/tools/surfer-seo.png\" alt=\"Surfer SEO logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 30218
     },
     {
-      "src": "assets/images/tools/neilpatel-com.png",
-      "originalSrc": "assets/images/tools/neilpatel-com.png",
+      "src": "/assets/images/tools/neilpatel-com.png",
+      "originalSrc": "/assets/images/tools/neilpatel-com.png",
       "alt": "Ubersuggest logo",
       "originalAlt": "Ubersuggest logo",
       "source": "<img src=\"assets/images/tools/neilpatel-com.png\" alt=\"Ubersuggest logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 31106
     },
     {
-      "src": "assets/images/tools/adspy-com.png",
-      "originalSrc": "assets/images/tools/adspy-com.png",
+      "src": "/assets/images/tools/adspy-com.png",
+      "originalSrc": "/assets/images/tools/adspy-com.png",
       "alt": "AdSpy logo",
       "originalAlt": "AdSpy logo",
       "source": "<img src=\"assets/images/tools/adspy-com.png\" alt=\"AdSpy logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 32046
     },
     {
-      "src": "assets/images/tools/anstrex-com.png",
-      "originalSrc": "assets/images/tools/anstrex-com.png",
+      "src": "/assets/images/tools/anstrex-com.png",
+      "originalSrc": "/assets/images/tools/anstrex-com.png",
       "alt": "Anstrex logo",
       "originalAlt": "Anstrex logo",
       "source": "<img src=\"assets/images/tools/anstrex-com.png\" alt=\"Anstrex logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 32892
     },
     {
-      "src": "assets/images/tools/dropispy-com.png",
-      "originalSrc": "assets/images/tools/dropispy-com.png",
+      "src": "/assets/images/tools/dropispy-com.png",
+      "originalSrc": "/assets/images/tools/dropispy-com.png",
       "alt": "Dropispy logo",
       "originalAlt": "Dropispy logo",
       "source": "<img src=\"assets/images/tools/dropispy-com.png\" alt=\"Dropispy logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 33750
     },
     {
-      "src": "assets/images/tools/pipiads-com.png",
-      "originalSrc": "assets/images/tools/pipiads-com.png",
+      "src": "/assets/images/tools/pipiads-com.png",
+      "originalSrc": "/assets/images/tools/pipiads-com.png",
       "alt": "PipiAds logo",
       "originalAlt": "PipiAds logo",
       "source": "<img src=\"assets/images/tools/pipiads-com.png\" alt=\"PipiAds logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 34592
     },
     {
-      "src": "assets/images/tools/poweradspy-com.png",
-      "originalSrc": "assets/images/tools/poweradspy-com.png",
+      "src": "/assets/images/tools/poweradspy-com.png",
+      "originalSrc": "/assets/images/tools/poweradspy-com.png",
       "alt": "PowerAdSpy logo",
       "originalAlt": "PowerAdSpy logo",
       "source": "<img src=\"assets/images/tools/poweradspy-com.png\" alt=\"PowerAdSpy logo\" width=\"80\" height=\"48\" class=\"resource-card__img\" loading=\"lazy\" decoding=\"async\">",

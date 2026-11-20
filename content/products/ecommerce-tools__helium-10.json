@@ -2252,32 +2252,32 @@
   ],
   "mediaImages": [
     {
-      "src": "../../assets/images/tools/junglescout-com.png",
-      "originalSrc": "../../assets/images/tools/junglescout-com.png",
+      "src": "/assets/images/tools/junglescout-com.png",
+      "originalSrc": "/assets/images/tools/junglescout-com.png",
       "alt": "Jungle Scout logo",
       "originalAlt": "Jungle Scout logo",
       "source": "<img src=\"../../assets/images/tools/junglescout-com.png\" alt=\"Jungle Scout logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 15279
     },
     {
-      "src": "../../assets/images/tools/zonguru-com.png",
-      "originalSrc": "../../assets/images/tools/zonguru-com.png",
+      "src": "/assets/images/tools/zonguru-com.png",
+      "originalSrc": "/assets/images/tools/zonguru-com.png",
       "alt": "ZonGuru logo",
       "originalAlt": "ZonGuru logo",
       "source": "<img src=\"../../assets/images/tools/zonguru-com.png\" alt=\"ZonGuru logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 15763
     },
     {
-      "src": "../../assets/images/tools/merchinformer-com.png",
-      "originalSrc": "../../assets/images/tools/merchinformer-com.png",
+      "src": "/assets/images/tools/merchinformer-com.png",
+      "originalSrc": "/assets/images/tools/merchinformer-com.png",
       "alt": "Merch Informer logo",
       "originalAlt": "Merch Informer logo",
       "source": "<img src=\"../../assets/images/tools/merchinformer-com.png\" alt=\"Merch Informer logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 16240
     },
     {
-      "src": "../../assets/images/tools/helium10-com.png",
-      "originalSrc": "../../assets/images/tools/helium10-com.png",
+      "src": "/assets/images/tools/helium10-com.png",
+      "originalSrc": "/assets/images/tools/helium10-com.png",
       "alt": "Helium 10 logo",
       "originalAlt": "Helium 10 logo",
       "source": "<img src=\"../../assets/images/tools/helium10-com.png\" alt=\"Helium 10 logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
@@ -2585,8 +2585,8 @@
     "price": "$6",
     "originalPrice": "$6",
     "priceSource": "<span class=\"product-hero-price\">$6",
-    "image": "../../assets/images/tools/helium10-com.png",
-    "originalImage": "../../assets/images/tools/helium10-com.png",
+    "image": "/assets/images/tools/helium10-com.png",
+    "originalImage": "/assets/images/tools/helium10-com.png",
     "imageAlt": "Helium 10 logo",
     "originalImageAlt": "Helium 10 logo",
     "imageSource": "<img src=\"../../assets/images/tools/helium10-com.png\" alt=\"Helium 10 logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",

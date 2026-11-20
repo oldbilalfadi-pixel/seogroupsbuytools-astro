@@ -2477,40 +2477,40 @@
   ],
   "mediaImages": [
     {
-      "src": "../../assets/images/tools/adspy-com.png",
-      "originalSrc": "../../assets/images/tools/adspy-com.png",
+      "src": "/assets/images/tools/adspy-com.png",
+      "originalSrc": "/assets/images/tools/adspy-com.png",
       "alt": "AdSpy logo",
       "originalAlt": "AdSpy logo",
       "source": "<img src=\"../../assets/images/tools/adspy-com.png\" alt=\"AdSpy logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 15188
     },
     {
-      "src": "../../assets/images/tools/poweradspy-com.png",
-      "originalSrc": "../../assets/images/tools/poweradspy-com.png",
+      "src": "/assets/images/tools/poweradspy-com.png",
+      "originalSrc": "/assets/images/tools/poweradspy-com.png",
       "alt": "PowerAdSpy logo",
       "originalAlt": "PowerAdSpy logo",
       "source": "<img src=\"../../assets/images/tools/poweradspy-com.png\" alt=\"PowerAdSpy logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 15665
     },
     {
-      "src": "../../assets/images/tools/pipiads-com.png",
-      "originalSrc": "../../assets/images/tools/pipiads-com.png",
+      "src": "/assets/images/tools/pipiads-com.png",
+      "originalSrc": "/assets/images/tools/pipiads-com.png",
       "alt": "PipiAds logo",
       "originalAlt": "PipiAds logo",
       "source": "<img src=\"../../assets/images/tools/pipiads-com.png\" alt=\"PipiAds logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 16154
     },
     {
-      "src": "../../assets/images/tools/anstrex-com.png",
-      "originalSrc": "../../assets/images/tools/anstrex-com.png",
+      "src": "/assets/images/tools/anstrex-com.png",
+      "originalSrc": "/assets/images/tools/anstrex-com.png",
       "alt": "Anstrex logo",
       "originalAlt": "Anstrex logo",
       "source": "<img src=\"../../assets/images/tools/anstrex-com.png\" alt=\"Anstrex logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 16634
     },
     {
-      "src": "../../assets/images/tools/dropispy-com.png",
-      "originalSrc": "../../assets/images/tools/dropispy-com.png",
+      "src": "/assets/images/tools/dropispy-com.png",
+      "originalSrc": "/assets/images/tools/dropispy-com.png",
       "alt": "Dropispy logo",
       "originalAlt": "Dropispy logo",
       "source": "<img src=\"../../assets/images/tools/dropispy-com.png\" alt=\"Dropispy logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
@@ -2831,8 +2831,8 @@
     "price": "$4",
     "originalPrice": "$4",
     "priceSource": "<span class=\"product-hero-price\">$4",
-    "image": "../../assets/images/tools/dropispy-com.png",
-    "originalImage": "../../assets/images/tools/dropispy-com.png",
+    "image": "/assets/images/tools/dropispy-com.png",
+    "originalImage": "/assets/images/tools/dropispy-com.png",
     "imageAlt": "Dropispy logo",
     "originalImageAlt": "Dropispy logo",
     "imageSource": "<img src=\"../../assets/images/tools/dropispy-com.png\" alt=\"Dropispy logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",

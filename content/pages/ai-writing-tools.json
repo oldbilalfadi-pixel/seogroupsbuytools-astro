@@ -2371,32 +2371,32 @@
   ],
   "mediaImages": [
     {
-      "src": "../assets/images/tools/quillbot-com.png",
-      "originalSrc": "../assets/images/tools/quillbot-com.png",
+      "src": "/assets/images/tools/quillbot-com.png",
+      "originalSrc": "/assets/images/tools/quillbot-com.png",
       "alt": "Quillbot logo",
       "originalAlt": "Quillbot logo",
       "source": "<img src=\"../assets/images/tools/quillbot-com.png\" alt=\"Quillbot logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 13514
     },
     {
-      "src": "../assets/images/tools/copy-ai.png",
-      "originalSrc": "../assets/images/tools/copy-ai.png",
+      "src": "/assets/images/tools/copy-ai.png",
+      "originalSrc": "/assets/images/tools/copy-ai.png",
       "alt": "Copy.ai logo",
       "originalAlt": "Copy.ai logo",
       "source": "<img src=\"../assets/images/tools/copy-ai.png\" alt=\"Copy.ai logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 13981
     },
     {
-      "src": "../assets/images/tools/wordai-com.png",
-      "originalSrc": "../assets/images/tools/wordai-com.png",
+      "src": "/assets/images/tools/wordai-com.png",
+      "originalSrc": "/assets/images/tools/wordai-com.png",
       "alt": "WordAI logo",
       "originalAlt": "WordAI logo",
       "source": "<img src=\"../assets/images/tools/wordai-com.png\" alt=\"WordAI logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 14440
     },
     {
-      "src": "../assets/images/tools/writecream-com.png",
-      "originalSrc": "../assets/images/tools/writecream-com.png",
+      "src": "/assets/images/tools/writecream-com.png",
+      "originalSrc": "/assets/images/tools/writecream-com.png",
       "alt": "Writecream logo",
       "originalAlt": "Writecream logo",
       "source": "<img src=\"../assets/images/tools/writecream-com.png\" alt=\"Writecream logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",

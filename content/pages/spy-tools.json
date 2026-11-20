@@ -2554,40 +2554,40 @@
   ],
   "mediaImages": [
     {
-      "src": "../assets/images/tools/adspy-com.png",
-      "originalSrc": "../assets/images/tools/adspy-com.png",
+      "src": "/assets/images/tools/adspy-com.png",
+      "originalSrc": "/assets/images/tools/adspy-com.png",
       "alt": "AdSpy logo",
       "originalAlt": "AdSpy logo",
       "source": "<img src=\"../assets/images/tools/adspy-com.png\" alt=\"AdSpy logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 15163
     },
     {
-      "src": "../assets/images/tools/poweradspy-com.png",
-      "originalSrc": "../assets/images/tools/poweradspy-com.png",
+      "src": "/assets/images/tools/poweradspy-com.png",
+      "originalSrc": "/assets/images/tools/poweradspy-com.png",
       "alt": "PowerAdSpy logo",
       "originalAlt": "PowerAdSpy logo",
       "source": "<img src=\"../assets/images/tools/poweradspy-com.png\" alt=\"PowerAdSpy logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 15634
     },
     {
-      "src": "../assets/images/tools/pipiads-com.png",
-      "originalSrc": "../assets/images/tools/pipiads-com.png",
+      "src": "/assets/images/tools/pipiads-com.png",
+      "originalSrc": "/assets/images/tools/pipiads-com.png",
       "alt": "PipiAds logo",
       "originalAlt": "PipiAds logo",
       "source": "<img src=\"../assets/images/tools/pipiads-com.png\" alt=\"PipiAds logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 16117
     },
     {
-      "src": "../assets/images/tools/dropispy-com.png",
-      "originalSrc": "../assets/images/tools/dropispy-com.png",
+      "src": "/assets/images/tools/dropispy-com.png",
+      "originalSrc": "/assets/images/tools/dropispy-com.png",
       "alt": "Dropispy logo",
       "originalAlt": "Dropispy logo",
       "source": "<img src=\"../assets/images/tools/dropispy-com.png\" alt=\"Dropispy logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 16592
     },
     {
-      "src": "../assets/images/tools/anstrex-com.png",
-      "originalSrc": "../assets/images/tools/anstrex-com.png",
+      "src": "/assets/images/tools/anstrex-com.png",
+      "originalSrc": "/assets/images/tools/anstrex-com.png",
       "alt": "Anstrex logo",
       "originalAlt": "Anstrex logo",
       "source": "<img src=\"../assets/images/tools/anstrex-com.png\" alt=\"Anstrex logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",

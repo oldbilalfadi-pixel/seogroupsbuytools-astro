@@ -2070,40 +2070,40 @@
   ],
   "mediaImages": [
     {
-      "src": "../../assets/images/tools/adobe-com.png",
-      "originalSrc": "../../assets/images/tools/adobe-com.png",
+      "src": "/assets/images/tools/adobe-com.png",
+      "originalSrc": "/assets/images/tools/adobe-com.png",
       "alt": "Adobe Creative Cloud logo",
       "originalAlt": "Adobe Creative Cloud logo",
       "source": "<img src=\"../../assets/images/tools/adobe-com.png\" alt=\"Adobe Creative Cloud logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 13073
     },
     {
-      "src": "../../assets/images/tools/crello-com.png",
-      "originalSrc": "../../assets/images/tools/crello-com.png",
+      "src": "/assets/images/tools/crello-com.png",
+      "originalSrc": "/assets/images/tools/crello-com.png",
       "alt": "Crello logo",
       "originalAlt": "Crello logo",
       "source": "<img src=\"../../assets/images/tools/crello-com.png\" alt=\"Crello logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 13577
     },
     {
-      "src": "../../assets/images/tools/picmonkey-com.png",
-      "originalSrc": "../../assets/images/tools/picmonkey-com.png",
+      "src": "/assets/images/tools/picmonkey-com.png",
+      "originalSrc": "/assets/images/tools/picmonkey-com.png",
       "alt": "PicMonkey logo",
       "originalAlt": "PicMonkey logo",
       "source": "<img src=\"../../assets/images/tools/picmonkey-com.png\" alt=\"PicMonkey logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 14055
     },
     {
-      "src": "../../assets/images/tools/stencil-com.png",
-      "originalSrc": "../../assets/images/tools/stencil-com.png",
+      "src": "/assets/images/tools/stencil-com.png",
+      "originalSrc": "/assets/images/tools/stencil-com.png",
       "alt": "Stencil logo",
       "originalAlt": "Stencil logo",
       "source": "<img src=\"../../assets/images/tools/stencil-com.png\" alt=\"Stencil logo\" class=\"tool-card-logo\" width=\"48\" height=\"48\" loading=\"lazy\" decoding=\"async\">",
       "sourceOffset": 14540
     },
     {
-      "src": "../../assets/images/tools/canva-com.png",
-      "originalSrc": "../../assets/images/tools/canva-com.png",
+      "src": "/assets/images/tools/canva-com.png",
+      "originalSrc": "/assets/images/tools/canva-com.png",
       "alt": "Canva Pro logo",
       "originalAlt": "Canva Pro logo",
       "source": "<img src=\"../../assets/images/tools/canva-com.png\" alt=\"Canva Pro logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
@@ -2424,8 +2424,8 @@
     "price": "$5",
     "originalPrice": "$5",
     "priceSource": "<span class=\"product-hero-price\">$5",
-    "image": "../../assets/images/tools/canva-com.png",
-    "originalImage": "../../assets/images/tools/canva-com.png",
+    "image": "/assets/images/tools/canva-com.png",
+    "originalImage": "/assets/images/tools/canva-com.png",
     "imageAlt": "Canva Pro logo",
     "originalImageAlt": "Canva Pro logo",
     "imageSource": "<img src=\"../../assets/images/tools/canva-com.png\" alt=\"Canva Pro logo\" class=\"product-hero-image\" width=\"280\" height=\"280\" loading=\"eager\" decoding=\"async\">",
