@@ -260,3 +260,4 @@ fs.writeFileSync(settingsFile,JSON.stringify(settings,null,2)+'\n');
 
 assert.equal(files.length,72);
 console.log(JSON.stringify({pages:files.length,groups,items,images,buttons,prices,originalMarkupPreserved:true}));
+await import('./report-cms.mjs');
