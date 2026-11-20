@@ -14,8 +14,6 @@ content:
     path: content/homepage.json
     format: json
     fields: &fields
-      - { name: slug, label: File slug, type: string, readonly: true }
-      - { name: route, label: Page URL, type: string, readonly: true }
       - { name: seoTitle, label: SEO title, type: string }
       - { name: seoDescription, label: SEO description, type: text }
       - name: hero
@@ -33,12 +31,9 @@ content:
         fields:
           - { name: key, label: Section ID, type: string, readonly: true }
           - { name: label, label: Section name, type: string, readonly: true }
-          - { name: content, label: Edit content, type: rich-text, options: { format: html, media: uploads, switcher: true } }
-          - { name: original, label: Original content, type: text, readonly: true }
-          - { name: source, label: Original HTML tag, type: text, readonly: true }
-      - { name: title, label: Original title, type: string, readonly: true }
-      - { name: description, label: Original description, type: text, readonly: true }
-      - { name: sourceFile, label: Original source file, type: string, readonly: true }
+          - { name: text, label: Section text (no HTML), type: text }
+          - { name: originalText, label: Original text, type: text, readonly: true, hidden: true }
+
   - name: products
     label: Products
     type: collection
